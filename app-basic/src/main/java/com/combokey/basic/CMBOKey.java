@@ -494,7 +494,6 @@ public class CMBOKey {
 		if (((index1 > 0) && (index1 <16)) && ((index2 > 0) && (index2 <16))) validity = true;
 
 		/*
-
 		if ((areOnSameColumn(index1, index2)) && (!isOnCenterColumn(index1))) {
 			validity = false;
 		} else {
