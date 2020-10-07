@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComboKeyBasic.iml" filepath="$PROJECT_DIR$/ComboKeyBasic.iml" group="ComboKeyBasic" />
+      <module fileurl="file://$PROJECT_DIR$/app-basic/app-basic.iml" filepath="$PROJECT_DIR$/app-basic/app-basic.iml" group="ComboKeyBasic/app-basic" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- IS THIS DIALOG USED NOW? -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:padding="10dip">
+
+	<ScrollView android:layout_width="fill_parent"
+		android:layout_height="fill_parent">
+
+		<LinearLayout
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+			<TextView
+				android:text="@string/pleaseaddcombokeyboard"
+				android:layout_height="wrap_content" android:layout_width="wrap_content"
+				android:textSize="20sp" />
+			<Button
+				android:id="@+id/addKbdButton"
+				android:clickable="true"
+				android:focusable="true"
+				android:onClick="onButtonClickAddKbd"
+				android:layout_width="72dp"
+				android:layout_height="72dp"
+				android:text="@string/addkbd"
+				android:textColor="@android:color/white"
+				android:background="@drawable/button_abc"
+				android:textSize="28sp" />
+			<TextView
+				android:text="\n\n"
+				android:layout_height="wrap_content" android:layout_width="wrap_content"
+				android:textSize="20sp" />
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

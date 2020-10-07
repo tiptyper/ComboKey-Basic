@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- <PreferenceCategory android:title=""> -->
+	<ListPreference android:title="@string/settings_language_header"
+		android:summary="@string/settings_language_text"
+		android:key="PREFERENCES_LANGUAGE"
+		android:defaultValue="@string/main_layout_defaultvalue_in_english"
+		android:entries="@array/lang_names"
+		android:entryValues="@array/lang_values" />
+
+	<ListPreference android:title="@string/settings_language2_header"
+		android:summary="@string/settings_language2_text"
+		android:key="PREFERENCES_LANGUAGE2"
+		android:defaultValue="@string/aux_layout_defaultvalue_in_english"
+		android:entries="@array/lang_names"
+		android:entryValues="@array/lang_values" />
+
+	<CheckBoxPreference android:key="PREFERENCES_DISPLAY_HELP_CHARACTERS"
+		android:title="@string/settings_tips_header" android:summary="@string/settings_tips_text"
+		android:defaultValue="true" />
+
+	<ListPreference android:key="PREFERENCES_TIPTYPE"
+		android:title="@string/settings_tiptype_header"
+		android:summary="@string/settings_tiptype_text"
+		android:defaultValue="@string/tiptype_defaultvalue" android:entries="@array/tiptype_names"
+		android:entryValues="@array/tiptype_values" />
+
+	<CheckBoxPreference android:key="PREFERENCES_DISPLAY_WORD_CANDIDATES"
+		android:title="@string/settings_words_header" android:summary="@string/settings_words_text"
+		android:defaultValue="false" />
+
+	<CheckBoxPreference android:key="PREFERENCES_REMOVE_TRAILING_SPACE"
+		android:title="@string/settings_removespace_header" android:defaultValue="false"
+		android:summary="@string/settings_removespace_text" />
+
+	<ListPreference android:key="PREFERENCES_SPEAK"
+		android:title="@string/settings_speaktype_header" android:summary="@string/settings_speaktype_text"
+		android:defaultValue="@string/speaktype_defaultvalue" android:entries="@array/speaktype_names"
+		android:entryValues="@array/speaktype_values" />
+
+	<CheckBoxPreference android:key="PREFERENCES_SOUND_ON"
+		android:title="@string/settings_sound_header" android:summary="@string/settings_sound_text"
+		android:defaultValue="true" />
+
+	<ListPreference android:key="PREFERENCES_SOUND_VOLUME"
+		android:title="@string/settings_sound_volume_header" android:summary="@string/settings_sound_volume_text"
+		android:defaultValue="15" android:entries="@array/volume_names"
+		android:entryValues="@array/volume_values" />
+
+	<CheckBoxPreference android:key="PREFERENCES_VIBRATOR_ON"
+		android:title="@string/settings_vibrator_header" android:summary="@string/settings_vibrator_text"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference android:key="PREFERENCES_COMBO_FLASH_ON"
+		android:title="@string/settings_combo_flash_header" android:summary="@string/settings_combo_flash_text"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference android:key="PREFERENCES_SYMBOL_FLASH_ON"
+		android:title="@string/settings_symbol_flash_header" android:summary="@string/settings_symbol_flash_text"
+		android:defaultValue="true" />
+
+	<ListPreference android:key="PREFERENCES_HIGHLIGHT_OPTION"
+		android:title="@string/settings_highlight_option_header" android:summary="@string/settings_highlight_option_text"
+		android:defaultValue="1" android:entries="@array/highlight_option_names"
+		android:entryValues="@array/highlight_option_values" />
+
+	<ListPreference android:key="PREFERENCES_FONT_SIZE"
+		android:title="@string/settings_fontsize_header" android:summary="@string/settings_fontsize_text"
+		android:defaultValue="28" android:entries="@array/font_names"
+		android:entryValues="@array/font_values" />
+
+	<ListPreference android:key="PREFERENCES_PADPOSITION"
+		android:title="@string/settings_padposition_header" android:summary="@string/settings_padposition_text"
+		android:defaultValue="2" android:entries="@array/padposition_names"
+		android:entryValues="@array/padposition_values" />
+
+	<ListPreference android:key="PREFERENCES_PADHEIGHT"
+		android:title="@string/settings_padheight_header" android:summary="@string/settings_padheight_text"
+		android:defaultValue="@string/padheight_defaultvalue" android:entries="@array/padheight_names"
+		android:entryValues="@array/padheight_values" />
+
+	<ListPreference android:key="PREFERENCES_PADTYPE"
+		android:title="@string/settings_padtype_header" android:summary="@string/settings_padtype_text"
+		android:defaultValue="@string/padtype_defaultvalue" android:entries="@array/padtype_names"
+		android:entryValues="@array/padtype_values" />
+
+	<ListPreference android:key="PREFERENCES_LANDSCAPECOLUMNS"
+		android:title="@string/settings_landscapecolumns_header" android:summary="@string/settings_landscapecolumns_text"
+		android:defaultValue="@string/landscapecolumns_defaultvalue" android:entries="@array/landscapecolumns_names"
+		android:entryValues="@array/landscapecolumns_values" />
+
+	<CheckBoxPreference android:key="PREFERENCES_SIDE_PANEL_HIDDEN"
+		android:title="@string/settings_side_panel_hidden_header" android:summary="@string/settings_side_panel_hidden_text"
+		android:defaultValue="false" />
+
+	<ListPreference android:title="@string/settings_theme_header"
+		android:summary="@string/settings_theme_text"
+		android:key="PREFERENCES_THEME"
+		android:defaultValue="@string/theme_defaultvalue_in_english" android:entries="@array/theme_names"
+		android:entryValues="@array/theme_values" />
+
+	<ListPreference android:key="PREFERENCES_FONT_TYPE"
+		android:title="@string/settings_font_type_header" android:summary="@string/settings_font_type_text"
+		android:defaultValue="0" android:entries="@array/font_type_names"
+		android:entryValues="@array/font_type_values" />
+
+	<CheckBoxPreference android:key="PREFERENCES_TRANSPARENT_BACKGROUND"
+		android:title="@string/settings_background_header" android:defaultValue="false"
+		android:summary="@string/settings_background_text" />
+
+	<CheckBoxPreference android:key="PREFERENCES_AUTOCAPS"
+		android:title="@string/settings_autocaps_header" android:defaultValue="true"
+		android:summary="@string/settings_autocaps_text" />
+
+	<CheckBoxPreference android:key="PREFERENCES_SINGLE_HAND"
+		android:title="@string/settings_magic_header" android:summary="@string/settings_magic_text"
+		android:defaultValue="true"
+		android:visibility="invisible" />
+
+	<CheckBoxPreference android:key="PREFERENCES_DISPLAY_MIRROR_CHARACTERS"
+		android:title="@string/settings_mirror_header" android:summary="@string/settings_mirror_text"
+		android:defaultValue="true" />
+
+	<ListPreference android:key="PREFERENCES_TYPE_METHOD"
+		android:title="@string/settings_type_method_header" android:summary="@string/settings_type_method_text"
+		android:defaultValue="@string/type_method_defaultvalue" android:entries="@array/type_method_names"
+		android:entryValues="@array/type_method_values" />
+
+	<ListPreference android:key="PREFERENCES_ONEHAND_COMBO"
+		android:title="@string/settings_onehand_combo_header" android:summary="@string/settings_onehand_combo_text"
+		android:defaultValue="0" android:entries="@array/onehand_combo_names"
+		android:entryValues="@array/onehand_combo_values" />
+
+	<ListPreference android:key="PREFERENCES_HYST_AMOUNT"
+		android:title="@string/settings_hystamount_header" android:summary="@string/settings_hystamount_text"
+		android:defaultValue="15" android:entries="@array/hyst_names"
+		android:entryValues="@array/hyst_values" />
+
+	<CheckBoxPreference android:key="PREFERENCES_DISPLAY_NO_CHARACTERS"
+		android:title="@string/settings_master_header" android:summary="@string/settings_master_text"
+		android:defaultValue="false" />
+
+	<ListPreference android:key="PREFERENCES_TERMINAL_MODE"
+		android:title="@string/settings_terminal_mode_header" android:summary="@string/settings_terminal_mode_text"
+		android:defaultValue="0" android:entries="@array/terminal_mode_names"
+		android:entryValues="@array/terminal_mode_values" />
+
+	<EditTextPreference android:key="PREFERENCES_USERSTRINGS"
+		android:title="@string/settings_usertext_header"
+		android:summary="@string/settings_usertext_text" />
+
+	<EditTextPreference android:key="PREFERENCES_LAUNCH"
+		android:title="@string/settings_launch_header"
+		android:summary="@string/settings_launch_text" />
+
+	<CheckBoxPreference android:key="PREFERENCES_DISABLE_LANGUAGE_COMBO"
+		android:title="@string/settings_langcombo_header" android:defaultValue="false"
+		android:summary="@string/settings_langcombo_text" />
+
+	<CheckBoxPreference android:key="PREFERENCES_DISABLE_MODECHANGE_COMBO"
+		android:title="@string/settings_modechange_header" android:defaultValue="false"
+		android:summary="@string/settings_modechange_text" />
+
+	<!-- </PreferenceCategory> -->
+</PreferenceScreen>

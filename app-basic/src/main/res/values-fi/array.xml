@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="lang_names">
+		<item>Angika</item>
+		<item>Assamese</item>
+		<item>Awadhi</item>
+		<item>Bengali</item>
+		<item>Bhojpuri</item>
+		<item>Bihari</item>
+		<item>Bodo</item>
+		<item>Catalan</item>
+		<item>CODING</item>
+		<item>English</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Gujarati</item>
+		<item>Hawaiian</item>
+		<item>Hindi</item>
+		<item>Icelandic</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Kannada</item>
+		<item>Konkani</item>
+		<item>Maithili</item>
+		<item>Malay</item>
+		<item>Malayalam</item>
+		<item>Marathi</item>
+		<item>Marwari</item>
+		<item>Nepali</item>
+		<item>Norwegian</item>
+		<item>Oriya</item>
+		<item>Pali</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Punjabi</item>
+		<item>Rajasthani</item>
+		<item>Russian</item>
+		<item>Sanskrit</item>
+		<item>Sindhi</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tulu</item>
+		<item>Ukrainian</item>
+	</string-array>
+	<string-array name="lang_values">
+		<item>angika</item>
+		<item>assameesi</item>
+		<item>awadhi</item>
+		<item>bengali</item>
+		<item>bhojpuri</item>
+		<item>bihari</item>
+		<item>bodo</item>
+		<item>katalaani</item>
+		<item>CODING</item>
+		<item>englanti</item>
+		<item>esperanto</item>
+		<item>viro</item>
+		<item>suomi</item>
+		<item>ranska</item>
+		<item>saksa</item>
+		<item>kreikka</item>
+		<item>gudzarati</item>
+		<item>havaiji</item>
+		<item>hindi</item>
+		<item>islanti</item>
+		<item>indonesia</item>
+		<item>italia</item>
+		<item>kannada</item>
+		<item>konkani</item>
+		<item>maithili</item>
+		<item>malaiji</item>
+		<item>malajalam</item>
+		<item>marathi</item>
+		<item>marwari</item>
+		<item>nepali</item>
+		<item>norja</item>
+		<item>orija</item>
+		<item>pali</item>
+		<item>puola</item>
+		<item>portugali</item>
+		<item>punjabi</item>
+		<item>rajasthani</item>
+		<item>venäjä</item>
+		<item>sanskrit</item>
+		<item>sindhi</item>
+		<item>espanja</item>
+		<item>ruotsi</item>
+		<item>tamili</item>
+		<item>telugu</item>
+		<item>tulu</item>
+		<item>ukraina</item>
+	</string-array>
+	<string-array name="theme_names">
+		<item>Basic</item>
+		<item>Blank</item>
+		<item>Cloudy</item>
+		<item>Cool</item>
+		<item>Desire</item>
+		<item>GoMeek</item>
+		<item>Healthy</item>
+		<item>Neon</item>
+		<item>Oak</item>
+		<item>Paddle</item>
+		<item>Plain</item>
+		<item>School</item>
+		<item>Sixback</item>
+		<item>Spots</item>
+		<item>Test</item>
+		<item>Tiles</item>
+		<item>Warm</item>
+		<item>Wood</item>
+	</string-array>
+	<string-array name="theme_values">
+		<item>Perus</item>
+		<item>Blanko</item>
+		<item>Pilvinen</item>
+		<item>Viileä</item>
+		<item>Halu</item>
+		<item>Vaatimaton</item>
+		<item>Terveellinen</item>
+		<item>Neon</item>
+		<item>Tammi</item>
+		<item>Räpylä</item>
+		<item>Pelkkä</item>
+		<item>Koulu</item>
+		<item>Sixbäkki</item>
+		<item>Täplät</item>
+		<item>Testi</item>
+		<item>Tiilet</item>
+		<item>Lämmin</item>
+		<item>Puu</item>
+	</string-array>
+	<string-array name="font_names">
+		<item>Pieni</item>
+		<item>Keskikoko</item>
+		<item>Suuri</item>
+		<item>Valtava</item>
+	</string-array>
+	<string-array name="font_values">
+		<item>12</item>
+		<item>20</item>
+		<item>28</item>
+		<item>36</item>
+	</string-array>
+	<string-array name="hyst_names">
+		<item>Ei tartu</item>
+		<item>Hieman tarttuu (oletus)</item>
+		<item>Tarttuu</item>
+		<item>Tarttuu tehokkaasti</item>
+	</string-array>
+	<string-array name="hyst_values">
+		<item>0</item>
+		<item>15</item>
+		<item>20</item>
+		<item>30</item>
+	</string-array>
+	<string-array name="layout_names">
+		<item>Aakkosellinen</item>
+		<item>Optimoitu 1 (Old)</item>
+		<item>Optimoitu 2 (Recommended)</item>
+		<item>Optimoitu 3 (Experimental)</item>
+	</string-array>
+	<string-array name="layout_values">
+		<item>Alphabetical</item>
+		<item>Optimized_1</item>
+		<item>Optimized_2</item>
+		<item>Optimized_3</item>
+	</string-array>
+	<string-array name="padposition_names">
+		<item>Kapea oikealla</item>
+		<item>Kapea vasemmalla</item>
+		<item>Kapea keskellä</item>
+		<item>Leveä keskellä</item>
+	</string-array>
+	<string-array name="padposition_values">
+		<item>2</item>
+		<item>0</item>
+		<item>3</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="padheight_names">
+		<item>Pienempi ylempänä</item>
+		<item>Täysikokoinen</item>
+		<item>Pienempi alempana</item>
+	</string-array>
+	<string-array name="padheight_values">
+		<item>10</item>
+		<item>0</item>
+		<item>20</item>
+	</string-array>
+	<string-array name="padtype_names">
+		<item>Normaali 5-rivinen ComboKey (oletus)</item>
+		<item>Kokeellinen 3-rivinen ComboKey-näppis</item>
+	</string-array>
+	<string-array name="padtype_values">
+		<item>0</item>
+		<item>10</item>
+	</string-array>
+	<string-array name="speaktype_names">
+		<item>Ei puhetta</item>
+		<item>Sanoo painetun kirjaimen</item>
+		<item>Puhuu tekstiä (oletus)</item>
+		<item>Molemmat toiminnassa</item>
+	</string-array>
+	<string-array name="speaktype_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="landscapecolumns_names">
+		<item>Normaali (oletus)</item>
+		<item>Jaettu</item>
+	</string-array>
+	<string-array name="landscapecolumns_values">
+		<item>3</item>
+		<item>6</item>
+	</string-array>
+	<string-array name="tiptype_names">
+		<item>Apu tummemmissa nappuloissa</item>
+		<item>Apu vaaleammissa napp. (oletus)</item>
+		<item>Apu sopivissa paikoissa</item>
+	</string-array>
+	<string-array name="tiptype_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="type_method_names">
+		<item>Salli painallukset, pyyhkäisyt ja kombot (suositus!)</item>
+		<item>Vain painallukset ja yhden käden pyyhkäisyt</item>
+		<item>Vain painallukset ja kahden käden kombot</item>
+	</string-array>
+	<string-array name="type_method_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="terminal_mode_names">
+		<item>Auto (suositus!)</item>
+		<item>Pakotettu ON</item>
+		<item>Pakotettu OFF</item>
+	</string-array>
+	<string-array name="terminal_mode_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="font_type_names">
+		<item>Laitteen oletusfontti</item>
+		<item>OpenDyslexic-fontti</item>
+	</string-array>
+	<string-array name="font_type_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="volume_names">
+		<item>Hiljainen (oletus)</item>
+		<item>Keskiasento</item>
+		<item>Voimakas</item>
+	</string-array>
+	<string-array name="volume_values">
+		<item>15</item>
+		<item>30</item>
+		<item>60</item>
+	</string-array>
+	<string-array name="onehand_combo_names">
+		<item>Ei päällä</item>
+		<item>Paina ja pidä hetki</item>
+		<item>Pidä pidempään (oletus)</item>
+	</string-array>
+	<string-array name="onehand_combo_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="highlight_option_names">
+		<item>Heikompi korostus</item>
+		<item>Vahva korostus (oletus)</item>
+	</string-array>
+	<string-array name="highlight_option_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+
+
+</resources>

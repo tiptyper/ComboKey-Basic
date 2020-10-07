@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#feff99">
+
+    <EditText
+        android:id="@+id/notes_text"
+        android:background="#feff99"
+        android:inputType="textMultiLine"
+        android:importantForAutofill="no"
+        android:hint="@string/notes_text_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:textSize="28sp"
+        android:text="@string/notes_text_header"/>
+    <ImageButton
+        android:id="@+id/notes_close_button"
+        android:src="@drawable/button_wood_ok"
+        android:contentDescription="@string/description_of_notes_ok_button"
+        android:layout_alignTop="@+id/notes_text"
+        android:layout_alignRight="@+id/notes_text"
+        android:layout_alignEnd="@+id/notes_text"
+        android:textSize="22sp"
+        android:layout_marginRight="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.combokey.basic"
+    android:installLocation="internalOnly"
+    android:targetSandboxVersion="2"
+    android:versionCode="56"
+    android:versionName="5.6" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="28" />
+    <!--
+         Do not move app to SD Card (internalOnly)
+         so you can have ComboKey kbd still active after reboot, 2017-10
+    -->
+    <!-- Target Sdk Version ("29") is defined in Module build.gradle from now on -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- Permissions required on older devices (Android 5.1 and lower, = API 22 and lower): -->
+    <uses-permission
+        android:name="android.permission.READ_USER_DICTIONARY"
+        android:maxSdkVersion="22" />
+    <uses-permission
+        android:name="android.permission.WRITE_USER_DICTIONARY"
+        android:maxSdkVersion="22" />
+    <!-- For speech recognizer: -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- v3.8: External storage no more required to be used because it is not accessible an all devices. -->
+    <!-- getFilesDir() is used instead of Environment.getExternalStorageDirectory() if the latter is not available -->
+    <!-- 32-bit old name was org.qtproject.qt5.android.bindings.QtApplication -->
+    <!-- new name must be com.gkos.combokey.CMBOKeyboardApplication, so cannot update old app, just new app -->
+    <application
+        android:name="com.combokey.basic.CMBOKeyboardApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/icon_basic_512"
+        android:installLocation="auto"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="com.combokey.basic.CMBOKeyboardActivity"
+            android:imeOptions="flagNoExtractUi"
+            android:label="@string/app_icon_name"
+            android:theme="@android:style/Theme.Wallpaper"
+            android:windowSoftInputMode="stateAlwaysVisible" >
+
+            <!-- android:theme="@android:style/Theme.WallpaperSettings" -->
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter android:label="@string/filter_title_viewcombokeycom" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+                <data
+                    android:host="www.combokey.com"
+                    android:pathPrefix="/actionview"
+                    android:scheme="http" />
+                <data
+                    android:host="combokey.com"
+                    android:pathPrefix="/actionview"
+                    android:scheme="http" />
+                <!-- Deep links added 2019-01 -->
+                <!-- note that the leading "/" is required for pathPrefix -->
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.combokey.basic.CMBOKeyboardService"
+            android:imeOptions="flagNoExtractUi"
+            android:label="@string/kbd_service_name_in_device_settings"
+            android:permission="android.permission.BIND_INPUT_METHOD" >
+            <intent-filter>
+                <action android:name="android.view.InputMethod" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <!-- Activate keyboard service after reboot 2017-10 -->
+
+            <meta-data
+                android:name="android.view.im"
+                android:resource="@xml/method" />
+        </service>
+
+        <activity
+            android:name="com.combokey.basic.CMBOPreferencesActivity"
+            android:label="@string/settings_header"
+            android:theme="@android:style/Theme.Holo" >
+        </activity>
+        <activity
+            android:name="com.combokey.basic.CMBOSpeechRecognizer"
+            android:label="@string/header_voice_typing"
+            android:theme="@android:style/Theme.Wallpaper" >
+        </activity>
+        <activity
+            android:name="com.combokey.basic.CMBONotes"
+            android:label="@string/flashtext_notes"
+            android:theme="@android:style/Theme.Wallpaper" >
+        </activity>
+    </application>
+
+</manifest> <!-- android:windowSoftInputMode="stateHidden" -->

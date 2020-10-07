@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/activityView"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/tammi_landscape">
+	<!-- Landscape orientation Layout file -->
+
+	<EditText android:id="@+id/entry"
+		android:hint="@string/hint_enter_text"
+		android:layout_width="fill_parent"
+		android:inputType="text"
+		android:focusable="true"
+		android:clickable="true"
+		android:onClick="onClickText"
+		android:layout_height="fill_parent"
+		android:layout_alignParentBottom="true"
+		android:layout_marginBottom="450dp"
+		android:layout_marginLeft="10dp"
+		android:layout_marginTop="10dp"
+		android:layout_marginRight="10dp"
+		android:background="@xml/transp_rect" android:textColor="#ffffff"
+		android:scrollbars="vertical"
+		android:paddingLeft="4dp" android:paddingRight="4dp"
+		android:imeOptions="flagNoExtractUi"
+		/>
+
+	<Button
+		android:id="@+id/infoButton"
+		android:clickable="true"
+		android:focusable="true"
+		android:onClick="onButtonClickInfo"
+		android:layout_width="52dp"
+		android:layout_height="52dp"
+		android:layout_alignBottom="@id/entry"
+		android:layout_marginBottom="-52dp"
+		android:background="@drawable/button_wood_info"
+		android:layout_marginLeft="10dp"
+		android:layout_marginStart="10dp"
+		/>
+	<Button
+		android:id="@+id/helpButton"
+		android:clickable="true"
+		android:focusable="true"
+		android:onClick="onButtonClickHelp"
+		android:layout_width="52dp"
+		android:layout_height="52dp"
+		android:layout_alignBottom="@id/entry"
+		android:layout_marginBottom="-52dp"
+		android:background="@drawable/button_wood_help"
+		android:layout_toRightOf="@id/infoButton"
+		android:layout_toEndOf="@id/infoButton"
+		android:layout_marginLeft="10dp"
+		android:layout_marginStart="10dp"
+		/>
+
+	<Button
+		android:id="@+id/switchKbdButton"
+		android:clickable="true"
+		android:focusable="true"
+		android:onClick="onButtonClickSwitchKbd"
+		android:layout_width="52dp"
+		android:layout_height="52dp"
+		android:layout_alignBottom="@id/entry"
+		android:layout_marginBottom="-52dp"
+		android:textColor="@android:color/white"
+		android:background="@drawable/button_wood_kbd"
+		android:layout_toLeftOf="@id/settingsButton"
+		android:layout_toStartOf="@id/settingsButton"
+		android:layout_marginRight="10dp"
+		android:layout_marginEnd="10dp"
+		/>
+
+
+	<Button
+		android:id="@+id/settingsButton"
+		android:clickable="true"
+		android:focusable="true"
+		android:onClick="onButtonClickSettings"
+		android:layout_width="52dp"
+		android:layout_height="52dp"
+		android:layout_alignBottom="@id/entry"
+		android:layout_marginBottom="-52dp"
+		android:background="@drawable/button_wood_settings"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentEnd="true"
+		android:layout_marginRight="10dp"
+		android:layout_marginEnd="10dp"
+		/>
+
+</RelativeLayout>

@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res"><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-bg/values-bg.xml" qualifiers="bg"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-pl/values-pl.xml" qualifiers="pl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-uk/values-uk.xml" qualifiers="uk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-as/values-as.xml" qualifiers="as"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-in/values-in.xml" qualifiers="in"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-sk/values-sk.xml" qualifiers="sk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-da/values-da.xml" qualifiers="da"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ne/values-ne.xml" qualifiers="ne"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-sr/values-sr.xml" qualifiers="sr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-gu/values-gu.xml" qualifiers="gu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-km/values-km.xml" qualifiers="km"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-hr/values-hr.xml" qualifiers="hr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ml/values-ml.xml" qualifiers="ml"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-hu/values-hu.xml" qualifiers="hu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-uz/values-uz.xml" qualifiers="uz"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-eu/values-eu.xml" qualifiers="eu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-pt-rBR/values-pt-rBR.xml" qualifiers="pt-rBR"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values/values.xml" qualifiers=""><color name="notification_action_color_filter">#ffffffff</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_light">#8a000000</color><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">8dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">10dp</dimen><dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">2dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><drawable name="notification_template_icon_bg">#3333B5E5</drawable><drawable name="notification_template_icon_low_bg">#0cffffff</drawable><item name="line1" type="id"/><item name="line3" type="id"/><item name="tag_transition_group" type="id"/><item name="tag_unhandled_key_event_manager" type="id"/><item name="tag_unhandled_key_listeners" type="id"/><item name="text" type="id"/><item name="text2" type="id"/><item name="title" type="id"/><integer name="status_bar_notification_info_maxnum">999</integer><string name="status_bar_notification_info_overflow">999+</string><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/><style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/><style name="Widget.Compat.NotificationActionContainer" parent=""/><style name="Widget.Compat.NotificationActionText" parent=""/></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-pt-rPT/values-pt-rPT.xml" qualifiers="pt-rPT"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-zu/values-zu.xml" qualifiers="zu"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-en-rCA/values-en-rCA.xml" qualifiers="en-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-mr/values-mr.xml" qualifiers="mr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"९९९+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-pa/values-pa.xml" qualifiers="pa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-bs/values-bs.xml" qualifiers="bs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-nb/values-nb.xml" qualifiers="nb"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-es/values-es.xml" qualifiers="es"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ja/values-ja.xml" qualifiers="ja"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-es-rUS/values-es-rUS.xml" qualifiers="es-rUS"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-mn/values-mn.xml" qualifiers="mn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-af/values-af.xml" qualifiers="af"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-fr-rCA/values-fr-rCA.xml" qualifiers="fr-rCA"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-en-rIN/values-en-rIN.xml" qualifiers="en-rIN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-sq/values-sq.xml" qualifiers="sq"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-et/values-et.xml" qualifiers="et"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-lo/values-lo.xml" qualifiers="lo"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-iw/values-iw.xml" qualifiers="iw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-en-rGB/values-en-rGB.xml" qualifiers="en-rGB"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-is/values-is.xml" qualifiers="is"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-mk/values-mk.xml" qualifiers="mk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-lv/values-lv.xml" qualifiers="lv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-en-rXC/values-en-rXC.xml" qualifiers="en-rXC"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‏‎‏‏‎‏‏‏‎‏‏‎‎‎‎‏‎‏‎‎‎‏‏‏‏‏‎‏‏‏‎‏‎‏‎‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‎999+‎‏‎‎‏‎"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ca/values-ca.xml" qualifiers="ca"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ka/values-ka.xml" qualifiers="ka"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-bn/values-bn.xml" qualifiers="bn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"৯৯৯+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-my/values-my.xml" qualifiers="my"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"၉၉၉+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-zh-rCN/values-zh-rCN.xml" qualifiers="zh-rCN"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-pt/values-pt.xml" qualifiers="pt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-kn/values-kn.xml" qualifiers="kn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-tl/values-tl.xml" qualifiers="tl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-de/values-de.xml" qualifiers="de"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-hy/values-hy.xml" qualifiers="hy"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ro/values-ro.xml" qualifiers="ro"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-or/values-or.xml" qualifiers="or"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-en-rAU/values-en-rAU.xml" qualifiers="en-rAU"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ru/values-ru.xml" qualifiers="ru"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ur/values-ur.xml" qualifiers="ur"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"+999"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-tr/values-tr.xml" qualifiers="tr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ta/values-ta.xml" qualifiers="ta"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-fa/values-fa.xml" qualifiers="fa"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-cs/values-cs.xml" qualifiers="cs"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-sl/values-sl.xml" qualifiers="sl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ar/values-ar.xml" qualifiers="ar"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-b+sr+Latn/values-b+sr+Latn.xml" qualifiers="b+sr+Latn"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-it/values-it.xml" qualifiers="it"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-zh-rHK/values-zh-rHK.xml" qualifiers="zh-rHK"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-sw/values-sw.xml" qualifiers="sw"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-te/values-te.xml" qualifiers="te"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-lt/values-lt.xml" qualifiers="lt"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ky/values-ky.xml" qualifiers="ky"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-am/values-am.xml" qualifiers="am"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-nl/values-nl.xml" qualifiers="nl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-vi/values-vi.xml" qualifiers="vi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-el/values-el.xml" qualifiers="el"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ms/values-ms.xml" qualifiers="ms"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-az/values-az.xml" qualifiers="az"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-sv/values-sv.xml" qualifiers="sv"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-be/values-be.xml" qualifiers="be"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-si/values-si.xml" qualifiers="si"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-kk/values-kk.xml" qualifiers="kk"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-th/values-th.xml" qualifiers="th"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-fi/values-fi.xml" qualifiers="fi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-v21/values-v21.xml" qualifiers="v21"><color name="notification_action_color_filter">@color/secondary_text_default_material_light</color><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification"/><style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info"/><style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time"/><style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title"/><style name="Widget.Compat.NotificationActionContainer" parent="">
+        <item name="android:background">@drawable/notification_action_background</item>
+    </style><style name="Widget.Compat.NotificationActionText" parent="">
+        <item name="android:textAppearance">?android:attr/textAppearanceButton</item>
+        <item name="android:textColor">@color/secondary_text_default_material_light</item>
+        <item name="android:textSize">@dimen/notification_action_text_size</item>
+    </style></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-gl/values-gl.xml" qualifiers="gl"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">">999"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-hi/values-hi.xml" qualifiers="hi"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-fr/values-fr.xml" qualifiers="fr"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-ko/values-ko.xml" qualifiers="ko"><string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/res/values-v16/values-v16.xml" qualifiers="v16"><dimen name="notification_right_side_padding_top">4dp</dimen></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/.gradle/caches/transforms-2/files-2.1/9a6b712a80d4975cb5a9b309b527e950/coordinatorlayout-28.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:coordinatorlayout:28.0.0" from-dependency="true" generated-set="com.android.support:coordinatorlayout:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/.gradle/caches/transforms-2/files-2.1/9a6b712a80d4975cb5a9b309b527e950/coordinatorlayout-28.0.0/res"><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/9a6b712a80d4975cb5a9b309b527e950/coordinatorlayout-28.0.0/res/values/values.xml" qualifiers=""><attr format="reference" name="coordinatorLayoutStyle"/><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/.gradle/caches/transforms-2/files-2.1/0d332eb486d43f6291b6bdda6995274f/support-media-compat-28.0.0/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="com.android.support:support-media-compat:28.0.0" from-dependency="true" generated-set="com.android.support:support-media-compat:28.0.0$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/.gradle/caches/transforms-2/files-2.1/0d332eb486d43f6291b6bdda6995274f/support-media-compat-28.0.0/res"><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/0d332eb486d43f6291b6bdda6995274f/support-media-compat-28.0.0/res/values-v24/values-v24.xml" qualifiers="v24"><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/0d332eb486d43f6291b6bdda6995274f/support-media-compat-28.0.0/res/values/values.xml" qualifiers=""><color name="notification_material_background_media_default_color">#ff424242</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="secondary_text_default_material_dark">#b3ffffff</color><dimen name="subtitle_corner_radius">2dp</dimen><dimen name="subtitle_outline_width">2dp</dimen><dimen name="subtitle_shadow_offset">2dp</dimen><dimen name="subtitle_shadow_radius">2dp</dimen><integer name="cancel_button_image_alpha">127</integer><style name="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/><style name="TextAppearance.Compat.Notification.Media"/><style name="TextAppearance.Compat.Notification.Time.Media"/><style name="TextAppearance.Compat.Notification.Title.Media"/></file><file path="/home/seppo/.gradle/caches/transforms-2/files-2.1/0d332eb486d43f6291b6bdda6995274f/support-media-compat-28.0.0/res/values-v21/values-v21.xml" qualifiers="v21"><style name="TextAppearance.Compat.Notification.Info.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Time.Media">
+        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
+    </style><style name="TextAppearance.Compat.Notification.Title.Media">
+        <item name="android:textColor">@color/primary_text_default_material_dark</item>
+    </style></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res"/><source path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/generated/res/rs/debug"/><source path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res"><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-sw600dp/attr.xml" qualifiers="sw600dp-v13"><bool name="isTablet">true</bool></file><file name="blob_low_vol" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/blob_low_vol.wav" qualifiers="" type="raw"/><file name="keyw_midium_vol" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/keyw_midium_vol.wav" qualifiers="" type="raw"/><file name="tap2_low_vol" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/tap2_low_vol.wav" qualifiers="" type="raw"/><file name="hit_short" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/hit_short.wav" qualifiers="" type="raw"/><file name="keyw_vol2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/keyw_vol2.wav" qualifiers="" type="raw"/><file name="hit" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/hit.wav" qualifiers="" type="raw"/><file name="tap2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/tap2.wav" qualifiers="" type="raw"/><file name="rubber" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/rubber.wav" qualifiers="" type="raw"/><file name="hit_short_low_vol" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/hit_short_low_vol.wav" qualifiers="" type="raw"/><file name="keyw_low2_vol" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/keyw_low2_vol.wav" qualifiers="" type="raw"/><file name="blob" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/blob.wav" qualifiers="" type="raw"/><file name="keyw_low_vol" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/keyw_low_vol.wav" qualifiers="" type="raw"/><file name="rubber_low_vol" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/rubber_low_vol.wav" qualifiers="" type="raw"/><file name="rubber_medium_vol" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/rubber_medium_vol.wav" qualifiers="" type="raw"/><file name="blob_low_vol2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/blob_low_vol2.wav" qualifiers="" type="raw"/><file name="tap2h" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/tap2h.wav" qualifiers="" type="raw"/><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values/attr.xml" qualifiers=""><bool name="isTablet">false</bool></file><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values/array.xml" qualifiers=""><string-array name="lang_names">
+		<item>Angika</item>
+		<item>Assamese</item>
+		<item>Awadhi</item>
+		<item>Bengali</item>
+		<item>Bhojpuri</item>
+		<item>Bihari</item>
+		<item>Bodo</item>
+		<item>Catalan</item>
+		<item>CODING</item>
+		<item>English</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Gujarati</item>
+		<item>Hawaiian</item>
+		<item>Hindi</item>
+		<item>Icelandic</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Kannada</item>
+		<item>Konkani</item>
+		<item>Maithili</item>
+		<item>Malay</item>
+		<item>Malayalam</item>
+		<item>Marathi</item>
+		<item>Marwari</item>
+		<item>Nepali</item>
+		<item>Norwegian</item>
+		<item>Oriya</item>
+		<item>Pali</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Punjabi</item>
+		<item>Rajasthani</item>
+		<item>Russian</item>
+		<item>Sanskrit</item>
+		<item>Sindhi</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tulu</item>
+		<item>Ukrainian</item>
+	</string-array><string-array name="lang_values">
+		<item>Angika</item>
+		<item>Assamese</item>
+		<item>Awadhi</item>
+		<item>Bengali</item>
+		<item>Bhojpuri</item>
+		<item>Bihari</item>
+		<item>Bodo</item>
+		<item>Catalan</item>
+		<item>CODING</item>
+		<item>English</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Gujarati</item>
+		<item>Hawaiian</item>
+		<item>Hindi</item>
+		<item>Icelandic</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Kannada</item>
+		<item>Konkani</item>
+		<item>Maithili</item>
+		<item>Malay</item>
+		<item>Malayalam</item>
+		<item>Marathi</item>
+		<item>Marwari</item>
+		<item>Nepali</item>
+		<item>Norwegian</item>
+		<item>Oriya</item>
+		<item>Pali</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Punjabi</item>
+		<item>Rajasthani</item>
+		<item>Russian</item>
+		<item>Sanskrit</item>
+		<item>Sindhi</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tulu</item>
+		<item>Ukrainian</item>
+	</string-array><string-array name="theme_names">
+		<item>Basic</item>
+		<item>Blank</item>
+		<item>Cloudy</item>
+		<item>Cool</item>
+		<item>Desire</item>
+		<item>GoMeek</item>
+		<item>Healthy</item>
+		<item>Neon</item>
+		<item>Oak</item>
+		<item>Paddle</item>
+		<item>Plain</item>
+		<item>School</item>
+		<item>Sixback</item>
+		<item>Spots</item>
+		<item>Test</item>
+		<item>Tiles</item>
+		<item>Warm</item>
+		<item>Wood</item>
+	</string-array><string-array name="theme_values">
+		<item>Basic</item>
+		<item>Blank</item>
+		<item>Cloudy</item>
+		<item>Cool</item>
+		<item>Desire</item>
+		<item>GoMeek</item>
+		<item>Healthy</item>
+		<item>Neon</item>
+		<item>Oak</item>
+		<item>Paddle</item>
+		<item>Plain</item>
+		<item>School</item>
+		<item>Sixback</item>
+		<item>Spots</item>
+		<item>Test</item>
+		<item>Tiles</item>
+		<item>Warm</item>
+		<item>Wood</item>
+	</string-array><string-array name="font_names">
+		<item>Small</item>
+		<item>Medium</item>
+		<item>Large</item>
+		<item>Huge</item>
+	</string-array><string-array name="font_values">
+		<item>12</item>
+		<item>20</item>
+		<item>28</item>
+		<item>36</item>
+	</string-array><string-array name="hyst_names">
+		<item>Not sticky</item>
+		<item>Some sticky (Default)</item>
+		<item>Sticky</item>
+		<item>Very sticky</item>
+	</string-array><string-array name="hyst_values">
+		<item>0</item>
+		<item>15</item>
+		<item>20</item>
+		<item>30</item>
+	</string-array><string-array name="layout_names">
+		<item>Alphabetical</item>
+		<item>Optimized 1 (Old)</item>
+		<item>Optimized 2 (Recommended)</item>
+		<item>Optimized 3 (Experimental)</item>
+	</string-array><string-array name="layout_values">
+		<item>Alphabetical</item>
+		<item>Optimized_1</item>
+		<item>Optimized_2</item>
+		<item>Optimized_3</item>
+	</string-array><string-array name="padposition_names">
+		<item>Narrow pad right</item>
+		<item>Narrow pad left</item>
+		<item>Narrow pad center</item>
+		<item>Wide pad center</item>
+	</string-array><string-array name="padposition_values">
+		<item>2</item>
+		<item>0</item>
+		<item>3</item>
+		<item>1</item>
+	</string-array><string-array name="padheight_names">
+		<item>Smaller keypad higher up</item>
+		<item>Full sized keypad</item>
+		<item>Smaller keypad lower down</item>
+	</string-array><string-array name="padheight_values">
+		<item>10</item>
+		<item>0</item>
+		<item>20</item>
+	</string-array><string-array name="padtype_names">
+		<item>Standard 5-row keypad (Default)</item>
+		<item>Experimental 3-row (upright only)</item>
+	</string-array><string-array name="padtype_values">
+		<item>0</item>
+		<item>10</item>
+	</string-array><string-array name="speaktype_names">
+		<item>Speaking OFF</item>
+		<item>Say typed letter</item>
+		<item>Speak text (Default)</item>
+		<item>Both above</item>
+	</string-array><string-array name="speaktype_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="landscapecolumns_names">
+		<item>Standard (default)</item>
+		<item>Split</item>
+	</string-array><string-array name="landscapecolumns_values">
+		<item>3</item>
+		<item>6</item>
+	</string-array><string-array name="tiptype_names">
+		<item>Help on darker buttons</item>
+		<item>Help on lighter ones (Default)</item>
+		<item>Help on most useful locations</item>
+	</string-array><string-array name="tiptype_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="type_method_names">
+		<item>Allow Taps, Swipes and Combos (Recommended!)</item>
+		<item>Taps and one-hand Swipes only</item>
+		<item>Taps and two-hand Combos only</item>
+	</string-array><string-array name="type_method_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="terminal_mode_names">
+		<item>Auto (Recommended!)</item>
+		<item>Forced ON</item>
+		<item>Forecd OFF</item>
+	</string-array><string-array name="terminal_mode_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="font_type_names">
+		<item>Device default</item>
+		<item>OpenDyslexic</item>
+	</string-array><string-array name="font_type_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array><string-array name="volume_names">
+		<item>Low (Default)</item>
+		<item>Medium</item>
+		<item>High</item>
+	</string-array><string-array name="volume_values">
+		<item>15</item>
+		<item>30</item>
+		<item>60</item>
+	</string-array><string-array name="onehand_combo_names">
+		<item>OFF</item>
+		<item>Hold key a short extra time</item>
+		<item>Hold a bit longer (Default)</item>
+	</string-array><string-array name="onehand_combo_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="highlight_option_names">
+		<item>Modest highlight</item>
+		<item>Strong (Default)</item>
+	</string-array><string-array name="highlight_option_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array></file><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">ComboKey Basic</string><string name="app_icon_name">ComboKey Basic</string><string name="kbd_service_name_in_device_settings">ComboKeyBasic</string><string name="theme_defaultvalue_in_english">Basic</string><string name="filter_title_viewcombokeycom">ComboKey.com</string><string name="app_default_locale_main">en-US</string><string name="app_default_locale_aux">es-ES</string><string name="main_language_defaultvalue_in_english">English</string><string name="aux_language_defaultvalue_in_english">Spanish</string><string name="main_layout_defaultvalue_in_english">English_Optimized</string><string name="aux_layout_defaultvalue_in_english">Spanish_Optimized</string><string name="clear_screen">Delete</string><string name="send_sms">Send as SMS</string><string name="copy">Copy</string><string name="help">Help</string><string name="test_field">Test field</string><string name="padheight_defaultvalue">0</string><string name="padtype_defaultvalue">0</string><string name="landscapecolumns_defaultvalue">3</string><string name="speaktype_defaultvalue">2</string><string name="tiptype_defaultvalue">2</string><string name="type_method_defaultvalue">1</string><string name="settingsbutton">Settings</string><string name="helpbutton">Help</string><string name="switchkbdbutton">Kbd</string><string name="not_possible_im_picker">Cannot set show input methods</string><string name="pleaseaddcombokeyboard">Next you will be taken to the Settings of your device where you should turn on ComboKey on the list of available keyboards.\n\n
+    You will be asked to trust on ComboKey as your keyboard by pressing OK a couple of times.\n\n
+    Your old keyboard will also be available as before.\n\n
+    As the author of this app, I assure ComboKey does not collect any personal or other information.\n\n
+    - tiptyper, author of ComboKey</string><string name="addkbd">+</string><string name="ClearCookies">Clear Text</string><string name="ClearCookieQuestion">Do you really want to delete the text?</string><string name="PostiveYesButton">Yes!</string><string name="NegativeNoButton">No</string><string name="infobutton">Info</string><string name="header_add_kbd"> Add Keyboard</string><string name="header_info">ComboKey Information</string><string name="header_help">ComboKey Help</string><string name="dialog_help_text">Frequent letters:\n\n
+   Tap the letter you want if you see it\n\n
+Less frequent letters:\n\n
+   Press and hold, then slide up or down to highlight the desired letter.\n\n\n
+Now you can try! However, if you have problems, read more below:\n\n
+1) Show more letters:\n\n
+   Press any letter button down.\n\n
+2) Show punctuation:\n\n
+   Press the lighter colored buttons.\n\n
+3) Speak text:\n\n
+   Press and hold Del, then swipe to Play button upper right.\n\n
+4) Show functions:\n\n
+   Press Backspace or Space and slide to the desired item.\n\n
+5) Upper/lower case:\n\n
+   Press Backspace (e.g.) and Shift will appear.\n\n
+6) Numbers/symbols:\n\n
+   Press Space (e.g.) and slide to \'123\' or \'#@\'.\n\n
+7) Common symbols:\n\n
+   Press M and slide to the symbol.\n\n
+8) Autorepeat:\n\n
+Previous character is repeated by pressing long the Abc indicator\n\n\n
+THAT\'S IT! Enjoy.\n\n\n
+More details still…\n\n
+If you play the text in speech but the text field is empty, the text in the clipboard will be spoken, if any.\n\n
+While typing, you can also press two keys at the same time if you want to use both hands, instead of pressing one key and swiping to the other button with one hand.\n\n
+However, there\'s no need to swipe as far away as to the other side! Try swiping just up or down. The Magic Other Hand does the trick!\n\n
+You will quickly realize how everything works. No memorizing is required. Press and hold any key a while to see what can be found.\n\n\n
+Shift modifies punctuation:\n ! ? . , - \' become\n| ~ : ; _ \" \n\n\n
+Most important: You can use ComboKey as your default Android keyboard. Press the button with the keyboard icon to easily change the default keyboard of your device.\n\n
+It is, of course, also possible to change the keyboard (input method) using the Settings menu of your device (Language and input).
+    </string><string name="a_quick_start"> A Quick Start\n</string><string name="thanks_for_reading">\nThanks for reading!</string><string name="dialog_info_text">Press the button showing a keyboard icon to switch between ComboKey and the standard keyboard.\n\n An easy way to switch between different default keyboards is to come to ComboKey app and press the key with the keyboard icon.\n\n\n
+   Privacy Policy:\n\n
+   ComboKey Plus can function as a keyboard for other applications. It also requires Storage permission for maintaining letters and symbols for different languages as well as keyboard button themes.\n\n
+   The application does not use the keyboard typing information for anything else but passing the pressed key data to the application that makes use of the keyboard. The application does not collect any personal user information, neither does it use Augmented reality.
+        Note, however, that if you save single common words, they will be available in the User Dictionary of your device.\n\n
+   More at: combokey.com\n\n\n
+   About ComboKey\n\n
+   ComboKey is partly based on the ideas used in the GKOS keyboard open standard but was developed a lot further for use on touch screens. Both GKOS and ComboKey® have been designed by tiptyper (gkos@gkos.com). - Big thanks to metapropos and peekay for their help in Android programming and assistance in defining symbol layouts for languages in India and its neighbourhood.
+    </string><string name="delete_all_text_confirm">Delete all text?\n\nPress Clear again to delete.</string><string name="play_text_confirm">Play text?\n\nPress Play again for speech!</string><string name="save_text_confirm">Replace old notes?\n\nYes = Press Save again!</string><string name="save_text_empty">"No text to save!"</string><string name="save_text_done">"Text saved. Old Notes replaced."</string><string name="append_text_done">"Text added to old Notes."</string><string name="notes_text_header">"Notes      \n"</string><string name="description_of_notes_ok_button">"Notes OK button."</string><string name="toast_user_string">User-defined text (from Settings)</string><string name="toast_launch_string">Starting user-defined app (in Settings)</string><string name="translate_to">Translate to</string><string name="google_search">Google search…</string><string name="checking_received_smss">Checking received messages…</string><string name="send_as_sms">Send as SMS</string><string name="no_sms_capability">No SMS/Phone capability found on this device</string><string name="aux_language_selected">Aux language</string><string name="main_language_selected">Main language</string><string name="all_text_copied">All text copied to clipboard</string><string name="pasted_from_clipboard">Pasted from clipboard</string><string name="Angika">Angika</string><string name="Assamese">Assamese</string><string name="Awadhi">Awadhi</string><string name="Bengali">Bengali</string><string name="Bhojpuri">Bhojpuri</string><string name="Bihari">Bihari</string><string name="Bodo">Bodo</string><string name="Catalan">Catalan</string><string name="CODING">Coding</string><string name="Danish">Danish</string><string name="English">English</string><string name="Esperanto">Esperanto</string><string name="Estonian">Estonian</string><string name="Finnish">Finnish</string><string name="French">French</string><string name="German">German</string><string name="Greek">Greek</string><string name="Gujarati">Gujarati</string><string name="Hawaiian">Hawaiian</string><string name="Hindi">Hindi</string><string name="Icelandic">Icelandic</string><string name="Indonesian">Indonesian</string><string name="Italian">Italian</string><string name="Kannada">Kannada</string><string name="Konkani">Konkani</string><string name="Maithili">Maithili</string><string name="Malay">Malay</string><string name="Malayalam">Malayalam</string><string name="Marathi">Marathi</string><string name="Marwari">Marwari</string><string name="Nepali">Nepali</string><string name="Norwegian">Norwegian</string><string name="Oriya">Oriya</string><string name="Pali">Pali</string><string name="Polish">Polish</string><string name="Portuguese">Portuguese</string><string name="Punjabi">Punjabi</string><string name="Rajasthani">Rajasthani</string><string name="Russian">Russian</string><string name="Sanskrit">Sanskrit</string><string name="Sindhi">Sindhi</string><string name="Spanish">Spanish</string><string name="Swedish">Swedish</string><string name="Tamil">Tamil</string><string name="Telugu">Telugu</string><string name="Tulu">Tulu</string><string name="Ukrainian">Ukrainian</string><string name="settings_header">Settings  ComboKeyBasic v5.6b1</string><string name="settings_language_header">Main Language</string><string name="settings_language2_header">Aux Language</string><string name="settings_language_text">Set the main language for the keyboard. Based on selected language, the most common letters are directly visible and native letters are available.</string><string name="settings_language2_text">Set the auxiliary language for the keyboard. You can switch quickly between this and the main language during typing. </string><string name="settings_tips_header">Tips for beginners</string><string name="settings_tips_text">Show available, normally hidden, characters on the buttons. Feature to be used while learning the method. NOTE: Alternatively, you can always press and hold any button for a short period to see what else is available, without typing a letter!</string><string name="settings_tiptype_header">Tips options</string><string name="settings_tiptype_text">The Tips showing where to find more characters can be shown on the lighter main buttons, or on the darker buttons/area between them.</string><string name="settings_type_method_header">Using Combos and Swipes</string><string name="settings_type_method_text">If you use occasionally Swipes (one hand) and Combos (simultaneous presses using two hands), select the recommended setting on top. When typing fast, depending on your way of typing, it might be useful e.g. to disable Combos if you never use them (using Swipes instead).</string><string name="settings_sound_header">Sound on</string><string name="settings_sound_text">Use sound on key presses. Helps to detect missed/wrong keys.</string><string name="settings_sound_volume_header">Sound Volume</string><string name="settings_sound_volume_text">Set key press sound volume.</string><string name="settings_vibrator_header">Vibrator on</string><string name="settings_vibrator_text">Use the vibrator to indicate a swipe to another button and a key press that combines two buttons simultaneously.</string><string name="settings_symbol_flash_header">Symbols Flash on</string><string name="settings_symbol_flash_text">While typing, each entered symbol or string will shortly be shown in big font next to the keypad.</string><string name="settings_combo_flash_header">Combo Flash on</string><string name="settings_combo_flash_text">When a combo is typed or swiped, the typed symbol or string will shortly be shown in big font next to the keypad.</string><string name="settings_highlight_option_header">Button Highlight</string><string name="settings_highlight_option_text">When a key is tapped or swiped to, it will be highlighted as a visual response. You can select the visual response options here.</string><string name="settings_side_panel_hidden_header">Hide Side Panel</string><string name="settings_side_panel_hidden_text">The side panel with Abc and Language indicators can be hidden to reduce keyboard width.</string><string name="settings_fontsize_header">Font Size</string><string name="settings_fontsize_text">Font size in the standalone ComboKey application (not when using this app as a system/default keyboard)</string><string name="settings_padposition_header">Pad Width and Position</string><string name="settings_padposition_text">In vertical orientation of the device, the keypad can be positioned left or right (one-hand typing), or at the center (two-hand typing).</string><string name="settings_padheight_header">Pad Height and Position</string><string name="settings_padheight_text">In vertical orientation, the height of the ComboKey system keypad can be adjusted to match your needs and the metrics of your device.</string><string name="settings_padtype_header">Pad Type</string><string name="settings_padtype_text">You can select the standard ComboKey 5-row keypad (default) or the experimental 3-row keypad.</string><string name="toast_translate_text_too_long">Text too long (over 3800 chars). Translating part of it.</string><string name="toast_translate_from_clipboard">Translating clipboard text.</string><string name="settings_speaktype_header">Voice output</string><string name="toast_speech_not_available">No text-to-speech support on device. Install \'Google Text to Speech\' tool from Play store!</string><string name="toast_speech_data_not_available">No speech available for this language.</string><string name="toast_speech_text_too_long">Text too long (over 3800 chars). Reading part of it.</string><string name="toast_speech_from_clipboard">Speaking clipboard text.</string><string name="toast_select_speaktype">Settings > Voice output is OFF!</string><string name="toast_notes_blank">No Notes found.</string><string name="settings_speaktype_text">E.g. for studying languages. Depending on available/installed languages on your device, you can hear the text spoken, either each letter while typing,
+        or the complete text starting from cursor position when you press the Play button (found while pressing Del/Backspace button). Please, select options here…</string><string name="settings_landscapecolumns_header">Horizontal Pad Setting</string><string name="settings_landscapecolumns_text">In landscape (horizontal) orientation, the available area for the keyboard is very broad. You can choose a layout that suits you best.</string><string name="settings_theme_header">Themes</string><string name="settings_theme_text">Set the visible style for the keyboard. Button types and colors can be selected.</string><string name="settings_background_header">Transparent Background</string><string name="settings_background_text">In the stand-alone app, use text on transparent background instead of black.</string><string name="settings_autocaps_header">Automatic capitals</string><string name="settings_autocaps_text">At the beginning of a sentence, use upper case automatically.</string><string name="settings_magic_header">Magic Other Hand</string><string name="settings_magic_text">Enable also single handed typing by mirroring swipes to the opposite side (Recommended. Very useful!)</string><string name="settings_master_header">Master Mode!</string><string name="settings_master_text">Hide all(!) button characters when you are completely familiar with the keyboard</string><string name="settings_usertext_header">User defined text</string><string name="settings_usertext_text">Define text here and then enter it directly from the keyboard by a shortcut combo. Useful e.g. for a frequent text like your email address.</string><string name="settings_usertext_default"> You can define this text in app Settings!</string><string name="settings_launch_header">App to start</string><string name="settings_launch_text">Define here which of your installed applications you want to start directly, from the keyboard by a shortcut combo in number mode (Del key will show \'App\' icon). Give the app name exactly as it appears on the applications list in device settings (e.g. Calculator).</string><string name="settings_launch_default">Calculator</string><string name="settings_removespace_header">No trailing space</string><string name="settings_removespace_text">Shortcut words often end with a space. This can make typing quicker but you cannot add anything to the word or end the sentence without deleting the space. If you want to be consistent and always add the space yourself, use this setting.</string><string name="settings_langcombo_header">Disable Lang combo</string><string name="settings_langcombo_text">You can disable the possibility to switch between main and aux languages by using a keypad combo/swipe. This is to avoid undesired change of language during typing. Pressing the language names will do the job anyway.</string><string name="settings_modechange_header">Disable quick Mode change</string><string name="settings_modechange_text">You can disable the possibility to switch between abc, 123, Symbols and Emoji modes of the keypad with the extra short swipes (i.e. swiping to Del key from neighboring keys). This is to avoid undesired change of Mode during fast typing. Mode change is always possible the standard way, i.e. by using combos/swipes involving the Space key.</string><string name="settings_mirror_header">Show mirror characters</string><string name="settings_mirror_text">Show in yellow color, characters on two otherwise empty buttons that can be used to select characters on the opposite side of the keypad. Feature can help finding some common letters while using the 3-row key pad where the order of buttons is different from the 5-row pad.</string><string name="settings_onehand_combo_header">One-finger Combos</string><string name="settings_onehand_combo_text">In some situations, like reaching the device from a distance, swiping on the display may not feel practical. No problem! Instead of a swipe, you can tap the first key and hold it just a little bit longer. Now you can do a second tap on the swipe destination key with the same finger.</string><string name="settings_words_header">Show Candidate Words</string><string name="settings_words_text">You can add (+) words into Dictionary, or remove (x) them, while typing. These will later be proposed to you above the keypad. Instead of typing complete words, you can tap on a proposed word if valid. NOTE! DO NOT SAVE SENSITIVE INFO!</string><string name="settings_hystamount_header">Sticky buttons</string><string name="settings_hystamount_text">During swiping, buttons can be set to resist leaving their selected state to a certain degree. This may decrease slipping to an unwanted button, depending on your way of typing.</string><string name="settings_terminal_mode_header">Terminal mode (SSH etc.)</string><string name="settings_terminal_mode_text">The keyboard must operate differently, when used together with a terminal emulator or alike, to be compatible. This need is detected automatically but in some cases it may be necessary to be able force the Terminal mode on or off.</string><string name="settings_font_type_header">Button Text Font</string><string name="settings_font_type_text">The optional font on the buttons can be selected here.</string><string name="flashtext_call">Call</string><string name="flashtext_received">Received</string><string name="flashtext_send">Send</string><string name="flashtext_speak">Play</string><string name="flashtext_stop">Stop</string><string name="flashtext_record">Mic</string><string name="flashtext_lang">Lang</string><string name="flashtext_translate">Translate</string><string name="flashtext_search">Search</string><string name="flashtext_copy">Copy</string><string name="flashtext_paste">Paste</string><string name="flashtext_notes">Notes</string><string name="flashtext_launch">Start</string><string name="flashtext_symbols">#@</string><string name="flashtext_repeat">Repeat</string><string name="flashtext_settings">Set..</string><string name="flashtext_shiftdown">ShiftDn</string><string name="flashtext_emoiji">:)</string><string name="header_voice_typing">ComboKey Voice Typing Editor</string><string name="voice_input_prompt">Start speaking</string><string name="voice_input_not_supprted">Voice input not supported</string><string name="voice_activity_name">Speech To Text</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="speech_prompt">Say something…</string><string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string><string name="tap_on_mic">Tap on mic to speak</string><string name="tap_on_mic_to_stop">STOP: Tap on mic.</string><string name="speak_or_tap_on_mic">SPEAK NOW or tap on Mic</string><string name="press_longer">Up/PgUp - Press a bit longer.</string><string name="description_voice_input_button_speak">Speak</string><string name="description_voice_input_button_clear">Clear</string><string name="description_voice_input_button_ok">OK</string><string name="description_custom_toast_icon">Icon</string><string name="hint_voice_input_text">…</string><string name="hint_enter_text">…</string></file><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values/colors.xml" qualifiers=""><color name="shade">#44000000</color><color name="transparent">#33000000</color><color name="candidate_background">#ff222222</color><color name="candidate_normal">#ffeeeeee</color><color name="candidate_recommended">#ffffffff</color><color name="candidate_other">#ff888888</color><color name="white">#ffffff</color><color name="gray">#aaaaaa</color><color name="gray_transp">#88ffffff</color><color name="bg_gradient_start">#31244e</color><color name="bg_gradient_end">#6b394c</color></file><file name="icon" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-ldpi/icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon_new" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-ldpi/icon_new.png" qualifiers="ldpi-v4" type="drawable"/><file name="input_smaller_higher" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input_smaller_higher.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="input_smaller_lower" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input_smaller_lower.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="input_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input_3row.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="activity_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/activity_notes.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="activity_voice_input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/activity_voice_input.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="input_smaller_higher_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input_smaller_higher_3row.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="activity" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/activity.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="input_words" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input_words.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="input_smaller_lower_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input_smaller_lower_3row.xml" qualifiers="xlarge-land-v4" type="layout"/><file name="kbd_menu" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/menu/kbd_menu.xml" qualifiers="" type="menu"/><file name="icon" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-mdpi/icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="icon_new" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-mdpi/icon_new.png" qualifiers="mdpi-v4" type="drawable"/><file name="input_smaller_higher" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_smaller_higher.xml" qualifiers="land" type="layout"/><file name="input_smaller_lower" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_smaller_lower.xml" qualifiers="land" type="layout"/><file name="input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input.xml" qualifiers="land" type="layout"/><file name="input_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_3row.xml" qualifiers="land" type="layout"/><file name="activity_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/activity_notes.xml" qualifiers="land" type="layout"/><file name="activity_voice_input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/activity_voice_input.xml" qualifiers="land" type="layout"/><file name="input_smaller_higher_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_smaller_higher_3row.xml" qualifiers="land" type="layout"/><file name="activity" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/activity.xml" qualifiers="land" type="layout"/><file name="input_words" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_words.xml" qualifiers="land" type="layout"/><file name="input_smaller_lower_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_smaller_lower_3row.xml" qualifiers="land" type="layout"/><file name="input_smaller_higher" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input_smaller_higher.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="input_smaller_lower" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input_smaller_lower.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="input_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input_3row.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="activity_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/activity_notes.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="activity_voice_input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/activity_voice_input.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="input_smaller_higher_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input_smaller_higher_3row.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="activity" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/activity.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="input_words" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input_words.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="input_smaller_lower_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input_smaller_lower_3row.xml" qualifiers="sw600dp-land-v13" type="layout"/><file name="input_smaller_higher" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input_smaller_higher.xml" qualifiers="sw600dp-v13" type="layout"/><file name="input_smaller_lower" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input_smaller_lower.xml" qualifiers="sw600dp-v13" type="layout"/><file name="input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input.xml" qualifiers="sw600dp-v13" type="layout"/><file name="input_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input_3row.xml" qualifiers="sw600dp-v13" type="layout"/><file name="activity_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/activity_notes.xml" qualifiers="sw600dp-v13" type="layout"/><file name="activity_voice_input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/activity_voice_input.xml" qualifiers="sw600dp-v13" type="layout"/><file name="input_smaller_higher_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input_smaller_higher_3row.xml" qualifiers="sw600dp-v13" type="layout"/><file name="activity" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/activity.xml" qualifiers="sw600dp-v13" type="layout"/><file name="input_words" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input_words.xml" qualifiers="sw600dp-v13" type="layout"/><file name="input_smaller_lower_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input_smaller_lower_3row.xml" qualifiers="sw600dp-v13" type="layout"/><file name="input_smaller_higher" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input_smaller_higher.xml" qualifiers="xlarge-v4" type="layout"/><file name="input_smaller_lower" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input_smaller_lower.xml" qualifiers="xlarge-v4" type="layout"/><file name="input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input.xml" qualifiers="xlarge-v4" type="layout"/><file name="input_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input_3row.xml" qualifiers="xlarge-v4" type="layout"/><file name="activity_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/activity_notes.xml" qualifiers="xlarge-v4" type="layout"/><file name="activity_voice_input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/activity_voice_input.xml" qualifiers="xlarge-v4" type="layout"/><file name="input_smaller_higher_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input_smaller_higher_3row.xml" qualifiers="xlarge-v4" type="layout"/><file name="activity" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/activity.xml" qualifiers="xlarge-v4" type="layout"/><file name="input_words" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input_words.xml" qualifiers="xlarge-v4" type="layout"/><file name="input_smaller_lower_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input_smaller_lower_3row.xml" qualifiers="xlarge-v4" type="layout"/><file name="bounce" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/anim/bounce.xml" qualifiers="" type="anim"/><file name="flag_s" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/flag_s.png" qualifiers="hdpi-v4" type="drawable"/><file name="rights_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/rights_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="screen_transp_dark" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/screen_transp_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="num123y" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/num123y.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_pressed_old" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_old.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_tools_old2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_tools_old2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="kbd_hide_50" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/kbd_hide_50.png" qualifiers="hdpi-v4" type="drawable"/><file name="mainbuttonbasic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/mainbuttonbasic.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_pressed_deep_yellow" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_deep_yellow.png" qualifiers="hdpi-v4" type="drawable"/><file name="screen_black" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/screen_black.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="wrights_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/wrights_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_brown" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_brown.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="backspace2w" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/backspace2w.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_brown_fazer" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_brown_fazer.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_brown_dark" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_brown_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="append_note" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/append_note.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_smsx" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/menu_smsx.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_green_dark" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_green_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="swap_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/swap_notes.png" qualifiers="hdpi-v4" type="drawable"/><file name="speak_stop" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_stop.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/abc2.png" qualifiers="hdpi-v4" type="drawable"/><file name="copy_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/copy_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="deletes_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/deletes_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="abcnum2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/abcnum2.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_cn" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_cn.png" qualifiers="hdpi-v4" type="drawable"/><file name="topbarimage" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/topbarimage.png" qualifiers="hdpi-v4" type="drawable"/><file name="shifts_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/shifts_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_info" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_info.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_r" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_r.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_tools_old" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_tools_old.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="outgoing_call_start_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/outgoing_call_start_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="mainbuttonwood" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/mainbuttonwood.png" qualifiers="hdpi-v4" type="drawable"/><file name="show_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/show_notes.png" qualifiers="hdpi-v4" type="drawable"/><file name="ups_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/ups_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_clearx" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/menu_clearx.png" qualifiers="hdpi-v4" type="drawable"/><file name="shift" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/shift.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_brown_dark3" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_brown_dark3.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_plus_round_gradient" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/icon_plus_round_gradient.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_school_top" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_school_top.png" qualifiers="hdpi-v4" type="drawable"/><file name="clear2w" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/clear2w.png" qualifiers="hdpi-v4" type="drawable"/><file name="kbd_hide_150" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/kbd_hide_150.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_black_framed" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_black_framed.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_abc_dark" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_abc_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_pressed_new" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_new.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_school_bar_left" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_school_bar_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="backgroundimage_landscape" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/backgroundimage_landscape.png" qualifiers="hdpi-v4" type="drawable"/><file name="kbd_hide_150g" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/kbd_hide_150g.png" qualifiers="hdpi-v4" type="drawable"/><file name="homes_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/homes_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="launch_app" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/launch_app.png" qualifiers="hdpi-v4" type="drawable"/><file name="kbd_hide_150g2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/kbd_hide_150g2.png" qualifiers="hdpi-v4" type="drawable"/><file name="backgroundimage_old" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/backgroundimage_old.png" qualifiers="hdpi-v4" type="drawable"/><file name="symby" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/symby.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_black" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_black.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abcnums_edgesw" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/abcnums_edgesw.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_red2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_red2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/mic.png" qualifiers="hdpi-v4" type="drawable"/><file name="file" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/file.png" qualifiers="hdpi-v4" type="drawable"/><file name="tab2w" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/tab2w.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_blue2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="more" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/more.png" qualifiers="hdpi-v4" type="drawable"/><file name="spaces_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/spaces_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_d" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_d.png" qualifiers="hdpi-v4" type="drawable"/><file name="kbd_icon_150" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/kbd_icon_150.png" qualifiers="hdpi-v4" type="drawable"/><file name="speak_play_red" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_play_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_school_middle" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_school_middle.png" qualifiers="hdpi-v4" type="drawable"/><file name="enter_edges_text" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/enter_edges_text.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_gray_dark" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_gray_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="topbarplus" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/topbarplus.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_basic_512_old" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/icon_basic_512_old.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/abc.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_basic_old" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/icon_basic_old.png" qualifiers="hdpi-v4" type="drawable"/><file name="help" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/help.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_tools" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_tools.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_pressed" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_help" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_help.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="left" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/left.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_blue_dark3_deep" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue_dark3_deep.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_pressed_circle" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_circle.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_green" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_green.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="down" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/down.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_blue_dark2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue_dark2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="lang" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/lang.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_school_bar_right" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_school_bar_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="blank" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/blank.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_ul" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_ul.png" qualifiers="hdpi-v4" type="drawable"/><file name="pgdn_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pgdn_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="backspaces_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/backspaces_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_brown2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_brown2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="pgup_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pgup_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_red_dark" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_red_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/notes.png" qualifiers="hdpi-v4" type="drawable"/><file name="shifthelp_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/shifthelp_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_helpx" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/menu_helpx.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_wood" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood.png" qualifiers="hdpi-v4" type="drawable"/><file name="space" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/space.png" qualifiers="hdpi-v4" type="drawable"/><file name="tammi_landscape" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/tammi_landscape.png" qualifiers="hdpi-v4" type="drawable"/><file name="symbw" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/symbw.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_l" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_l.png" qualifiers="hdpi-v4" type="drawable"/><file name="tools" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/tools.png" qualifiers="hdpi-v4" type="drawable"/><file name="uphelp" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/uphelp.png" qualifiers="hdpi-v4" type="drawable"/><file name="speak_rec" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_rec.png" qualifiers="hdpi-v4" type="drawable"/><file name="save_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/save_notes.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_sign_s" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/menu_sign_s.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_wood_kbd" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood_kbd.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_ll" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_ll.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_copyx" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/menu_copyx.png" qualifiers="hdpi-v4" type="drawable"/><file name="settings_shadow" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/settings_shadow.png" qualifiers="hdpi-v4" type="drawable"/><file name="spacessw" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/spacessw.png" qualifiers="hdpi-v4" type="drawable"/><file name="num123" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/num123.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_wood_info" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood_info.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_wood_help" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood_help.png" qualifiers="hdpi-v4" type="drawable"/><file name="fn" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/fn.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_kbd" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_kbd.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_3r" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_3r.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_pressed_circle_white_yellow" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_circle_white_yellow.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_ur" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_ur.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_wood_ok" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood_ok.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_brown_fazer_dark" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_brown_fazer_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="kbd_icon_50" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/kbd_icon_50.png" qualifiers="hdpi-v4" type="drawable"/><file name="mainbuttonwood_prev" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/mainbuttonwood_prev.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_lr" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_lr.png" qualifiers="hdpi-v4" type="drawable"/><file name="topbarminus" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/topbarminus.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_wood_prev" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood_prev.png" qualifiers="hdpi-v4" type="drawable"/><file name="black_stone_copy" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/black_stone_copy.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="shift_w" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/shift_w.png" qualifiers="hdpi-v4" type="drawable"/><file name="shift_w_down" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/shift_w_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_pressed_tin" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_tin.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="up" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/up.png" qualifiers="hdpi-v4" type="drawable"/><file name="speak_play" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_play.png" qualifiers="hdpi-v4" type="drawable"/><file name="arrow_send_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/arrow_send_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_blue" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_pressed_new_round" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_new_round.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="backgroundimage" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/backgroundimage.png" qualifiers="hdpi-v4" type="drawable"/><file name="speak_rec_red" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_rec_red.png" qualifiers="hdpi-v4" type="drawable"/><file name="backspace2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/backspace2.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_blue_dark" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="wleft" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/wleft.png" qualifiers="hdpi-v4" type="drawable"/><file name="paste_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/paste_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_b" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_b.png" qualifiers="hdpi-v4" type="drawable"/><file name="repeat" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/repeat.png" qualifiers="hdpi-v4" type="drawable"/><file name="userstrings" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/userstrings.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_abc" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_abc.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="screen_transp_darker_vara" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/screen_transp_darker_vara.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_red_dark2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_red_dark2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="speak_rec_old" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_rec_old.png" qualifiers="hdpi-v4" type="drawable"/><file name="ends_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/ends_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="get_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/get_notes.png" qualifiers="hdpi-v4" type="drawable"/><file name="downs_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/downs_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="middlebuttonbasic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/middlebuttonbasic.png" qualifiers="hdpi-v4" type="drawable"/><file name="info" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/info.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_basic_512" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/icon_basic_512.png" qualifiers="hdpi-v4" type="drawable"/><file name="lefts_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/lefts_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="deletes_white" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/deletes_white.png" qualifiers="hdpi-v4" type="drawable"/><file name="ocr_cam" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/ocr_cam.png" qualifiers="hdpi-v4" type="drawable"/><file name="downhelp" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/downhelp.png" qualifiers="hdpi-v4" type="drawable"/><file name="toast_background" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/toast_background.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="screen_transp_darker" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/screen_transp_darker.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="emoj" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/emoj.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_black_square" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_black_square.png" qualifiers="hdpi-v4" type="drawable"/><file name="tabs_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/tabs_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="wlefts_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/wlefts_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="shiftoff" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/shiftoff.png" qualifiers="hdpi-v4" type="drawable"/><file name="tab" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/tab.png" qualifiers="hdpi-v4" type="drawable"/><file name="black_stone" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/black_stone.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="button_red" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_red.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_school_main" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_school_main.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_blue_dark3" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue_dark3.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_u" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_u.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc2y" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/abc2y.png" qualifiers="hdpi-v4" type="drawable"/><file name="arrow_received_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/arrow_received_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="smallbuttonbasic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/smallbuttonbasic.png" qualifiers="hdpi-v4" type="drawable"/><file name="end" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/end.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_sign_black_s" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/menu_sign_black_s.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_ok" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_ok.png" qualifiers="hdpi-v4" type="drawable"/><file name="search_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/search_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_brown_dark2" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_brown_dark2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="outgoing_call_back_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/outgoing_call_back_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_cw" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_cw.png" qualifiers="hdpi-v4" type="drawable"/><file name="clear2ws" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/clear2ws.png" qualifiers="hdpi-v4" type="drawable"/><file name="barbuttonbasic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/barbuttonbasic.png" qualifiers="hdpi-v4" type="drawable"/><file name="arrow_send_back_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/arrow_send_back_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_new" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/icon_new.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_basic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/icon_basic.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_wood_settings" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood_settings.png" qualifiers="hdpi-v4" type="drawable"/><file name="enter_edges" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/enter_edges.png" qualifiers="hdpi-v4" type="drawable"/><file name="symb" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/symb.png" qualifiers="hdpi-v4" type="drawable"/><file name="shifthelp" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/shifthelp.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_s" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_s.png" qualifiers="hdpi-v4" type="drawable"/><file name="home" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/home.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_settings" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_settings.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_blue_ok" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue_ok.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="wright" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/wright.png" qualifiers="hdpi-v4" type="drawable"/><file name="pad_5r" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_5r.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_all_black" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_all_black.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="screen_transp" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/screen_transp.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ctrl" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/ctrl.png" qualifiers="hdpi-v4" type="drawable"/><file name="enter2w" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/enter2w.png" qualifiers="hdpi-v4" type="drawable"/><file name="tammi_portrait" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/tammi_portrait.png" qualifiers="hdpi-v4" type="drawable"/><file name="right" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/right.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-fi/array.xml" qualifiers="fi"><string-array name="lang_names">
+		<item>Angika</item>
+		<item>Assamese</item>
+		<item>Awadhi</item>
+		<item>Bengali</item>
+		<item>Bhojpuri</item>
+		<item>Bihari</item>
+		<item>Bodo</item>
+		<item>Catalan</item>
+		<item>CODING</item>
+		<item>English</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Gujarati</item>
+		<item>Hawaiian</item>
+		<item>Hindi</item>
+		<item>Icelandic</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Kannada</item>
+		<item>Konkani</item>
+		<item>Maithili</item>
+		<item>Malay</item>
+		<item>Malayalam</item>
+		<item>Marathi</item>
+		<item>Marwari</item>
+		<item>Nepali</item>
+		<item>Norwegian</item>
+		<item>Oriya</item>
+		<item>Pali</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Punjabi</item>
+		<item>Rajasthani</item>
+		<item>Russian</item>
+		<item>Sanskrit</item>
+		<item>Sindhi</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tulu</item>
+		<item>Ukrainian</item>
+	</string-array><string-array name="lang_values">
+		<item>angika</item>
+		<item>assameesi</item>
+		<item>awadhi</item>
+		<item>bengali</item>
+		<item>bhojpuri</item>
+		<item>bihari</item>
+		<item>bodo</item>
+		<item>katalaani</item>
+		<item>CODING</item>
+		<item>englanti</item>
+		<item>esperanto</item>
+		<item>viro</item>
+		<item>suomi</item>
+		<item>ranska</item>
+		<item>saksa</item>
+		<item>kreikka</item>
+		<item>gudzarati</item>
+		<item>havaiji</item>
+		<item>hindi</item>
+		<item>islanti</item>
+		<item>indonesia</item>
+		<item>italia</item>
+		<item>kannada</item>
+		<item>konkani</item>
+		<item>maithili</item>
+		<item>malaiji</item>
+		<item>malajalam</item>
+		<item>marathi</item>
+		<item>marwari</item>
+		<item>nepali</item>
+		<item>norja</item>
+		<item>orija</item>
+		<item>pali</item>
+		<item>puola</item>
+		<item>portugali</item>
+		<item>punjabi</item>
+		<item>rajasthani</item>
+		<item>venäjä</item>
+		<item>sanskrit</item>
+		<item>sindhi</item>
+		<item>espanja</item>
+		<item>ruotsi</item>
+		<item>tamili</item>
+		<item>telugu</item>
+		<item>tulu</item>
+		<item>ukraina</item>
+	</string-array><string-array name="theme_names">
+		<item>Basic</item>
+		<item>Blank</item>
+		<item>Cloudy</item>
+		<item>Cool</item>
+		<item>Desire</item>
+		<item>GoMeek</item>
+		<item>Healthy</item>
+		<item>Neon</item>
+		<item>Oak</item>
+		<item>Paddle</item>
+		<item>Plain</item>
+		<item>School</item>
+		<item>Sixback</item>
+		<item>Spots</item>
+		<item>Test</item>
+		<item>Tiles</item>
+		<item>Warm</item>
+		<item>Wood</item>
+	</string-array><string-array name="theme_values">
+		<item>Perus</item>
+		<item>Blanko</item>
+		<item>Pilvinen</item>
+		<item>Viileä</item>
+		<item>Halu</item>
+		<item>Vaatimaton</item>
+		<item>Terveellinen</item>
+		<item>Neon</item>
+		<item>Tammi</item>
+		<item>Räpylä</item>
+		<item>Pelkkä</item>
+		<item>Koulu</item>
+		<item>Sixbäkki</item>
+		<item>Täplät</item>
+		<item>Testi</item>
+		<item>Tiilet</item>
+		<item>Lämmin</item>
+		<item>Puu</item>
+	</string-array><string-array name="font_names">
+		<item>Pieni</item>
+		<item>Keskikoko</item>
+		<item>Suuri</item>
+		<item>Valtava</item>
+	</string-array><string-array name="font_values">
+		<item>12</item>
+		<item>20</item>
+		<item>28</item>
+		<item>36</item>
+	</string-array><string-array name="hyst_names">
+		<item>Ei tartu</item>
+		<item>Hieman tarttuu (oletus)</item>
+		<item>Tarttuu</item>
+		<item>Tarttuu tehokkaasti</item>
+	</string-array><string-array name="hyst_values">
+		<item>0</item>
+		<item>15</item>
+		<item>20</item>
+		<item>30</item>
+	</string-array><string-array name="layout_names">
+		<item>Aakkosellinen</item>
+		<item>Optimoitu 1 (Old)</item>
+		<item>Optimoitu 2 (Recommended)</item>
+		<item>Optimoitu 3 (Experimental)</item>
+	</string-array><string-array name="layout_values">
+		<item>Alphabetical</item>
+		<item>Optimized_1</item>
+		<item>Optimized_2</item>
+		<item>Optimized_3</item>
+	</string-array><string-array name="padposition_names">
+		<item>Kapea oikealla</item>
+		<item>Kapea vasemmalla</item>
+		<item>Kapea keskellä</item>
+		<item>Leveä keskellä</item>
+	</string-array><string-array name="padposition_values">
+		<item>2</item>
+		<item>0</item>
+		<item>3</item>
+		<item>1</item>
+	</string-array><string-array name="padheight_names">
+		<item>Pienempi ylempänä</item>
+		<item>Täysikokoinen</item>
+		<item>Pienempi alempana</item>
+	</string-array><string-array name="padheight_values">
+		<item>10</item>
+		<item>0</item>
+		<item>20</item>
+	</string-array><string-array name="padtype_names">
+		<item>Normaali 5-rivinen ComboKey (oletus)</item>
+		<item>Kokeellinen 3-rivinen ComboKey-näppis</item>
+	</string-array><string-array name="padtype_values">
+		<item>0</item>
+		<item>10</item>
+	</string-array><string-array name="speaktype_names">
+		<item>Ei puhetta</item>
+		<item>Sanoo painetun kirjaimen</item>
+		<item>Puhuu tekstiä (oletus)</item>
+		<item>Molemmat toiminnassa</item>
+	</string-array><string-array name="speaktype_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="landscapecolumns_names">
+		<item>Normaali (oletus)</item>
+		<item>Jaettu</item>
+	</string-array><string-array name="landscapecolumns_values">
+		<item>3</item>
+		<item>6</item>
+	</string-array><string-array name="tiptype_names">
+		<item>Apu tummemmissa nappuloissa</item>
+		<item>Apu vaaleammissa napp. (oletus)</item>
+		<item>Apu sopivissa paikoissa</item>
+	</string-array><string-array name="tiptype_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="type_method_names">
+		<item>Salli painallukset, pyyhkäisyt ja kombot (suositus!)</item>
+		<item>Vain painallukset ja yhden käden pyyhkäisyt</item>
+		<item>Vain painallukset ja kahden käden kombot</item>
+	</string-array><string-array name="type_method_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="terminal_mode_names">
+		<item>Auto (suositus!)</item>
+		<item>Pakotettu ON</item>
+		<item>Pakotettu OFF</item>
+	</string-array><string-array name="terminal_mode_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="font_type_names">
+		<item>Laitteen oletusfontti</item>
+		<item>OpenDyslexic-fontti</item>
+	</string-array><string-array name="font_type_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array><string-array name="volume_names">
+		<item>Hiljainen (oletus)</item>
+		<item>Keskiasento</item>
+		<item>Voimakas</item>
+	</string-array><string-array name="volume_values">
+		<item>15</item>
+		<item>30</item>
+		<item>60</item>
+	</string-array><string-array name="onehand_combo_names">
+		<item>Ei päällä</item>
+		<item>Paina ja pidä hetki</item>
+		<item>Pidä pidempään (oletus)</item>
+	</string-array><string-array name="onehand_combo_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="highlight_option_names">
+		<item>Heikompi korostus</item>
+		<item>Vahva korostus (oletus)</item>
+	</string-array><string-array name="highlight_option_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array></file><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-fi/strings.xml" qualifiers="fi"><string name="app_name">ComboKey Basic</string><string name="app_icon_name">ComboKey Basic</string><string name="kbd_service_name_in_device_settings">ComboKeyBasic</string><string name="theme_defaultvalue_in_english">Basic</string><string name="filter_title_viewcombokeycom">ComboKey.com</string><string name="app_default_locale_main">fi-FI</string><string name="app_default_locale_aux">en-US</string><string name="main_language_defaultvalue_in_english">Finnish</string><string name="aux_language_defaultvalue_in_english">English</string><string name="main_layout_defaultvalue_in_english">Finnish_Optimized</string><string name="aux_layout_defaultvalue_in_english">English_Optimized</string><string name="clear_screen">Pyyhi</string><string name="send_sms">Lähetä SMS</string><string name="copy">Kopioi</string><string name="test_field">Testialue</string><string name="padheight_defaultvalue">0</string><string name="padtype_defaultvalue">0</string><string name="landscapecolumns_defaultvalue">3</string><string name="speaktype_defaultvalue">2</string><string name="tiptype_defaultvalue">2</string><string name="type_method_defaultvalue">1</string><string name="settingsbutton">Asetukset</string><string name="pleaseaddcombokeyboard">Seuraavaksi siirrytään laitteesi asetuksiin, jossa tulee aktivoida myös ComboKey saatavilla olevien näppäimistöjen listalla.\n\n
+    Sinua pyydetään lisäksi luottamaan ComboKey-näppikseen ja joudut painamaan OK pari kertaa ilmestyviin huomautuksiin.\n\n
+    Vanha näppäimistösi pysyy saatavilla kuten ennenkin.\n\n
+    Tämän sovelluksen suunnittelijana vakuutan, että ComboKey ei kerää mitään henkilökohtaisia tai muitakaan tietoja.\n\n
+    - tiptyper, ComboKeyn tekijä</string><string name="ClearCookies">Poista teksti</string><string name="ClearCookieQuestion">Haluatko todella poistaa koko tekstin?</string><string name="PostiveYesButton">Kyllä!</string><string name="NegativeNoButton">Ei</string><string name="infobutton">Tietoa</string><string name="header_add_kbd">Lisää näppäimistö</string><string name="header_info">ComboKey-tietoa</string><string name="header_help">ComboKey-ohje</string><string name="dialog_help_text">Tavallisimmat kirjaimet:\n\n
+   Näppää kirjainta jos se on näkyvillä.\n\n
+Vähemmän tavalliset kirjaimet:\n\n
+   Paina ja pidä, sitten liu\'uta ylös tai alas kunnes haluamasi kirjain on korostettuna.\n\n\n
+Nyt voit kokeilla! Jos kuitenkin törmäät ongelmiin lue tästä lisää:\n\n
+1) Näytä lisää kirjaimia:\n\n
+   Paina jokin kirjainnäppäin hetkeksi alas.\n\n
+2) Välimerkit:\n\n
+   Paina vaaleampia nappuloita.\n\n
+3) Teksti puheeksi:\n\n
+   Paina korjausnäppäin alas ja liu\'uta Play-nappulaan oikealle ylös.\n\n
+4) Toimintoja:\n\n
+   Paina korjausnäppäin tai välilyönti alas ja liu\'uta haluttuun toimintoon.\n\n
+5) Isot/pienet kirjaimet:\n\n
+   Paina esim. korjausnäppäintä jolloin Shift ilmestyy.\n\n
+6) Numerot/symbolit:\n\n
+   Paina välilyönti ja liu\'uta kohtiin \'123\' tai \'#@\'.\n\n
+7) Tavallisimmat symbolit:\n\n
+   Paina M ja liu\'uta symboliin.\n\n
+8) Automattinen toisto:\n\n
+Viimeisin merkki toistetaan useaan kertaan kun painaa pitkään Abc-indikaattoria.\n\n\n
+SIINÄ KAIKKI! Ole hyvä.\n\n\n
+Tai sitten vielä lisää jos haluat…\n\n
+Jos kuuntelet tekstin puheena mutta tekstikenttä on tyhjä, puhutaan leikepöydän mahdollinen teksti.\n\n
+Kun kirjoitat voit myös käyttää kahta kättä jos haluat, ilman liu\'utuksia. Paina toisella kädellä toista näppäintä.\n\n
+Liu\'utuksessakaan ei tarvitse mennä toiselle puolelle saakka sillä useimmiten ylös/alas riittää. Maaginen Toinen Käsi toimii!\n\n
+Huomaat kyllä nopeasti miten kaikki toimii. Nämä ohjeet saattavat kuulostaa turhan monimutkaisilta. Paina jonkin aikaa mitä tahansa kirjainta niin paljastuu mistä muut kirjaimet löytyvät.\n\n\n
+Shift muuttaa välimerkit:\n ! ? . , - \' seuraaviksi:\n| ~ : ; _ \" \n\n\n
+Kaikkein tärkeintä: Voit käyttää ComboKeytä kaikissa sovelluksissa. Paina näppäimistön kuvalla varustettua nappia niin voit vaihtaa helposti ComboKeyn ja vanhan näppäimistösi välillä.\n\n
+Näppäimistön vaihto onnistuu tietysti aina myös laitteesi asetusvalikoiden kautta (Kielet ja syöttö/näppäimistö).
+    </string><string name="a_quick_start"> Pikaohjeet\n</string><string name="thanks_for_reading">\nKiitos kun luit tänne asti!</string><string name="dialog_info_text">Näppäimistön kuvalla varustettua nappia painamalla voit vaihtaa vakionäppiksen ja ComboKeyn välillä.\n\n\n
+   Yksityisyyden suoja:\n\n
+ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asennettaessa lupaa muistin käyttöön koska se ylläpitää muistissa eri kielten kirjaimistoja ja merkistöjä sekä näppäinteemoja.\n\n
+   Tämä sovellus ei käytä näppäiltyä informaatiota mihinkään muuhun kuin sen syöttämiseen ComboKeytä käyttävään sovellukseen. Se ei kerää henkilökohtaisia tietoja eikä käytä ns. lisättyä todellisuutta (AR).
+        Huomaa kuitenkin, että jos tallennat sanaehdotuksia, ne ovat saatavilla laitteen yhteisessä sanakirjassa.\n\n
+   ComboKey-taustaa\n\n
+   Sovellus perustuu osittain GKOS-näppäimistön periaatteisiin, mutta sitä on perusteellisesti jatkokehitetty mm. kosketusnäytölle sopivaksi. Sekä GKOS että ComboKey® -näppikset on kehittänyt typtyper (gkos@gkos.com). - Suuret kiitokset henkilöille metapropos ja peekay avusta Android-ohjelmoinnissa ja avusta merkistöjen kehittämisessä Intian ja sen lähialueen kielille.</string><string name="addkbd">+</string><string name="switchkbdbutton">Kbd</string><string name="not_possible_im_picker">Syöttömenetelmien näyttäminen ei onnistu</string><string name="helpbutton">Ohje</string><string name="help">Ohje</string><string name="delete_all_text_confirm">Poista koko teksti?\n\nPaina Clear uudelleen!</string><string name="play_text_confirm">Teksti ääneen?\n\nPaina Play uudelleen.</string><string name="save_text_confirm">Korvaa entinen muistilappu?\n\nPaina Save uudelleen!</string><string name="save_text_empty">"Ei tekstiä tallennettavaksi!"</string><string name="save_text_done">"Muistilapun teksti korvattu uudella."</string><string name="append_text_done">"Teksti lisätty muistilapun loppuun."</string><string name="notes_text_header">"Muistiinpanot     \n"</string><string name="description_of_notes_ok_button">"Muistilapun OK-nappi."</string><string name="toast_user_string">Itse määritelty teksti (Asetuksista)</string><string name="toast_launch_string">Itse määritelty sovellus (Asetuksista)</string><string name="translate_to">Kielelle</string><string name="google_search">Google-haku…</string><string name="checking_received_smss">Vastaanotetut viestit…</string><string name="send_as_sms">Lähetetään SMS-viestinä</string><string name="no_sms_capability">Tässä laitteessa ei ole Puhelin/SMS-ominaisuutta</string><string name="aux_language_selected">Kakkoskieli</string><string name="main_language_selected">Ykköskieli</string><string name="all_text_copied">Koko teksti kopioitu leikepöydälle</string><string name="pasted_from_clipboard">Liitetty leikepöydältä</string><string name="Angika">angika</string><string name="Assamese">assameesi</string><string name="Awadhi">awadhi</string><string name="Bengali">bengali</string><string name="Bhojpuri">bhojpuri</string><string name="Bihari">bihari</string><string name="Bodo">bodo</string><string name="Catalan">katalaani</string><string name="CODING">koodaus</string><string name="Danish">tanska</string><string name="English">englanti</string><string name="Esperanto">esperanto</string><string name="Estonian">eesti</string><string name="Finnish">suomi</string><string name="French">ranska</string><string name="German">saksa</string><string name="Greek">kreikka</string><string name="Gujarati">gudzarati</string><string name="Hawaiian">havaiji</string><string name="Hindi">hindi</string><string name="Icelandic">islanti</string><string name="Indonesian">indonesia</string><string name="Italian">italia</string><string name="Kannada">kannada</string><string name="Konkani">konkani</string><string name="Maithili">maithili</string><string name="Malay">malaiji</string><string name="Malayalam">malayalam</string><string name="Marathi">marathi</string><string name="Marwari">marwari</string><string name="Nepali">nepali</string><string name="Norwegian">norja</string><string name="Oriya">oriya</string><string name="Pali">pali</string><string name="Polish">puola</string><string name="Portuguese">portugali</string><string name="Punjabi">punjabi</string><string name="Rajasthani">rajasthani</string><string name="Russian">venäjä</string><string name="Sanskrit">sanskrit</string><string name="Sindhi">sindhi</string><string name="Spanish">espanja</string><string name="Swedish">ruotsi</string><string name="Tamil">tamili</string><string name="Telugu">telugu</string><string name="Tulu">tulu</string><string name="Ukrainian">ukraina</string><string name="settings_header">Asetukset  ComboKeyBasic v5.6b1</string><string name="settings_language_header">Kieli</string><string name="settings_language2_header">Lisäkieli</string><string name="settings_language_text">Aseta näppäimistön kieli. Kielen perusteella tavallisimmat kirjaimet ovat suoraan näkyvillä ja kielen erikoismerkit saatavilla.</string><string name="settings_language2_text">Aseta näppäimistön lisäkieli. Voit vaihtaa kätevästi tämän ja pääkielen välillä kirjoittamisen aikana.</string><string name="settings_tips_header">Apua aloittelijoille</string><string name="settings_tips_text">Näytä näppäimestä löytyvät merkit, jotka normaalisti ovat piilossa. Tätä voi käyttää ihan alkuvaiheessa. HUOM: Mukavampi vaihtoehto on aina käytettävissä tästä valinnasta huolimatta: Paina näppäintä hieman pitempään, niin saat näkyviin kätketyt merkit ilman että tulostuu mitään! </string><string name="settings_tiptype_header">Avun vaihtoehdot</string><string name="settings_type_method_header">Kombot ja pyyhkäisyt</string><string name="settings_type_method_text">Jos käytät sekä liu\'utuksia (Swipe, pyyhkäisy) että komboja (Combo, näppäinyhdistelmä) eli kahdella kädellä yhtäaikaisia painalluksia, valitse oletusasetus (ylinnä). Kun kirjoitat nopeasti etkä esim. koskaan käytä komboja (vaan liu\'utat) voit estää kombot virheiden vähentämiseksi.</string><string name="settings_tiptype_text">Vinkit siitä mistä löytyy lisää kirjaimia yms. voidaan näyttää joko vaaleissa nappuloissa tai tummemmassa alueessa niiden välissä.</string><string name="settings_sound_header">Äänet</string><string name="settings_sound_text">Käytä painallusääntä. Ääniä on toiminnan mukaan erilaisia, mikä helpottaa väärien painallusten huomaamista.</string><string name="settings_sound_volume_header">Äänen voimakkuus</string><string name="settings_sound_volume_text">Valitse näppäinäänten voimakkuus.</string><string name="settings_vibrator_header">Värinä</string><string name="settings_vibrator_text">Värinä ilmaisee kombon (yhdistelmän) eli sen kun on liu\'utettu toiseen nappulaan tai kun on painettu kahta nappulaa yhtäaikaan.</string><string name="settings_symbol_flash_header">Merkkien väläytys</string><string name="settings_symbol_flash_text">Jokainen näppäilty merkki tai merkkijono näkyy hetken aikaa isona näppäimistön vieressä.</string><string name="settings_combo_flash_header">Kombon väläytys</string><string name="settings_combo_flash_text">Kun kombo eli yhdistelmä on valittu, siitä syntynyt merkki tai sana näkyy hetken aikaa isona näppäimistön vieressä.</string><string name="settings_highlight_option_header">Näppäilyn korostus</string><string name="settings_highlight_option_text">Kun näppäin on valittu joko painamalla tai pyyhkäisyllä, se näkyy korostettuna. Tässä voi valita miltä korostus näyttää.</string><string name="settings_side_panel_hidden_header">Piilota sivupaneeli</string><string name="settings_side_panel_hidden_text">Sivupaneeli, jossa on Abc- ja kieli-indikaattorit, voidaan olla näyttämättä jotta näppäimistö olis kapeampi.</string><string name="settings_fontsize_header">Tekstin koko</string><string name="settings_fontsize_text">Tekstin koko tässä sovelluksen omassa näytössä on mahdollista asettaa (ei siis silloin kun ComboKey-näppäimistöä käytetään muissa sovelluksissa)</string><string name="settings_padposition_header">Leveys ja paikka</string><string name="settings_padposition_text">Näppäimet voidaan sijoittaa joko oikeaan tai vasempaan laitaan (yhdellä kädellä kirjoittamista varten), tai keskelle (parempi kahdelle kädelle).</string><string name="settings_padheight_header">Koko ja korkeus</string><string name="settings_padheight_text">Näppäinaluetta voidaan säätää jotta se paremmin toimisi erikokoisissa laitteissa ja istuisi hyvin sormien fysiikkaan.</string><string name="settings_padtype_header">Näppäimistön tyyppi</string><string name="settings_padtype_text">Voit valita 5-rivisen näppäimistön (oletus) tai kokeellisen 3-rivisen näppäimistön.</string><string name="toast_translate_text_too_long">Teksti turhan pitkä (yli 3800 merkkiä!). Käännetään osa.</string><string name="toast_translate_from_clipboard">Käännetään teksti leikepöydältä.</string><string name="toast_select_speaktype">Asetukset > Puhetulostus ei ole päällä!</string><string name="toast_speech_not_available">Laite ei tue puheominaisuutta. Asenna \'Google Tekstistä puheeksi\' -ominaisuus Play-kaupasta!</string><string name="toast_speech_data_not_available">Puhe ei saatavissa tälle kielelle.</string><string name="toast_speech_text_too_long">Teksti liian pitkä (yli 3800 kirjainta). Luetaan osa.</string><string name="toast_speech_from_clipboard">Puhe leikepöydän teksti.</string><string name="toast_notes_blank">Muistilappu tyhjä.</string><string name="settings_speaktype_header">Puhetulostus</string><string name="settings_speaktype_text">Esim.kielten opiskeluun. Riippuen laitteessasi käytettävissä olevista kielistä voit kuunnella tekstin puheena
+        joko kirjaimittain kun kirjoitat tai kokonaisina lauseina lähtien kursorin osoittamasta kohdasta silloin kun painat Play-nappulaa (\'Puhu\'),
+        joka tulee näkyville kun Del/korjausnappia painetaan. Valitse tästä vaihtoehdot…</string><string name="settings_landscapecolumns_header">Vaaka-asennon asetus</string><string name="settings_landscapecolumns_text">Laitteen ollessa vaaka-asennossa näppäimistöalue on hyvin leveä. Voit valita sinulle parhaiten sopivan vaihtoehdon.</string><string name="settings_theme_header">Teemat</string><string name="settings_theme_text">Näppiksen visuaalista ilmettä voi muuttaa vaihtamalla teemaa. Näppäinten värit, tyyli ja tausta ovat teemoissa erilaisia.</string><string name="settings_background_header">Läpikuultava tausta</string><string name="settings_background_text">Tämän sovelluksen tekstikentän tausta voi olla joko läpikuultava tai musta. Jos valitset tämän asetuksen tausta on läpikuultava.</string><string name="settings_autocaps_header">Iso alkukirjain</string><string name="settings_autocaps_text">Asetus saa aikaan sen, että lauseen alkuun tulee automattisesti iso alkukirjain.</string><string name="settings_magic_header">Maaginen toinen käsi</string><string name="settings_magic_text">Voit näppäillä yhdistelmiä yhdellä kädellä tarvistematta liu\'uttaa sormea toiselle puolelle näppäimistöä. Riittää useimmiten ylös ja alas tapahtuva liike (Pidä päällä. Erittäin hyödyllinen ominaisuus!)</string><string name="settings_master_header">Mestarimoodi!</string><string name="settings_master_text">Piilota kaikki(!) näppäinmerkinnät kun olet täysin suvereeni ComboKeyn kanssa.</string><string name="settings_usertext_header">Käyttäjän oma teksti</string><string name="settings_usertext_text">Määrittele tässä teksti, joka on aina helposti saatavilla. Se on hyödyllinen ominaisuus kun esimerkiksi joutuu kirjoittamaan sähköpostiosoitteensa useasti.</string><string name="settings_usertext_default"> Voit määritellä tämän tekstin sovelluksen asetuksissa!</string><string name="settings_launch_header">Käynnistä sovellus</string><string name="settings_launch_text">Määritä tässä mikä laitteesi sovelluksista voidaan käynnistää suoraan näppäimistöltä numeromoodissa, jossa \'App\' löytyy Pyyhi-näppäimen takaa. Anna sovelluksen nimi täsmälleen kuten se esiintyy laitteen asetuksissa sovelluslistalla (esim. \'Laskin\').</string><string name="settings_launch_default">Laskin</string><string name="settings_removespace_header">Lisää sananväli itse</string><string name="settings_removespace_text">Valmiiksi ohjelmoidut sanat sisältävät lopussa sananvälin. Tämä voi nopeuttaa kirjoittamista, mutta usein sananvälin joutuu poistamaan, jos sanaa haluaa jatkaa tai lisätä sen perään välimerkin kuten pisteen tai pilkun. Jos haluat johdonmukaisesti itse lisätä sananvälin, käytä tätä asetusta.</string><string name="settings_langcombo_header">Estä kielenvaihto.</string><string name="settings_langcombo_text">Voit poistaa mahdollisuuden vaihtaa näppiksen kieltä näppäinyhdistelmällä. Tahaton kielen vaihtuminen nopeasti kirjoitettaessa estyy. Vaihto onnistuu joka tapauksessa kielten nimiä täppäämällä.</string><string name="settings_modechange_header">Estä moodinvaihto</string><string name="settings_modechange_text">Voit poistaa mahdollisuuden vaihtaa näppäimistön moodia (abc, 123, Symbol, Emoji) lyhyillä pyyhkäisyillä eli liu\'uttamalla Del-nappulaan viereisistä nappuloista. Tahaton moodinvaihto nopeasti kirjoitettaessa estyy. Aina voi kuitenkin vaihtaa moodia kun Space/väliltyönti -näppäin on kombossa tai pyyhkäisyssä mukana. Lyhyt Shift toimii aina.</string><string name="settings_mirror_header">Näytä peilatut merkit</string><string name="settings_mirror_text">Näytä keltaisella merkit kahdessa muuten tyhässä nappulassa, joita voi käyttää valitsemaan näppäimistön vastakkaisella laidalla olevia merkkejä/kirjaimia. Tästä on apua 3-rivisessä näppäinvaihtoehdossa, joka poikkeaa totutusta 5-rivisestä näppäinten sijoittelun suhteen.</string><string name="settings_onehand_combo_header">Yhden sormen kombot</string><string name="settings_onehand_combo_text">Joissain tilanteissa, kuten kurkoteltaessa laitetta vähän kauempaa, sormen liu\'uttaminen näytöllä voi tuntua hankalalta. No hätä! Pyyhkäisyn sijaan voit painaa ensimmäistä näppäintä aavistuksen pitempään ja sitten näpätä perään pyyhkäisyn kohdenäppäintä samalla sormella.</string><string name="settings_words_header">Näytä sanaehdotuksia</string><string name="settings_words_text">Kirjoittaessasi voit lisätä (+) sanoja sanakirjaan tai poistaa (x) niitä sieltä. Myöhemmin ne näkyvät näppäimistön yllä sanaehdotuksina. Sanojen loppuun asti kirjoittamisen sijaan voit valita kokonaisen sanan, jos se on sopiva. Huom! ÄLÄ TALLENNA MITÄÄN SALAISTA TIETOA.</string><string name="settings_hystamount_header">Tarttuvuus</string><string name="settings_hystamount_text">Liu\'uttamisen aikana valittu näppäin voidaan asettaa säilyttämään tilansa sopivassa määrin sitkeästi. Tämä voi vähentää virheitä riippuen näppäilytyylistäsi.</string><string name="settings_terminal_mode_header">Päätemoodi (SSH jne)</string><string name="settings_terminal_mode_text">Pääte-emulattorityppisessä käytössä näppäimistön täytyy pystyä toimimaan toisin ollakseen yhteensopiva. Oletus on, että tilanne havaitaan automaattisesti, mutta joskus voi olla tarpeen pakottaa moodi päälle tai pois.</string><string name="settings_font_type_header">Näppäinten tekstin fontti</string><string name="settings_font_type_text">Näppäimissä olevien kirjainten ja tekstien kirjasintyylin voi vaihtaa tässä.</string><string name="flashtext_call">Soita</string><string name="flashtext_received">Tulleet</string><string name="flashtext_send">Lähetä</string><string name="flashtext_speak">Play</string><string name="flashtext_stop">Stop</string><string name="flashtext_record">Mikr.</string><string name="flashtext_lang">Kieli</string><string name="flashtext_translate">Käännä</string><string name="flashtext_search">Haku</string><string name="flashtext_copy">Kopioi</string><string name="flashtext_paste">Liitä</string><string name="flashtext_notes">Muista</string><string name="flashtext_launch">Käynnistä</string><string name="flashtext_symbols">#@</string><string name="flashtext_repeat">Toista</string><string name="flashtext_settings">Aset.</string><string name="flashtext_shiftdown">ShiftDn</string><string name="flashtext_emoiji">:)</string><string name="header_voice_typing">Puhekirjoituksen muokkaus</string><string name="voice_input_prompt">Voit puhua nyt</string><string name="voice_input_not_supprted">Laite ei tue puhesyöttöä</string><string name="voice_activity_name">Speech To Text</string><string name="action_settings">Asetukset</string><string name="hello_world">Hei maailma!</string><string name="speech_prompt">Sano jotain…</string><string name="speech_not_supported">Harmi! Laitteesi ei tue puhesyöttöä.</string><string name="tap_on_mic">Napauta mikrofonia ja puhu.</string><string name="tap_on_mic_to_stop">STOP: Napauta mikrofonia.</string><string name="speak_or_tap_on_mic">PUHU NYT tai napauta mikrofonia.</string><string name="press_longer">Up/PgUp - Paina hieman pidempään.</string><string name="description_voice_input_button_ok">OK</string><string name="description_voice_input_button_speak">Puhu</string><string name="description_voice_input_button_clear">Tyhjennä</string><string name="description_custom_toast_icon">Kuvake</string><string name="hint_voice_input_text">…</string><string name="hint_enter_text">…</string></file><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-fi/colors.xml" qualifiers="fi"><color name="shade">#44000000</color><color name="transparent">#33000000</color><color name="candidate_background">#ff222222</color><color name="candidate_normal">#ffeeeeee</color><color name="candidate_recommended">#ffffffff</color><color name="candidate_other">#ff888888</color><color name="white">#ffffff</color><color name="gray">#aaaaaa</color><color name="gray_transp">#88ffffff</color><color name="bg_gradient_start">#31244e</color><color name="bg_gradient_end">#6b394c</color></file><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-hi/array.xml" qualifiers="hi"><string-array name="lang_names">
+		<item>Angika</item>
+		<item>Assamese</item>
+		<item>Awadhi</item>
+		<item>Bengali</item>
+		<item>Bhojpuri</item>
+		<item>Bihari</item>
+		<item>Bodo</item>
+		<item>Catalan</item>
+		<item>CODING</item>
+		<item>English</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Gujarati</item>
+		<item>Hawaiian</item>
+		<item>Hindi</item>
+		<item>Icelandic</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Kannada</item>
+		<item>Konkani</item>
+		<item>Maithili</item>
+		<item>Malay</item>
+		<item>Malayalam</item>
+		<item>Marathi</item>
+		<item>Marwari</item>
+		<item>Nepali</item>
+		<item>Norwegian</item>
+		<item>Oriya</item>
+		<item>Pali</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Punjabi</item>
+		<item>Rajasthani</item>
+		<item>Russian</item>
+		<item>Sanskrit</item>
+		<item>Sindhi</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tulu</item>
+		<item>Ukrainian</item>
+	</string-array><string-array name="lang_values">
+		<item>अंगिका</item>
+		<item>असमिया</item>
+		<item>अवधी</item>
+		<item>बंगाली</item>
+		<item>भोजपुरी</item>
+		<item>बिहारी</item>
+		<item>बोडो</item>
+		<item>कैटलन</item>
+		<item>कोड</item>
+		<item>अंग्रेज़ी</item>
+		<item>एस्पेरान्तो</item>
+		<item>एस्टोनियाई</item>
+		<item>फिनिलैंड</item>
+		<item>फ्रांसीसी</item>
+		<item>जर्मन</item>
+		<item>यूनानी</item>
+		<item>गुजराती</item>
+		<item>हवाई</item>
+		<item>हिन्दी</item>
+		<item>आइसलैंड</item>
+		<item>इन्डोनेशियाई</item>
+		<item>इतालवी</item>
+		<item>कन्नड़</item>
+		<item>कोंकणी</item>
+		<item>मैथिली</item>
+		<item>मलेय</item>
+		<item>मलयालम</item>
+		<item>मराठी</item>
+		<item>मारवाड़ी</item>
+		<item>नेपाली</item>
+		<item>नार्वेजियन</item>
+		<item>उड़िया</item>
+		<item>पाली</item>
+		<item>पोलैंड</item>
+		<item>पुर्तगाली</item>
+		<item>पंजाबी</item>
+		<item>राजस्थानी</item>
+		<item>रूस</item>
+		<item>संस्कृत</item>
+		<item>सिंधी</item>
+		<item>स्पेनिश</item>
+		<item>स्वीडैन</item>
+		<item>तमिल</item>
+		<item>तेलुगु</item>
+		<item>तुलु</item>
+		<item>यूक्रेनी</item>
+	</string-array><string-array name="theme_names">
+		<item>Basic</item>
+		<item>Blank</item>
+		<item>Cloudy</item>
+		<item>Cool</item>
+		<item>Desire</item>
+		<item>GoMeek</item>
+		<item>Healthy</item>
+		<item>Neon</item>
+		<item>Oak</item>
+		<item>Paddle</item>
+		<item>Plain</item>
+		<item>School</item>
+		<item>Sixback</item>
+		<item>Spots</item>
+		<item>Test</item>
+		<item>Tiles</item>
+		<item>Warm</item>
+		<item>Wood</item>
+	</string-array><string-array name="theme_values">
+		<item>मूल</item>
+		<item>खाली</item>
+		<item>बादल</item>
+		<item>ठंडा</item>
+		<item>इच्छा</item>
+		<item>गो मीक</item>
+		<item>स्वस्थ</item>
+		<item>नियॉन</item>
+		<item>वृक्ष</item>
+		<item>पतवार</item>
+		<item>सादा</item>
+		<item>पाठशाला</item>
+		<item>पीछे६</item>
+		<item>चिटत्ते</item>
+		<item>परीक्षण</item>
+		<item>टाली</item>
+		<item>गर्म</item>
+		<item>लकड़ी</item>
+	</string-array><string-array name="font_names">
+		<item>छोटा</item>
+		<item>मध्यम</item>
+		<item>बड़ा</item>
+		<item>विशाल</item>
+	</string-array><string-array name="font_values">
+		<item>12</item>
+		<item>20</item>
+		<item>28</item>
+		<item>36</item>
+	</string-array><string-array name="hyst_names">
+		<item>चिपचिपा नहीं</item>
+		<item>कुछ चिपचिपा (स्वतः)</item>
+		<item>चिपचिपा</item>
+		<item>बहुत चिपचिपा</item>
+	</string-array><string-array name="hyst_values">
+		<item>0</item>
+		<item>15</item>
+		<item>20</item>
+		<item>30</item>
+	</string-array><string-array name="layout_names">
+		<item>वर्णमाला</item>
+		<item>अनुकूलित 1 (पुराना)</item>
+		<item>अनुकूलित 2 (सुझाव)</item>
+		<item>अनुकूलित 3 (प्रायोगिक)</item>
+	</string-array><string-array name="layout_values">
+		<item>Alphabetical</item>
+		<item>Optimized_1</item>
+		<item>Optimized_2</item>
+		<item>Optimized_3</item>
+	</string-array><string-array name="padposition_names">
+		<item>संकीर्ण पटल दाहिना</item>
+		<item>संकीर्ण पटल बायाँ</item>
+		<item>संकीर्ण पटल बीचमें</item>
+		<item>चौड़ा पटल बीचमें</item>
+	</string-array><string-array name="padposition_values">
+		<item>2</item>
+		<item>0</item>
+		<item>3</item>
+		<item>1</item>
+	</string-array><string-array name="padheight_names">
+		<item>छोटे पटल अधिक ऊपर</item>
+		<item>पूर्ण आकार पटल</item>
+		<item>छोटे पटल अधिक नीचे</item>
+	</string-array><string-array name="padheight_values">
+		<item>10</item>
+		<item>0</item>
+		<item>20</item>
+	</string-array><string-array name="padtype_names">
+		<item>मानक 5-पंक्ति पटल (स्वतः)</item>
+		<item>प्रायोगिक 3-पंक्ति (केवल दाहिना )</item>
+	</string-array><string-array name="padtype_values">
+		<item>0</item>
+		<item>10</item>
+	</string-array><string-array name="speaktype_names">
+		<item>बोलना बंद करें</item>
+		<item>टंकन किया गया अक्षर कहें</item>
+		<item>लिखाई बोलें (स्वतः)</item>
+		<item>ऊपर के दोनौ</item>
+	</string-array><string-array name="speaktype_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="landscapecolumns_names">
+		<item>मानक (स्वतः)</item>
+		<item>दोहरा</item>
+	</string-array><string-array name="landscapecolumns_values">
+		<item>3</item>
+		<item>6</item>
+	</string-array><string-array name="tiptype_names">
+		<item>मदद कृष्ण कुँजी पर</item>
+		<item>मदद उज्जवल कुँजी पर (स्वतः)</item>
+		<item>मदद सबसे उपयोगी स्थान पर</item>
+	</string-array><string-array name="tiptype_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="type_method_names">
+		<item>Allow Taps, Swipes and Combos (Recommended!)</item>
+		<item>Taps and one-hand Swipes only</item>
+		<item>Taps and two-hand Combos only</item>
+	</string-array><string-array name="type_method_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string-array name="terminal_mode_names">
+		<item>स्वतः (सुझाव)</item>
+		<item>ज़बरज़स्ती चालू</item>
+		<item>ज़बरज़स्ती बंद</item>
+	</string-array><string-array name="terminal_mode_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="font_type_names">
+		<item>Device default</item>
+		<item>OpenDyslexic</item>
+	</string-array><string-array name="font_type_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array><string-array name="volume_names">
+		<item>Low (Default)</item>
+		<item>Medium</item>
+		<item>High</item>
+	</string-array><string-array name="volume_values">
+		<item>15</item>
+		<item>30</item>
+		<item>60</item>
+	</string-array><string-array name="onehand_combo_names">
+		<item>OFF</item>
+		<item>Hold key a short extra time</item>
+		<item>Hold a bit longer (Default)</item>
+	</string-array><string-array name="onehand_combo_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="highlight_option_names">
+		<item>Modest highlight</item>
+		<item>Strong (Default)</item>
+	</string-array><string-array name="highlight_option_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array></file><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-hi/strings.xml" qualifiers="hi"><string name="app_name">ComboKey Basic</string><string name="app_icon_name">ComboKey Basic</string><string name="kbd_service_name_in_device_settings">ComboKeyBasic</string><string name="theme_defaultvalue_in_english">Basic</string><string name="filter_title_viewcombokeycom">ComboKey.com</string><string name="app_default_locale_main">hi-IN</string><string name="app_default_locale_aux">en-IN</string><string name="main_language_defaultvalue_in_english">Hindi</string><string name="aux_language_defaultvalue_in_english">English</string><string name="main_layout_defaultvalue_in_english">Hindi_Optimized</string><string name="aux_layout_defaultvalue_in_english">English_Optimized</string><string name="clear_screen">Delete</string><string name="send_sms">SMS के रूप में भेजें</string><string name="copy">कॉपी करें</string><string name="help">मदद</string><string name="test_field">परीक्षण स्थान</string><string name="padheight_defaultvalue">0</string><string name="padtype_defaultvalue">0</string><string name="landscapecolumns_defaultvalue">3</string><string name="speaktype_defaultvalue">2</string><string name="tiptype_defaultvalue">2</string><string name="type_method_defaultvalue">1</string><string name="settingsbutton">Settings</string><string name="helpbutton">मदद</string><string name="switchkbdbutton">Kbd</string><string name="not_possible_im_picker">लिखना दिखानै के तरीके निर्धारित नहीं किये जा सकते</string><string name="pleaseaddcombokeyboard">इसके बाद आपको अपने डिवाइस की सेटिंग्स पर ले जाया जाएगा जहां आपको उपलब्ध पटल की सूची में ComboKey ​​को चालू करना है\n\n
+आपको कुछ समय ओके दबाकर ComboKey ​​पर अपने कीबोर्ड के रूप में ok करने के लिए कहा जाएगा।\n\n
+आपका पुराना कीबोर्ड भी पहले की तरह उपलब्ध होगा।\n\n
+इस ऐप के लेखक के रूप में, मैं आश्वस्त करता हूं कि कॉम्बोकी कोई व्यक्तिगत या अन्य जानकारी एकत्र नहीं करता है।\n\n
+    - टिपटाईपर, कॉम्बोके बनाने वाला</string><string name="addkbd">+</string><string name="ClearCookies">कुकीयाँ मिटायें</string><string name="ClearCookieQuestion">क्या आप वास्तव में कुकीयाँ मिटाना चाहते हैं?</string><string name="PostiveYesButton">ह्ँ !</string><string name="NegativeNoButton">नहीं</string><string name="infobutton">जानकारी</string><string name="header_add_kbd">कीबोर्ड जोड़ें</string><string name="header_info">कॉम्बोकी की जानकारी</string><string name="header_help">कॉम्बोकी मदद</string><string name="dialog_help_text">प्रचलित अक्षर\n \n
+   यदि अक्षर दिखता है तौ उस पर टॅप करें\n\n
+किसी भी वर्ग के अन्य अक्षर उस वर्ग के प्रथम अक्षर को\n\n
+   टॅप करें और दबाए रखें, फिर वांछित अक्षर की बत्ती जलाने के लिए ऊपर या नीचे टाने\n\n
+ व्यँजन के तुरन्त बाद मात्राएँ दिखैंगी\n\n
+स्वर लिखने के लीये \"वर्ण\" बटन पर टॅप करें\n\n
+अंक लिखने के लीये \"वर्ण\" बटन पर टॅप करते रहें .. दिखाई देगा\n\n
+क्ष त्र ज्ञ  के लिये \"…\" बटन पर टॅप करें\n\n
+ं ँ ः आदि के लिये \"…\" बटन दबा कर टाने\n\n\n
+अब आप इस्तेमाल कर सकते हैं !  अगर समस्याएँ हो, तो नीचे पढ़ें:\n\n
+1) और अक्षर दिखाएं:\n\n
+   किसी भी अक्षर का बटन दबाएं।\n\n
+2) पाठ बोलो:\n\n
+   [x](मिटाऔ -Del) बटन दबाएं, फिर ऊपरी दाईं ओर स्थित  |> (सुनाओ -Play) बटन पर स्वाइप करें -  दो बार\n\n
+4) कार्य दिखाएं:\n\n
+   बैकस्पेस या स्पेस दबाएँ और इच्छित आइटम पर स्लाइड करें।\n\n
+5) ऊपरी / निचले मामले:\n\n
+   Backspace (उदा।) दबाएँ और शिफ़्ट दिखाई देगा।\n\n
+6) संख्या / प्रतीक:\n\n
+   स्पेस दबाएं (जैसे) और स्लाइड करें \"123\" या \"# @\"।\n\n
+7) सामान्य प्रतीक:\n\n
+   M दबाएं और प्रतीक पर स्लाइड करें।\n\n
+8) ऑटोरपेट:\n\n
+पिछला चरित्र लंबे एबीसी इंडिकेटर\n\n\n दबाकर दोहराया जाता है
+बस! का आनंद लें।\n\n\n
+अभी भी अधिक विवरण …\n\n
+यदि आप भाषण में पाठ खेलते हैं, लेकिन पाठ फ़ील्ड खाली है, तो क्लिपबोर्ड में पाठ बोला जाएगा, यदि कोई हो। \n \n
+टाइप करते समय, आप एक ही समय में दो कुंजी दबा सकते हैं यदि आप दोनों हाथों का उपयोग करना चाहते हैं, तो एक कुंजी दबाने और एक हाथ से दूसरे बटन पर स्वाइप करने के बजाय। \n \n
+हालाँकि, वहाँ दूसरी तरफ के रूप में दूर स्वाइप करने की कोई जरूरत नहीं है! ऊपर या नीचे स्वाइप करके देखें। मैजिक अदर हैंड ट्रिक करता है! \n \n
+आप जल्दी से महसूस करेंगे कि सब कुछ कैसे काम करता है। कोई याद रखने की आवश्यकता नहीं है। जो पाया जा सकता है उसे देखने के लिए थोड़ी देर के लिए किसी भी कुंजी को दबाए रखें
+शिफ्ट विराम चिह्नों को संशोधित करता है: \n! ? । , - \'बन \n | ~:; _ \"\n\n\n
+सबसे महत्वपूर्ण: आप ComboKey ​​को अपने डिफ़ॉल्ट एंड्रॉइड कीबोर्ड के रूप में उपयोग कर सकते हैं। अपने डिवाइस के डिफ़ॉल्ट कीबोर्ड को आसानी से बदलने के लिए कीबोर्ड आइकन के साथ बटन दबाएं। \n \n
+यह निश्चित रूप से, आपके डिवाइस (भाषा और इनपुट) के सेटिंग मेनू का उपयोग करके कीबोर्ड (इनपुट विधि) को बदलना भी संभव है।
+    </string><string name="a_quick_start">एक त्वरित प्रारंभ\n</string><string name="thanks_for_reading">\nपढ़ने के लिए \nThanks!</string><string name="dialog_info_text">कॉम्बोके और स्टैंडर्ड कीबोर्ड के बीच स्विच करने के लिए कीबोर्ड आइकन दिखाते हुए बटन दबाएँ। \n \n विभिन्न डिफॉल्ट कीबोर्ड के बीच स्विच करने का एक आसान तरीका है कॉम्बो ऐप पर आना और कीबोर्ड के साथ कुंजी दबाएं। आइकन।\n\n\n
+   गोपनीयता नीति:\n\n
+   ComboKey ​​Plus अन्य अनुप्रयोगों के लिए कीबोर्ड के रूप में कार्य कर सकता है। इसके लिए अलग-अलग भाषाओं के साथ-साथ कीबोर्ड बटन थीम के लिए अक्षरों और प्रतीकों को बनाए रखने के लिए भंडारण अनुमति की आवश्यकता होती है।\n\n
+   एप्लिकेशन किसी और चीज़ के लिए कीबोर्ड टाइपिंग की जानकारी का उपयोग नहीं करता है, लेकिन दबाए गए कुंजी डेटा को उस एप्लिकेशन को पास करता है जो कीबोर्ड का उपयोग करता है। एप्लिकेशन कोई भी व्यक्तिगत उपयोगकर्ता जानकारी एकत्र नहीं करता है, न ही यह संवर्धित वास्तविकता का उपयोग करता है।
+        हालाँकि, ध्यान दें, यदि आप एकल सामान्य शब्दों को सहेजते हैं, तो वे आपके डिवाइस के उपयोगकर्ता शब्दकोश में उपलब्ध होंगे।\n\n
+   और अधिक: combokey.com
+    </string><string name="delete_all_text_confirm">Delete all text?\n\nPress Clear again to delete.</string><string name="play_text_confirm">Play text?\n\nPress Play again for speech!</string><string name="save_text_confirm">Replace old notes?\n\nYes = Press Save again!</string><string name="save_text_empty">"No text to save!"</string><string name="save_text_done">"Text saved. Old Notes replaced."</string><string name="append_text_done">"Text added to old Notes."</string><string name="notes_text_header">"Notes      \n"</string><string name="description_of_notes_ok_button">"Notes OK button."</string><string name="toast_user_string">User-defined text (from Settings)</string><string name="toast_launch_string">Starting user-defined app (in Settings)</string><string name="translate_to">Translate to</string><string name="google_search">Google search…</string><string name="checking_received_smss">Checking received messages…</string><string name="send_as_sms">Send as SMS</string><string name="no_sms_capability">No SMS/Phone capability found on this device</string><string name="aux_language_selected">Aux language</string><string name="main_language_selected">Main language</string><string name="all_text_copied">All text copied to clipboard</string><string name="pasted_from_clipboard">Pasted from clipboard</string><string name="Angika">Angika</string><string name="Assamese">Assamese</string><string name="Awadhi">Awadhi</string><string name="Bengali">Bengali</string><string name="Bhojpuri">Bhojpuri</string><string name="Bihari">Bihari</string><string name="Bodo">Bodo</string><string name="Catalan">Catalan</string><string name="CODING">Coding</string><string name="Danish">Danish</string><string name="English">English</string><string name="Esperanto">Esperanto</string><string name="Estonian">Estonian</string><string name="Finnish">Finnish</string><string name="French">French</string><string name="German">German</string><string name="Greek">Greek</string><string name="Gujarati">Gujarati</string><string name="Hawaiian">Hawaiian</string><string name="Hindi">Hindi</string><string name="Icelandic">Icelandic</string><string name="Indonesian">Indonesian</string><string name="Italian">Italian</string><string name="Kannada">Kannada</string><string name="Konkani">Konkani</string><string name="Maithili">Maithili</string><string name="Malay">Malay</string><string name="Malayalam">Malayalam</string><string name="Marathi">Marathi</string><string name="Marwari">Marwari</string><string name="Nepali">Nepali</string><string name="Norwegian">Norwegian</string><string name="Oriya">Oriya</string><string name="Pali">Pali</string><string name="Polish">Polish</string><string name="Portuguese">Portuguese</string><string name="Punjabi">Punjabi</string><string name="Rajasthani">Rajasthani</string><string name="Russian">Russian</string><string name="Sanskrit">Sanskrit</string><string name="Sindhi">Sindhi</string><string name="Spanish">Spanish</string><string name="Swedish">Swedish</string><string name="Tamil">Tamil</string><string name="Telugu">Telugu</string><string name="Tulu">Tulu</string><string name="Ukrainian">Ukrainian</string><string name="settings_header">Settings  ComboKeyBasic v5.6b1</string><string name="settings_language_header">Main Language</string><string name="settings_language2_header">Aux Language</string><string name="settings_language_text">Set the main language for the keyboard. Based on selected language, the most common letters are directly visible and native letters are available.</string><string name="settings_language2_text">Set the auxiliary language for the keyboard. You can switch quickly between this and the main language during typing. </string><string name="settings_tips_header">Tips for beginners</string><string name="settings_tips_text">Show available, normally hidden, characters on the buttons. Feature to be used while learning the method. NOTE: Alternatively, you can always press and hold any button for a short period to see what else is available, without typing a letter!</string><string name="settings_tiptype_header">Tips options</string><string name="settings_tiptype_text">The Tips showing where to find more characters can be shown on the lighter main buttons, or on the darker buttons/area between them.</string><string name="settings_type_method_header">Using Combos and Swipes</string><string name="settings_type_method_text">If you use occasionally Swipes (one hand) and Combos (simultaneous presses using two hands), select the recommended setting on top. When typing fast, depending on your way of typing, it might be useful e.g. to disable Combos if you never use them (using Swipes instead).</string><string name="settings_sound_header">Sound on</string><string name="settings_sound_text">Use sound on key presses. Helps to detect missed/wrong keys.</string><string name="settings_sound_volume_header">Sound Volume</string><string name="settings_sound_volume_text">Set key press sound volume.</string><string name="settings_vibrator_header">Vibrator on</string><string name="settings_vibrator_text">Use the vibrator to indicate a swipe to another button and a key press that combines two buttons simultaneously.</string><string name="settings_symbol_flash_header">Symbols Flash on</string><string name="settings_symbol_flash_text">While typing, each entered symbol or string will shortly be shown in big font next to the keypad.</string><string name="settings_combo_flash_header">Combo Flash on</string><string name="settings_combo_flash_text">When a combo is typed or swiped, the typed symbol or string will shortly be shown in big font next to the keypad.</string><string name="settings_highlight_option_header">Button Highlight</string><string name="settings_highlight_option_text">When a key is tapped or swiped to, it will be highlighted as a visual response. You can select the visual response options here.</string><string name="settings_side_panel_hidden_header">Hide Side Panel</string><string name="settings_side_panel_hidden_text">The side panel with Abc and Language indicators can be hidden to reduce keyboard width.</string><string name="settings_fontsize_header">Font Size</string><string name="settings_fontsize_text">Font size in the standalone ComboKey application (not when using this app as a system/default keyboard)</string><string name="settings_padposition_header">Pad Width and Position</string><string name="settings_padposition_text">In vertical orientation of the device, the keypad can be positioned left or right (one-hand typing), or at the center (two-hand typing).</string><string name="settings_padheight_header">Pad Height and Position</string><string name="settings_padheight_text">In vertical orientation, the height of the ComboKey system keypad can be adjusted to match your needs and the metrics of your device.</string><string name="settings_padtype_header">Pad Type</string><string name="settings_padtype_text">You can select the standard ComboKey 5-row keypad (default) or the experimental 3-row keypad.</string><string name="toast_translate_text_too_long">Text too long (over 3800 chars). Translating part of it.</string><string name="toast_translate_from_clipboard">Translating clipboard text.</string><string name="settings_speaktype_header">Voice output</string><string name="toast_speech_not_available">No text-to-speech support on device. Install \'Google Text to Speech\' tool from Play store!</string><string name="toast_speech_data_not_available">No speech available for this language.</string><string name="toast_speech_text_too_long">Text too long (over 3800 chars). Reading part of it.</string><string name="toast_speech_from_clipboard">Speaking clipboard text.</string><string name="toast_select_speaktype">Settings > Voice output is OFF!</string><string name="toast_notes_blank">No Notes found.</string><string name="settings_speaktype_text">E.g. for studying languages. Depending on available/installed languages on your device, you can hear the text spoken, either each letter while typing,
+        or the complete text starting from cursor position when you press the Play button (found while pressing Del/Backspace button). Please, select options here…</string><string name="settings_landscapecolumns_header">Horizontal Pad Setting</string><string name="settings_landscapecolumns_text">In landscape (horizontal) orientation, the available area for the keyboard is very broad. You can choose a layout that suits you best.</string><string name="settings_theme_header">Themes</string><string name="settings_theme_text">Set the visible style for the keyboard. Button types and colors can be selected.</string><string name="settings_background_header">Transparent Background</string><string name="settings_background_text">In the stand-alone app, use text on transparent background instead of black.</string><string name="settings_autocaps_header">Automatic capitals</string><string name="settings_autocaps_text">At the beginning of a sentence, use upper case automatically.</string><string name="settings_magic_header">Magic Other Hand</string><string name="settings_magic_text">Enable also single handed typing by mirroring swipes to the opposite side (Recommended. Very useful!)</string><string name="settings_master_header">Master Mode!</string><string name="settings_master_text">Hide all(!) button characters when you are completely familiar with the keyboard</string><string name="settings_usertext_header">User defined text</string><string name="settings_usertext_text">Define text here and then enter it directly from the keyboard by a shortcut combo. Useful e.g. for a frequent text like your email address.</string><string name="settings_usertext_default"> You can define this text in app Settings!</string><string name="settings_launch_header">App to start</string><string name="settings_launch_text">Define here which of your installed applications you want to start directly, from the keyboard by a shortcut combo in number mode (Del key will show \'App\' icon). Give the app name exactly as it appears on the applications list in device settings (e.g. Calculator).</string><string name="settings_launch_default">Calculator</string><string name="settings_removespace_header">No trailing space</string><string name="settings_removespace_text">Shortcut words often end with a space. This can make typing quicker but you cannot add anything to the word or end the sentence without deleting the space. If you want to be consistent and always add the space yourself, use this setting.</string><string name="settings_langcombo_header">Disable Lang combo</string><string name="settings_langcombo_text">You can disable the possibility to switch between main and aux languages by using a keypad combo/swipe. This is to avoid undesired change of language during typing. Pressing the language names will do the job anyway.</string><string name="settings_modechange_header">Disable quick Mode change</string><string name="settings_modechange_text">You can disable the possibility to switch between abc, 123, Symbols and Emoji modes of the keypad with the extra short swipes (i.e. swiping to Del key from neighboring keys). This is to avoid undesired change of Mode during fast typing. Mode change is always possible the standard way, i.e. by using combos/swipes involving the Space key.</string><string name="settings_mirror_header">Show mirror characters</string><string name="settings_mirror_text">Show in yellow color, characters on two otherwise empty buttons that can be used to select characters on the opposite side of the keypad. Feature can help finding some common letters while using the 3-row key pad where the order of buttons is different from the 5-row pad.</string><string name="settings_onehand_combo_header">One-finger Combos</string><string name="settings_onehand_combo_text">In some situations, like reaching the device from a distance, swiping on the display may not feel practical. No problem! Instead of a swipe, you can tap the first key and hold it just a little bit longer. Now you can do a second tap on the swipe destination key with the same finger.</string><string name="settings_words_header">Show Candidate Words</string><string name="settings_words_text">You can add (+) words into Dictionary, or remove (x) them, while typing. These will later be proposed to you above the keypad. Instead of typing complete words, you can tap on a proposed word if valid. NOTE! DO NOT SAVE SENSITIVE INFO!</string><string name="settings_hystamount_header">Sticky buttons</string><string name="settings_hystamount_text">During swiping, buttons can be set to resist leaving their selected state to a certain degree. This may decrease slipping to an unwanted button, depending on your way of typing.</string><string name="settings_terminal_mode_header">Terminal mode (SSH etc.)</string><string name="settings_terminal_mode_text">The keyboard must operate differently, when used together with a terminal emulator or alike, to be compatible. This need is detected automatically but in some cases it may be necessary to be able force the Terminal mode on or off.</string><string name="settings_font_type_header">Button Text Font</string><string name="settings_font_type_text">The optional font on the buttons can be selected here.</string><string name="flashtext_call">Call</string><string name="flashtext_received">Received</string><string name="flashtext_send">Send</string><string name="flashtext_speak">Play</string><string name="flashtext_stop">Stop</string><string name="flashtext_record">Mic</string><string name="flashtext_lang">Lang</string><string name="flashtext_translate">Translate</string><string name="flashtext_search">Search</string><string name="flashtext_copy">Copy</string><string name="flashtext_paste">Paste</string><string name="flashtext_notes">Notes</string><string name="flashtext_launch">Start</string><string name="flashtext_symbols">#@</string><string name="flashtext_repeat">Repeat</string><string name="flashtext_settings">Set..</string><string name="flashtext_shiftdown">ShiftDn</string><string name="flashtext_emoiji">:)</string><string name="header_voice_typing">ComboKey Voice Typing Editor</string><string name="voice_input_prompt">Start speaking</string><string name="voice_input_not_supprted">Voice input not supported</string><string name="voice_activity_name">Speech To Text</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="speech_prompt">Say something…</string><string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string><string name="tap_on_mic">Tap on mic to speak</string><string name="tap_on_mic_to_stop">STOP: Tap on mic.</string><string name="speak_or_tap_on_mic">SPEAK NOW or tap on Mic</string><string name="press_longer">Up/PgUp - Press a bit longer.</string><string name="description_voice_input_button_ok">OK</string><string name="description_voice_input_button_speak">Speak</string><string name="description_voice_input_button_clear">Clear</string><string name="description_custom_toast_icon">Icon</string><string name="hint_voice_input_text">…</string><string name="hint_enter_text">…</string></file><file path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-hi/colors.xml" qualifiers="hi"><color name="shade">#44000000</color><color name="transparent">#33000000</color><color name="candidate_background">#ff222222</color><color name="candidate_normal">#ffeeeeee</color><color name="candidate_recommended">#ffffffff</color><color name="candidate_other">#ff888888</color><color name="white">#ffffff</color><color name="gray">#aaaaaa</color><color name="gray_transp">#88ffffff</color><color name="bg_gradient_start">#31244e</color><color name="bg_gradient_end">#6b394c</color></file><file name="preferences" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/preferences.xml" qualifiers="" type="xml"/><file name="edit_text_shape" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/edit_text_shape.xml" qualifiers="" type="xml"/><file name="transp_rect" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/transp_rect.xml" qualifiers="" type="xml"/><file name="black_rect" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/black_rect.xml" qualifiers="" type="xml"/><file name="method" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/method.xml" qualifiers="" type="xml"/><file name="white_rect" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/white_rect.xml" qualifiers="" type="xml"/><file name="opendyslexicalta_italic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/font/opendyslexicalta_italic.otf" qualifiers="" type="font"/><file name="opendyslexicalta_bold" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/font/opendyslexicalta_bold.otf" qualifiers="" type="font"/><file name="opendyslexicalta_bolditalic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/font/opendyslexicalta_bolditalic.otf" qualifiers="" type="font"/><file name="opendyslexic" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/font/opendyslexic.xml" qualifiers="" type="font"/><file name="opendyslexicalta_regular" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/font/opendyslexicalta_regular.otf" qualifiers="" type="font"/><file name="input_smaller_higher" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input_smaller_higher.xml" qualifiers="" type="layout"/><file name="help_dialog" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/help_dialog.xml" qualifiers="" type="layout"/><file name="input_smaller_lower" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input_smaller_lower.xml" qualifiers="" type="layout"/><file name="custom_toast" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/custom_toast.xml" qualifiers="" type="layout"/><file name="input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input.xml" qualifiers="" type="layout"/><file name="first_dialog" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/first_dialog.xml" qualifiers="" type="layout"/><file name="input_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input_3row.xml" qualifiers="" type="layout"/><file name="activity_notes" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/activity_notes.xml" qualifiers="" type="layout"/><file name="tips_dialog" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/tips_dialog.xml" qualifiers="" type="layout"/><file name="activity_voice_input" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/activity_voice_input.xml" qualifiers="" type="layout"/><file name="input_smaller_higher_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input_smaller_higher_3row.xml" qualifiers="" type="layout"/><file name="activity" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/activity.xml" qualifiers="" type="layout"/><file name="input_words" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input_words.xml" qualifiers="" type="layout"/><file name="input_smaller_lower_3row" path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input_smaller_lower_3row.xml" qualifiers="" type="layout"/></source><source path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/generated/res/rs/debug"/><source path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable><declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable><declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable><declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable><declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable><declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable></configuration></mergedItems></merger>

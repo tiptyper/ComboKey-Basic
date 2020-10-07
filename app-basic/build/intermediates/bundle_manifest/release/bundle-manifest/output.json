@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":55,"versionName":"5.5","enabled":true,"outputFile":"app-basic-release.apk","fullName":"release","baseName":"release","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.combokey.basic","split":"","minSdkVersion":"14"}}]

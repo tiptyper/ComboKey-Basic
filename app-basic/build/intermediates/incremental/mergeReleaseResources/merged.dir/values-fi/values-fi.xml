@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_names">
+		<item>Pieni</item>
+		<item>Keskikoko</item>
+		<item>Suuri</item>
+		<item>Valtava</item>
+	</string-array>
+    <string-array name="font_type_names">
+		<item>Laitteen oletusfontti</item>
+		<item>OpenDyslexic-fontti</item>
+	</string-array>
+    <string-array name="font_type_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+    <string-array name="font_values">
+		<item>12</item>
+		<item>20</item>
+		<item>28</item>
+		<item>36</item>
+	</string-array>
+    <string-array name="highlight_option_names">
+		<item>Heikompi korostus</item>
+		<item>Vahva korostus (oletus)</item>
+	</string-array>
+    <string-array name="highlight_option_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+    <string-array name="hyst_names">
+		<item>Ei tartu</item>
+		<item>Hieman tarttuu (oletus)</item>
+		<item>Tarttuu</item>
+		<item>Tarttuu tehokkaasti</item>
+	</string-array>
+    <string-array name="hyst_values">
+		<item>0</item>
+		<item>15</item>
+		<item>20</item>
+		<item>30</item>
+	</string-array>
+    <string-array name="landscapecolumns_names">
+		<item>Normaali (oletus)</item>
+		<item>Jaettu</item>
+	</string-array>
+    <string-array name="landscapecolumns_values">
+		<item>3</item>
+		<item>6</item>
+	</string-array>
+    <string-array name="lang_names">
+		<item>Angika</item>
+		<item>Assamese</item>
+		<item>Awadhi</item>
+		<item>Bengali</item>
+		<item>Bhojpuri</item>
+		<item>Bihari</item>
+		<item>Bodo</item>
+		<item>Catalan</item>
+		<item>CODING</item>
+		<item>English</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Gujarati</item>
+		<item>Hawaiian</item>
+		<item>Hindi</item>
+		<item>Icelandic</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Kannada</item>
+		<item>Konkani</item>
+		<item>Maithili</item>
+		<item>Malay</item>
+		<item>Malayalam</item>
+		<item>Marathi</item>
+		<item>Marwari</item>
+		<item>Nepali</item>
+		<item>Norwegian</item>
+		<item>Oriya</item>
+		<item>Pali</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Punjabi</item>
+		<item>Rajasthani</item>
+		<item>Russian</item>
+		<item>Sanskrit</item>
+		<item>Sindhi</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tulu</item>
+		<item>Ukrainian</item>
+	</string-array>
+    <string-array name="lang_values">
+		<item>angika</item>
+		<item>assameesi</item>
+		<item>awadhi</item>
+		<item>bengali</item>
+		<item>bhojpuri</item>
+		<item>bihari</item>
+		<item>bodo</item>
+		<item>katalaani</item>
+		<item>CODING</item>
+		<item>englanti</item>
+		<item>esperanto</item>
+		<item>viro</item>
+		<item>suomi</item>
+		<item>ranska</item>
+		<item>saksa</item>
+		<item>kreikka</item>
+		<item>gudzarati</item>
+		<item>havaiji</item>
+		<item>hindi</item>
+		<item>islanti</item>
+		<item>indonesia</item>
+		<item>italia</item>
+		<item>kannada</item>
+		<item>konkani</item>
+		<item>maithili</item>
+		<item>malaiji</item>
+		<item>malajalam</item>
+		<item>marathi</item>
+		<item>marwari</item>
+		<item>nepali</item>
+		<item>norja</item>
+		<item>orija</item>
+		<item>pali</item>
+		<item>puola</item>
+		<item>portugali</item>
+		<item>punjabi</item>
+		<item>rajasthani</item>
+		<item>venäjä</item>
+		<item>sanskrit</item>
+		<item>sindhi</item>
+		<item>espanja</item>
+		<item>ruotsi</item>
+		<item>tamili</item>
+		<item>telugu</item>
+		<item>tulu</item>
+		<item>ukraina</item>
+	</string-array>
+    <string-array name="layout_names">
+		<item>Aakkosellinen</item>
+		<item>Optimoitu 1 (Old)</item>
+		<item>Optimoitu 2 (Recommended)</item>
+		<item>Optimoitu 3 (Experimental)</item>
+	</string-array>
+    <string-array name="layout_values">
+		<item>Alphabetical</item>
+		<item>Optimized_1</item>
+		<item>Optimized_2</item>
+		<item>Optimized_3</item>
+	</string-array>
+    <string-array name="onehand_combo_names">
+		<item>Ei päällä</item>
+		<item>Paina ja pidä hetki</item>
+		<item>Pidä pidempään (oletus)</item>
+	</string-array>
+    <string-array name="onehand_combo_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+    <string-array name="padheight_names">
+		<item>Pienempi ylempänä</item>
+		<item>Täysikokoinen</item>
+		<item>Pienempi alempana</item>
+	</string-array>
+    <string-array name="padheight_values">
+		<item>10</item>
+		<item>0</item>
+		<item>20</item>
+	</string-array>
+    <string-array name="padposition_names">
+		<item>Kapea oikealla</item>
+		<item>Kapea vasemmalla</item>
+		<item>Kapea keskellä</item>
+		<item>Leveä keskellä</item>
+	</string-array>
+    <string-array name="padposition_values">
+		<item>2</item>
+		<item>0</item>
+		<item>3</item>
+		<item>1</item>
+	</string-array>
+    <string-array name="padtype_names">
+		<item>Normaali 5-rivinen ComboKey (oletus)</item>
+		<item>Kokeellinen 3-rivinen ComboKey-näppis</item>
+	</string-array>
+    <string-array name="padtype_values">
+		<item>0</item>
+		<item>10</item>
+	</string-array>
+    <string-array name="speaktype_names">
+		<item>Ei puhetta</item>
+		<item>Sanoo painetun kirjaimen</item>
+		<item>Puhuu tekstiä (oletus)</item>
+		<item>Molemmat toiminnassa</item>
+	</string-array>
+    <string-array name="speaktype_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+    <string-array name="terminal_mode_names">
+		<item>Auto (suositus!)</item>
+		<item>Pakotettu ON</item>
+		<item>Pakotettu OFF</item>
+	</string-array>
+    <string-array name="terminal_mode_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+    <string-array name="theme_names">
+		<item>Basic</item>
+		<item>Blank</item>
+		<item>Cloudy</item>
+		<item>Cool</item>
+		<item>Desire</item>
+		<item>GoMeek</item>
+		<item>Healthy</item>
+		<item>Neon</item>
+		<item>Oak</item>
+		<item>Paddle</item>
+		<item>Plain</item>
+		<item>School</item>
+		<item>Sixback</item>
+		<item>Spots</item>
+		<item>Test</item>
+		<item>Tiles</item>
+		<item>Warm</item>
+		<item>Wood</item>
+	</string-array>
+    <string-array name="theme_values">
+		<item>Perus</item>
+		<item>Blanko</item>
+		<item>Pilvinen</item>
+		<item>Viileä</item>
+		<item>Halu</item>
+		<item>Vaatimaton</item>
+		<item>Terveellinen</item>
+		<item>Neon</item>
+		<item>Tammi</item>
+		<item>Räpylä</item>
+		<item>Pelkkä</item>
+		<item>Koulu</item>
+		<item>Sixbäkki</item>
+		<item>Täplät</item>
+		<item>Testi</item>
+		<item>Tiilet</item>
+		<item>Lämmin</item>
+		<item>Puu</item>
+	</string-array>
+    <string-array name="tiptype_names">
+		<item>Apu tummemmissa nappuloissa</item>
+		<item>Apu vaaleammissa napp. (oletus)</item>
+		<item>Apu sopivissa paikoissa</item>
+	</string-array>
+    <string-array name="tiptype_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+    <string-array name="type_method_names">
+		<item>Salli painallukset, pyyhkäisyt ja kombot (suositus!)</item>
+		<item>Vain painallukset ja yhden käden pyyhkäisyt</item>
+		<item>Vain painallukset ja kahden käden kombot</item>
+	</string-array>
+    <string-array name="type_method_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+    <string-array name="volume_names">
+		<item>Hiljainen (oletus)</item>
+		<item>Keskiasento</item>
+		<item>Voimakas</item>
+	</string-array>
+    <string-array name="volume_values">
+		<item>15</item>
+		<item>30</item>
+		<item>60</item>
+	</string-array>
+    <color name="bg_gradient_end">#6b394c</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="candidate_background">#ff222222</color>
+    <color name="candidate_normal">#ffeeeeee</color>
+    <color name="candidate_other">#ff888888</color>
+    <color name="candidate_recommended">#ffffffff</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="gray_transp">#88ffffff</color>
+    <color name="shade">#44000000</color>
+    <color name="transparent">#33000000</color>
+    <color name="white">#ffffff</color>
+    <string name="Angika">angika</string>
+    <string name="Assamese">assameesi</string>
+    <string name="Awadhi">awadhi</string>
+    <string name="Bengali">bengali</string>
+    <string name="Bhojpuri">bhojpuri</string>
+    <string name="Bihari">bihari</string>
+    <string name="Bodo">bodo</string>
+    <string name="CODING">koodaus</string>
+    <string name="Catalan">katalaani</string>
+    <string name="ClearCookieQuestion">Haluatko todella poistaa koko tekstin?</string>
+    <string name="ClearCookies">Poista teksti</string>
+    <string name="Danish">tanska</string>
+    <string name="English">englanti</string>
+    <string name="Esperanto">esperanto</string>
+    <string name="Estonian">eesti</string>
+    <string name="Finnish">suomi</string>
+    <string name="French">ranska</string>
+    <string name="German">saksa</string>
+    <string name="Greek">kreikka</string>
+    <string name="Gujarati">gudzarati</string>
+    <string name="Hawaiian">havaiji</string>
+    <string name="Hindi">hindi</string>
+    <string name="Icelandic">islanti</string>
+    <string name="Indonesian">indonesia</string>
+    <string name="Italian">italia</string>
+    <string name="Kannada">kannada</string>
+    <string name="Konkani">konkani</string>
+    <string name="Maithili">maithili</string>
+    <string name="Malay">malaiji</string>
+    <string name="Malayalam">malayalam</string>
+    <string name="Marathi">marathi</string>
+    <string name="Marwari">marwari</string>
+    <string name="NegativeNoButton">Ei</string>
+    <string name="Nepali">nepali</string>
+    <string name="Norwegian">norja</string>
+    <string name="Oriya">oriya</string>
+    <string name="Pali">pali</string>
+    <string name="Polish">puola</string>
+    <string name="Portuguese">portugali</string>
+    <string name="PostiveYesButton">Kyllä!</string>
+    <string name="Punjabi">punjabi</string>
+    <string name="Rajasthani">rajasthani</string>
+    <string name="Russian">venäjä</string>
+    <string name="Sanskrit">sanskrit</string>
+    <string name="Sindhi">sindhi</string>
+    <string name="Spanish">espanja</string>
+    <string name="Swedish">ruotsi</string>
+    <string name="Tamil">tamili</string>
+    <string name="Telugu">telugu</string>
+    <string name="Tulu">tulu</string>
+    <string name="Ukrainian">ukraina</string>
+    <string name="a_quick_start"> Pikaohjeet\n</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="addkbd">+</string>
+    <string name="all_text_copied">Koko teksti kopioitu leikepöydälle</string>
+    <string name="app_default_locale_aux">en-US</string>
+    <string name="app_default_locale_main">fi-FI</string>
+    <string name="app_icon_name">ComboKey Basic</string>
+    <string name="app_name">ComboKey Basic</string>
+    <string name="append_text_done">"Teksti lisätty muistilapun loppuun."</string>
+    <string name="aux_language_defaultvalue_in_english">English</string>
+    <string name="aux_language_selected">Kakkoskieli</string>
+    <string name="aux_layout_defaultvalue_in_english">English_Optimized</string>
+    <string name="checking_received_smss">Vastaanotetut viestit…</string>
+    <string name="clear_screen">Pyyhi</string>
+    <string name="copy">Kopioi</string>
+    <string name="delete_all_text_confirm">Poista koko teksti?\n\nPaina Clear uudelleen!</string>
+    <string name="description_of_notes_ok_button">"Muistilapun OK-nappi."</string>
+    <string name="dialog_help_text">Tavallisimmat kirjaimet:\n\n
+   Näppää kirjainta jos se on näkyvillä.\n\n
+Vähemmän tavalliset kirjaimet:\n\n
+   Paina ja pidä, sitten liu\'uta ylös tai alas kunnes haluamasi kirjain on korostettuna.\n\n\n
+Nyt voit kokeilla! Jos kuitenkin törmäät ongelmiin lue tästä lisää:\n\n
+1) Näytä lisää kirjaimia:\n\n
+   Paina jokin kirjainnäppäin hetkeksi alas.\n\n
+2) Välimerkit:\n\n
+   Paina vaaleampia nappuloita.\n\n
+3) Teksti puheeksi:\n\n
+   Paina korjausnäppäin alas ja liu\'uta Play-nappulaan oikealle ylös.\n\n
+4) Toimintoja:\n\n
+   Paina korjausnäppäin tai välilyönti alas ja liu\'uta haluttuun toimintoon.\n\n
+5) Isot/pienet kirjaimet:\n\n
+   Paina esim. korjausnäppäintä jolloin Shift ilmestyy.\n\n
+6) Numerot/symbolit:\n\n
+   Paina välilyönti ja liu\'uta kohtiin \'123\' tai \'#@\'.\n\n
+7) Tavallisimmat symbolit:\n\n
+   Paina M ja liu\'uta symboliin.\n\n
+8) Automattinen toisto:\n\n
+Viimeisin merkki toistetaan useaan kertaan kun painaa pitkään Abc-indikaattoria.\n\n\n
+SIINÄ KAIKKI! Ole hyvä.\n\n\n
+Tai sitten vielä lisää jos haluat…\n\n
+Jos kuuntelet tekstin puheena mutta tekstikenttä on tyhjä, puhutaan leikepöydän mahdollinen teksti.\n\n
+Kun kirjoitat voit myös käyttää kahta kättä jos haluat, ilman liu\'utuksia. Paina toisella kädellä toista näppäintä.\n\n
+Liu\'utuksessakaan ei tarvitse mennä toiselle puolelle saakka sillä useimmiten ylös/alas riittää. Maaginen Toinen Käsi toimii!\n\n
+Huomaat kyllä nopeasti miten kaikki toimii. Nämä ohjeet saattavat kuulostaa turhan monimutkaisilta. Paina jonkin aikaa mitä tahansa kirjainta niin paljastuu mistä muut kirjaimet löytyvät.\n\n\n
+Shift muuttaa välimerkit:\n ! ? . , - \' seuraaviksi:\n| ~ : ; _ \" \n\n\n
+Kaikkein tärkeintä: Voit käyttää ComboKeytä kaikissa sovelluksissa. Paina näppäimistön kuvalla varustettua nappia niin voit vaihtaa helposti ComboKeyn ja vanhan näppäimistösi välillä.\n\n
+Näppäimistön vaihto onnistuu tietysti aina myös laitteesi asetusvalikoiden kautta (Kielet ja syöttö/näppäimistö).
+    </string>
+    <string name="dialog_info_text">Näppäimistön kuvalla varustettua nappia painamalla voit vaihtaa vakionäppiksen ja ComboKeyn välillä.\n\n\n
+   Yksityisyyden suoja:\n\n
+ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asennettaessa lupaa muistin käyttöön koska se ylläpitää muistissa eri kielten kirjaimistoja ja merkistöjä sekä näppäinteemoja.\n\n
+   Tämä sovellus ei käytä näppäiltyä informaatiota mihinkään muuhun kuin sen syöttämiseen ComboKeytä käyttävään sovellukseen. Se ei kerää henkilökohtaisia tietoja eikä käytä ns. lisättyä todellisuutta (AR).
+        Huomaa kuitenkin, että jos tallennat sanaehdotuksia, ne ovat saatavilla laitteen yhteisessä sanakirjassa.\n\n
+   ComboKey-taustaa\n\n
+   Sovellus perustuu osittain GKOS-näppäimistön periaatteisiin, mutta sitä on perusteellisesti jatkokehitetty mm. kosketusnäytölle sopivaksi. Sekä GKOS että ComboKey® -näppikset on kehittänyt typtyper (gkos@gkos.com). - Suuret kiitokset henkilöille metapropos ja peekay avusta Android-ohjelmoinnissa ja avusta merkistöjen kehittämisessä Intian ja sen lähialueen kielille.</string>
+    <string name="filter_title_viewcombokeycom">ComboKey.com</string>
+    <string name="flashtext_call">Soita</string>
+    <string name="flashtext_copy">Kopioi</string>
+    <string name="flashtext_emoiji">:)</string>
+    <string name="flashtext_lang">Kieli</string>
+    <string name="flashtext_launch">Käynnistä</string>
+    <string name="flashtext_notes">Muista</string>
+    <string name="flashtext_paste">Liitä</string>
+    <string name="flashtext_received">Tulleet</string>
+    <string name="flashtext_record">Mikr.</string>
+    <string name="flashtext_repeat">Toista</string>
+    <string name="flashtext_search">Haku</string>
+    <string name="flashtext_send">Lähetä</string>
+    <string name="flashtext_settings">Aset.</string>
+    <string name="flashtext_shiftdown">ShiftDn</string>
+    <string name="flashtext_speak">Play</string>
+    <string name="flashtext_stop">Stop</string>
+    <string name="flashtext_symbols">#@</string>
+    <string name="flashtext_translate">Käännä</string>
+    <string name="google_search">Google-haku…</string>
+    <string name="header_add_kbd">Lisää näppäimistö</string>
+    <string name="header_help">ComboKey-ohje</string>
+    <string name="header_info">ComboKey-tietoa</string>
+    <string name="header_voice_typing">Puhekirjoituksen muokkaus</string>
+    <string name="hello_world">Hei maailma!</string>
+    <string name="help">Ohje</string>
+    <string name="helpbutton">Ohje</string>
+    <string name="infobutton">Tietoa</string>
+    <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
+    <string name="landscapecolumns_defaultvalue">3</string>
+    <string name="main_language_defaultvalue_in_english">Finnish</string>
+    <string name="main_language_selected">Ykköskieli</string>
+    <string name="main_layout_defaultvalue_in_english">Finnish_Optimized</string>
+    <string name="no_sms_capability">Tässä laitteessa ei ole Puhelin/SMS-ominaisuutta</string>
+    <string name="not_possible_im_picker">Syöttömenetelmien näyttäminen ei onnistu</string>
+    <string name="notes_text_header">"Muistiinpanot     \n"</string>
+    <string name="padheight_defaultvalue">0</string>
+    <string name="padtype_defaultvalue">0</string>
+    <string name="pasted_from_clipboard">Liitetty leikepöydältä</string>
+    <string name="play_text_confirm">Teksti ääneen?\n\nPaina Play uudelleen.</string>
+    <string name="pleaseaddcombokeyboard">Seuraavaksi siirrytään laitteesi asetuksiin, jossa tulee aktivoida myös ComboKey saatavilla olevien näppäimistöjen listalla.\n\n
+    Sinua pyydetään lisäksi luottamaan ComboKey-näppikseen ja joudut painamaan OK pari kertaa ilmestyviin huomautuksiin.\n\n
+    Vanha näppäimistösi pysyy saatavilla kuten ennenkin.\n\n
+    Tämän sovelluksen suunnittelijana vakuutan, että ComboKey ei kerää mitään henkilökohtaisia tai muitakaan tietoja.\n\n
+    - tiptyper, ComboKeyn tekijä</string>
+    <string name="press_longer">Up/PgUp - Paina hieman pidempään.</string>
+    <string name="save_text_confirm">Korvaa entinen muistilappu?\n\nPaina Save uudelleen!</string>
+    <string name="save_text_done">"Muistilapun teksti korvattu uudella."</string>
+    <string name="save_text_empty">"Ei tekstiä tallennettavaksi!"</string>
+    <string name="send_as_sms">Lähetetään SMS-viestinä</string>
+    <string name="send_sms">Lähetä SMS</string>
+    <string name="settings_autocaps_header">Iso alkukirjain</string>
+    <string name="settings_autocaps_text">Asetus saa aikaan sen, että lauseen alkuun tulee automattisesti iso alkukirjain.</string>
+    <string name="settings_background_header">Läpikuultava tausta</string>
+    <string name="settings_background_text">Tämän sovelluksen tekstikentän tausta voi olla joko läpikuultava tai musta. Jos valitset tämän asetuksen tausta on läpikuultava.</string>
+    <string name="settings_combo_flash_header">Kombon väläytys</string>
+    <string name="settings_combo_flash_text">Kun kombo eli yhdistelmä on valittu, siitä syntynyt merkki tai sana näkyy hetken aikaa isona näppäimistön vieressä.</string>
+    <string name="settings_font_type_header">Näppäinten tekstin fontti</string>
+    <string name="settings_font_type_text">Näppäimissä olevien kirjainten ja tekstien kirjasintyylin voi vaihtaa tässä.</string>
+    <string name="settings_fontsize_header">Tekstin koko</string>
+    <string name="settings_fontsize_text">Tekstin koko tässä sovelluksen omassa näytössä on mahdollista asettaa (ei siis silloin kun ComboKey-näppäimistöä käytetään muissa sovelluksissa)</string>
+    <string name="settings_header">Asetukset  ComboKeyBasic v5.5</string>
+    <string name="settings_highlight_option_header">Näppäilyn korostus</string>
+    <string name="settings_highlight_option_text">Kun näppäin on valittu joko painamalla tai pyyhkäisyllä, se näkyy korostettuna. Tässä voi valita miltä korostus näyttää.</string>
+    <string name="settings_hystamount_header">Tarttuvuus</string>
+    <string name="settings_hystamount_text">Liu\'uttamisen aikana valittu näppäin voidaan asettaa säilyttämään tilansa sopivassa määrin sitkeästi. Tämä voi vähentää virheitä riippuen näppäilytyylistäsi.</string>
+    <string name="settings_landscapecolumns_header">Vaaka-asennon asetus</string>
+    <string name="settings_landscapecolumns_text">Laitteen ollessa vaaka-asennossa näppäimistöalue on hyvin leveä. Voit valita sinulle parhaiten sopivan vaihtoehdon.</string>
+    <string name="settings_langcombo_header">Estä kielenvaihto.</string>
+    <string name="settings_langcombo_text">Voit poistaa mahdollisuuden vaihtaa näppiksen kieltä näppäinyhdistelmällä. Tahaton kielen vaihtuminen nopeasti kirjoitettaessa estyy. Vaihto onnistuu joka tapauksessa kielten nimiä täppäämällä.</string>
+    <string name="settings_language2_header">Lisäkieli</string>
+    <string name="settings_language2_text">Aseta näppäimistön lisäkieli. Voit vaihtaa kätevästi tämän ja pääkielen välillä kirjoittamisen aikana.</string>
+    <string name="settings_language_header">Kieli</string>
+    <string name="settings_language_text">Aseta näppäimistön kieli. Kielen perusteella tavallisimmat kirjaimet ovat suoraan näkyvillä ja kielen erikoismerkit saatavilla.</string>
+    <string name="settings_launch_default">Laskin</string>
+    <string name="settings_launch_header">Käynnistä sovellus</string>
+    <string name="settings_launch_text">Määritä tässä mikä laitteesi sovelluksista voidaan käynnistää suoraan näppäimistöltä numeromoodissa, jossa \'App\' löytyy Pyyhi-näppäimen takaa. Anna sovelluksen nimi täsmälleen kuten se esiintyy laitteen asetuksissa sovelluslistalla (esim. \'Laskin\').</string>
+    <string name="settings_magic_header">Maaginen toinen käsi</string>
+    <string name="settings_magic_text">Voit näppäillä yhdistelmiä yhdellä kädellä tarvistematta liu\'uttaa sormea toiselle puolelle näppäimistöä. Riittää useimmiten ylös ja alas tapahtuva liike (Pidä päällä. Erittäin hyödyllinen ominaisuus!)</string>
+    <string name="settings_master_header">Mestarimoodi!</string>
+    <string name="settings_master_text">Piilota kaikki(!) näppäinmerkinnät kun olet täysin suvereeni ComboKeyn kanssa.</string>
+    <string name="settings_mirror_header">Näytä peilatut merkit</string>
+    <string name="settings_mirror_text">Näytä keltaisella merkit kahdessa muuten tyhässä nappulassa, joita voi käyttää valitsemaan näppäimistön vastakkaisella laidalla olevia merkkejä/kirjaimia. Tästä on apua 3-rivisessä näppäinvaihtoehdossa, joka poikkeaa totutusta 5-rivisestä näppäinten sijoittelun suhteen.</string>
+    <string name="settings_modechange_header">Estä moodinvaihto</string>
+    <string name="settings_modechange_text">Voit poistaa mahdollisuuden vaihtaa näppäimistön moodia (abc, 123, Symbol, Emoji) lyhyillä pyyhkäisyillä eli liu\'uttamalla Del-nappulaan viereisistä nappuloista. Tahaton moodinvaihto nopeasti kirjoitettaessa estyy. Aina voi kuitenkin vaihtaa moodia kun Space/väliltyönti -näppäin on kombossa tai pyyhkäisyssä mukana. Lyhyt Shift toimii aina.</string>
+    <string name="settings_onehand_combo_header">Yhden sormen kombot</string>
+    <string name="settings_onehand_combo_text">Joissain tilanteissa, kuten kurkoteltaessa laitetta vähän kauempaa, sormen liu\'uttaminen näytöllä voi tuntua hankalalta. No hätä! Pyyhkäisyn sijaan voit painaa ensimmäistä näppäintä aavistuksen pitempään ja sitten näpätä perään pyyhkäisyn kohdenäppäintä samalla sormella.</string>
+    <string name="settings_padheight_header">Koko ja korkeus</string>
+    <string name="settings_padheight_text">Näppäinaluetta voidaan säätää jotta se paremmin toimisi erikokoisissa laitteissa ja istuisi hyvin sormien fysiikkaan.</string>
+    <string name="settings_padposition_header">Leveys ja paikka</string>
+    <string name="settings_padposition_text">Näppäimet voidaan sijoittaa joko oikeaan tai vasempaan laitaan (yhdellä kädellä kirjoittamista varten), tai keskelle (parempi kahdelle kädelle).</string>
+    <string name="settings_padtype_header">Näppäimistön tyyppi</string>
+    <string name="settings_padtype_text">Voit valita 5-rivisen näppäimistön (oletus) tai kokeellisen 3-rivisen näppäimistön.</string>
+    <string name="settings_removespace_header">Lisää sananväli itse</string>
+    <string name="settings_removespace_text">Valmiiksi ohjelmoidut sanat sisältävät lopussa sananvälin. Tämä voi nopeuttaa kirjoittamista, mutta usein sananvälin joutuu poistamaan, jos sanaa haluaa jatkaa tai lisätä sen perään välimerkin kuten pisteen tai pilkun. Jos haluat johdonmukaisesti itse lisätä sananvälin, käytä tätä asetusta.</string>
+    <string name="settings_side_panel_hidden_header">Piilota sivupaneeli</string>
+    <string name="settings_side_panel_hidden_text">Sivupaneeli, jossa on Abc- ja kieli-indikaattorit, voidaan olla näyttämättä jotta näppäimistö olis kapeampi.</string>
+    <string name="settings_sound_header">Äänet</string>
+    <string name="settings_sound_text">Käytä painallusääntä. Ääniä on toiminnan mukaan erilaisia, mikä helpottaa väärien painallusten huomaamista.</string>
+    <string name="settings_sound_volume_header">Äänen voimakkuus</string>
+    <string name="settings_sound_volume_text">Valitse näppäinäänten voimakkuus.</string>
+    <string name="settings_speaktype_header">Puhetulostus</string>
+    <string name="settings_speaktype_text">Esim.kielten opiskeluun. Riippuen laitteessasi käytettävissä olevista kielistä voit kuunnella tekstin puheena
+        joko kirjaimittain kun kirjoitat tai kokonaisina lauseina lähtien kursorin osoittamasta kohdasta silloin kun painat Play-nappulaa (\'Puhu\'),
+        joka tulee näkyville kun Del/korjausnappia painetaan. Valitse tästä vaihtoehdot…</string>
+    <string name="settings_symbol_flash_header">Merkkien väläytys</string>
+    <string name="settings_symbol_flash_text">Jokainen näppäilty merkki tai merkkijono näkyy hetken aikaa isona näppäimistön vieressä.</string>
+    <string name="settings_terminal_mode_header">Päätemoodi (SSH jne)</string>
+    <string name="settings_terminal_mode_text">Pääte-emulattorityppisessä käytössä näppäimistön täytyy pystyä toimimaan toisin ollakseen yhteensopiva. Oletus on, että tilanne havaitaan automaattisesti, mutta joskus voi olla tarpeen pakottaa moodi päälle tai pois.</string>
+    <string name="settings_theme_header">Teemat</string>
+    <string name="settings_theme_text">Näppiksen visuaalista ilmettä voi muuttaa vaihtamalla teemaa. Näppäinten värit, tyyli ja tausta ovat teemoissa erilaisia.</string>
+    <string name="settings_tips_header">Apua aloittelijoille</string>
+    <string name="settings_tips_text">Näytä näppäimestä löytyvät merkit, jotka normaalisti ovat piilossa. Tätä voi käyttää ihan alkuvaiheessa. HUOM: Mukavampi vaihtoehto on aina käytettävissä tästä valinnasta huolimatta: Paina näppäintä hieman pitempään, niin saat näkyviin kätketyt merkit ilman että tulostuu mitään! </string>
+    <string name="settings_tiptype_header">Avun vaihtoehdot</string>
+    <string name="settings_tiptype_text">Vinkit siitä mistä löytyy lisää kirjaimia yms. voidaan näyttää joko vaaleissa nappuloissa tai tummemmassa alueessa niiden välissä.</string>
+    <string name="settings_type_method_header">Kombot ja pyyhkäisyt</string>
+    <string name="settings_type_method_text">Jos käytät sekä liu\'utuksia (Swipe, pyyhkäisy) että komboja (Combo, näppäinyhdistelmä) eli kahdella kädellä yhtäaikaisia painalluksia, valitse oletusasetus (ylinnä). Kun kirjoitat nopeasti etkä esim. koskaan käytä komboja (vaan liu\'utat) voit estää kombot virheiden vähentämiseksi.</string>
+    <string name="settings_usertext_default"> Voit määritellä tämän tekstin sovelluksen asetuksissa!</string>
+    <string name="settings_usertext_header">Käyttäjän oma teksti</string>
+    <string name="settings_usertext_text">Määrittele tässä teksti, joka on aina helposti saatavilla. Se on hyödyllinen ominaisuus kun esimerkiksi joutuu kirjoittamaan sähköpostiosoitteensa useasti.</string>
+    <string name="settings_vibrator_header">Värinä</string>
+    <string name="settings_vibrator_text">Värinä ilmaisee kombon (yhdistelmän) eli sen kun on liu\'utettu toiseen nappulaan tai kun on painettu kahta nappulaa yhtäaikaan.</string>
+    <string name="settings_words_header">Näytä sanaehdotuksia</string>
+    <string name="settings_words_text">Kirjoittaessasi voit lisätä (+) sanoja sanakirjaan tai poistaa (x) niitä sieltä. Myöhemmin ne näkyvät näppäimistön yllä sanaehdotuksina. Sanojen loppuun asti kirjoittamisen sijaan voit valita kokonaisen sanan, jos se on sopiva. Huom! ÄLÄ TALLENNA MITÄÄN SALAISTA TIETOA.</string>
+    <string name="settingsbutton">Asetukset</string>
+    <string name="speak_or_tap_on_mic">PUHU NYT tai napauta mikrofonia.</string>
+    <string name="speaktype_defaultvalue">2</string>
+    <string name="speech_not_supported">Harmi! Laitteesi ei tue puhesyöttöä.</string>
+    <string name="speech_prompt">Sano jotain…</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="switchkbdbutton">Kbd</string>
+    <string name="tap_on_mic">Napauta mikrofonia ja puhu.</string>
+    <string name="tap_on_mic_to_stop">STOP: Napauta mikrofonia.</string>
+    <string name="test_field">Testialue</string>
+    <string name="thanks_for_reading">\nKiitos kun luit tänne asti!</string>
+    <string name="theme_defaultvalue_in_english">Basic</string>
+    <string name="tiptype_defaultvalue">2</string>
+    <string name="toast_launch_string">Itse määritelty sovellus (Asetuksista)</string>
+    <string name="toast_notes_blank">Muistilappu tyhjä.</string>
+    <string name="toast_select_speaktype">Asetukset > Puhetulostus ei ole päällä!</string>
+    <string name="toast_speech_data_not_available">Puhe ei saatavissa tälle kielelle.</string>
+    <string name="toast_speech_from_clipboard">Puhe leikepöydän teksti.</string>
+    <string name="toast_speech_not_available">Laite ei tue puheominaisuutta. Asenna \'Google Tekstistä puheeksi\' -ominaisuus Play-kaupasta!</string>
+    <string name="toast_speech_text_too_long">Teksti liian pitkä (yli 3800 kirjainta). Luetaan osa.</string>
+    <string name="toast_translate_from_clipboard">Käännetään teksti leikepöydältä.</string>
+    <string name="toast_translate_text_too_long">Teksti turhan pitkä (yli 3800 merkkiä!). Käännetään osa.</string>
+    <string name="toast_user_string">Itse määritelty teksti (Asetuksista)</string>
+    <string name="translate_to">Kielelle</string>
+    <string name="type_method_defaultvalue">1</string>
+    <string name="voice_activity_name">Speech To Text</string>
+    <string name="voice_input_not_supprted">Laite ei tue puhesyöttöä</string>
+    <string name="voice_input_prompt">Voit puhua nyt</string>
+</resources>

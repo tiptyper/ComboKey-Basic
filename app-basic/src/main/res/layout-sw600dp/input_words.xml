@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical" >
+
+	<LinearLayout
+
+		android:id="@+id/wordsLayout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:orientation="horizontal">
+		<Button
+			android:id="@+id/wordButton1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Under"
+			android:textAllCaps="false"/>
+		<Button
+			android:id="@+id/wordButton2"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="construction"
+			android:textAllCaps="false"/>
+		<Button
+			android:id="@+id/wordButton3"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="still."
+			android:textAllCaps="false"/>
+
+	</LinearLayout>
+
+	<com.combokey.basic.view.CMBOKeyboardView
+		android:id="@+id/keyboard"
+		android:background="@color/transparent"
+		android:layout_width="match_parent"
+		android:layout_height="300dp"
+		/>
+</LinearLayout>
+
+

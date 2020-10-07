@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        applicationId "com.combokey.basic"
+        minSdkVersion 14
+        targetSdkVersion 28
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_5
+            targetCompatibility JavaVersion.VERSION_1_5
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    //buildToolsVersion '29.0.3' //  moved back to 28 and then Refactor > Migrate to AndroidX
+    buildToolsVersion '28.0.3'
+    compileOptions {
+        sourceCompatibility = 1.6
+        targetCompatibility = 1.6
+    }
+}
+
+dependencies {
+  // Added this line 1.4.2018 for Firebase (12.0.0 is old):
+  //compile 'com.google.firebase:firebase-core:12.0.0'
+
+    // other stuff here
+    implementation 'com.android.support:support-v4:28.0.0'
+    // update the (23.0.0 and later:) 26.1.0 to latest version available
+    // 'compile' was replaced by 'implementation' on 2019-10-11
+
+}
+// Added this line to the bottom of this file for Firebase 1.4.2018:
+//apply plugin: 'com.google.gms.google-services'

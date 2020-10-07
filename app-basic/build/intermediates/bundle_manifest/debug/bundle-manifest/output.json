@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.combokey.basic",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 56,
+        "versionName": "5.6",
+        "outputFile": "app-basic-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.combokey.basic",
+        "split": "",
+        "minSdkVersion": "14"
+      }
+    }
+  ]
+}

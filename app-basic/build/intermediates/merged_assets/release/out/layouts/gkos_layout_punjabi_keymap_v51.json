@@ -1,0 +1,462 @@
+{"metadata":{
+
+"format":"10",
+"iso6391":"pa",
+"name":"Punjabi",
+"description":"\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40",
+"group":"Optimized",
+"version":"1.4",
+"author":"Seppo Tiainen",
+"info":"  -  The ComboKey keymap for Punjabi  (from format 10 and version 5.0 up)  -  Last modified 2020-09-25 at 10:50",
+"extra":[
+
+"-",
+"dev",
+"pa",
+"IN",
+"India",
+"India",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-"]},
+
+"lowercase":{
+
+"map":[
+
+"Pressed key = [X]. Clear from template = []. Three keypad colums: Left Center Right x 15",
+
+ "\u0a05", "\u0a1a", "\u0a09", "\u0a15",
+
+ "\u0a13", "\u0a1f", "_BS", "\u0a2f", " ", 
+"...", "\u0a07", "\u0a24", "\u0a0f", "\u0a2a", 
+"\u0a70", "[X]", "", "", "", 
+
+"", "\u0a22", "_", "[1-8]", "\u02c6", 
+"\u00a8", "_Up", "\u0a25", "\u0a06", "\u0a2b", 
+"\u0a02", "", "[X]", "", "", 
+
+"", "[2-6]", "_SYMB", "[2-8]", "", 
+"", "\u0a1b", "\u0a1e", "\u0a1c", "\u0a2e", 
+"\u0a1d", "", "", "[X]", "", 
+
+"_Left", "\u0a32", "\u00b4", "\u0a27", ":", 
+"", "\u0a08", "\u0a26", "_Shift", "\u0a2c", 
+"\u0a0a", "", "", "", "[X]", 
+
+"", "[4-6]", "", "[4-8]", "", 
+"", "\u0a16", "\u0a28", "\u0a17", "\u0a19", 
+"\u0a18", "", "", "_Left", "", 
+
+"[X]", "\u0a20", "|", "[5-8]", ";", 
+"", "\u0a14", "\u0a27", "\u0a10", "\u0a2d", 
+"_Down", "\u0a22", "[6-2]", "[6-3]", "[6-4]", 
+
+"\u0a20", "[X]", "_Fn", "_ShiftDown", "_Settings", 
+"_Hide", "\u0a20", "\u0a23", "\u0a21", "\u0a5c", 
+"\u0a22", "_Record", "_Clear", "_Translate", "_Esc", 
+
+"_Search", "_Shift", "[X]", "_Lang", "_abc123", 
+"_Ctrl", "_Play", "_Del", "_Copy", "_Alt", 
+"_Paste", "[8-1]", "[8-2]", "\u0a27", "[8-4]", 
+
+"\u0a32", "_Shift", "_abc123", "[X]", "_Repeat", 
+"_User", "\u0a30", "\u0a39", "\u0a32", "\u0a38", 
+"\u0a35", "_WLeft", "_SYMB", "_Tab", "_Left", 
+
+"_Home", "_Keyboard", "_abc123", "_Up", "[X]", 
+"_Down", "_WRight", "_Emoji", "_Enter", "_Right", 
+"_End", "\u0a51", "", "\u0a4d", "", 
+
+"\u0a02", "", "\u0a75", "", "\u0a3c", 
+"", "\u0a01", "\u0a03", "\u0a71", "", 
+"\u0a70", "_Up", "\u0a1b", "\u0a08", "\u0a16", 
+
+"\u0a14", "\u0a20", "\"", "\u0a30", "\u02c7", 
+"~", "[X]", "", "", "", 
+"", "\u0a25", "\u0a1e", "\u0a26", "\u0a28", 
+
+"\u0a27", "\u0a23", "_Emoji", "\u0a39", "", 
+"", "", "[X]", "", "", 
+"", "\u0a06", "\u0a1c", "_Shift", "\u0a17", 
+
+"\u0a10", "\u0a21", "`", "\u0a32", ";", 
+"", "", "", "[X]", "", 
+"_Right", "\u0a2b", "\u0a2e", "\u0a2c", "\u0a19", 
+
+"\u0a2d", "\u0a5c", "", "\u0a38", "", 
+"", "", "", "", "[X]", 
+"", "\u0a02", "\u0a1d", "\u0a0a", "\u0a18", 
+
+"_Down", "\u0a22", "~", "\u0a35", ":", 
+"", "", "", "_Right", "", 
+"[X]", "\u0a35\u0a30\u0a4d\u0a23", ""]},
+
+"uppercase":{
+
+"map":[
+
+"Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
+
+ "\u0a73", "\u0a38\u0a3c", "\u0a4d", "\u0a16\u0a3c", "\u0a02", 
+"\u0a17\u0a3c", "_BS", "\u0a32\u0a3c", " ", "...", 
+"\u0a72", "\u0a03", "\u0a71", "\u0a2b\u0a3c", "\u0a70", 
+
+"[X]", "", "", "", "", 
+"", "-", "[1-8]", "\u02c6", "\u00a8", 
+"_Up", "", "", "", "", 
+
+"", "[X]", "", "", "", 
+"[2-6]", "_SYMB", "[2-8]", "", "", 
+"", "_PgUp", "", "`", "", 
+
+"", "", "[X]", "", "_Left", 
+"", "\u00b4", "", ".", "", 
+"", "", "_Shift", "", "", 
+
+"", "", "", "[X]", "", 
+"[4-6]", "", "[4-8]", "", "", 
+"", "\u00b4", "", "_PgDn", "", 
+
+"", "", "_Left", "", "[X]", 
+"", "|", "[5-8]", ",", "", 
+"", "", "", "", "_Down", 
+
+"", "[6-2]", "[6-3]", "[6-4]", "", 
+"[X]", "_Fn", "_ShiftDown", "_Settings", "_Hide", 
+"", "", "", "", "", 
+
+"_Record", "_Clear", "_Translate", "_Esc", "_Search", 
+"_Shift", "[X]", "_Lang", "_abc123", "_Ctrl", 
+"_Play", "_Del", "_Copy", "_Alt", "_Paste", 
+
+"[8-1]", "[8-2]", "", "[8-4]", "", 
+"_Shift", "_abc123", "[X]", "_Repeat", "_User", 
+"", "_Ins", "", "", "", 
+
+"_WLeft", "_SYMB", "_Tab", "_Left", "_Home", 
+"_Keyboard", "_abc123", "_Up", "[X]", "_Down", 
+"_WRight", "_Emoji", "_Enter", "_Right", "_End", 
+
+"\u0a51", "", "\u0a4d", "", "\u0a02", 
+"", "\u0a75", "", "\u0a3c", "", 
+"\u0a01", "\u0a03", "\u0a71", "", "\u0a70", 
+
+"_Up", "", "", "", "", 
+"", "'", "", "\u02c7", "~", 
+"[X]", "", "", "", "", 
+
+"", "_PgUp", "", "\u00b4", "", 
+"", "_Emoji", "_Ins", "", "", 
+"", "[X]", "", "", "", 
+
+"", "", "_Shift", "", "", 
+"", "`", "", ",", "", 
+"", "", "[X]", "", "_Right", 
+
+"", "`", "", "_PgDn", "", 
+"", "", "", "", "", 
+"", "", "", "[X]", "", 
+
+"", "", "", "", "_Down", 
+"", "~", "", ".", "", 
+"", "", "_Right", "", "[X]", 
+
+"\u0a05\u0a28\u0a4d\u0a2f", ""]},
+
+"capslock":{
+
+"map":[
+
+"Pressed key = [X]. Three keypad colums: Left Center Right x 15",
+
+ "\u0a3e", "\u0a1a", "\u0a41", "\u0a15",
+
+ "\u0a4b", "\u0a1f", "_BS", "\u0a2f", " ", 
+"...", "\u0a3f", "\u0a24", "\u0a47", "\u0a2a", 
+"\u0a70", "[X]", "", "", "", 
+
+"", "\u0a22", "_", "[1-8]", "\u02c6", 
+"\u00a8", "_Up", "\u0a25", "\u0a4d", "\u0a2b", 
+"\u0a02", "", "[X]", "", "", 
+
+"", "[2-6]", "_SYMB", "[2-8]", "", 
+"", "\u0a1b", "\u0a1e", "\u0a1c", "\u0a2e", 
+"\u0a1d", "", "", "[X]", "", 
+
+"_Left", "\u0a32", "\u00b4", "\u0a27", ":", 
+"", "\u0a40", "\u0a26", "_Shift", "\u0a2c", 
+"\u0a42", "", "", "", "[X]", 
+
+"", "[4-6]", "", "[4-8]", "", 
+"", "\u0a16", "\u0a28", "\u0a17", "\u0a19", 
+"\u0a18", "", "", "_Left", "", 
+
+"[X]", "\u0a20", "|", "[5-8]", ";", 
+"", "\u0a4c", "\u0a27", "\u0a48", "\u0a2d", 
+"_Down", "\u0a22", "[6-2]", "[6-3]", "[6-4]", 
+
+"\u0a20", "[X]", "_Fn", "_ShiftDown", "_Settings", 
+"_Hide", "\u0a20", "\u0a23", "\u0a21", "\u0a5c", 
+"\u0a22", "_Record", "_Clear", "_Translate", "_Esc", 
+
+"_Search", "_Shift", "[X]", "_Lang", "_abc123", 
+"_Ctrl", "_Play", "_Del", "_Copy", "_Alt", 
+"_Paste", "[8-1]", "[8-2]", "\u0a27", "[8-4]", 
+
+"\u0a32", "_Shift", "_abc123", "[X]", "_Repeat", 
+"_User", "\u0a30", "\u0a39", "\u0a32", "\u0a38", 
+"\u0a35", "_WLeft", "_SYMB", "_Tab", "_Left", 
+
+"_Home", "_Keyboard", "_abc123", "_Up", "[X]", 
+"_Down", "_WRight", "_Emoji", "_Enter", "_Right", 
+"_End", "\u0a51", "", "\u0a4d", "", 
+
+"\u0a02", "", "\u0a75", "", "\u0a3c", 
+"", "\u0a01", "\u0a03", "\u0a71", "", 
+"\u0a70", "_Up", "\u0a1b", "\u0a40", "\u0a16", 
+
+"\u0a4c", "\u0a20", "\"", "\u0a30", "\u02c7", 
+"~", "[X]", "", "", "", 
+"", "\u0a25", "\u0a1e", "\u0a26", "\u0a28", 
+
+"\u0a27", "\u0a23", "_Emoji", "\u0a39", "", 
+"", "", "[X]", "", "", 
+"", "\u0a4d", "\u0a1c", "_Shift", "\u0a17", 
+
+"\u0a48", "\u0a21", "`", "\u0a32", ";", 
+"", "", "", "[X]", "", 
+"_Right", "\u0a2b", "\u0a2e", "\u0a2c", "\u0a19", 
+
+"\u0a2d", "\u0a5c", "", "\u0a38", "", 
+"", "", "", "", "[X]", 
+"", "\u0a02", "\u0a1d", "\u0a42", "\u0a18", 
+
+"_Down", "\u0a22", "~", "\u0a35", ":", 
+"", "", "", "_Right", "", 
+"[X]", "\u0a35\u0a30\u0a4d\u0a23\u0a68", ""]},
+
+"numbers":{
+
+"map":[
+
+"Pressed key = [X]. Three keypad colums: Left Center Right x 15",
+
+ "\u0a67", "+", "\u0a6a", "*", "\u0a6d", 
+"\u0a68", "_BS", "\u0a6b", " ", "\u0a6e", 
+"\u0a69", "\u0a66", "\u0a6c", "#", "\u0a6f", 
+
+"[X]", "", "", "", "", 
+"\u2013", "_", "\u2030", " ", "&", 
+"_Up", "\u2030", "-", "&", "?", 
+
+"", "[X]", "", "", "", 
+"", "_SYMB", "\u00b0", "", "+", 
+"%", "_PgUp", "=", "\\", "^", 
+
+"", "", "[X]", "", "_Left", 
+"", "\"", "", ":", "/", 
+"'", "\u00ae", "_Shift", "@", ".", 
+
+"", "", "", "[X]", "", 
+"", "", "\u00a7", "", "*", 
+"$", "/", "\u20ac", "_PgDn", "\u00a3", 
+
+"", "", "_Left", "", "[X]", 
+"", "", "<", ";", "(", 
+"!", "\u00a9", ",", "\u00bd", "_Down", 
+
+"[", "<", "{", "\u00ab", "\u00a7", 
+"[X]", "_Fn", "_ShiftDown", "_Settings", "_Hide", 
+"]", ">", "}", "\u00bb", "\u00b5", 
+
+"_Call", "_Clear", "_Translate", "_Esc", "_Search", 
+"_Shift", "[X]", "_Lang", "_abc123", "_Ctrl", 
+"_Play", "_Del", "_Copy", "_Alt", "_Paste", 
+
+"\u2030", "\u00b0", "{", "\u00a7", "<", 
+"_Shift", "_abc123", "[X]", "_Repeat", "_User", 
+"%", "~", "}", "\u00b5", ">", 
+
+"_WLeft", "_SYMB", "_Tab", "_Left", "_Home", 
+"_Keyboard", "_abc123", "_Up", "[X]", "_Down", 
+"_WRight", "_Emoji", "_Enter", "_Right", "_End", 
+
+"&", "+", "/", "*", "(", 
+"$", "\u00a3", "\u20ac", ":", "[X]", 
+"%", "=", "@", "#", ")", 
+
+"_Up", "%", "'", "$", "!", 
+"", "\"", "%", "", "%", 
+"[X]", "", "", "", "", 
+
+"\u2030", "_PgUp", "\u00ae", "/", "\u00a9", 
+"", "_Emoji", "", "", "=", 
+"", "[X]", "", "", "", 
+
+"-", "=", "_Shift", "\u20ac", ",", 
+"", "_", "}", ";", "@", 
+"", "", "[X]", "", "_Right", 
+
+"\u00bd", "\\", "@", "_PgDn", "&", 
+"\u00b5", "", "", "", "#", 
+"", "", "", "[X]", "", 
+
+"?", "^", ".", "\u00a3", "_Down", 
+"", "~", ">", ":", ")", 
+"", "", "_Right", "", "[X]", 
+
+"\u0a67\u0a68\u0a69", ""]},
+
+"symbols":{
+
+"map":[
+
+"Pressed key = [X]. Three keypad colums: Left Center Right x 15",
+
+ "1", "+", "4", "*", "7", 
+"2", "_BS", "5", " ", "8", 
+"3", "0", "6", "#", "9", 
+
+"[X]", "", "", "", "", 
+"\u2013", "-", "\u2030", " ", "&", 
+"_Up", "\u2030", "\u00bb", "&", "~", 
+
+"", "[X]", "", "", "", 
+"", "_SYMB", "\u00b0", "", "+", 
+"%", "_PgUp", "=", "\\", "^", 
+
+"", "", "[X]", "", "_Left", 
+"", "'", "", ".", "/", 
+"\u00ab", "\u00ae", "_Shift", "@", ":", 
+
+"", "", "", "[X]", "", 
+"", "", "\u00a7", "", "*", 
+"$", "/", "\u20ac", "_PgDn", "\u00a3", 
+
+"", "", "_Left", "", "[X]", 
+"", "", "<", ",", "(", 
+"|", "\u00a9", ";", "\u00bd", "_Down", 
+
+"[", "<", "{", "\u00ab", "(", 
+"[X]", "_Fn", "_ShiftDown", "_Settings", "_Hide", 
+"]", ">", "}", "\u00bb", ")", 
+
+"_Record", "_Clear", "_Translate", "_Esc", "_Search", 
+"_Shift", "[X]", "_Lang", "_abc123", "_Ctrl", 
+"_Play", "_Del", "_Copy", "_Alt", "_Paste", 
+
+"\u2030", "\u00b0", "{", "\u00a7", "<", 
+"_Shift", "_abc123", "[X]", "_Repeat", "_User", 
+"%", "~", "}", "\u00b5", ">", 
+
+"_WLeft", "_SYMB", "_Tab", "_Left", "_Home", 
+"_Keyboard", "_abc123", "_Up", "[X]", "_Down", 
+"_WRight", "_Emoji", "_Enter", "_Right", "_End", 
+
+"[", "<", "{", "\u00ab", "(", 
+"\u00a4", "|", "", "", "[X]", 
+"]", ">", "}", "\u00bb", ")", 
+
+"_Up", "%", "\u00ab", "$", "|", 
+"", "'", "%", "", "%", 
+"[X]", "", "", "", "", 
+
+"\u2030", "_PgUp", "\u00ae", "/", "\u00a9", 
+"", "_Emoji", "", "", "=", 
+"", "[X]", "", "", "", 
+
+"\u00bb", "=", "_Shift", "\u20ac", ";", 
+"", "-", "}", ",", "@", 
+"", "", "[X]", "", "_Right", 
+
+"&", "\\", "@", "_PgDn", "\u00bd", 
+"\u00b5", "", "", "", "#", 
+"", "", "", "[X]", "", 
+
+"~", "^", ":", "\u00a3", "_Down", 
+"", "~", ">", ".", ")", 
+"", "", "_Right", "", "[X]", 
+
+"#@", ""]},
+
+"emojis":{
+
+"map":[
+
+"Pressed key = [X]. Three keypad colums: Left Center Right x 15",
+
+ "\ud83c\udd97", "\u2665", "", "\ud83d\udc4d", "\ud83c\udfb9", 
+"\ud83d\ude41", "_abc123", "\ud83d\ude42", "", "\ud83d\ude10", 
+"\u260e", "\ud83c\udf82", "\u2708\ufe0f", "\ud83d\udc36", "\u26bd", 
+
+"[X]", "", "", "", "", 
+"", "", "", "", "", 
+"", "", "", "", "", 
+
+"\ud83c\udf29\ufe0f", "[X]", "\u2614", "\ud83c\udf39", "\ud83d\udc90", 
+"\ud83d\udc83", "\ud83d\udd76", "\ud83c\udf02", "\ud83c\udf24\ufe0f", "\ud83d\udcab", 
+"\ud83d\ude18", "\ud83d\udc8b", "\u2600\ufe0f\ufe0f", "\ud83d\udc8f", "\u2764\ufe0f", 
+
+"", "", "[X]", "", "", 
+"", "", "", "", "", 
+"", "", "", "", "", 
+
+"\ud83e\udd19", "\ud83d\udc46", "\ud83d\udc4c", "[X]", "\ud83d\udc4e", 
+"\u261d\ufe0f", "\u270d\ufe0f", "\ud83d\udcaa", "\ud83d\udd90\ufe0f", "\ud83e\udd1d", 
+"\ud83d\udc4c", "\ud83d\udc4f", "\u270c\ufe0f", "\u270b", "\ud83d\udc4b\ufe0f", 
+
+"\ud83c\udf99", "\ud83c\udfa4", "\ud83c\udf9b", "\u2669", "[X]", 
+"\u266a", "\ud83c\udfb6", "\u266b", "\ud83c\udfbc", "\u266c", 
+"\ud83c\udfb8", "\ud83e\udd41", "\ud83c\udfb7", "\ud83c\udfba", "\ud83c\udfbb", 
+
+"\ud83d\ude32", "\ud83d\ude35", "\ud83d\ude1f", "\ud83d\ude13", "\ud83d\ude16", 
+"[X]", "_Fn", "_ShiftDown", "_Settings", "_Hide", 
+"\ud83d\ude1e", "\ud83d\ude16", "\ud83d\ude22", "\ud83d\ude27", "\ud83d\ude20", 
+
+"", "", "", "", "", 
+"", "[X]", "", "", "", 
+"", "", "", "", "", 
+
+"\ud83d\ude0b", "\ud83d\ude0e", "\ud83d\ude09", "\ud83d\ude04", "\ud83d\ude00", 
+"_Shift", "_abc123", "[X]", "_Repeat", "", 
+"\ud83d\ude1b", "", "", "", "", 
+
+"", "", "", "", "", 
+"", "", "", "[X]", "", 
+"", "", "", "", "", 
+
+":-)", "<3", ":-P", ":-\\", ":O", 
+":-(", ":-[", "=-O", ":'(", "B-)", 
+";-)", "_ABC", ":-*", ":-D", ":-$", 
+
+"\ud83d\udc88", "\ud83c\udfa7", "\ud83d\udcfd\ufe0f", "\ud83d\udcf7", "\ud83d\udca1", 
+"\ud83d\udcfa", "\ud83d\udcf1", "\ud83d\udcbb", "\ud83d\udcfb", "\ud83d\udce2", 
+"[X]", "\ud83d\udcfe", "\ud83d\udda8", "\ud83d\udd26", "\ud83d\udd0b", 
+
+"\ud83c\udf75", "\ud83c\udf7b", "\ud83c\udf77", "\ud83c\udf79", "\ud83c\udf78", 
+"\ud83e\udd42", "\ud83c\udf7e", "\ud83c\udf7c", "\ud83c\udf7d\ufe0f", "\ud83c\udf68", 
+"\ud83c\udf70", "[X]", "\ud83c\udf7f", "\ud83c\udf69", "\ud83e\udd5b", 
+
+"\u26f4\ufe0f", "\ud83d\ude81", "\ud83d\ude8b", "\ud83d\ude82", "\ud83d\ude97", 
+"\ud83d\ude8c", "\ud83d\udeb2", "\ud83d\ude9c", "\u26f5", "\ud83d\uddfa\ufe0f", 
+"\ud83c\udfdd\ufe0f", "\ud83c\udfd6\ufe0f", "[X]", "\ud83d\uddfd", "\ud83c\udfd4\ufe0f", 
+
+"\ud83d\udc31", "\ud83d\udc0e", "\ud83d\udc25", "\ud83d\udc2f", "\ud83d\udc1d", 
+"\ud83d\udc27", "\ud83d\udc15",
+
+ "\ud83d\udc22", "\ud83e\udd89", "\ud83d\udc0c", "\ud83d\udc08", "\ud83d\udc3c", 
+"\ud83d\udc27", "[X]", "\ud83d\udc37", "\ud83d\udeb4", "\ud83c\udfc7", 
+"\u26f7\ufe0f", "\ud83c\udfca", "\ud83c\udfcc\ufe0f", "\u26f8\ufe0f", "\ud83c\udfc3", 
+
+"\ud83c\udfbf", "\ud83c\udfd2", "\ud83c\udfc6", "\ud83c\udfbe", "\u26be", 
+"\ud83c\udfc8", "\ud83c\udfc0", "[X]", ":)", ""]}}
+

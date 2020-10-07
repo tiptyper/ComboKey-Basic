@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="lang_names">
+		<item>Angika</item>
+		<item>Assamese</item>
+		<item>Awadhi</item>
+		<item>Bengali</item>
+		<item>Bhojpuri</item>
+		<item>Bihari</item>
+		<item>Bodo</item>
+		<item>Catalan</item>
+		<item>CODING</item>
+		<item>English</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Gujarati</item>
+		<item>Hawaiian</item>
+		<item>Hindi</item>
+		<item>Icelandic</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Kannada</item>
+		<item>Konkani</item>
+		<item>Maithili</item>
+		<item>Malay</item>
+		<item>Malayalam</item>
+		<item>Marathi</item>
+		<item>Marwari</item>
+		<item>Nepali</item>
+		<item>Norwegian</item>
+		<item>Oriya</item>
+		<item>Pali</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Punjabi</item>
+		<item>Rajasthani</item>
+		<item>Russian</item>
+		<item>Sanskrit</item>
+		<item>Sindhi</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tulu</item>
+		<item>Ukrainian</item>
+	</string-array>
+	<string-array name="lang_values">
+		<item>Angika</item>
+		<item>Assamese</item>
+		<item>Awadhi</item>
+		<item>Bengali</item>
+		<item>Bhojpuri</item>
+		<item>Bihari</item>
+		<item>Bodo</item>
+		<item>Catalan</item>
+		<item>CODING</item>
+		<item>English</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>German</item>
+		<item>Greek</item>
+		<item>Gujarati</item>
+		<item>Hawaiian</item>
+		<item>Hindi</item>
+		<item>Icelandic</item>
+		<item>Indonesian</item>
+		<item>Italian</item>
+		<item>Kannada</item>
+		<item>Konkani</item>
+		<item>Maithili</item>
+		<item>Malay</item>
+		<item>Malayalam</item>
+		<item>Marathi</item>
+		<item>Marwari</item>
+		<item>Nepali</item>
+		<item>Norwegian</item>
+		<item>Oriya</item>
+		<item>Pali</item>
+		<item>Polish</item>
+		<item>Portuguese</item>
+		<item>Punjabi</item>
+		<item>Rajasthani</item>
+		<item>Russian</item>
+		<item>Sanskrit</item>
+		<item>Sindhi</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tulu</item>
+		<item>Ukrainian</item>
+	</string-array>
+		<string-array name="theme_names">
+		<item>Basic</item>
+		<item>Blank</item>
+		<item>Cloudy</item>
+		<item>Cool</item>
+		<item>Desire</item>
+		<item>GoMeek</item>
+		<item>Healthy</item>
+		<item>Neon</item>
+		<item>Oak</item>
+		<item>Paddle</item>
+		<item>Plain</item>
+		<item>School</item>
+		<item>Sixback</item>
+		<item>Spots</item>
+		<item>Test</item>
+		<item>Tiles</item>
+		<item>Warm</item>
+		<item>Wood</item>
+	</string-array>
+	<string-array name="theme_values">
+		<item>Basic</item>
+		<item>Blank</item>
+		<item>Cloudy</item>
+		<item>Cool</item>
+		<item>Desire</item>
+		<item>GoMeek</item>
+		<item>Healthy</item>
+		<item>Neon</item>
+		<item>Oak</item>
+		<item>Paddle</item>
+		<item>Plain</item>
+		<item>School</item>
+		<item>Sixback</item>
+		<item>Spots</item>
+		<item>Test</item>
+		<item>Tiles</item>
+		<item>Warm</item>
+		<item>Wood</item>
+	</string-array>
+	<string-array name="font_names">
+		<item>Small</item>
+		<item>Medium</item>
+		<item>Large</item>
+		<item>Huge</item>
+	</string-array>
+	<string-array name="font_values">
+		<item>12</item>
+		<item>20</item>
+		<item>28</item>
+		<item>36</item>
+	</string-array>
+	<string-array name="hyst_names">
+		<item>Not sticky</item>
+		<item>Some sticky (Default)</item>
+		<item>Sticky</item>
+		<item>Very sticky</item>
+	</string-array>
+	<string-array name="hyst_values">
+		<item>0</item>
+		<item>15</item>
+		<item>20</item>
+		<item>30</item>
+	</string-array>
+	<string-array name="layout_names">
+		<item>Alphabetical</item>
+		<item>Optimized 1 (Old)</item>
+		<item>Optimized 2 (Recommended)</item>
+		<item>Optimized 3 (Experimental)</item>
+	</string-array>
+	<string-array name="layout_values">
+		<item>Alphabetical</item>
+		<item>Optimized_1</item>
+		<item>Optimized_2</item>
+		<item>Optimized_3</item>
+	</string-array>
+	<string-array name="padposition_names">
+		<item>Narrow pad right</item>
+		<item>Narrow pad left</item>
+		<item>Narrow pad center</item>
+		<item>Wide pad center</item>
+	</string-array>
+	<string-array name="padposition_values">
+		<item>2</item>
+		<item>0</item>
+		<item>3</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="padheight_names">
+		<item>Smaller keypad higher up</item>
+		<item>Full sized keypad</item>
+		<item>Smaller keypad lower down</item>
+	</string-array>
+	<string-array name="padheight_values">
+		<item>10</item>
+		<item>0</item>
+		<item>20</item>
+	</string-array>
+	<string-array name="padtype_names">
+		<item>Standard 5-row keypad (Default)</item>
+		<item>Experimental 3-row (upright only)</item>
+	</string-array>
+	<string-array name="padtype_values">
+		<item>0</item>
+		<item>10</item>
+	</string-array>
+	<string-array name="speaktype_names">
+		<item>Speaking OFF</item>
+		<item>Say typed letter</item>
+		<item>Speak text (Default)</item>
+		<item>Both above</item>
+	</string-array>
+	<string-array name="speaktype_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="landscapecolumns_names">
+		<item>Standard (default)</item>
+		<item>Split</item>
+	</string-array>
+	<string-array name="landscapecolumns_values">
+		<item>3</item>
+		<item>6</item>
+	</string-array>
+	<string-array name="tiptype_names">
+		<item>Help on darker buttons</item>
+		<item>Help on lighter ones (Default)</item>
+		<item>Help on most useful locations</item>
+	</string-array>
+	<string-array name="tiptype_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="type_method_names">
+		<item>Allow Taps, Swipes and Combos (Recommended!)</item>
+		<item>Taps and one-hand Swipes only</item>
+		<item>Taps and two-hand Combos only</item>
+	</string-array>
+	<string-array name="type_method_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="terminal_mode_names">
+		<item>Auto (Recommended!)</item>
+		<item>Forced ON</item>
+		<item>Forecd OFF</item>
+	</string-array>
+	<string-array name="terminal_mode_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="font_type_names">
+		<item>Device default</item>
+		<item>OpenDyslexic</item>
+	</string-array>
+	<string-array name="font_type_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="volume_names">
+		<item>Low (Default)</item>
+		<item>Medium</item>
+		<item>High</item>
+	</string-array>
+	<string-array name="volume_values">
+		<item>15</item>
+		<item>30</item>
+		<item>60</item>
+	</string-array>
+	<string-array name="onehand_combo_names">
+		<item>OFF</item>
+		<item>Hold key a short extra time</item>
+		<item>Hold a bit longer (Default)</item>
+	</string-array>
+	<string-array name="onehand_combo_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="highlight_option_names">
+		<item>Modest highlight</item>
+		<item>Strong (Default)</item>
+	</string-array>
+	<string-array name="highlight_option_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+
+</resources>

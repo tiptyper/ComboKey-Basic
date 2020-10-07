@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-sw600dp/attr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endColumns": "34",
+                        "endOffsets": "85"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "37",
+                        "endOffsets": "88"
+                    }
+                }
+            ]
+        }
+    ]
+}

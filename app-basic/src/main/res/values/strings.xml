@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComboKey Basic</string>
+    <string name="app_icon_name">ComboKey Basic</string>
+    <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
+    <string name="theme_defaultvalue_in_english">Basic</string>
+	<!-- Below, ComboKey Plus and ComboKey Basic have same values (except dialog_info_text, else just copy-paste) -->
+    <string name="filter_title_viewcombokeycom">ComboKey.com</string>
+    <string name="app_default_locale_main">en-US</string>
+    <string name="app_default_locale_aux">es-ES</string>
+    <string name="main_language_defaultvalue_in_english">English</string>
+    <string name="aux_language_defaultvalue_in_english">Spanish</string>
+    <string name="main_layout_defaultvalue_in_english">English_Optimized</string>
+    <string name="aux_layout_defaultvalue_in_english">Spanish_Optimized</string>
+    <string name="clear_screen">Delete</string>
+    <string name="send_sms">Send as SMS</string>
+    <string name="copy">Copy</string>
+    <string name="help">Help</string>
+    <string name="test_field">Test field</string>
+    <string name="padheight_defaultvalue">0</string>
+    <string name="padtype_defaultvalue">0</string>
+    <string name="landscapecolumns_defaultvalue">3</string>
+    <string name="speaktype_defaultvalue">2</string>
+    <string name="tiptype_defaultvalue">2</string>
+    <string name="type_method_defaultvalue">1</string>
+    <string name="settingsbutton">Settings</string>
+    <string name="helpbutton">Help</string>
+    <string name="switchkbdbutton">Kbd</string>
+    <string name="not_possible_im_picker">Cannot set show input methods</string>
+    <string name="pleaseaddcombokeyboard">Next you will be taken to the Settings of your device where you should turn on ComboKey on the list of available keyboards.\n\n
+    You will be asked to trust on ComboKey as your keyboard by pressing OK a couple of times.\n\n
+    Your old keyboard will also be available as before.\n\n
+    As the author of this app, I assure ComboKey does not collect any personal or other information.\n\n
+    - tiptyper, author of ComboKey</string>
+    <string name="addkbd">+</string>
+    <string name="ClearCookies">Clear Text</string>
+    <string name="ClearCookieQuestion">Do you really want to delete the text?</string>
+    <string name="PostiveYesButton">Yes!</string>
+    <string name="NegativeNoButton">No</string>
+    <string name="infobutton">Info</string>
+    <string name="header_add_kbd"> Add Keyboard</string>
+    <string name="header_info">ComboKey Information</string>
+    <string name="header_help">ComboKey Help</string>
+    <string name="dialog_help_text">Frequent letters:\n\n
+   Tap the letter you want if you see it\n\n
+Less frequent letters:\n\n
+   Press and hold, then slide up or down to highlight the desired letter.\n\n\n
+Now you can try! However, if you have problems, read more below:\n\n
+1) Show more letters:\n\n
+   Press any letter button down.\n\n
+2) Show punctuation:\n\n
+   Press the lighter colored buttons.\n\n
+3) Speak text:\n\n
+   Press and hold Del, then swipe to Play button upper right.\n\n
+4) Show functions:\n\n
+   Press Backspace or Space and slide to the desired item.\n\n
+5) Upper/lower case:\n\n
+   Press Backspace (e.g.) and Shift will appear.\n\n
+6) Numbers/symbols:\n\n
+   Press Space (e.g.) and slide to \'123\' or \'#@\'.\n\n
+7) Common symbols:\n\n
+   Press M and slide to the symbol.\n\n
+8) Autorepeat:\n\n
+Previous character is repeated by pressing long the Abc indicator\n\n\n
+THAT\'S IT! Enjoy.\n\n\n
+More details still…\n\n
+If you play the text in speech but the text field is empty, the text in the clipboard will be spoken, if any.\n\n
+While typing, you can also press two keys at the same time if you want to use both hands, instead of pressing one key and swiping to the other button with one hand.\n\n
+However, there\'s no need to swipe as far away as to the other side! Try swiping just up or down. The Magic Other Hand does the trick!\n\n
+You will quickly realize how everything works. No memorizing is required. Press and hold any key a while to see what can be found.\n\n\n
+Shift modifies punctuation:\n ! ? . , - \' become\n| ~ : ; _ \" \n\n\n
+Most important: You can use ComboKey as your default Android keyboard. Press the button with the keyboard icon to easily change the default keyboard of your device.\n\n
+It is, of course, also possible to change the keyboard (input method) using the Settings menu of your device (Language and input).
+    </string>
+    <string name="a_quick_start"> A Quick Start\n</string>
+    <string name="thanks_for_reading">\nThanks for reading!</string>
+    <string name="dialog_info_text">Press the button showing a keyboard icon to switch between ComboKey and the standard keyboard.\n\n An easy way to switch between different default keyboards is to come to ComboKey app and press the key with the keyboard icon.\n\n\n
+   Privacy Policy:\n\n
+   ComboKey Plus can function as a keyboard for other applications. It also requires Storage permission for maintaining letters and symbols for different languages as well as keyboard button themes.\n\n
+   The application does not use the keyboard typing information for anything else but passing the pressed key data to the application that makes use of the keyboard. The application does not collect any personal user information, neither does it use Augmented reality.
+        Note, however, that if you save single common words, they will be available in the User Dictionary of your device.\n\n
+   More at: combokey.com\n\n\n
+   About ComboKey\n\n
+   ComboKey is partly based on the ideas used in the GKOS keyboard open standard but was developed a lot further for use on touch screens. Both GKOS and ComboKey® have been designed by tiptyper (gkos@gkos.com). - Big thanks to metapropos and peekay for their help in Android programming and assistance in defining symbol layouts for languages in India and its neighbourhood.
+    </string>
+
+    <string name="delete_all_text_confirm">Delete all text?\n\nPress Clear again to delete.</string>
+    <string name="play_text_confirm">Play text?\n\nPress Play again for speech!</string>
+    <string name="save_text_confirm">Replace old notes?\n\nYes = Press Save again!</string>
+    <string name="save_text_empty">"No text to save!"</string>
+    <string name="save_text_done">"Text saved. Old Notes replaced."</string>
+    <string name="append_text_done">"Text added to old Notes."</string>
+    <string name="notes_text_header">"Notes      \n"</string>
+    <string name="description_of_notes_ok_button">"Notes OK button."</string>
+    <string name="toast_user_string">User-defined text (from Settings)</string>
+    <string name="toast_launch_string">Starting user-defined app (in Settings)</string>
+    <string name="translate_to">Translate to</string>
+    <string name="google_search">Google search…</string>
+    <string name="checking_received_smss">Checking received messages…</string>
+    <string name="send_as_sms">Send as SMS</string>
+    <string name="no_sms_capability">No SMS/Phone capability found on this device</string>
+    <string name="aux_language_selected">Aux language</string>
+    <string name="main_language_selected">Main language</string>
+    <string name="all_text_copied">All text copied to clipboard</string>
+    <string name="pasted_from_clipboard">Pasted from clipboard</string>
+    <string name="description_voice_input_button_clear">Clear</string>
+    <string name="description_voice_input_button_speak">Speak</string>
+    <string name="description_voice_input_button_ok">OK</string>
+    <string name="description_custom_toast_icon">Icon</string>
+    <string name="hint_enter_text">…</string>
+    <string name="hint_voice_input_text">…</string>
+
+    <!-- Language names are parsed from JSON files and can be translated and shown beside the keypad: -->
+    <string name="Angika">Angika</string>
+    <string name="Assamese">Assamese</string>
+    <string name="Awadhi">Awadhi</string>
+    <string name="Bengali">Bengali</string>
+    <string name="Bhojpuri">Bhojpuri</string>
+    <string name="Bihari">Bihari</string>
+    <string name="Bodo">Bodo</string>
+    <string name="Catalan">Catalan</string>
+    <string name="CODING">Coding</string>
+    <string name="Danish">Danish</string>
+    <string name="English">English</string>
+    <string name="Esperanto">Esperanto</string>
+    <string name="Estonian">Estonian</string>
+    <string name="Finnish">Finnish</string>
+    <string name="French">French</string>
+    <string name="German">German</string>
+    <string name="Greek">Greek</string>
+    <string name="Gujarati">Gujarati</string>
+    <string name="Hawaiian">Hawaiian</string>
+    <string name="Hindi">Hindi</string>
+    <string name="Icelandic">Icelandic</string>
+    <string name="Indonesian">Indonesian</string>
+    <string name="Italian">Italian</string>
+    <string name="Kannada">Kannada</string>
+    <string name="Konkani">Konkani</string>
+    <string name="Maithili">Maithili</string>
+    <string name="Malay">Malay</string>
+    <string name="Malayalam">Malayalam</string>
+    <string name="Marathi">Marathi</string>
+    <string name="Marwari">Marwari</string>
+    <string name="Nepali">Nepali</string>
+    <string name="Norwegian">Norwegian</string>
+    <string name="Oriya">Oriya</string>
+    <string name="Pali">Pali</string>
+    <string name="Polish">Polish</string>
+    <string name="Portuguese">Portuguese</string>
+    <string name="Punjabi">Punjabi</string>
+    <string name="Rajasthani">Rajasthani</string>
+    <string name="Russian">Russian</string>
+    <string name="Sanskrit">Sanskrit</string>
+    <string name="Sindhi">Sindhi</string>
+    <string name="Spanish">Spanish</string>
+    <string name="Swedish">Swedish</string>
+    <string name="Tamil">Tamil</string>
+    <string name="Telugu">Telugu</string>
+    <string name="Tulu">Tulu</string>
+    <string name="Ukrainian">Ukrainian</string>
+
+    <!-- Text on the Settings menu: -->
+    <string name="settings_header">Settings  ComboKeyBasic v5.6b1</string>
+    <string name="settings_language_header">Main Language</string>
+    <string name="settings_language2_header">Aux Language</string>
+    <string name="settings_language_text">Set the main language for the keyboard. Based on selected language, the most common letters are directly visible and native letters are available.</string>
+    <string name="settings_language2_text">Set the auxiliary language for the keyboard. You can switch quickly between this and the main language during typing. </string>
+    <string name="settings_tips_header">Tips for beginners</string>
+    <string name="settings_tips_text">Show available, normally hidden, characters on the buttons. Feature to be used while learning the method. NOTE: Alternatively, you can always press and hold any button for a short period to see what else is available, without typing a letter!</string>
+    <string name="settings_tiptype_header">Tips options</string>
+    <string name="settings_tiptype_text">The Tips showing where to find more characters can be shown on the lighter main buttons, or on the darker buttons/area between them.</string>
+    <string name="settings_type_method_header">Using Combos and Swipes</string>
+    <string name="settings_type_method_text">If you use occasionally Swipes (one hand) and Combos (simultaneous presses using two hands), select the recommended setting on top. When typing fast, depending on your way of typing, it might be useful e.g. to disable Combos if you never use them (using Swipes instead).</string>
+    <string name="settings_sound_header">Sound on</string>
+    <string name="settings_sound_text">Use sound on key presses. Helps to detect missed/wrong keys.</string>
+    <string name="settings_sound_volume_header">Sound Volume</string>
+    <string name="settings_sound_volume_text">Set key press sound volume.</string>
+    <string name="settings_vibrator_header">Vibrator on</string>
+    <string name="settings_vibrator_text">Use the vibrator to indicate a swipe to another button and a key press that combines two buttons simultaneously.</string>
+    <string name="settings_symbol_flash_header">Symbols Flash on</string>
+    <string name="settings_symbol_flash_text">While typing, each entered symbol or string will shortly be shown in big font next to the keypad.</string>
+    <string name="settings_combo_flash_header">Combo Flash on</string>
+    <string name="settings_combo_flash_text">When a combo is typed or swiped, the typed symbol or string will shortly be shown in big font next to the keypad.</string>
+    <string name="settings_highlight_option_header">Button Highlight</string>
+    <string name="settings_highlight_option_text">When a key is tapped or swiped to, it will be highlighted as a visual response. You can select the visual response options here.</string>
+    <string name="settings_side_panel_hidden_header">Hide Side Panel</string>
+    <string name="settings_side_panel_hidden_text">The side panel with Abc and Language indicators can be hidden to reduce keyboard width.</string>
+    <string name="settings_fontsize_header">Font Size</string>
+    <string name="settings_fontsize_text">Font size in the standalone ComboKey application (not when using this app as a system/default keyboard)</string>
+    <string name="settings_padposition_header">Pad Width and Position</string>
+    <string name="settings_padposition_text">In vertical orientation of the device, the keypad can be positioned left or right (one-hand typing), or at the center (two-hand typing).</string>
+    <string name="settings_padheight_header">Pad Height and Position</string>
+    <string name="settings_padheight_text">In vertical orientation, the height of the ComboKey system keypad can be adjusted to match your needs and the metrics of your device.</string>
+    <string name="settings_padtype_header">Pad Type</string>
+    <string name="settings_padtype_text">You can select the standard ComboKey 5-row keypad (default) or the experimental 3-row keypad.</string>
+    <string name="toast_translate_text_too_long">Text too long (over 3800 chars). Translating part of it.</string>
+    <string name="toast_translate_from_clipboard">Translating clipboard text.</string>
+    <string name="settings_speaktype_header">Voice output</string>
+    <string name="toast_speech_not_available">No text-to-speech support on device. Install \'Google Text to Speech\' tool from Play store!</string>
+    <string name="toast_speech_data_not_available">No speech available for this language.</string>
+    <string name="toast_speech_text_too_long">Text too long (over 3800 chars). Reading part of it.</string>
+    <string name="toast_speech_from_clipboard">Speaking clipboard text.</string>
+    <string name="toast_select_speaktype">Settings > Voice output is OFF!</string>
+    <string name="toast_notes_blank">No Notes found.</string>
+    <string name="settings_speaktype_text">E.g. for studying languages. Depending on available/installed languages on your device, you can hear the text spoken, either each letter while typing,
+        or the complete text starting from cursor position when you press the Play button (found while pressing Del/Backspace button). Please, select options here&#8230;</string>
+    <string name="settings_landscapecolumns_header">Horizontal Pad Setting</string>
+    <string name="settings_landscapecolumns_text">In landscape (horizontal) orientation, the available area for the keyboard is very broad. You can choose a layout that suits you best.</string>
+    <string name="settings_theme_header">Themes</string>
+    <string name="settings_theme_text">Set the visible style for the keyboard. Button types and colors can be selected.</string>
+    <string name="settings_background_header">Transparent Background</string>
+    <string name="settings_background_text">In the stand-alone app, use text on transparent background instead of black.</string>
+    <string name="settings_autocaps_header">Automatic capitals</string>
+    <string name="settings_autocaps_text">At the beginning of a sentence, use upper case automatically.</string>
+    <string name="settings_magic_header">Magic Other Hand</string>
+    <string name="settings_magic_text">Enable also single handed typing by mirroring swipes to the opposite side (Recommended. Very useful!)</string>
+    <string name="settings_master_header">Master Mode!</string>
+    <string name="settings_master_text">Hide all(!) button characters when you are completely familiar with the keyboard</string>
+    <string name="settings_usertext_header">User defined text</string>
+    <string name="settings_usertext_text">Define text here and then enter it directly from the keyboard by a shortcut combo. Useful e.g. for a frequent text like your email address.</string>
+    <string name="settings_usertext_default"> You can define this text in app Settings!</string>
+    <string name="settings_launch_header">App to start</string>
+    <string name="settings_launch_text">Define here which of your installed applications you want to start directly, from the keyboard by a shortcut combo in number mode (Del key will show \'App\' icon). Give the app name exactly as it appears on the applications list in device settings (e.g. Calculator).</string>
+    <string name="settings_launch_default">Calculator</string>
+    <string name="settings_removespace_header">No trailing space</string>
+    <string name="settings_removespace_text">Shortcut words often end with a space. This can make typing quicker but you cannot add anything to the word or end the sentence without deleting the space. If you want to be consistent and always add the space yourself, use this setting.</string>
+    <string name="settings_langcombo_header">Disable Lang combo</string>
+    <string name="settings_langcombo_text">You can disable the possibility to switch between main and aux languages by using a keypad combo/swipe. This is to avoid undesired change of language during typing. Pressing the language names will do the job anyway.</string>
+    <string name="settings_modechange_header">Disable quick Mode change</string>
+    <string name="settings_modechange_text">You can disable the possibility to switch between abc, 123, Symbols and Emoji modes of the keypad with the extra short swipes (i.e. swiping to Del key from neighboring keys). This is to avoid undesired change of Mode during fast typing. Mode change is always possible the standard way, i.e. by using combos/swipes involving the Space key.</string>
+    <string name="settings_mirror_header">Show mirror characters</string>
+    <string name="settings_mirror_text">Show in yellow color, characters on two otherwise empty buttons that can be used to select characters on the opposite side of the keypad. Feature can help finding some common letters while using the 3-row key pad where the order of buttons is different from the 5-row pad.</string>
+    <string name="settings_onehand_combo_header">One-finger Combos</string>
+    <string name="settings_onehand_combo_text">In some situations, like reaching the device from a distance, swiping on the display may not feel practical. No problem! Instead of a swipe, you can tap the first key and hold it just a little bit longer. Now you can do a second tap on the swipe destination key with the same finger.</string>
+    <string name="settings_words_header">Show Candidate Words</string>
+    <string name="settings_words_text">You can add (+) words into Dictionary, or remove (x) them, while typing. These will later be proposed to you above the keypad. Instead of typing complete words, you can tap on a proposed word if valid. NOTE! DO NOT SAVE SENSITIVE INFO!</string>
+
+    <string name="settings_hystamount_header">Sticky buttons</string>
+    <string name="settings_hystamount_text">During swiping, buttons can be set to resist leaving their selected state to a certain degree. This may decrease slipping to an unwanted button, depending on your way of typing.</string>
+    <string name="settings_terminal_mode_header">Terminal mode (SSH etc.)</string>
+    <string name="settings_terminal_mode_text">The keyboard must operate differently, when used together with a terminal emulator or alike, to be compatible. This need is detected automatically but in some cases it may be necessary to be able force the Terminal mode on or off.</string>
+    <string name="settings_font_type_header">Button Text Font</string>
+    <string name="settings_font_type_text">The optional font on the buttons can be selected here.</string>
+
+    <string name="flashtext_call">Call</string>
+    <string name="flashtext_received">Received</string>
+    <string name="flashtext_send">Send</string>
+    <string name="flashtext_speak">Play</string>
+    <string name="flashtext_stop">Stop</string>
+    <string name="flashtext_record">Mic</string>
+    <string name="flashtext_lang">Lang</string>
+    <string name="flashtext_translate">Translate</string>
+    <string name="flashtext_search">Search</string>
+    <string name="flashtext_copy">Copy</string>
+    <string name="flashtext_paste">Paste</string>
+    <string name="flashtext_notes">Notes</string>
+    <string name="flashtext_launch">Start</string>
+    <string name="flashtext_symbols">#@</string>
+    <string name="flashtext_repeat">Repeat</string>
+    <string name="flashtext_settings">Set..</string>
+    <string name="flashtext_shiftdown">ShiftDn</string>
+    <string name="flashtext_emoiji">:)</string>
+
+    <string name="header_voice_typing">ComboKey Voice Typing Editor</string>
+    <string name="voice_input_prompt">Start speaking</string>
+    <string name="voice_input_not_supprted">Voice input not supported</string>
+    <string name="voice_activity_name">Speech To Text</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="tap_on_mic_to_stop">STOP: Tap on mic.</string>
+    <string name="speak_or_tap_on_mic">SPEAK NOW or tap on Mic</string>
+    <string name="press_longer">Up/PgUp - Press a bit longer.</string>
+
+
+</resources>
