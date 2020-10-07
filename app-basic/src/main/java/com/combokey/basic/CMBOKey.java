@@ -488,6 +488,7 @@ public class CMBOKey {
 		// =========== index method ===================
 
 		int index1 = getIndexForChord(chord1);
+
 		int index2 = getIndexForChord(chord2);
 
 		if (((index1 > 0) && (index1 <16)) && ((index2 > 0) && (index2 <16))) validity = true;
