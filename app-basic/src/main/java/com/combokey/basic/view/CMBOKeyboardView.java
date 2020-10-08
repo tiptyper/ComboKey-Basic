@@ -49,16 +49,11 @@ import android.util.AttributeSet;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnLongClickListener;
 import android.view.ViewGroup;
-import android.view.WindowManager;
-import android.widget.EditText;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.PopupWindow;
 import android.widget.Toast;
 
 import com.combokey.basic.CMBOKey;
@@ -76,7 +71,6 @@ import com.combokey.basic.view.touchevent.SimpleTouchEventListener;
 import com.combokey.basic.view.touchevent.SimpleTouchEventProcessor;
 
 import static android.content.Context.AUDIO_SERVICE;
-import static android.content.Context.LAYOUT_INFLATER_SERVICE;
 import static android.graphics.Color.BLACK;
 import static com.combokey.basic.CMBOKeyboardApplication.getApplication;
 import static java.lang.Boolean.TRUE;
@@ -2800,13 +2794,9 @@ public class CMBOKeyboardView extends ImageView implements
 		return false;
 	}
 
-	/**
+	/*
 	 * Check which key position was pushed
-	 *
-	 * @param event
-	 * @return
 	 */
-
 	private int getPressedVirtualKey(SimpleTouchEvent event) {
 
 		int x = (int) event.getX();

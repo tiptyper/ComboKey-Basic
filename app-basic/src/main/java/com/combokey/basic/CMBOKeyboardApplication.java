@@ -100,11 +100,9 @@ public class CMBOKeyboardApplication extends Application {
 		return instance;
 	}
 
-	/**
+	/*
 	 * The output can be either the activity or the service, and we only know at
 	 * runtime.
-	 * 
-	 * @param output
 	 */
 	public void setOutput(KeyboardOutput output) {
 		this.manager.getKeyboard().setOutput(output);

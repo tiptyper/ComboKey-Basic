@@ -54,7 +54,6 @@ import android.view.inputmethod.InputConnection;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -2781,6 +2780,7 @@ public class CMBOKeyboardService extends InputMethodService implements
 		try {
 			clipboardManager.getPrimaryClip();
 			ClipData pasteData = clipboardManager.getPrimaryClip();
+			//assert pasteData != null;
 			ClipData.Item item = pasteData.getItemAt(0);
 			return item.getText().toString();
 		} catch (Exception e) {

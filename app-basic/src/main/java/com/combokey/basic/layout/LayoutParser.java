@@ -37,6 +37,8 @@ import org.json.JSONObject;
 import android.content.Context;
 import android.util.Log;
 
+import static java.lang.Long.valueOf;
+
 public class LayoutParser {
 
 	private final static int NA = -1;
@@ -349,7 +351,8 @@ public class LayoutParser {
 					if (key.equals("format")) {
 
 						layoutFormat = metadata.getString(key);
-						layoutFormatValue = Double.valueOf(layoutFormat);
+						//layoutFormatValue = Double.valueOf(layoutFormat);
+						layoutFormatValue = valueOf(layoutFormat);
 
 						Log.d("CMBO", "**** (main) - Parsing section Metadata Format (layoutFormat) = "
 								+ layoutFormat + ", value  " + layoutFormatValue + ". JSON File = " + fileName);
@@ -783,7 +786,8 @@ public class LayoutParser {
 					if (key.equals("format")) {
 
 						layoutFormat = metadata.getString(key);
-						layoutFormatValue = Double.valueOf(layoutFormat);
+						//layoutFormatValue = Double.valueOf(layoutFormat);
+						layoutFormatValue = valueOf(layoutFormat);
 
 						Log.d("CMBO", "**** (aux) - Parsing section Metadata2 Format (layoutFormat) = "
 								+ layoutFormat + " => " + layoutFormatValue);

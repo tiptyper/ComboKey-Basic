@@ -418,6 +418,7 @@ public class CMBOKeyboardActivity extends Activity {
 			d = new Dialog(this);
 			Window window = d.getWindow();
 		try {
+			//assert window != null;
 			window.setFlags(WindowManager.LayoutParams.FLAG_BLUR_BEHIND, 0);
 		} catch (Exception e) {
 			Toast toast = Toast.makeText(this,
@@ -440,6 +441,7 @@ public class CMBOKeyboardActivity extends Activity {
 		d = new Dialog(this);
 		Window window = d.getWindow();
 		try {
+			//assert window != null;
 			window.setFlags(WindowManager.LayoutParams.FLAG_BLUR_BEHIND, 0);
 		} catch (Exception e) {
 			Toast toast = Toast.makeText(this,

@@ -23,6 +23,8 @@
 package com.combokey.basic.view;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
 
 import android.graphics.Rect;
@@ -133,10 +135,11 @@ public class CMBOButton {
 
 		//if (!( (state == 7) || (state == 56) )) { // for slides not from space and backspace
 		if (highliteAdjacentButtons) { // for slides not from space and backspace
-
-			for (CMBOButton b : buttons) {
-				this.adjacentButtons.add(b);
-			}
+			//for (CMBOButton b : buttons) {
+			//	this.adjacentButtons.add(b);
+			//}
+			// A cooler way of doing the same:
+			this.adjacentButtons.addAll(Arrays.asList(buttons));
 		}
 
 		return this;

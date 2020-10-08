@@ -468,15 +468,10 @@ public class CMBOKey {
 
 	*/
 
-	/**
+	/*
 	 * Checks that two button presses do not overlap (ie. pressing a with o,
 	 * which already includes a).
-	 *
-	 * @param chord1
-	 * @param chord2
-	 * @return
 	 */
-
 	public static boolean isValidCombination(int chord1, int chord2) {
 		// For now, please do not edit even if warning:
 		// Boolean method 'isValidCombination' is always inverted

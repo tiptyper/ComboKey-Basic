@@ -491,7 +491,7 @@ public class CMBOKeyboardLayoutGenerator {
 
             scalePercentage = 0; // was 0.2
 
-            a = buttonLayout.addButton(ofsL, 0 + ofsY, 1, 1);
+            a = buttonLayout.addButton(ofsL, ofsY, 1, 1);
             old = a.getVisibleRect();
 
             a.modifyVisibleSize(0, scalePercentage).setId(CMBOKey.A);
@@ -513,11 +513,11 @@ public class CMBOKeyboardLayoutGenerator {
                     .setId(CMBOKey.C);
 
             th = buttonLayout
-                    .addButton(1 + ofsR, 0 + ofsY, 1, 1)
+                    .addButton(1 + ofsR, ofsY, 1, 1)
                     .modifyVisibleSize(0, scalePercentage)
                     .setId(CMBOKey.TH);
             th = buttonLayout
-                    .addButton(1 + ofsL, 0 + ofsY, 1, 1)
+                    .addButton(1 + ofsL, ofsY, 1, 1)
                     .modifyVisibleSize(0, scalePercentage)
                     .setId(CMBOKey.TH);
             // Was:
@@ -567,7 +567,7 @@ public class CMBOKeyboardLayoutGenerator {
                     .setId(CMBOKey.M);
 
 
-            d = buttonLayout.addButton(2 + ofsR, 0 + ofsY, 1, 1)
+            d = buttonLayout.addButton(2 + ofsR, ofsY, 1, 1)
                     .modifyVisibleSizePixels(0, scaleAmount)
                     .setId(CMBOKey.D);
             g = buttonLayout.addButton(2 + ofsR, 1 + ofsY, 1, 1)
@@ -598,22 +598,22 @@ public class CMBOKeyboardLayoutGenerator {
 
             scalePercentage = 0; // was 0.2
 
-            a = buttonLayout.addButton(0 + ofsL, 0 + ofsY, 1, 1);
+            a = buttonLayout.addButton(ofsL, ofsY, 1, 1);
             old = a.getVisibleRect();
 
             a.modifyVisibleSize(0, scalePercentage).setId(CMBOKey.A);
             scaleAmount = a.getVisibleRect().bottom - old.bottom;
 
-            o = buttonLayout.addButton(1 + ofsL, 0 + ofsY, 1, 1)
+            o = buttonLayout.addButton(1 + ofsL, ofsY, 1, 1)
                     .modifyVisibleSizePixels(-scaleAmount, -scaleAmount)
                     .setId(CMBOKey.O);
-            b = buttonLayout.addButton(0 + ofsL, 1 + ofsY, 1, 1)
+            b = buttonLayout.addButton(ofsL, 1 + ofsY, 1, 1)
                     .modifyVisibleSizePixels(scaleAmount, scaleAmount)
                     .setId(CMBOKey.B);
             s = buttonLayout.addButton(1 + ofsL, 2 + ofsY, 1, 1)
                     .modifyVisibleSizePixels(-scaleAmount, -scaleAmount)
                     .setId(CMBOKey.S);
-            c = buttonLayout.addButton(0 + ofsL, 2 + ofsY, 1, 1)
+            c = buttonLayout.addButton(ofsL, 2 + ofsY, 1, 1)
                     .modifyVisibleSizePixels(scaleAmount, 0)
                     .extendHitBoxBottom(12)
                     .setId(CMBOKey.C);
@@ -623,11 +623,11 @@ public class CMBOKeyboardLayoutGenerator {
                             -scalePercentage / 2).setId(CMBOKey.BACKSPACE);
 
             th = buttonLayout
-                    .addButton(2 + ofsL, 0 + ofsY, 1, 1)
+                    .addButton(2 + ofsL, ofsY, 1, 1)
                     .modifyVisibleSize(0, 0, -scalePercentage,
                             -scalePercentage).setId(CMBOKey.TH);
             th = buttonLayout
-                    .addButton(2 + ofsR, 0 + ofsY, 1, 1)
+                    .addButton(2 + ofsR, ofsY, 1, 1)
                     .modifyVisibleSize(0, 0, -scalePercentage,
                             -scalePercentage).setId(CMBOKey.TH);
             w = buttonLayout
@@ -651,10 +651,10 @@ public class CMBOKeyboardLayoutGenerator {
                     .addButton(3 + ofsR, 1 + ofsY, 1, 1)
                     .modifyVisibleSize(0, 0, -scalePercentage / 2,
                             -scalePercentage).setId(CMBOKey.SPACE);
-            d = buttonLayout.addButton(4 + ofsR, 0 + ofsY, 1, 1)
+            d = buttonLayout.addButton(4 + ofsR, ofsY, 1, 1)
                     .modifyVisibleSizePixels(0, scaleAmount)
                     .setId(CMBOKey.D);
-            g = buttonLayout.addButton(3 + ofsR, 0 + ofsY, 1, 1)
+            g = buttonLayout.addButton(3 + ofsR, ofsY, 1, 1)
                     .modifyVisibleSizePixels(-scaleAmount, -scaleAmount)
                     .setId(CMBOKey.G);
             e = buttonLayout.addButton(4 + ofsR, 1 + ofsY, 1, 1)
