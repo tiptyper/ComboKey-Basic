@@ -19,7 +19,7 @@ android {
         }
     }
     //buildToolsVersion '29.0.3' //  moved back to 28 and then Refactor > Migrate to AndroidX
-    buildToolsVersion '28.0.3'
+    buildToolsVersion '29.0.3'
     compileOptions {
         sourceCompatibility = 1.6
         targetCompatibility = 1.6
