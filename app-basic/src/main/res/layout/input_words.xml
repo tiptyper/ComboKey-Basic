@@ -16,19 +16,19 @@
 			android:id="@+id/wordButton1"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			android:text="Under"
+			android:text=""
 			android:textAllCaps="false"/>
 		<Button
 			android:id="@+id/wordButton2"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			android:text="construction"
+			android:text=""
 			android:textAllCaps="false"/>
 		<Button
 			android:id="@+id/wordButton3"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			android:text="still."
+			android:text=""
 			android:textAllCaps="false"/>
 
 	</LinearLayout>

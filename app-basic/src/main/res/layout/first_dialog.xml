@@ -27,7 +27,7 @@
 				android:background="@drawable/button_abc"
 				android:textSize="28sp" />
 			<TextView
-				android:text="\n\n"
+				android:text="@string/new_paragraph"
 				android:layout_height="wrap_content" android:layout_width="wrap_content"
 				android:textSize="20sp" />
 		</LinearLayout>

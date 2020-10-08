@@ -33,6 +33,7 @@
     As the author of this app, I assure ComboKey does not collect any personal or other information.\n\n
     - tiptyper, author of ComboKey</string>
     <string name="addkbd">+</string>
+    <string name="new_paragraph">\n\n</string>
     <string name="ClearCookies">Clear Text</string>
     <string name="ClearCookieQuestion">Do you really want to delete the text?</string>
     <string name="PostiveYesButton">Yes!</string>

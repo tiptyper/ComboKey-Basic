@@ -34,6 +34,7 @@
     <string name="NegativeNoButton">Ei</string>
     <string name="infobutton">Tietoa</string>
     <string name="header_add_kbd">Lisää näppäimistö</string>
+    <string name="new_paragraph">\n\n</string>
     <string name="header_info">ComboKey-tietoa</string>
     <string name="header_help">ComboKey-ohje</string>
     <string name="dialog_help_text">Tavallisimmat kirjaimet:\n\n

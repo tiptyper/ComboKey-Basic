@@ -39,6 +39,7 @@
     <string name="NegativeNoButton">नहीं</string>
     <string name="infobutton">जानकारी</string>
     <string name="header_add_kbd">कीबोर्ड जोड़ें</string>
+    <string name="new_paragraph">\n\n</string>
     <string name="header_info">कॉम्बोकी की जानकारी</string>
     <string name="header_help">कॉम्बोकी मदद</string>
     <string name="dialog_help_text">प्रचलित अक्षर\n \n
