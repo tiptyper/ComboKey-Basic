@@ -1,7 +1,7 @@
 # ComboKeyBasic
 ComboKey
 
-I have developed this Android keyboard after realizing that 
+I have developed this Android keyboard after experiencing that 
 typing on the small buttons of the standard virtual keyboard
 is not easy because trying to hit correct keys with big thumbs
 is really frustrating. 
