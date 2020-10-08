@@ -40,7 +40,11 @@
         android:icon="@drawable/icon_basic_512"
         android:installLocation="auto"
         android:label="@string/app_name"
+        android:supportsRtl="false"
         android:testOnly="true" >
+
+        <!-- Rtl: right-to-left-support not needed (no such language on settings yet) -->
+
         <activity
             android:name="com.combokey.basic.CMBOKeyboardActivity"
             android:imeOptions="flagNoExtractUi"

@@ -552,6 +552,7 @@ string landscapecolumns_defaultvalue
 string main_language_defaultvalue_in_english
 string main_language_selected
 string main_layout_defaultvalue_in_english
+string new_paragraph
 string no_sms_capability
 string not_possible_im_picker
 string notes_text_header

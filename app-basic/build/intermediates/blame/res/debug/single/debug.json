@@ -16,20 +16,20 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_cw.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_blue_dark3_deep.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue_dark3_deep.png"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_wood_prev.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood_prev.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_arrow_send_back_edges.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/arrow_send_back_edges.png"
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_blue_dark3_deep.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_blue_dark3_deep.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_downs_edges.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/downs_edges.png"
+    },
+    {
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_arrow_send_back_edges.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/arrow_send_back_edges.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_keyw_vol2.wav.flat",
@@ -52,24 +52,24 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/kbd_icon_150.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_abcnum2.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/abcnum2.png"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_brown_dark2.9.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_brown_dark2.9.png"
+    },
+    {
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_abcnum2.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/abcnum2.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_pressed_circle.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_circle.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_school_bar_right.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_school_bar_right.png"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_spaces_edges.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/spaces_edges.png"
+    },
+    {
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_school_bar_right.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_school_bar_right.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_abc.9.png.flat",
@@ -88,24 +88,24 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/menu_copyx.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_help.9.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_help.9.png"
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_outgoing_call_start_edges.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/outgoing_call_start_edges.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_kbd.9.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_kbd.9.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_outgoing_call_start_edges.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/outgoing_call_start_edges.png"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_flag_s.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/flag_s.png"
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_help.9.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_help.9.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_school_top.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_school_top.png"
+    },
+    {
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_flag_s.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/flag_s.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_backspace2.png.flat",
@@ -136,16 +136,16 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input_words.xml"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_deletes_white.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/deletes_white.png"
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_settings_shadow.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/settings_shadow.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_speak_rec.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_rec.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_settings_shadow.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/settings_shadow.png"
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_deletes_white.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/deletes_white.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
@@ -160,12 +160,12 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/activity_notes.xml"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_downhelp.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/downhelp.png"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout_activity_notes.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/activity_notes.xml"
+    },
+    {
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_downhelp.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/downhelp.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_pressed_deep_yellow.png.flat",
@@ -176,16 +176,16 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_circle_white_yellow.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_pressed_old.9.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_old.9.png"
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_pad_3r.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_3r.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_green.9.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_green.9.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_pad_3r.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_3r.png"
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_button_pressed_old.9.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_pressed_old.9.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-mdpi_icon_new.png.flat",
