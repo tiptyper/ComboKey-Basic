@@ -39,7 +39,7 @@ public class CMBOKeyboardApplication extends Application {
 
 	private static CMBOKeyboardApplication instance;
 
-	private CMBOManager manager = new CMBOManager();
+	private final CMBOManager manager = new CMBOManager();
 
 	public CMBOKeyboardApplication() {
 		instance = this;

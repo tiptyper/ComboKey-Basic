@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="shade">#44000000</color>
     <color name="transparent">#33000000</color>
-    <color name="candidate_background">#ff222222</color>
-    <color name="candidate_normal">#ffeeeeee</color>
-    <color name="candidate_recommended">#ffffffff</color>
-    <color name="candidate_other">#ff888888</color>
-
     <color name="white">#ffffff</color>
-    <color name="gray">#aaaaaa</color>
     <color name="gray_transp">#88ffffff</color>
-    <color name="bg_gradient_start">#31244e</color>
-    <color name="bg_gradient_end">#6b394c</color>
 </resources>
 <!-- original transparent: #00ff0000 -->

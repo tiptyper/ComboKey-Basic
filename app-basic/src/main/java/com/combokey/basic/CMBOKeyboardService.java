@@ -84,11 +84,11 @@ public class CMBOKeyboardService extends InputMethodService implements
 	private CMBOKeyboardController controller;
 	private CMBOKeyboardView view;
 
-	private CMBOWordCandidates candidates = CMBOKeyboardApplication.getApplication().getCandidates();
+	private final CMBOWordCandidates candidates = CMBOKeyboardApplication.getApplication().getCandidates();
 
 	private String savedNotes = CMBOKeyboardApplication.getApplication().getPreferences().getNotes();
 	private String notesToSave = "";
-	private String savedText = CMBOKeyboardApplication.getApplication().getPreferences().getTempString();
+	private final String savedText = CMBOKeyboardApplication.getApplication().getPreferences().getTempString();
 	private String textToSave = "*empty*";
 	private boolean notesVisible = false;
 
@@ -106,7 +106,7 @@ public class CMBOKeyboardService extends InputMethodService implements
 	private String ctrlKey = "";
 
 
-	CountDownTimer topBarTimer = new CountDownTimer(200, 100) { // 1000, 500
+	final CountDownTimer topBarTimer = new CountDownTimer(200, 100) { // 1000, 500
 		// (time in ms to onFinish(), Tick interval while counting)
 		@Override
 		public void onTick(long l) {
@@ -125,7 +125,7 @@ public class CMBOKeyboardService extends InputMethodService implements
 
 	// ---------------------
 
-	CountDownTimer initTtsTimer = new CountDownTimer(2000, 600) { // 1000, 500
+	final CountDownTimer initTtsTimer = new CountDownTimer(2000, 600) { // 1000, 500
 		// (time in ms to onFinish(), Tick interval while counting)
 		@Override
 		public void onTick(long l) {
@@ -144,7 +144,7 @@ public class CMBOKeyboardService extends InputMethodService implements
 		}
 	};
 
-	CountDownTimer playTimer = new CountDownTimer(120000, 1000) {
+	final CountDownTimer playTimer = new CountDownTimer(120000, 1000) {
 		// (time in ms to onFinish(), Tick interval while counting)
 		@Override
 		public void onTick(long l) { // to show Play button symbol again when play stops

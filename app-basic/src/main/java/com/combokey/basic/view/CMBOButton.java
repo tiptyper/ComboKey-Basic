@@ -36,10 +36,10 @@ public class CMBOButton {
 	//private Rect hitBoxPlus; // scaled hitbox for hysteresis
 	private int id;
 
-	private boolean highliteAdjacentButtons = false; // 2017-09
+	private final boolean highliteAdjacentButtons = false; // 2017-09
 
 
-	private List<CMBOButton> adjacentButtons = new ArrayList<CMBOButton>();
+	private final List<CMBOButton> adjacentButtons = new ArrayList<CMBOButton>();
 
 	public CMBOButton(Rect visibleRect, Rect hitBox) {
 		this.visibleRect = visibleRect;

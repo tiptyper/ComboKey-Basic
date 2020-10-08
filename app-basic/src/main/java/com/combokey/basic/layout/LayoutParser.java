@@ -93,8 +93,8 @@ public class LayoutParser {
 		 *
 		 */
 
-		private String header;
-		private int charOffset;
+		private final String header;
+		private final int charOffset;
 
 		Section(String header, int charOffset) {
 			this.header = header;
@@ -113,7 +113,7 @@ public class LayoutParser {
 		// ============== For moving legacy JSON strings to Maps: ===================
 			// ===== legacy json layout means those before format 10.0 =====
 
-	private int lastMapIndex = 242+1; // +1 = abc/Abc/ABC...
+	private final int lastMapIndex = 242+1; // +1 = abc/Abc/ABC...
 	private static final int mapToPrimary[] = { 0, // index/chord of single buttons
 		// This same map is for lowercase, uppercase, caps and emojis, 0 = do not load this item, leave as is
 		//  a  o  u  s  c   d  BS   l SP  M    i  t  e   n  r

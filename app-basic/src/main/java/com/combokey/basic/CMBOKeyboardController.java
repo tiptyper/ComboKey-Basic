@@ -48,7 +48,7 @@ public class CMBOKeyboardController {
 	private final static String[] PROBLEMATIC_MODELS = new String[] {
 			"Nexus One", "HTC Desire", "HTC Aria", "HTC Hero", "ZTE Blade" };
 
-	private boolean[] down = new boolean[2];
+	private final boolean[] down = new boolean[2];
 	private CMBOKeyboardMode mode = CMBOKeyboardMode.UNDEFINED;
 
 	public boolean peekPress = false; // a press just to peek characters
@@ -94,7 +94,7 @@ public class CMBOKeyboardController {
 		return CMBOKey.getIndexForChord(this.state1);
 	}
 
-	CountDownTimer holdTimer = new CountDownTimer(1500, 400) {
+	final CountDownTimer holdTimer = new CountDownTimer(1500, 400) {
 		// (time in ms to onFinish(), Tick interval while counting)
 		@Override
 		public void onTick(long l) {

@@ -20,10 +20,6 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/downs_edges.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_keyw_vol2.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/keyw_vol2.wav"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_speak_play_red.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_play_red.png"
     },
@@ -60,20 +56,12 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_smaller_higher_3row.xml"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_tap2h.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/tap2h.wav"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/preferences.xml"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-land_input_smaller_lower.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_smaller_lower.xml"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-xlarge_input_words.xml.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/input_words.xml"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_deletes_white.png.flat",
@@ -150,10 +138,6 @@
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_tammi_landscape.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/tammi_landscape.png"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_hit_short.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/hit_short.wav"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-xlarge-land_input.xml.flat",
@@ -352,32 +336,16 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_ur.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_hit.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/hit.wav"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_pad_d.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_d.png"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/xml_black_rect.xml.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/black_rect.xml"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout_input_3row.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input_3row.xml"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-xlarge-land_input_words.xml.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input_words.xml"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-xlarge_activity_notes.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge/activity_notes.xml"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout_input_words.xml.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout/input_words.xml"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_notes.png.flat",
@@ -390,10 +358,6 @@
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-sw600dp-land_input.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input.xml"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-land_input_words.xml.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_words.xml"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_mainbuttonbasic.png.flat",
@@ -440,16 +404,8 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/blob_low_vol2.wav"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_blob_low_vol.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/blob_low_vol.wav"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_menu_clearx.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/menu_clearx.png"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_tap2.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/tap2.wav"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_clear2w.png.flat",
@@ -462,10 +418,6 @@
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-xlarge-land_input_smaller_lower.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-xlarge-land/input_smaller_lower.xml"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_blob.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/blob.wav"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_pad_b.png.flat",
@@ -490,10 +442,6 @@
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-land_input_3row.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_3row.xml"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_keyw_midium_vol.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/keyw_midium_vol.wav"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-ldpi_icon_new.png.flat",
@@ -566,10 +514,6 @@
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-land_input_smaller_lower_3row.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-land/input_smaller_lower_3row.xml"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_tap2_low_vol.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/tap2_low_vol.wav"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_screen_transp_darker.9.png.flat",
@@ -652,10 +596,6 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/button_wood_info.png"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_rubber_low_vol.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/rubber_low_vol.wav"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_pgdn_edges.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pgdn_edges.png"
     },
@@ -686,10 +626,6 @@
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-sw600dp_input_smaller_lower.xml.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input_smaller_lower.xml"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-sw600dp_input_words.xml.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp/input_words.xml"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-xlarge-land_input_smaller_lower_3row.xml.flat",
@@ -732,10 +668,6 @@
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/keyw_low2_vol.wav"
     },
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/raw_rubber.wav.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/raw/rubber.wav"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_homes_edges.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/homes_edges.png"
     },
@@ -766,10 +698,6 @@
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_speak_play.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_play.png"
-    },
-    {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/layout-sw600dp-land_input_words.xml.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/layout-sw600dp-land/input_words.xml"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/debug/drawable-hdpi_topbarplus.png.flat",

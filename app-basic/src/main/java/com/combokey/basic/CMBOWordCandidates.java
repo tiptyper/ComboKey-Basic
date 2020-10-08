@@ -48,8 +48,8 @@ public class CMBOWordCandidates implements CMBOWordCandidatesOverride {
     private String previousWordShown = "";
     private String[] wordCandidates = {"", "", "", "", "", "", "", "", "", ""};
     private int[] wordFrequencies = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-    private String[] wordIdStrings = {"", "", "", "", "", "", "", "", "", ""};
-    private int maxN = 9; // 5; // Max number of candidates to browse on topBar, maxN allowed values: 2...10
+    private final String[] wordIdStrings = {"", "", "", "", "", "", "", "", "", ""};
+    private final int maxN = 9; // 5; // Max number of candidates to browse on topBar, maxN allowed values: 2...10
 
     private int frequencyOfSelectedWord = 1;
     private ContentResolver resolver = null; // getContentResolver();
@@ -65,7 +65,7 @@ public class CMBOWordCandidates implements CMBOWordCandidatesOverride {
     private boolean isUserActive = true;
     private boolean isPasswordMode = false;
     private int itemSelected = 0; // Which one of the (three) matches
-    private boolean debugOn = false; // true; // For TEST ONLY !!!
+    private final boolean debugOn = false; // true; // For TEST ONLY !!!
 
     void initializeWords(Context context) {
 
@@ -126,7 +126,7 @@ public class CMBOWordCandidates implements CMBOWordCandidatesOverride {
 
     //------------------------------
 
-    private CountDownTimer dictReloadTimer = new CountDownTimer(120000, 1000) { // 120000, 1000
+    private final CountDownTimer dictReloadTimer = new CountDownTimer(120000, 1000) { // 120000, 1000
         // (time in ms to onFinish(), Tick interval while counting)
         @Override
         public void onTick(long l) { //
@@ -138,7 +138,7 @@ public class CMBOWordCandidates implements CMBOWordCandidatesOverride {
         }
     };
 
-    private CountDownTimer rotateTimer = new CountDownTimer(30, 10) {
+    private final CountDownTimer rotateTimer = new CountDownTimer(30, 10) {
         // (time in ms to onFinish(), Tick interval while counting)
         @Override
         public void onTick(long l) { // to

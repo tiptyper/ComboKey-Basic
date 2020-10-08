@@ -120,8 +120,8 @@ public class CMBOKeyboardView extends ImageView implements
 	private CMBOButton pressedKeyPrevious = null;
 
 	private CMBOKeyboardController controller;
-	private CMBOKeyboard keyboard = getApplication().getCMBOManager().getKeyboard(); // 2018-01
-	private CMBOWordCandidates candidates = getApplication().getCMBOManager().getCandidates();
+	private final CMBOKeyboard keyboard = getApplication().getCMBOManager().getKeyboard(); // 2018-01
+	private final CMBOWordCandidates candidates = getApplication().getCMBOManager().getCandidates();
 	private String abcIndicator = ""; //CMBOKeyboardApplication.getApplication()
 			//.getLayoutManager().getAbcIndicator();
 	public String modeState = "";
@@ -178,7 +178,7 @@ public class CMBOKeyboardView extends ImageView implements
 
 	public static boolean regenerateViewKludge = false; //true; // 2017: to regenerate Service view
 	public static boolean debugInUse = false; // (set to false when app is ready) Alt+d turns debug on/off
-	public static boolean debug2InUse = false; //true; // (set to false when app is ready) Alt+d turns debug on/off
+	public static final boolean debug2InUse = false; //true; // (set to false when app is ready) Alt+d turns debug on/off
 	public static boolean runningService = false;
 
 	public static int previousPadPosition = 50;
@@ -277,15 +277,15 @@ public class CMBOKeyboardView extends ImageView implements
 	// https://developer.android.com/reference/android/media/MediaPlayer.html
 
 
-	private int soundOption = 1; // 1 = pool, 2 = mp
+	private final int soundOption = 1; // 1 = pool, 2 = mp
 
 	// ------------------- sound pool option --------------------- TODO: Simplify playing sounds!!!
 
 	private static SoundPool soundPool;
 	private int sound1, sound2, sound3, sound4, sound5, sound6;
-	private int[] sIndex = {sound1, sound2, sound3, sound4, sound5, sound6};
+	private final int[] sIndex = {sound1, sound2, sound3, sound4, sound5, sound6};
 
-	private AudioManager audioManager = (AudioManager) this.getContext().getSystemService(AUDIO_SERVICE);
+	private final AudioManager audioManager = (AudioManager) this.getContext().getSystemService(AUDIO_SERVICE);
 
 	public void cleanUp() {
 		try {
@@ -343,9 +343,9 @@ public class CMBOKeyboardView extends ImageView implements
 
 	}
 
-	int soundVolume = getApplication().getPreferences().getSoundVolume(); // 0 to 100
-	private float leftVolume = ((float) soundVolume)/100; 	// 100 -> 1, 50 -> 0.5
-	private float rightVolume = ((float) soundVolume)/100; 	// 100 -> 1, 50 -> 0.5
+	final int soundVolume = getApplication().getPreferences().getSoundVolume(); // 0 to 100
+	private final float leftVolume = ((float) soundVolume)/100; 	// 100 -> 1, 50 -> 0.5
+	private final float rightVolume = ((float) soundVolume)/100; 	// 100 -> 1, 50 -> 0.5
 
 	private void playSound(int index, int speed) { // almost real time, less lag
 
@@ -3075,7 +3075,7 @@ public class CMBOKeyboardView extends ImageView implements
 	private boolean keepFlashVisible = false;
 
 	// 750 250
-	CountDownTimer flashTimer = new CountDownTimer(600, 384) { // 500, 256 (time in ms to onFinish(), Tick interval while counting)
+	final CountDownTimer flashTimer = new CountDownTimer(600, 384) { // 500, 256 (time in ms to onFinish(), Tick interval while counting)
 		@Override
 		public void onTick(long l) {
 			Log.d("-TIMER", "- Flash timer onTick");
@@ -3090,7 +3090,7 @@ public class CMBOKeyboardView extends ImageView implements
 	}.start();
 
 	// Second autorepeat method (combo pressed, not Abc button)
-	CountDownTimer repeatTimer = new CountDownTimer(1000, 400) { // (time in ms to onFinish(), Tick interval while counting)
+	final CountDownTimer repeatTimer = new CountDownTimer(1000, 400) { // (time in ms to onFinish(), Tick interval while counting)
 		@Override
 		public void onTick(long l) {
 			Log.d("-TIMER", "- Repeat timer onTick");
@@ -3106,7 +3106,7 @@ public class CMBOKeyboardView extends ImageView implements
 
 	private boolean firstRedrawDone = false;
 
-	CountDownTimer pressTimer = new CountDownTimer(100, 10) { // (time in ms to onFinish(), Tick interval while counting)
+	final CountDownTimer pressTimer = new CountDownTimer(100, 10) { // (time in ms to onFinish(), Tick interval while counting)
 		@Override
 		public void onTick(long l) {
 			Log.d("-TIMER", "- Symbols redraw timer: onTick (redraw only on first tick)");
@@ -3221,7 +3221,7 @@ public class CMBOKeyboardView extends ImageView implements
 		return bitmap;
 	}
 
-	private Map<String, Bitmap> imageMap = new HashMap<String, Bitmap>();
+	private final Map<String, Bitmap> imageMap = new HashMap<String, Bitmap>();
 
 	private void generateImage(String key, int res) {
 		Bitmap bitmap = BitmapFactory.decodeResource(this.getResources(), res);

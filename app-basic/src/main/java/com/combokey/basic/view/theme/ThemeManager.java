@@ -36,13 +36,13 @@ import com.combokey.basic.preferences.PreferencesModule;
 
 public class ThemeManager {
 
-	private Map<String, Theme> themes = new HashMap<String, Theme>();
+	private final Map<String, Theme> themes = new HashMap<String, Theme>();
 
 	private Theme activeTheme;
 
-	DrawableStrategy legacyDrawableStrategy = PreferencesModule.provideLegacyDrawableStrategy();
+	final DrawableStrategy legacyDrawableStrategy = PreferencesModule.provideLegacyDrawableStrategy();
 
-	ThemeParser themeParser = new ThemeParser();
+	final ThemeParser themeParser = new ThemeParser();
 
 	public void setActiveTheme(Theme theme) {
 		activeTheme = theme;

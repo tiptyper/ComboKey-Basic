@@ -41,7 +41,7 @@ import com.combokey.basic.R;
 
 public class LayoutManager implements OnSharedPreferenceChangeListener {
 
-	private Map<String, Layout> layouts = new LinkedHashMap<String, Layout>();
+	private final Map<String, Layout> layouts = new LinkedHashMap<String, Layout>();
 
 	//private Layout currentLayout; // either one, keeps changing
 	private Layout currentLayout1; // main lang
@@ -83,7 +83,7 @@ public class LayoutManager implements OnSharedPreferenceChangeListener {
 
 	//private CMBOKeyboardView view; // only needed for one thing
 
-	private LayoutParser layoutParser = new LayoutParser(); // can be private?
+	private final LayoutParser layoutParser = new LayoutParser(); // can be private?
 
 	private String abcIndicator = "-";
 

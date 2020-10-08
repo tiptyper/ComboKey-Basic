@@ -160,18 +160,6 @@
 		<item>20</item>
 		<item>30</item>
 	</string-array>
-	<string-array name="layout_names">
-		<item>वर्णमाला</item>
-		<item>अनुकूलित 1 (पुराना)</item>
-		<item>अनुकूलित 2 (सुझाव)</item>
-		<item>अनुकूलित 3 (प्रायोगिक)</item>
-	</string-array>
-	<string-array name="layout_values">
-		<item>Alphabetical</item>
-		<item>Optimized_1</item>
-		<item>Optimized_2</item>
-		<item>Optimized_3</item>
-	</string-array>
 	<string-array name="padposition_names">
 		<item>संकीर्ण पटल दाहिना</item>
 		<item>संकीर्ण पटल बायाँ</item>

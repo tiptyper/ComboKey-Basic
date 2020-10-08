@@ -43,7 +43,7 @@ public class LegacyDrawableStrategy implements DrawableStrategy {
 	private Map<String, Drawable> buttons, pressedButtons, alternateButtons,
 			barLButtons, barRButtons, topButtons, images;
 
-	private AtomicBoolean initialized = new AtomicBoolean(false);
+	private final AtomicBoolean initialized = new AtomicBoolean(false);
 
 	private void initialize() {
 		Resources resources = CMBOKeyboardApplication.getApplication().getApplicationContext().getResources();

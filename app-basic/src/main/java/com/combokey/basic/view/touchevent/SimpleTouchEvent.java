@@ -24,14 +24,14 @@ package com.combokey.basic.view.touchevent;
 
 public class SimpleTouchEvent {
 
-	private int pointerIndex;
+	private final int pointerIndex;
 
-	private Type type;
-	private long time;
-	private float x;
-	private float y;
-	private int deltaX; // how long was the swipe
-	private int deltaY;
+	private final Type type;
+	private final long time;
+	private final float x;
+	private final float y;
+	private final int deltaX; // how long was the swipe
+	private final int deltaY;
 
 	public enum Type {
 		POINTER_DOWN, POINTER_UP, POINTER_MOVE

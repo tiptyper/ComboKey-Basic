@@ -30,8 +30,8 @@ import com.combokey.basic.view.touchevent.SimpleTouchEvent;
 
 public class CoordinateThresholdFilter implements SimpleTouchEventFilter {
 
-	private float threshold;
-	private int yChange, yDiff;
+	private final float threshold;
+	private final int yChange, yDiff;
 
 	public CoordinateThresholdFilter(float threshold, int yChange, int yDiff) {
 		this.threshold = threshold;

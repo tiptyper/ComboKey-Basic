@@ -160,18 +160,6 @@
 		<item>20</item>
 		<item>30</item>
 	</string-array>
-	<string-array name="layout_names">
-		<item>Alphabetical</item>
-		<item>Optimized 1 (Old)</item>
-		<item>Optimized 2 (Recommended)</item>
-		<item>Optimized 3 (Experimental)</item>
-	</string-array>
-	<string-array name="layout_values">
-		<item>Alphabetical</item>
-		<item>Optimized_1</item>
-		<item>Optimized_2</item>
-		<item>Optimized_3</item>
-	</string-array>
 	<string-array name="padposition_names">
 		<item>Narrow pad right</item>
 		<item>Narrow pad left</item>

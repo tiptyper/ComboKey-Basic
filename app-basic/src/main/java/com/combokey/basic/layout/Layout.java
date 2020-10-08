@@ -57,14 +57,14 @@ public class Layout {
 
 
 
-	private Map<String, String> metadata = new HashMap<String, String>();
-	private Map<String, String> metadata2 = new HashMap<String, String>();
+	private final Map<String, String> metadata = new HashMap<String, String>();
+	private final Map<String, String> metadata2 = new HashMap<String, String>();
 
 	public enum Metadata {
 		LAYOUT_FORMAT("format"), ISO_639_1("iso6391"), NAME("name"), DESCRIPTION(
 				"description"), LAYOUT_VERSION("version"), AUTHOR("author"), FILENAME(
 				"file name"), GROUP("group"), LAYOUT_EXTRA("extra");
-		private String key;
+		private final String key;
 
 		Metadata(String key) {
 			this.key = key;
@@ -80,7 +80,7 @@ public class Layout {
 		LAYOUT_FORMAT("format"), ISO_639_1("iso6391"), NAME("name"), DESCRIPTION(
 				"description"), LAYOUT_VERSION("version"), AUTHOR("author"), FILENAME(
 				"file name"), GROUP("group"), LAYOUT_EXTRA("extra");
-		private String key;
+		private final String key;
 
 		Metadata2(String key) {
 			this.key = key;

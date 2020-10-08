@@ -79,7 +79,7 @@ public class CMBOKeyboard {
 	private KeyboardOutput output;
 
 	public static String TAG = "CMBOKeyboard";
-	private static Map<String, Integer> keyCodes = new HashMap<String, Integer>();
+	private static final Map<String, Integer> keyCodes = new HashMap<String, Integer>();
 
 	public static final int CUSTOM_KEYCODE_END = 1000000;
 	public static final int CUSTOM_KEYCODE_HOME = 1000001;

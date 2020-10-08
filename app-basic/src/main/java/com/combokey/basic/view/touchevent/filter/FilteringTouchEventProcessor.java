@@ -35,8 +35,8 @@ import com.combokey.basic.view.touchevent.SimpleTouchEventProcessor;
 
 public class FilteringTouchEventProcessor extends SimpleTouchEventProcessor {
 
-	List<SimpleTouchEventFilter> filters = new ArrayList<SimpleTouchEventFilter>();
-	protected Map<Integer, LinkedList<SimpleTouchEvent>> filteredHistory = new HashMap<Integer, LinkedList<SimpleTouchEvent>>();
+	final List<SimpleTouchEventFilter> filters = new ArrayList<SimpleTouchEventFilter>();
+	protected final Map<Integer, LinkedList<SimpleTouchEvent>> filteredHistory = new HashMap<Integer, LinkedList<SimpleTouchEvent>>();
 
 	@Override
 	public List<SimpleTouchEvent> processMotionEvent(MotionEvent event) {

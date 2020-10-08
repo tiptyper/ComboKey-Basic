@@ -40,9 +40,9 @@ import static java.lang.Math.abs;
 
 public class SimpleTouchEventProcessor implements OnTouchListener {
 
-	private List<SimpleTouchEventListener> listeners = new LinkedList<SimpleTouchEventListener>();
+	private final List<SimpleTouchEventListener> listeners = new LinkedList<SimpleTouchEventListener>();
 
-	protected Map<Integer, LinkedList<SimpleTouchEvent>> history = new HashMap<Integer, LinkedList<SimpleTouchEvent>>();
+	protected final Map<Integer, LinkedList<SimpleTouchEvent>> history = new HashMap<Integer, LinkedList<SimpleTouchEvent>>();
 	private final static String TAG = "-TOUCHEVENT";
 
 	public List<SimpleTouchEvent> processMotionEvent(MotionEvent event) {

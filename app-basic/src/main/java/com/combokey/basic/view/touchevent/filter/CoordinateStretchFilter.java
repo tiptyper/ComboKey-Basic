@@ -30,8 +30,8 @@ import com.combokey.basic.view.touchevent.SimpleTouchEvent;
 
 public class CoordinateStretchFilter implements SimpleTouchEventFilter {
 
-	private float min, max;
-	private int delta;
+	private final float min, max;
+	private final int delta;
 
 	public CoordinateStretchFilter(float min, float max, int delta) {
 		this.max = max;

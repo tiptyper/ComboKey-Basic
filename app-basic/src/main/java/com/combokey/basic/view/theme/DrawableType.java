@@ -29,7 +29,7 @@ public enum DrawableType {
 			BACKGROUND_IMAGE("backgroundimage"), TOPBAR_IMAGE("topbarimage");
 			//, TEXT_BACKGROUND("textbackground"), PAD_BACKGROUND("padbackground");
 	
-	private String key;
+	private final String key;
 	
 	DrawableType(String key) {
 		this.key = key;

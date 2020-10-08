@@ -34,12 +34,12 @@ import com.combokey.basic.CMBOKeyboardApplication;
 
 public class CMBOKeyboardButtonLayout {
 
-	private List<CMBOButton> buttons = new ArrayList<CMBOButton>();
-	private int width, height;
-	private int gridWidth, gridHeight;
+	private final List<CMBOButton> buttons = new ArrayList<CMBOButton>();
+	private final int width, height;
+	private final int gridWidth, gridHeight;
 
 	//private CMBOKeyboardController controller;
-	private CMBOKeyboard keyboard = CMBOKeyboardApplication.getApplication().getCMBOManager()
+	private final CMBOKeyboard keyboard = CMBOKeyboardApplication.getApplication().getCMBOManager()
 				.getKeyboard();
 
 	public CMBOKeyboardButtonLayout(int width, int height, int gridWidth,

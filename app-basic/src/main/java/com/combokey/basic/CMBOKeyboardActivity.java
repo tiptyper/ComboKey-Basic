@@ -69,8 +69,8 @@ public class CMBOKeyboardActivity extends Activity {
 
 	public static String TAG = "CMBOKeyboard";
 
-	public static String EDITABLE_TEXT_KEY = "EDITABLE_TEXT";
-	public static String EDIT_POSITION_KEY = "EDIT_POSITION";
+	public static final String EDITABLE_TEXT_KEY = "EDITABLE_TEXT";
+	public static final String EDIT_POSITION_KEY = "EDIT_POSITION";
 
 	private String editableText = "";
 	private int position = 0; // ( = text edit position!)
@@ -589,7 +589,7 @@ public class CMBOKeyboardActivity extends Activity {
 			//textView.setBackgroundColor(LTGRAY);
 			textView.setCursorVisible(true);
 		} else {
-			//textView.setBackgroundResource(R.xml.black_rect); // must be drawable:
+			//textView.setBackgroundResource(R.xml.black_rect); // deleted, must be drawable:
 			// TODO: crash, check reason for crash:
 			textView.setBackgroundResource(R.drawable.screen_black);
 			Log.d("-SCREEN", "...black");

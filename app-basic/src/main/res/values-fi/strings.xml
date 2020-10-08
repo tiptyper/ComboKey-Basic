@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">ComboKey Basic</string>
     <string name="app_icon_name">ComboKey Basic</string>
     <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
@@ -135,7 +135,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="Indonesian">indonesia</string>
     <string name="Italian">italia</string>
     <string name="Kannada">kannada</string>
-    <string name="Konkani">konkani</string>
+    <string name="Konkani" tools:ignore="UnusedResources">konkani</string>
     <string name="Maithili">maithili</string>
     <string name="Malay">malaiji</string>
     <string name="Malayalam">malayalam</string>
@@ -268,7 +268,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="action_settings">Asetukset</string>
     <string name="hello_world">Hei maailma!</string>
     <string name="speech_prompt">Sano jotain&#8230;</string>
-    <string name="speech_not_supported">Harmi! Laitteesi ei tue puhesyöttöä.</string>
+    <string name="speech_not_supported" tools:ignore="UnusedResources">Harmi! Laitteesi ei tue puhesyöttöä.</string>
     <string name="tap_on_mic">Napauta mikrofonia ja puhu.</string>
     <string name="tap_on_mic_to_stop">STOP: Napauta mikrofonia.</string>
     <string name="speak_or_tap_on_mic">PUHU NYT tai napauta mikrofonia.</string>

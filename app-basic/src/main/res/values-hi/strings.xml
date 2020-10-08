@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">ComboKey Basic</string>
     <string name="app_icon_name">ComboKey Basic</string>
     <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
@@ -36,8 +36,8 @@
     <string name="ClearCookies">कुकीयाँ मिटायें</string>
     <string name="ClearCookieQuestion">क्या आप वास्तव में कुकीयाँ मिटाना चाहते हैं?</string>
     <string name="PostiveYesButton">ह्ँ !</string>
-    <string name="NegativeNoButton">नहीं</string>
-    <string name="infobutton">जानकारी</string>
+    <string name="NegativeNoButton" tools:ignore="UnusedResources">नहीं</string>
+    <string name="infobutton" tools:ignore="UnusedResources">जानकारी</string>
     <string name="header_add_kbd">कीबोर्ड जोड़ें</string>
     <string name="new_paragraph">\n\n</string>
     <string name="header_info">कॉम्बोकी की जानकारी</string>

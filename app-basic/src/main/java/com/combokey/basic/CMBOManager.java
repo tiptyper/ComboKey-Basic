@@ -28,15 +28,15 @@ import com.combokey.basic.view.theme.ThemeManager;
 import com.combokey.basic.view.touchevent.SimpleTouchEventProcessor;
 
 public class CMBOManager {
-	private Preferences preferences = new Preferences();
-	private CMBOKeyboardController controller = new CMBOKeyboardController();
-	private CMBOKeyboard keyboard = new CMBOKeyboard();
-	private CMBOWordCandidates candidates = new CMBOWordCandidates();
+	private final Preferences preferences = new Preferences();
+	private final CMBOKeyboardController controller = new CMBOKeyboardController();
+	private final CMBOKeyboard keyboard = new CMBOKeyboard();
+	private final CMBOWordCandidates candidates = new CMBOWordCandidates();
 	private LayoutManager layoutManager;
-	private ThemeManager themeManager = new ThemeManager();
-	private SimpleTouchEventProcessor simpleTouchEventProcessor = PreferencesModule
+	private final ThemeManager themeManager = new ThemeManager();
+	private final SimpleTouchEventProcessor simpleTouchEventProcessor = PreferencesModule
 			.getSimpleTouchEventProcessor();
-	private SimpleTouchEventProcessor simpleTouchEventProcessorForSmallLandscape = PreferencesModule
+	private final SimpleTouchEventProcessor simpleTouchEventProcessorForSmallLandscape = PreferencesModule
 			.getSimpleTouchEventProcessorForSmallLandscape();
 	public SimpleTouchEventProcessor getTouchEventProcessor(
 			boolean smallLandscape) {

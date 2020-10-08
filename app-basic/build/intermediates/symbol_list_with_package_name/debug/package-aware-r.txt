@@ -12,8 +12,6 @@ array landscapecolumns_names
 array landscapecolumns_values
 array lang_names
 array lang_values
-array layout_names
-array layout_values
 array onehand_combo_names
 array onehand_combo_values
 array padheight_names
@@ -56,13 +54,6 @@ attr layout_keyline
 attr statusBarBackground
 attr ttcIndex
 bool isTablet
-color bg_gradient_end
-color bg_gradient_start
-color candidate_background
-color candidate_normal
-color candidate_other
-color candidate_recommended
-color gray
 color gray_transp
 color notification_action_color_filter
 color notification_icon_bg_color
@@ -71,7 +62,6 @@ color primary_text_default_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
-color shade
 color transparent
 color white
 dimen compat_button_inset_horizontal_material
@@ -240,7 +230,6 @@ id btnClear
 id btnOk
 id btnSpeak
 id cancel_action
-id candidatesLayout
 id center
 id center_horizontal
 id center_vertical
@@ -297,10 +286,6 @@ id toast_icon
 id toast_text
 id top
 id txtSpeechInput
-id wordButton1
-id wordButton2
-id wordButton3
-id wordsLayout
 integer cancel_button_image_alpha
 integer status_bar_notification_info_maxnum
 layout activity
@@ -315,7 +300,6 @@ layout input_smaller_higher
 layout input_smaller_higher_3row
 layout input_smaller_lower
 layout input_smaller_lower_3row
-layout input_words
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -333,22 +317,11 @@ layout notification_template_part_chronometer
 layout notification_template_part_time
 layout tips_dialog
 menu kbd_menu
-raw blob
-raw blob_low_vol
 raw blob_low_vol2
-raw hit
-raw hit_short
 raw hit_short_low_vol
 raw keyw_low2_vol
 raw keyw_low_vol
-raw keyw_midium_vol
-raw keyw_vol2
-raw rubber
-raw rubber_low_vol
 raw rubber_medium_vol
-raw tap2
-raw tap2_low_vol
-raw tap2h
 string Angika
 string Assamese
 string Awadhi
@@ -592,7 +565,6 @@ styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchSt
 styleable FontFamilyFont android_font android_fontWeight android_fontStyle android_ttcIndex android_fontVariationSettings font fontStyle fontVariationSettings fontWeight ttcIndex
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
-xml black_rect
 xml edit_text_shape
 xml method
 xml preferences
