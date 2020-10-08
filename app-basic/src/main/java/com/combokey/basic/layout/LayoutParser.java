@@ -44,10 +44,11 @@ public class LayoutParser {
 	private final static int NA = -1;
 
 	private static final String KEY_PRIMARY = "primary";
-	private static final String KEY_PRIMARY2 = "primary2";
+	//private static final String KEY_PRIMARY2 = "primary2";
 	private static final String KEY_PUNCTUATION = "punctuation";
 	private static final String KEY_EXTRA = "extra"; // added for Combokey key M as modifier
 	private static final String KEY_MAP = "map"; // added for Combokey to introduce JSON code maps
+
 
 	private static final int[] INDICES_PRIMARY = {
 			1, 2, 3, 4, 5, 6, 15, 19, 7,
@@ -62,7 +63,9 @@ public class LayoutParser {
 			0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 // 15 items
 	}; // OK now
 
+
 	// to be used for loading the aux language set:
+
 	private int langOffset = 0; // 320 or 0 depending wheter loading aux lang set or main lang set
 	private int langExtraOffset = 0; // 60 or 0 depending whether loading aux lang set or main lang set
 
@@ -71,6 +74,7 @@ public class LayoutParser {
 	private String capsIndicator = "ABC";
 	private String numbersIndicator = "123";
 	private String symbolsIndicator = "#@";
+
 
 	public String getLowerCaseIndicator() {return lowerCaseIndicator;}
 	public String getUpperCaseIndicator() {return upperCaseIndicator;}
@@ -115,8 +119,8 @@ public class LayoutParser {
 		// ============== For moving legacy JSON strings to Maps: ===================
 			// ===== legacy json layout means those before format 10.0 =====
 
-	private final int lastMapIndex = 242+1; // +1 = abc/Abc/ABC...
-	private static final int mapToPrimary[] = { 0, // index/chord of single buttons
+	private static final int lastMapIndex = 242+1; // +1 = abc/Abc/ABC...
+	private static final int[] mapToPrimary = { 0, // index/chord of single buttons
 		// This same map is for lowercase, uppercase, caps and emojis, 0 = do not load this item, leave as is
 		//  a  o  u  s  c   d  BS   l SP  M    i  t  e   n  r
 			1, 7, 2, 8, 3,  11, 0, 12, 0, 35,  4, 9, 5, 10, 6, // 15 // nothing pressed (1 + 15 in fact)
@@ -145,7 +149,7 @@ public class LayoutParser {
 
 	};
 
-	private static final int mapToPrimNum[] = { 0, // index/chord of single buttons
+	private static final int[] mapToPrimNum = { 0, // index/chord of single buttons
 			// This is for Numbers and Symbols, 0 = do not load this
 			1, 7, 2, 8, 3,  11, 0, 12, 0, 35,  4, 9, 5, 22, 6, // 15 a o u s c   d BS l SP M
 
@@ -172,7 +176,7 @@ public class LayoutParser {
 
 	};
 
-	private static final int mapToPunctuation[] = {0, // index/chord of single buttons
+	private static final int[] mapToPunctuation = {0, // index/chord of single buttons
 			// This is for punctuation of all sets, 0 = do not load this
 			0, 0, 0, 0, 0,  0, 0, 0, 0, 0,  0, 0, 0, 0, 0, // 15 a o u s c   d BS l SP M
 

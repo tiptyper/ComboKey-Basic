@@ -1,1 +1,6 @@
-[]
+{
+  "version": 1,
+  "applicationId": "com.combokey.basic",
+  "variantType": "BASE_APK",
+  "elements": []
+}

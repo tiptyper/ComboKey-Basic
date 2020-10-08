@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="http://schemas.android.com/tools">
     <string-array name="font_names">
 		<item>छोटा</item>
 		<item>मध्यम</item>
@@ -144,18 +144,6 @@
 		<item>तुलु</item>
 		<item>यूक्रेनी</item>
 	</string-array>
-    <string-array name="layout_names">
-		<item>वर्णमाला</item>
-		<item>अनुकूलित 1 (पुराना)</item>
-		<item>अनुकूलित 2 (सुझाव)</item>
-		<item>अनुकूलित 3 (प्रायोगिक)</item>
-	</string-array>
-    <string-array name="layout_values">
-		<item>Alphabetical</item>
-		<item>Optimized_1</item>
-		<item>Optimized_2</item>
-		<item>Optimized_3</item>
-	</string-array>
     <string-array name="onehand_combo_names">
 		<item>OFF</item>
 		<item>Hold key a short extra time</item>
@@ -288,15 +276,7 @@
 		<item>30</item>
 		<item>60</item>
 	</string-array>
-    <color name="bg_gradient_end">#6b394c</color>
-    <color name="bg_gradient_start">#31244e</color>
-    <color name="candidate_background">#ff222222</color>
-    <color name="candidate_normal">#ffeeeeee</color>
-    <color name="candidate_other">#ff888888</color>
-    <color name="candidate_recommended">#ffffffff</color>
-    <color name="gray">#aaaaaa</color>
     <color name="gray_transp">#88ffffff</color>
-    <color name="shade">#44000000</color>
     <color name="transparent">#33000000</color>
     <color name="white">#ffffff</color>
     <string name="Angika">Angika</string>
@@ -331,7 +311,7 @@
     <string name="Malayalam">Malayalam</string>
     <string name="Marathi">Marathi</string>
     <string name="Marwari">Marwari</string>
-    <string name="NegativeNoButton">नहीं</string>
+    <string name="NegativeNoButton" ns1:ignore="UnusedResources">नहीं</string>
     <string name="Nepali">Nepali</string>
     <string name="Norwegian">Norwegian</string>
     <string name="Oriya">Oriya</string>
@@ -366,7 +346,11 @@
     <string name="clear_screen">Delete</string>
     <string name="copy">कॉपी करें</string>
     <string name="delete_all_text_confirm">Delete all text?\n\nPress Clear again to delete.</string>
+    <string name="description_custom_toast_icon">Icon</string>
     <string name="description_of_notes_ok_button">"Notes OK button."</string>
+    <string name="description_voice_input_button_clear">Clear</string>
+    <string name="description_voice_input_button_ok">OK</string>
+    <string name="description_voice_input_button_speak">Speak</string>
     <string name="dialog_help_text">प्रचलित अक्षर\n \n
    यदि अक्षर दिखता है तौ उस पर टॅप करें\n\n
 किसी भी वर्ग के अन्य अक्षर उस वर्ग के प्रथम अक्षर को\n\n
@@ -435,12 +419,15 @@
     <string name="hello_world">Hello world!</string>
     <string name="help">मदद</string>
     <string name="helpbutton">मदद</string>
-    <string name="infobutton">जानकारी</string>
+    <string name="hint_enter_text">…</string>
+    <string name="hint_voice_input_text">…</string>
+    <string name="infobutton" ns1:ignore="UnusedResources">जानकारी</string>
     <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
     <string name="landscapecolumns_defaultvalue">3</string>
     <string name="main_language_defaultvalue_in_english">Hindi</string>
     <string name="main_language_selected">Main language</string>
     <string name="main_layout_defaultvalue_in_english">Hindi_Optimized</string>
+    <string name="new_paragraph">\n\n</string>
     <string name="no_sms_capability">No SMS/Phone capability found on this device</string>
     <string name="not_possible_im_picker">लिखना दिखानै के तरीके निर्धारित नहीं किये जा सकते</string>
     <string name="notes_text_header">"Notes      \n"</string>
@@ -469,7 +456,7 @@
     <string name="settings_font_type_text">The optional font on the buttons can be selected here.</string>
     <string name="settings_fontsize_header">Font Size</string>
     <string name="settings_fontsize_text">Font size in the standalone ComboKey application (not when using this app as a system/default keyboard)</string>
-    <string name="settings_header">Settings  ComboKeyBasic v5.5</string>
+    <string name="settings_header">Settings  ComboKeyBasic v5.6b1</string>
     <string name="settings_highlight_option_header">Button Highlight</string>
     <string name="settings_highlight_option_text">When a key is tapped or swiped to, it will be highlighted as a visual response. You can select the visual response options here.</string>
     <string name="settings_hystamount_header">Sticky buttons</string>

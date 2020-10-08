@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="http://schemas.android.com/tools">
     <string-array name="font_names">
 		<item>Pieni</item>
 		<item>Keskikoko</item>
@@ -144,18 +144,6 @@
 		<item>tulu</item>
 		<item>ukraina</item>
 	</string-array>
-    <string-array name="layout_names">
-		<item>Aakkosellinen</item>
-		<item>Optimoitu 1 (Old)</item>
-		<item>Optimoitu 2 (Recommended)</item>
-		<item>Optimoitu 3 (Experimental)</item>
-	</string-array>
-    <string-array name="layout_values">
-		<item>Alphabetical</item>
-		<item>Optimized_1</item>
-		<item>Optimized_2</item>
-		<item>Optimized_3</item>
-	</string-array>
     <string-array name="onehand_combo_names">
 		<item>Ei päällä</item>
 		<item>Paina ja pidä hetki</item>
@@ -288,15 +276,7 @@
 		<item>30</item>
 		<item>60</item>
 	</string-array>
-    <color name="bg_gradient_end">#6b394c</color>
-    <color name="bg_gradient_start">#31244e</color>
-    <color name="candidate_background">#ff222222</color>
-    <color name="candidate_normal">#ffeeeeee</color>
-    <color name="candidate_other">#ff888888</color>
-    <color name="candidate_recommended">#ffffffff</color>
-    <color name="gray">#aaaaaa</color>
     <color name="gray_transp">#88ffffff</color>
-    <color name="shade">#44000000</color>
     <color name="transparent">#33000000</color>
     <color name="white">#ffffff</color>
     <string name="Angika">angika</string>
@@ -325,7 +305,7 @@
     <string name="Indonesian">indonesia</string>
     <string name="Italian">italia</string>
     <string name="Kannada">kannada</string>
-    <string name="Konkani">konkani</string>
+    <string name="Konkani" ns1:ignore="UnusedResources">konkani</string>
     <string name="Maithili">maithili</string>
     <string name="Malay">malaiji</string>
     <string name="Malayalam">malayalam</string>
@@ -366,7 +346,11 @@
     <string name="clear_screen">Pyyhi</string>
     <string name="copy">Kopioi</string>
     <string name="delete_all_text_confirm">Poista koko teksti?\n\nPaina Clear uudelleen!</string>
+    <string name="description_custom_toast_icon">Kuvake</string>
     <string name="description_of_notes_ok_button">"Muistilapun OK-nappi."</string>
+    <string name="description_voice_input_button_clear">Tyhjennä</string>
+    <string name="description_voice_input_button_ok">OK</string>
+    <string name="description_voice_input_button_speak">Puhu</string>
     <string name="dialog_help_text">Tavallisimmat kirjaimet:\n\n
    Näppää kirjainta jos se on näkyvillä.\n\n
 Vähemmän tavalliset kirjaimet:\n\n
@@ -432,12 +416,15 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="hello_world">Hei maailma!</string>
     <string name="help">Ohje</string>
     <string name="helpbutton">Ohje</string>
+    <string name="hint_enter_text">…</string>
+    <string name="hint_voice_input_text">…</string>
     <string name="infobutton">Tietoa</string>
     <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
     <string name="landscapecolumns_defaultvalue">3</string>
     <string name="main_language_defaultvalue_in_english">Finnish</string>
     <string name="main_language_selected">Ykköskieli</string>
     <string name="main_layout_defaultvalue_in_english">Finnish_Optimized</string>
+    <string name="new_paragraph">\n\n</string>
     <string name="no_sms_capability">Tässä laitteessa ei ole Puhelin/SMS-ominaisuutta</string>
     <string name="not_possible_im_picker">Syöttömenetelmien näyttäminen ei onnistu</string>
     <string name="notes_text_header">"Muistiinpanot     \n"</string>
@@ -466,7 +453,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="settings_font_type_text">Näppäimissä olevien kirjainten ja tekstien kirjasintyylin voi vaihtaa tässä.</string>
     <string name="settings_fontsize_header">Tekstin koko</string>
     <string name="settings_fontsize_text">Tekstin koko tässä sovelluksen omassa näytössä on mahdollista asettaa (ei siis silloin kun ComboKey-näppäimistöä käytetään muissa sovelluksissa)</string>
-    <string name="settings_header">Asetukset  ComboKeyBasic v5.5</string>
+    <string name="settings_header">Asetukset  ComboKeyBasic v5.6b1</string>
     <string name="settings_highlight_option_header">Näppäilyn korostus</string>
     <string name="settings_highlight_option_text">Kun näppäin on valittu joko painamalla tai pyyhkäisyllä, se näkyy korostettuna. Tässä voi valita miltä korostus näyttää.</string>
     <string name="settings_hystamount_header">Tarttuvuus</string>
@@ -532,7 +519,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="settingsbutton">Asetukset</string>
     <string name="speak_or_tap_on_mic">PUHU NYT tai napauta mikrofonia.</string>
     <string name="speaktype_defaultvalue">2</string>
-    <string name="speech_not_supported">Harmi! Laitteesi ei tue puhesyöttöä.</string>
+    <string name="speech_not_supported" ns1:ignore="UnusedResources">Harmi! Laitteesi ei tue puhesyöttöä.</string>
     <string name="speech_prompt">Sano jotain…</string>
     <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="switchkbdbutton">Kbd</string>

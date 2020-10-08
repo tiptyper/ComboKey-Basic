@@ -2,19 +2,19 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.combokey.basic"
 4    android:installLocation="internalOnly"
-5    android:versionCode="55"
-6    android:versionName="5.5" >
+5    android:versionCode="56"
+6    android:versionName="5.6" >
 7
 8    <uses-sdk
 9        android:minSdkVersion="14"
 9-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml
-10        android:targetSdkVersion="29" />
+10        android:targetSdkVersion="28" />
 10-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml
 11    <!--
 12         Do not move app to SD Card (internalOnly)
 13         so you can have ComboKey kbd still active after reboot, 2017-10
 14    -->
-15    <!-- Target Sdk Version ("26") is defined in build.gradle from now on -->
+15    <!-- Target Sdk Version ("29") is defined in Module build.gradle from now on -->
 16    <uses-permission android:name="android.permission.VIBRATE" />
 16-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:10:5-66
 16-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:10:22-63
@@ -48,137 +48,142 @@
 30    <!-- v3.8: External storage no more required to be used because it is not accessible an all devices. -->
 31    <!-- getFilesDir() is used instead of Environment.getExternalStorageDirectory() if the latter is not available -->
 32    <!-- 32-bit old name was org.qtproject.qt5.android.bindings.QtApplication -->
-33    <!-- new name must be com.gkos.combokey.GKOSKeyboardApplication, so cannot update old app, just new app -->
+33    <!-- new name must be com.gkos.combokey.CMBOKeyboardApplication, so cannot update old app, just new app -->
 34    <application
-34-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:23:5-96:19
-35        android:name="com.combokey.basic.GKOSKeyboardApplication"
+34-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:23:5-99:19
+35        android:name="com.combokey.basic.CMBOKeyboardApplication"
 35-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:25:9-66
 36        android:allowBackup="true"
 36-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:26:9-35
 37        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-37-->[com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+37-->[com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 38        android:icon="@drawable/icon_basic_512"
 38-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:27:9-48
 39        android:installLocation="auto"
 39-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:28:9-39
-40        android:label="@string/app_name" >
+40        android:label="@string/app_name"
 40-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:29:9-41
-41        <activity
-41-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:31:9-60:20
-42            android:name="com.combokey.basic.GKOSKeyboardActivity"
-42-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:35:13-67
-43            android:imeOptions="flagNoExtractUi"
-43-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:33:13-49
-44            android:label="@string/app_icon_name"
-44-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:36:13-50
-45            android:theme="@android:style/Theme.Wallpaper"
-45-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:37:13-59
-46            android:windowSoftInputMode="stateAlwaysVisible" >
-46-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:34:13-61
-47
-48            <!-- android:theme="@android:style/Theme.WallpaperSettings" -->
-49
-50            <intent-filter>
-50-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:40:13-43:33
-51                <action android:name="android.intent.action.MAIN" />
-51-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:41:21-73
-51-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:41:29-70
-52
-53                <category android:name="android.intent.category.LAUNCHER" />
-53-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:42:21-81
-53-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:42:31-78
-54            </intent-filter>
-55            <intent-filter android:label="@string/filter_title_viewcombokeycom" >
-55-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:45:13-58:29
-55-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:45:28-80
-56                <action android:name="android.intent.action.VIEW" />
-56-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:46:17-69
-56-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:46:25-66
-57
-58                <category android:name="android.intent.category.DEFAULT" />
-58-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:47:17-76
-58-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:47:27-73
-59                <category android:name="android.intent.category.BROWSABLE" />
-59-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:48:17-78
-59-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:48:27-75
-60                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
-61                <data
-61-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:50:17-52:56
-62                    android:host="www.combokey.com"
-62-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:51:21-52
-63                    android:pathPrefix="/actionview"
-63-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:52:21-53
-64                    android:scheme="http" />
-64-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:50:23-44
+41        android:supportsRtl="false" >
+41-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:30:9-36
+42
+43        <!-- Rtl: right-to-left-support not needed (no such language on settings yet) -->
+44
+45        <activity
+45-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:34:9-63:20
+46            android:name="com.combokey.basic.CMBOKeyboardActivity"
+46-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:38:13-67
+47            android:imeOptions="flagNoExtractUi"
+47-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:36:13-49
+48            android:label="@string/app_icon_name"
+48-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:39:13-50
+49            android:theme="@android:style/Theme.Wallpaper"
+49-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:40:13-59
+50            android:windowSoftInputMode="stateAlwaysVisible" >
+50-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:37:13-61
+51
+52            <!-- android:theme="@android:style/Theme.WallpaperSettings" -->
+53
+54            <intent-filter>
+54-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:43:13-46:33
+55                <action android:name="android.intent.action.MAIN" />
+55-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:44:21-73
+55-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:44:29-70
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:45:21-81
+57-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:45:31-78
+58            </intent-filter>
+59            <intent-filter android:label="@string/filter_title_viewcombokeycom" >
+59-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:48:13-61:29
+59-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:48:28-80
+60                <action android:name="android.intent.action.VIEW" />
+60-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:49:17-69
+60-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:49:25-66
+61
+62                <category android:name="android.intent.category.DEFAULT" />
+62-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:50:17-76
+62-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:50:27-73
+63                <category android:name="android.intent.category.BROWSABLE" />
+63-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:51:17-78
+63-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:51:27-75
+64                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
 65                <data
-65-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:50:17-52:56
-66                    android:host="combokey.com"
-66-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:51:21-52
+65-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:53:17-55:56
+66                    android:host="www.combokey.com"
+66-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:54:21-52
 67                    android:pathPrefix="/actionview"
-67-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:52:21-53
+67-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:55:21-53
 68                    android:scheme="http" />
-68-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:50:23-44
-69                <!-- Deep links added 2019-01 -->
-70                <!-- note that the leading "/" is required for pathPrefix -->
-71            </intent-filter>
-72        </activity>
-73
-74        <service
-74-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:62:9-76:19
-75            android:name="com.combokey.basic.GKOSKeyboardService"
-75-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:63:17-70
-76            android:imeOptions="flagNoExtractUi"
-76-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:65:17-53
-77            android:label="@string/kbd_service_name_in_device_settings"
-77-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:64:17-76
-78            android:permission="android.permission.BIND_INPUT_METHOD" >
-78-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:66:17-74
-79            <intent-filter>
-79-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:67:17-70:33
-80                <action android:name="android.view.InputMethod" />
-80-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:68:21-71
-80-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:68:29-68
-81                <action android:name="android.intent.action.BOOT_COMPLETED" />
-81-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:69:21-82
-81-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:69:29-80
-82            </intent-filter>
-83            <!-- Activate keyboard service after reboot 2017-10 -->
-84
-85            <meta-data
-85-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:73:17-75:54
-86                android:name="android.view.im"
-86-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:74:21-51
-87                android:resource="@xml/method" />
-87-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:75:21-51
-88        </service>
-89
-90        <activity
-90-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:78:9-82:20
-91            android:name="com.combokey.basic.GKOSPreferencesActivity"
-91-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:79:13-70
-92            android:label="@string/settings_header"
-92-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:81:13-52
-93            android:theme="@android:style/Theme.Holo" >
-93-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:80:13-54
-94        </activity>
-95        <activity
-95-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:84:9-88:20
-96            android:name="com.combokey.basic.GKOSSpeechRecognizer"
-96-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:85:13-67
-97            android:label="@string/header_voice_typing"
-97-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:86:13-56
-98            android:theme="@android:style/Theme.Wallpaper" >
-98-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:87:13-59
-99        </activity>
-100        <activity
-100-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:90:9-94:20
-101            android:name="com.combokey.basic.GKOSNotes"
-101-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:91:13-56
-102            android:label="@string/flashtext_notes"
-102-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:92:13-52
-103            android:theme="@android:style/Theme.Wallpaper" >
-103-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:93:13-59
-104        </activity>
-105    </application>
-106
-107</manifest> <!-- android:windowSoftInputMode="stateHidden" -->
+68-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:53:23-44
+69                <data
+69-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:53:17-55:56
+70                    android:host="combokey.com"
+70-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:54:21-52
+71                    android:pathPrefix="/actionview"
+71-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:55:21-53
+72                    android:scheme="http" />
+72-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:53:23-44
+73                <!-- Deep links added 2019-01 -->
+74                <!-- note that the leading "/" is required for pathPrefix -->
+75            </intent-filter>
+76        </activity>
+77
+78        <service
+78-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:65:9-79:19
+79            android:name="com.combokey.basic.CMBOKeyboardService"
+79-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:66:17-70
+80            android:imeOptions="flagNoExtractUi"
+80-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:68:17-53
+81            android:label="@string/kbd_service_name_in_device_settings"
+81-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:67:17-76
+82            android:permission="android.permission.BIND_INPUT_METHOD" >
+82-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:69:17-74
+83            <intent-filter>
+83-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:70:17-73:33
+84                <action android:name="android.view.InputMethod" />
+84-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:71:21-71
+84-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:71:29-68
+85                <action android:name="android.intent.action.BOOT_COMPLETED" />
+85-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:72:21-82
+85-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:72:29-80
+86            </intent-filter>
+87            <!-- Activate keyboard service after reboot 2017-10 -->
+88
+89            <meta-data
+89-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:76:17-78:54
+90                android:name="android.view.im"
+90-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:77:21-51
+91                android:resource="@xml/method" />
+91-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:78:21-51
+92        </service>
+93
+94        <activity
+94-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:81:9-85:20
+95            android:name="com.combokey.basic.CMBOPreferencesActivity"
+95-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:82:13-70
+96            android:label="@string/settings_header"
+96-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:84:13-52
+97            android:theme="@android:style/Theme.Holo" >
+97-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:83:13-54
+98        </activity>
+99        <activity
+99-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:87:9-91:20
+100            android:name="com.combokey.basic.CMBOSpeechRecognizer"
+100-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:88:13-67
+101            android:label="@string/header_voice_typing"
+101-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:89:13-56
+102            android:theme="@android:style/Theme.Wallpaper" >
+102-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:90:13-59
+103        </activity>
+104        <activity
+104-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:93:9-97:20
+105            android:name="com.combokey.basic.CMBONotes"
+105-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:94:13-56
+106            android:label="@string/flashtext_notes"
+106-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:95:13-52
+107            android:theme="@android:style/Theme.Wallpaper" >
+107-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:96:13-59
+108        </activity>
+109    </application>
+110
+111</manifest> <!-- android:windowSoftInputMode="stateHidden" -->

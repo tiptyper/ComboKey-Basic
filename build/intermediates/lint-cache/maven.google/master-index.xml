@@ -23,6 +23,7 @@
   <androidx.collection/>
   <androidx.compose/>
   <androidx.compose.animation/>
+  <androidx.compose.compiler/>
   <androidx.compose.foundation/>
   <androidx.compose.material/>
   <androidx.compose.runtime/>
@@ -155,6 +156,7 @@
   <com.google.ar.sceneform/>
   <com.google.ar.sceneform.ux/>
   <com.google.devtools.ksp/>
+  <com.google.fhir/>
   <com.google.firebase/>
   <com.google.gms/>
   <com.google.mlkit/>

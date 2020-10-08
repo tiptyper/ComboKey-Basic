@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="http://schemas.android.com/tools">
     <string-array name="font_names">
 		<item>Small</item>
 		<item>Medium</item>
@@ -144,18 +144,6 @@
 		<item>Tulu</item>
 		<item>Ukrainian</item>
 	</string-array>
-    <string-array name="layout_names">
-		<item>Alphabetical</item>
-		<item>Optimized 1 (Old)</item>
-		<item>Optimized 2 (Recommended)</item>
-		<item>Optimized 3 (Experimental)</item>
-	</string-array>
-    <string-array name="layout_values">
-		<item>Alphabetical</item>
-		<item>Optimized_1</item>
-		<item>Optimized_2</item>
-		<item>Optimized_3</item>
-	</string-array>
     <string-array name="onehand_combo_names">
 		<item>OFF</item>
 		<item>Hold key a short extra time</item>
@@ -290,13 +278,6 @@
 	</string-array>
     <attr format="reference" name="coordinatorLayoutStyle"/>
     <bool name="isTablet">false</bool>
-    <color name="bg_gradient_end">#6b394c</color>
-    <color name="bg_gradient_start">#31244e</color>
-    <color name="candidate_background">#ff222222</color>
-    <color name="candidate_normal">#ffeeeeee</color>
-    <color name="candidate_other">#ff888888</color>
-    <color name="candidate_recommended">#ffffffff</color>
-    <color name="gray">#aaaaaa</color>
     <color name="gray_transp">#88ffffff</color>
     <color name="notification_action_color_filter">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
@@ -305,7 +286,6 @@
     <color name="ripple_material_light">#1f000000</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
-    <color name="shade">#44000000</color>
     <color name="transparent">#33000000</color>
     <color name="white">#ffffff</color>
     <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
@@ -351,7 +331,7 @@
     <string name="Awadhi">Awadhi</string>
     <string name="Bengali">Bengali</string>
     <string name="Bhojpuri">Bhojpuri</string>
-    <string name="Bihari">Bihari</string>
+    <string name="Bihari" ns1:ignore="UnusedResources">Bihari</string>
     <string name="Bodo">Bodo</string>
     <string name="CODING">Coding</string>
     <string name="Catalan">Catalan</string>
@@ -413,7 +393,11 @@
     <string name="clear_screen">Delete</string>
     <string name="copy">Copy</string>
     <string name="delete_all_text_confirm">Delete all text?\n\nPress Clear again to delete.</string>
+    <string name="description_custom_toast_icon">Icon</string>
     <string name="description_of_notes_ok_button">"Notes OK button."</string>
+    <string name="description_voice_input_button_clear">Clear</string>
+    <string name="description_voice_input_button_ok">OK</string>
+    <string name="description_voice_input_button_speak">Speak</string>
     <string name="dialog_help_text">Frequent letters:\n\n
    Tap the letter you want if you see it\n\n
 Less frequent letters:\n\n
@@ -481,12 +465,15 @@ It is, of course, also possible to change the keyboard (input method) using the 
     <string name="hello_world">Hello world!</string>
     <string name="help">Help</string>
     <string name="helpbutton">Help</string>
+    <string name="hint_enter_text">…</string>
+    <string name="hint_voice_input_text">…</string>
     <string name="infobutton">Info</string>
     <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
     <string name="landscapecolumns_defaultvalue">3</string>
     <string name="main_language_defaultvalue_in_english">English</string>
     <string name="main_language_selected">Main language</string>
     <string name="main_layout_defaultvalue_in_english">English_Optimized</string>
+    <string name="new_paragraph">\n\n</string>
     <string name="no_sms_capability">No SMS/Phone capability found on this device</string>
     <string name="not_possible_im_picker">Cannot set show input methods</string>
     <string name="notes_text_header">"Notes      \n"</string>
@@ -515,7 +502,7 @@ It is, of course, also possible to change the keyboard (input method) using the 
     <string name="settings_font_type_text">The optional font on the buttons can be selected here.</string>
     <string name="settings_fontsize_header">Font Size</string>
     <string name="settings_fontsize_text">Font size in the standalone ComboKey application (not when using this app as a system/default keyboard)</string>
-    <string name="settings_header">Settings  ComboKeyBasic v5.5</string>
+    <string name="settings_header">Settings  ComboKeyBasic v5.6b1</string>
     <string name="settings_highlight_option_header">Button Highlight</string>
     <string name="settings_highlight_option_text">When a key is tapped or swiped to, it will be highlighted as a visual response. You can select the visual response options here.</string>
     <string name="settings_hystamount_header">Sticky buttons</string>
@@ -581,7 +568,7 @@ It is, of course, also possible to change the keyboard (input method) using the 
     <string name="speak_or_tap_on_mic">SPEAK NOW or tap on Mic</string>
     <string name="speaktype_defaultvalue">2</string>
     <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
-    <string name="speech_prompt">Say something…</string>
+    <string name="speech_prompt" ns1:ignore="UnusedResources">Say something…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="switchkbdbutton">Kbd</string>
     <string name="tap_on_mic">Tap on mic to speak</string>
@@ -627,133 +614,180 @@ It is, of course, also possible to change the keyboard (input method) using the 
         <item name="statusBarBackground">#000000</item>
     </style>
     <declare-styleable name="ColorStateListItem">
-        
+        <!-- Base color for this state. -->
         <attr name="android:color"/>
-        
+        <!-- Alpha multiplier applied to the base color. -->
         <attr format="float" name="alpha"/>
         <attr name="android:alpha"/>
     </declare-styleable>
     <declare-styleable name="CoordinatorLayout">
-        
+        <!-- A reference to an array of integers representing the
+             locations of horizontal keylines in dp from the starting edge.
+             Child views can refer to these keylines for alignment using
+             layout_keyline="index" where index is a 0-based index into
+             this array. -->
         <attr format="reference" name="keylines"/>
-        
+        <!-- Drawable to display behind the status bar when the view is set to draw behind it. -->
         <attr format="color|reference" name="statusBarBackground"/>
     </declare-styleable>
     <declare-styleable name="CoordinatorLayout_Layout">
         <attr name="android:layout_gravity"/>
-        
+        <!-- The class name of a Behavior class defining special runtime behavior
+             for this child view. -->
         <attr format="string" name="layout_behavior"/>
-        
+        <!-- The id of an anchor view that this view should position relative to. -->
         <attr format="reference" name="layout_anchor"/>
-        
+        <!-- The index of a keyline this view should position relative to.
+             android:layout_gravity will affect how the view aligns to the
+             specified keyline. -->
         <attr format="integer" name="layout_keyline"/>
 
-        
+        <!-- Specifies how an object should position relative to an anchor, on both the X and Y axes,
+             within its parent's bounds.  -->
         <attr name="layout_anchorGravity">
-            
+            <!-- Push object to the top of its container, not changing its size. -->
             <flag name="top" value="0x30"/>
-            
+            <!-- Push object to the bottom of its container, not changing its size. -->
             <flag name="bottom" value="0x50"/>
-            
+            <!-- Push object to the left of its container, not changing its size. -->
             <flag name="left" value="0x03"/>
-            
+            <!-- Push object to the right of its container, not changing its size. -->
             <flag name="right" value="0x05"/>
-            
+            <!-- Place object in the vertical center of its container, not changing its size. -->
             <flag name="center_vertical" value="0x10"/>
-            
+            <!-- Grow the vertical size of the object if needed so it completely fills its container. -->
             <flag name="fill_vertical" value="0x70"/>
-            
+            <!-- Place object in the horizontal center of its container, not changing its size. -->
             <flag name="center_horizontal" value="0x01"/>
-            
+            <!-- Grow the horizontal size of the object if needed so it completely fills its container. -->
             <flag name="fill_horizontal" value="0x07"/>
-            
+            <!-- Place the object in the center of its container in both the vertical and horizontal axis, not changing its size. -->
             <flag name="center" value="0x11"/>
-            
+            <!-- Grow the horizontal and vertical size of the object if needed so it completely fills its container. -->
             <flag name="fill" value="0x77"/>
-            
+            <!-- Additional option that can be set to have the top and/or bottom edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the vertical gravity: a top gravity will clip the bottom
+                 edge, a bottom gravity will clip the top edge, and neither will clip both edges. -->
             <flag name="clip_vertical" value="0x80"/>
-            
+            <!-- Additional option that can be set to have the left and/or right edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the horizontal gravity: a left gravity will clip the right
+                 edge, a right gravity will clip the left edge, and neither will clip both edges. -->
             <flag name="clip_horizontal" value="0x08"/>
-            
+            <!-- Push object to the beginning of its container, not changing its size. -->
             <flag name="start" value="0x00800003"/>
-            
+            <!-- Push object to the end of its container, not changing its size. -->
             <flag name="end" value="0x00800005"/>
         </attr>
 
-        
+        <!-- Specifies how this view insets the CoordinatorLayout and make some other views
+             dodge it. -->
         <attr format="enum" name="layout_insetEdge">
-            
+            <!-- Don't inset. -->
             <enum name="none" value="0x0"/>
-            
+            <!-- Inset the top edge. -->
             <enum name="top" value="0x30"/>
-            
+            <!-- Inset the bottom edge. -->
             <enum name="bottom" value="0x50"/>
-            
+            <!-- Inset the left edge. -->
             <enum name="left" value="0x03"/>
-            
+            <!-- Inset the right edge. -->
             <enum name="right" value="0x05"/>
-            
+            <!-- Inset the start edge. -->
             <enum name="start" value="0x00800003"/>
-            
+            <!-- Inset the end edge. -->
             <enum name="end" value="0x00800005"/>
         </attr>
-        
+        <!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. -->
         <attr name="layout_dodgeInsetEdges">
-            
+            <!-- Don't dodge any edges -->
             <flag name="none" value="0x0"/>
-            
+            <!-- Dodge the top inset edge. -->
             <flag name="top" value="0x30"/>
-            
+            <!-- Dodge the bottom inset edge. -->
             <flag name="bottom" value="0x50"/>
-            
+            <!-- Dodge the left inset edge. -->
             <flag name="left" value="0x03"/>
-            
+            <!-- Dodge the right inset edge. -->
             <flag name="right" value="0x05"/>
-            
+            <!-- Dodge the start inset edge. -->
             <flag name="start" value="0x00800003"/>
-            
+            <!-- Dodge the end inset edge. -->
             <flag name="end" value="0x00800005"/>
-            
+            <!-- Dodge all the inset edges. -->
             <flag name="all" value="0x77"/>
         </attr>
     </declare-styleable>
     <declare-styleable name="FontFamily">
-        
+        <!-- The authority of the Font Provider to be used for the request. -->
         <attr format="string" name="fontProviderAuthority"/>
-        
+        <!-- The package for the Font Provider to be used for the request. This is used to verify
+        the identity of the provider. -->
         <attr format="string" name="fontProviderPackage"/>
-        
+        <!-- The query to be sent over to the provider. Refer to your font provider's documentation
+        on the format of this string. -->
         <attr format="string" name="fontProviderQuery"/>
-        
+        <!-- The sets of hashes for the certificates the provider should be signed with. This is
+        used to verify the identity of the provider, and is only required if the provider is not
+        part of the system image. This value may point to one list or a list of lists, where each
+        individual list represents one collection of signature hashes. Refer to your font provider's
+        documentation for these values. -->
         <attr format="reference" name="fontProviderCerts"/>
-        
+        <!-- The strategy to be used when fetching font data from a font provider in XML layouts.
+        This attribute is ignored when the resource is loaded from code, as it is equivalent to the
+        choice of API between {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int)} (blocking) and
+        {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int, FontCallback, Handler)}
+        (async). -->
         <attr name="fontProviderFetchStrategy">
-            
+            <!-- The blocking font fetch works as follows.
+              First, check the local cache, then if the requested font is not cached, request the
+              font from the provider and wait until it is finished.  You can change the length of
+              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
+              default typeface will be used instead. -->
             <enum name="blocking" value="0"/>
-            
+            <!-- The async font fetch works as follows.
+              First, check the local cache, then if the requeted font is not cached, trigger a
+              request the font and continue with layout inflation. Once the font fetch succeeds, the
+              target text view will be refreshed with the downloaded font data. The
+              fontProviderFetchTimeout will be ignored if async loading is specified. -->
             <enum name="async" value="1"/>
         </attr>
-        
+        <!-- The length of the timeout during fetching. -->
         <attr format="integer" name="fontProviderFetchTimeout">
-            
+            <!-- A special value for the timeout. In this case, the blocking font fetching will not
+              timeout and wait until a reply is received from the font provider. -->
             <enum name="forever" value="-1"/>
         </attr>
     </declare-styleable>
     <declare-styleable name="FontFamilyFont">
-        
+        <!-- The style of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any style information in the font's header tables. If
+         unspecified, the value in the font's header tables will be used. -->
         <attr name="fontStyle">
             <enum name="normal" value="0"/>
             <enum name="italic" value="1"/>
         </attr>
-        
+        <!-- The reference to the font file to be used. This should be a file in the res/font folder
+         and should therefore have an R reference value. E.g. @font/myfont -->
         <attr format="reference" name="font"/>
-        
+        <!-- The weight of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any weight information in the font's header tables. Must
+         be a positive number, a multiple of 100, and between 100 and 900, inclusive. The most
+         common values are 400 for regular weight and 700 for bold weight. If unspecified, the value
+         in the font's header tables will be used. -->
         <attr format="integer" name="fontWeight"/>
-        
+        <!-- The variation settings to be applied to the font. The string should be in the following
+         format: "'tag1' value1, 'tag2' value2, ...". If the default variation settings should be
+         used, or the font used does not support variation settings, this attribute needs not be
+         specified. -->
         <attr format="string" name="fontVariationSettings"/>
-        
+        <!-- The index of the font in the tcc font file. If the font file referenced is not in the
+        tcc format, this attribute needs not be specified. -->
         <attr format="integer" name="ttcIndex"/>
-        
+        <!-- References to the framework attrs -->
         <attr name="android:fontStyle"/>
         <attr name="android:font"/>
         <attr name="android:fontWeight"/>
@@ -761,42 +795,47 @@ It is, of course, also possible to change the keyboard (input method) using the 
         <attr name="android:ttcIndex"/>
     </declare-styleable>
     <declare-styleable name="GradientColor">
-        
+        <!-- Start color of the gradient. -->
         <attr name="android:startColor"/>
-        
+        <!-- Optional center color. -->
         <attr name="android:centerColor"/>
-        
+        <!-- End color of the gradient. -->
         <attr name="android:endColor"/>
-        
+        <!-- Type of gradient. The default type is linear. -->
         <attr name="android:type"/>
 
-        
-        
+        <!-- Only applied to RadialGradient-->
+        <!-- Radius of the gradient, used only with radial gradient. -->
         <attr name="android:gradientRadius"/>
 
-        
-        
+        <!-- Only applied to SweepGradient / RadialGradient-->
+        <!-- X coordinate of the center of the gradient within the path. -->
         <attr name="android:centerX"/>
-        
+        <!-- Y coordinate of the center of the gradient within the path. -->
         <attr name="android:centerY"/>
 
-        
-        
+        <!-- LinearGradient specific -->
+        <!-- X coordinate of the start point origin of the gradient.
+             Defined in same coordinates as the path itself -->
         <attr name="android:startX"/>
-        
+        <!-- Y coordinate of the start point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
         <attr name="android:startY"/>
-        
+        <!-- X coordinate of the end point origin of the gradient.
+             Defined in same coordinates as the path itself -->
         <attr name="android:endX"/>
-        
+        <!-- Y coordinate of the end point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
         <attr name="android:endY"/>
 
-        
+        <!-- Defines the tile mode of the gradient. SweepGradient doesn't support tiling. -->
         <attr name="android:tileMode"/>
     </declare-styleable>
     <declare-styleable name="GradientColorItem">
-        
+        <!-- The offset (or ratio) of this current color item inside the gradient.
+             The value is only meaningful when it is between 0 and 1. -->
         <attr name="android:offset"/>
-        
+        <!-- The current color for the offset inside the gradient. -->
         <attr name="android:color"/>
     </declare-styleable>
 </resources>

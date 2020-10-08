@@ -4,7 +4,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ky_values-ky.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ky/values-ky.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -19,37 +19,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-bn_values-bn.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-bn/values-bn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-sr_values-sr.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-sr/values-sr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-si_values-si.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-si/values-si.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-bn/values-bn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -64,7 +34,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-v16_values-v16.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-v16/values-v16.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -76,10 +46,40 @@
             ]
         },
         {
+            "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-en-rXC_values-en-rXC.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -94,7 +94,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-da_values-da.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-da/values-da.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -109,7 +109,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-es_values-es.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-es/values-es.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-es/values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -124,7 +124,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-kn_values-kn.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-kn/values-kn.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-kn/values-kn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -139,7 +139,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-tr_values-tr.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-tr/values-tr.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-tr/values-tr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -154,7 +154,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ml_values-ml.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ml/values-ml.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ml/values-ml.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -169,7 +169,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-nl_values-nl.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-nl/values-nl.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -184,7 +184,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-mn_values-mn.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-mn/values-mn.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-mn/values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -199,7 +199,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-eu_values-eu.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-eu/values-eu.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-eu/values-eu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -214,7 +214,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ur_values-ur.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ur/values-ur.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ur/values-ur.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -229,7 +229,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-hr_values-hr.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-hr/values-hr.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-hr/values-hr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -244,7 +244,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-en-rCA_values-en-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -259,7 +259,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-en-rIN_values-en-rIN.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -274,7 +274,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ar_values-ar.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ar/values-ar.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ar/values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -289,7 +289,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ms_values-ms.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ms/values-ms.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ms/values-ms.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -304,7 +304,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-my_values-my.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-my/values-my.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-my/values-my.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -319,7 +319,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ro_values-ro.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ro/values-ro.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ro/values-ro.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -334,7 +334,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-be_values-be.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-be/values-be.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-be/values-be.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -371,7 +371,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -386,7 +386,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-pt_values-pt.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-pt/values-pt.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pt/values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -401,7 +401,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-fa_values-fa.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-fa/values-fa.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-fa/values-fa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -416,7 +416,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-pa_values-pa.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-pa/values-pa.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pa/values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -431,7 +431,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-uk_values-uk.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-uk/values-uk.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-uk/values-uk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -446,7 +446,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ne_values-ne.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ne/values-ne.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ne/values-ne.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -461,7 +461,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-am_values-am.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-am/values-am.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-am/values-am.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -476,7 +476,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-zh-rHK_values-zh-rHK.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-zh-rHK/values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -493,65 +493,73 @@
                 {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-fi/colors.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "143,55,103",
+                        "endColumns": "47,47,39",
+                        "endOffsets": "186,98,138"
                     },
                     "to": {
-                        "startLines": "290,291,292,293,294,295,296,297,298,299,300",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7387,7437,7489,7546,7599,7651,7709,7748,7796,7838,7886",
-                        "endColumns": "49,51,56,52,51,57,38,47,41,47,39",
-                        "endOffsets": "7432,7484,7541,7594,7646,7704,7743,7791,7833,7881,7921"
+                        "startLines": "278,279,280",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7065,7113,7161",
+                        "endColumns": "47,47,39",
+                        "endOffsets": "7108,7156,7196"
+                    }
+                },
+                {
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "523",
+                        "startColumns": "4",
+                        "startOffsets": "27971",
+                        "endColumns": "100",
+                        "endOffsets": "28067"
                     }
                 },
                 {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-fi/array.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "138,242,246,144,270,274,150,156,204,208,2,50,260,265,174,179,162,168,184,188,192,198,232,237,98,118,212,217,222,227,250,255",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "3137,5952,6080,3278,6688,6823,3402,3574,4835,4953,52,1158,6417,6576,4004,4155,3697,3877,4265,4424,4514,4710,5691,5840,2253,2685,5051,5234,5340,5581,6171,6309",
+                        "endLines": "143,245,249,149,273,277,155,161,207,211,49,97,264,269,178,183,167,173,187,191,197,203,236,241,117,137,216,221,226,231,254,259",
+                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
+                        "endOffsets": "3276,6078,6169,3400,6821,6919,3572,3695,4951,5049,1156,2251,6574,6686,4153,4263,3875,4002,4422,4512,4708,4833,5838,5950,2683,3135,5232,5338,5579,5689,6307,6415"
                     },
                     "to": {
-                        "startLines": "2,8,12,16,22,26,30,36,42,46,50,98,146,152,158,163,168,173,178,184,190,194,198,204,210,215,220,240,260,265,270,275,280,285",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,330,424,551,689,790,965,1091,1212,1313,2422,3520,3721,3887,4049,4164,4318,4431,4614,4744,4906,4999,5198,5326,5478,5593,6028,6483,6669,6778,7022,7135,7276",
-                        "endLines": "7,11,15,21,25,29,35,41,45,49,97,145,151,157,162,167,172,177,183,189,193,197,203,209,214,219,239,259,264,269,274,279,284,289",
-                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
-                        "endOffsets": "194,325,419,546,684,785,960,1086,1207,1308,2417,3515,3716,3882,4044,4159,4313,4426,4609,4739,4901,4994,5193,5321,5473,5588,6023,6478,6664,6773,7017,7130,7271,7382"
+                        "startLines": "2,8,12,16,22,26,30,36,42,46,50,98,146,151,156,161,166,172,178,182,186,192,198,203,208,228,248,253,258,263,268,273",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,244,375,469,596,734,835,1010,1136,1257,1358,2467,3565,3727,3842,3996,4109,4292,4422,4584,4677,4876,5004,5156,5271,5706,6161,6347,6456,6700,6813,6954",
+                        "endLines": "7,11,15,21,25,29,35,41,45,49,97,145,150,155,160,165,171,177,181,185,191,197,202,207,227,247,252,257,262,267,272,277",
+                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
+                        "endOffsets": "239,370,464,591,729,830,1005,1131,1252,1353,2462,3560,3722,3837,3991,4104,4287,4417,4579,4672,4871,4999,5151,5266,5701,6156,6342,6451,6695,6808,6949,7060"
                     }
                 },
                 {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-fi/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,154,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9705,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,73,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9774,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "113,114,115,116,117,118,119,121,120,31,30,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,33,143,144,145,146,147,148,32,149,150,151,152,153,154,155,156,157,158,159,70,267,79,101,9,8,3,2,89,11,99,13,96,14,16,84,106,91,103,105,104,39,72,7,244,253,261,250,256,255,254,245,249,258,252,246,259,260,247,248,257,251,95,35,38,37,263,268,83,82,107,108,34,4,20,10,100,12,36,98,81,90,18,19,102,85,25,274,86,88,87,97,15,213,214,211,212,181,182,241,242,187,188,162,183,184,237,238,207,208,227,228,164,166,163,165,224,222,223,215,216,217,218,231,232,229,230,233,234,191,192,189,190,193,194,225,226,185,186,173,174,175,176,203,204,179,180,239,240,209,210,167,168,169,172,170,171,221,219,220,177,178,235,236,24,273,21,270,269,80,271,272,17,71,5,22,93,202,197,199,201,198,200,196,195,92,94,23,266,265,264",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8081,8123,8170,8212,8256,8302,8344,8428,8382,2099,2044,8471,8513,8558,8606,8649,8691,8733,8774,8816,8863,8908,8948,8994,9043,9086,9130,9205,9251,9293,9341,9385,2238,9429,9471,9515,9555,9593,9634,2186,9683,9727,9777,9820,9866,9908,9952,9995,10036,10078,10116,4570,22357,5804,7370,596,538,154,102,6503,727,7246,882,7013,963,1058,6063,7731,6655,7522,7666,7596,2550,4703,468,21159,21615,22031,21461,21766,21715,21665,21208,21410,21870,21565,21263,21922,21975,21313,21362,21821,21510,6958,2332,2496,2440,22080,22411,6025,5981,7796,7842,2286,211,1251,653,7308,800,2393,7151,5889,6586,1147,1200,7449,6161,1523,22863,6247,6421,6346,7087,1010,16379,16448,16122,16197,12633,12705,20949,21029,13386,13452,10203,12875,12955,20319,20385,15638,15720,18341,18414,10338,10581,10279,10402,17859,17486,17556,16580,16651,16902,16967,19129,19202,18660,18733,19522,19600,13920,13990,13648,13721,14160,14232,17918,17995,13135,13217,11799,11855,12011,12085,15164,15231,12414,12489,20597,20676,15895,15952,10736,10806,11134,11618,11203,11280,17376,17095,17169,12174,12234,19929,20000,1470,22782,1311,22525,22464,5841,22642,22709,1098,4626,289,1364,6821,15099,14573,14814,15018,14664,14909,14481,14366,6738,6908,1415,22294,22216,22154",
+                        "endLines": "113,114,115,116,117,118,119,121,120,31,30,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,33,143,144,145,146,147,148,32,149,150,151,152,153,154,155,156,157,158,159,70,267,79,101,9,8,3,2,89,11,99,13,96,14,16,84,106,91,103,105,104,69,78,7,244,253,261,250,256,255,254,245,249,258,252,246,259,260,247,248,257,251,95,35,38,37,263,268,83,82,107,108,34,4,20,10,100,12,36,98,81,90,18,19,102,85,29,274,86,88,87,97,15,213,214,211,212,181,182,241,242,187,188,162,183,184,237,238,207,208,227,228,164,166,163,165,224,222,223,215,216,217,218,231,232,229,230,233,234,191,192,189,190,193,194,225,226,185,186,173,174,175,176,203,206,179,180,239,240,209,210,167,168,169,172,170,171,221,219,220,177,178,235,236,24,273,21,270,269,80,271,272,17,71,5,22,93,202,197,199,201,198,200,196,195,92,94,23,266,265,264",
+                        "endColumns": "41,46,41,43,45,41,37,42,45,86,54,41,44,47,42,41,41,40,41,46,44,39,45,48,42,43,74,45,41,47,43,43,47,41,43,39,37,40,48,51,43,49,42,45,41,43,42,40,41,37,45,55,53,36,78,56,57,56,51,82,72,61,80,73,46,39,97,64,82,73,64,69,13,380,69,48,49,47,48,54,50,49,54,50,51,49,49,52,55,48,47,48,54,54,60,53,55,73,52,37,43,45,51,45,77,59,73,61,81,46,94,91,68,52,50,72,85,41,74,98,81,74,63,47,68,131,74,181,71,169,79,128,65,195,75,79,179,65,211,81,174,72,245,63,154,58,178,58,69,302,70,250,64,127,72,319,72,395,77,328,69,169,72,198,71,133,76,345,81,168,55,155,73,88,66,103,74,143,78,272,56,169,69,327,68,180,76,337,109,73,206,59,179,70,318,52,80,52,116,60,47,66,72,48,76,63,50,86,64,90,94,80,149,108,91,114,82,49,54,62,77,61",
+                        "endOffsets": "8118,8165,8207,8251,8297,8339,8377,8466,8423,2181,2094,8508,8553,8601,8644,8686,8728,8769,8811,8858,8903,8943,8989,9038,9081,9125,9200,9246,9288,9336,9380,9424,2281,9466,9510,9550,9588,9629,9678,2233,9722,9772,9815,9861,9903,9947,9990,10031,10073,10111,10157,4621,22406,5836,7444,648,591,206,149,6581,795,7303,958,7082,1005,1093,6156,7791,6733,7591,7726,7661,4565,5799,533,21203,21660,22074,21505,21816,21761,21710,21258,21456,21917,21610,21308,21970,22026,21357,21405,21865,21560,7008,2388,2545,2491,22149,22459,6058,6020,7837,7889,2327,284,1306,722,7365,877,2435,7241,5976,6650,1195,1246,7517,6242,2039,22933,6341,6498,6416,7146,1053,16443,16575,16192,16374,12700,12870,21024,21153,13447,13643,10274,12950,13130,20380,20592,15715,15890,18409,18655,10397,10731,10333,10576,17913,17551,17854,16646,16897,16962,17090,19197,19517,18728,19124,19595,19924,13985,14155,13716,13915,14227,14361,17990,18336,13212,13381,11850,12006,12080,12169,15226,15633,12484,12628,20671,20944,15947,16117,10801,11129,11198,11794,11275,11613,17481,17164,17371,12229,12409,19995,20314,1518,22858,1359,22637,22520,5884,22704,22777,1142,4698,348,1410,6903,15159,14659,14904,15094,14809,15013,14568,14476,6816,6953,1465,22352,22289,22211"
                     },
                     "to": {
-                        "startLines": "301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,400,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7926,7968,8015,8057,8101,8147,8189,8227,8270,8316,8403,8458,8500,8545,8593,8636,8678,8720,8761,8803,8850,8895,8935,8981,9030,9073,9117,9161,9207,9249,9297,9341,9385,9433,9475,9519,9559,9597,9638,9687,9739,9783,9833,9876,9922,9964,10008,10051,10092,10134,10172,10218,10274,10328,10365,10444,10501,10559,10616,10668,10751,10824,10886,10967,11041,11088,11128,11226,11309,13329,14430,14500,14549,14599,14647,14696,14751,14802,14852,14907,14958,15010,15060,15110,15163,15219,15268,15316,15365,15420,15475,15536,15590,15646,15720,15773,15811,15855,15901,15979,16039,16113,16175,16257,16352,16444,16513,16566,16617,16690,16776,17297,17372,17471,17553,17628,17692,17740,17809,17941,18016,18198,18270,18440,18520,18649,18715,18911,18985,19065,19245,19311,19523,19605,19780,19853,20099,20163,20318,20377,20556,20615,20685,20988,21059,21310,21375,21503,21576,21896,21969,22365,22443,22772,22842,23012,23085,23284,23356,23490,23567,23913,23995,24164,24220,24376,24450,24539,24606,25007,25082,25226,25305,25578,25635,25805,25875,26203,26272,26453,26530,26868,26978,27052,27259,27319,27499,27570,27889,27942,28023,28076,28162,28318,28366,28433,28506,28555,28632,28696,28747,28834,28899,28990,29085,29166,29316,29425,29517,29632,29715,29765,29820,29883,29961",
-                        "endLines": "301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,399,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558",
-                        "endColumns": "41,46,41,43,45,41,37,42,45,86,54,41,44,47,42,41,41,40,41,46,44,39,45,48,42,43,43,45,41,47,43,43,47,41,43,39,37,40,48,51,43,49,42,45,41,43,42,40,41,37,45,55,53,36,78,56,57,56,51,82,72,61,80,73,46,39,97,82,13,380,69,48,49,47,48,54,50,49,54,50,51,49,49,52,55,48,47,48,54,54,60,53,55,73,52,37,43,45,77,59,73,61,81,94,91,68,52,50,72,85,41,74,98,81,74,63,47,68,131,74,181,71,169,79,128,65,195,73,79,179,65,211,81,174,72,245,63,154,58,178,58,69,302,70,250,64,127,72,319,72,395,77,328,69,169,72,198,71,133,76,345,81,168,55,155,73,88,66,97,74,143,78,272,56,169,69,327,68,180,76,337,109,73,206,59,179,70,318,52,80,52,85,54,47,66,72,48,76,63,50,86,64,90,94,80,149,108,91,114,82,49,54,62,77,61",
-                        "endOffsets": "7963,8010,8052,8096,8142,8184,8222,8265,8311,8398,8453,8495,8540,8588,8631,8673,8715,8756,8798,8845,8890,8930,8976,9025,9068,9112,9156,9202,9244,9292,9336,9380,9428,9470,9514,9554,9592,9633,9682,9734,9778,9828,9871,9917,9959,10003,10046,10087,10129,10167,10213,10269,10323,10360,10439,10496,10554,10611,10663,10746,10819,10881,10962,11036,11083,11123,11221,11304,13324,14425,14495,14544,14594,14642,14691,14746,14797,14847,14902,14953,15005,15055,15105,15158,15214,15263,15311,15360,15415,15470,15531,15585,15641,15715,15768,15806,15850,15896,15974,16034,16108,16170,16252,16347,16439,16508,16561,16612,16685,16771,17292,17367,17466,17548,17623,17687,17735,17804,17936,18011,18193,18265,18435,18515,18644,18710,18906,18980,19060,19240,19306,19518,19600,19775,19848,20094,20158,20313,20372,20551,20610,20680,20983,21054,21305,21370,21498,21571,21891,21964,22360,22438,22767,22837,23007,23080,23279,23351,23485,23562,23908,23990,24159,24215,24371,24445,24534,24601,25002,25077,25221,25300,25573,25630,25800,25870,26198,26267,26448,26525,26863,26973,27047,27254,27314,27494,27565,27884,27937,28018,28071,28157,28212,28361,28428,28501,28550,28627,28691,28742,28829,28894,28985,29080,29161,29311,29420,29512,29627,29710,29760,29815,29878,29956,30018"
-                    }
-                },
-                {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-fi/values-fi.xml",
-                    "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
-                    },
-                    "to": {
-                        "startLines": "536",
-                        "startColumns": "4",
-                        "startOffsets": "28217",
-                        "endColumns": "100",
-                        "endOffsets": "28313"
+                        "startLines": "281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,384,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7201,7243,7290,7332,7376,7422,7464,7502,7545,7591,7678,7733,7775,7820,7868,7911,7953,7995,8036,8078,8125,8170,8210,8256,8305,8348,8392,8465,8511,8553,8601,8645,8689,8737,8779,8823,8863,8901,8942,8991,9043,9087,9137,9180,9226,9268,9312,9355,9396,9438,9476,9522,9578,9632,9669,9748,9805,9863,9920,9972,10055,10128,10190,10271,10345,10392,10432,10530,10595,10678,10752,10817,10887,12907,14008,14078,14127,14177,14225,14274,14329,14380,14430,14485,14536,14588,14638,14688,14741,14797,14846,14894,14943,14998,15053,15114,15168,15224,15298,15351,15389,15433,15479,15531,15577,15655,15715,15789,15851,15933,15980,16075,16167,16236,16289,16340,16413,16499,17020,17095,17194,17276,17351,17415,17463,17532,17664,17739,17921,17993,18163,18243,18372,18438,18634,18710,18790,18970,19036,19248,19330,19505,19578,19824,19888,20043,20102,20281,20340,20410,20713,20784,21035,21100,21228,21301,21621,21694,22090,22168,22497,22567,22737,22810,23009,23081,23215,23292,23638,23720,23889,23945,24101,24175,24264,24331,24732,24807,24951,25030,25303,25360,25530,25600,25928,25997,26178,26255,26593,26703,26777,26984,27044,27224,27295,27614,27667,27748,27801,27916,28072,28120,28187,28260,28309,28386,28450,28501,28588,28653,28744,28839,28920,29070,29179,29271,29386,29469,29519,29574,29637,29715",
+                        "endLines": "281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,383,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545",
+                        "endColumns": "41,46,41,43,45,41,37,42,45,86,54,41,44,47,42,41,41,40,41,46,44,39,45,48,42,43,72,45,41,47,43,43,47,41,43,39,37,40,48,51,43,49,42,45,41,43,42,40,41,37,45,55,53,36,78,56,57,56,51,82,72,61,80,73,46,39,97,64,82,73,64,69,13,380,69,48,49,47,48,54,50,49,54,50,51,49,49,52,55,48,47,48,54,54,60,53,55,73,52,37,43,45,51,45,77,59,73,61,81,46,94,91,68,52,50,72,85,41,74,98,81,74,63,47,68,131,74,181,71,169,79,128,65,195,75,79,179,65,211,81,174,72,245,63,154,58,178,58,69,302,70,250,64,127,72,319,72,395,77,328,69,169,72,198,71,133,76,345,81,168,55,155,73,88,66,97,74,143,78,272,56,169,69,327,68,180,76,337,109,73,206,59,179,70,318,52,80,52,114,54,47,66,72,48,76,63,50,86,64,90,94,80,149,108,91,114,82,49,54,62,77,61",
+                        "endOffsets": "7238,7285,7327,7371,7417,7459,7497,7540,7586,7673,7728,7770,7815,7863,7906,7948,7990,8031,8073,8120,8165,8205,8251,8300,8343,8387,8460,8506,8548,8596,8640,8684,8732,8774,8818,8858,8896,8937,8986,9038,9082,9132,9175,9221,9263,9307,9350,9391,9433,9471,9517,9573,9627,9664,9743,9800,9858,9915,9967,10050,10123,10185,10266,10340,10387,10427,10525,10590,10673,10747,10812,10882,12902,14003,14073,14122,14172,14220,14269,14324,14375,14425,14480,14531,14583,14633,14683,14736,14792,14841,14889,14938,14993,15048,15109,15163,15219,15293,15346,15384,15428,15474,15526,15572,15650,15710,15784,15846,15928,15975,16070,16162,16231,16284,16335,16408,16494,17015,17090,17189,17271,17346,17410,17458,17527,17659,17734,17916,17988,18158,18238,18367,18433,18629,18705,18785,18965,19031,19243,19325,19500,19573,19819,19883,20038,20097,20276,20335,20405,20708,20779,21030,21095,21223,21296,21616,21689,22085,22163,22492,22562,22732,22805,23004,23076,23210,23287,23633,23715,23884,23940,24096,24170,24259,24326,24727,24802,24946,25025,25298,25355,25525,25595,25923,25992,26173,26250,26588,26698,26772,26979,27039,27219,27290,27609,27662,27743,27796,27911,27966,28115,28182,28255,28304,28381,28445,28496,28583,28648,28739,28834,28915,29065,29174,29266,29381,29464,29514,29569,29632,29710,29772"
                     }
                 }
             ]
@@ -560,7 +568,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-gu_values-gu.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-gu/values-gu.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-gu/values-gu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -575,67 +583,75 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-hi_values-hi.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-hi/values-hi.xml",
+                    "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-hi/colors.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "143,55,103",
+                        "endColumns": "47,47,39",
+                        "endOffsets": "186,98,138"
                     },
                     "to": {
-                        "startLines": "538",
-                        "startColumns": "4",
-                        "startOffsets": "27568",
-                        "endColumns": "100",
-                        "endOffsets": "27664"
+                        "startLines": "278,279,280",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6922,6970,7018",
+                        "endColumns": "47,47,39",
+                        "endOffsets": "6965,7013,7053"
                     }
                 },
                 {
-                    "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-hi/colors.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-hi/values-hi.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "290,291,292,293,294,295,296,297,298,299,300",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7230,7280,7332,7389,7442,7494,7552,7591,7639,7681,7729",
-                        "endColumns": "49,51,56,52,51,57,38,47,41,47,39",
-                        "endOffsets": "7275,7327,7384,7437,7489,7547,7586,7634,7676,7724,7764"
+                        "startLines": "525",
+                        "startColumns": "4",
+                        "startOffsets": "27332",
+                        "endColumns": "100",
+                        "endOffsets": "27428"
                     }
                 },
                 {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-hi/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,156,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9537,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,72,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9605,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "114,115,116,117,118,119,120,122,121,36,35,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,38,144,145,146,147,148,149,37,150,151,152,153,154,155,156,157,158,159,160,78,268,34,104,9,8,3,2,92,11,102,13,99,14,16,87,109,94,106,108,107,44,80,7,245,254,262,251,257,256,255,246,250,259,253,247,260,261,248,249,258,252,98,40,43,42,264,269,17,26,110,111,39,4,21,10,103,12,41,101,28,93,19,20,105,88,29,275,89,91,90,100,15,213,214,211,212,182,183,242,243,188,189,163,184,185,238,239,207,208,227,228,165,167,164,166,224,222,223,215,216,217,218,231,232,229,230,233,234,192,193,190,191,194,195,225,226,186,187,174,175,176,177,198,205,180,181,240,241,209,210,168,169,170,171,172,173,221,219,220,178,179,235,236,25,274,22,271,270,27,272,273,18,79,5,23,96,204,203,200,202,199,201,197,196,95,97,24,267,266,265",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7960,8002,8048,8090,8134,8180,8222,8304,8260,2323,2266,8346,8388,8432,8480,8526,8570,8612,8654,8694,8740,8786,8826,8874,8924,8968,9012,9056,9102,9142,9190,9234,2467,9278,9320,9368,9408,9446,9488,2416,9538,9582,9632,9676,9722,9764,9808,9852,9892,9934,9972,5000,21802,2229,7340,598,540,154,102,6499,727,7212,880,6990,961,1067,6077,7692,6633,7485,7627,7556,2844,5134,470,20607,21063,21472,20905,21211,21161,21111,20655,20856,21311,21011,20711,21363,21416,20759,20808,21262,20953,6933,2626,2791,2731,21521,21855,1110,1575,7755,7801,2548,211,1304,655,7275,800,2684,7121,1666,6571,1200,1253,7413,6178,1767,22265,6267,6422,6359,7069,1009,16010,16082,15802,15880,12427,12498,20428,20499,13158,13221,10061,12666,12744,19757,19827,15338,15422,17774,17847,10203,10468,10136,10270,17345,16965,17029,16195,16262,16412,16476,18589,18663,18116,18197,18985,19061,13646,13724,13376,13455,13910,13971,17408,17482,12932,13010,11650,11709,11818,11888,14317,14965,12200,12274,20058,20141,15616,15673,10639,10707,10997,11062,11245,11325,16868,16606,16677,11971,12036,19401,19472,1523,22193,1364,21971,21908,1618,22069,22128,1147,5062,289,1417,6791,14903,14820,14532,14739,14384,14631,14230,14115,6711,6879,1468,21739,21660,21598",
+                        "endLines": "114,115,116,117,118,119,120,122,121,36,35,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,38,144,145,146,147,148,149,37,150,151,152,153,154,155,156,157,158,159,160,78,268,34,104,9,8,3,2,92,11,102,13,99,14,16,87,109,94,106,108,107,77,86,7,245,254,262,251,257,256,255,246,250,259,253,247,260,261,248,249,258,252,98,40,43,42,264,269,17,26,110,111,39,4,21,10,103,12,41,101,28,93,19,20,105,88,33,275,89,91,90,100,15,213,214,211,212,182,183,242,243,188,189,163,184,185,238,239,207,208,227,228,165,167,164,166,224,222,223,215,216,217,218,231,232,229,230,233,234,192,193,190,191,194,195,225,226,186,187,174,175,176,177,198,206,180,181,240,241,209,210,168,169,170,171,172,173,221,219,220,178,179,235,236,25,274,22,271,270,27,272,273,18,79,5,23,96,204,203,200,202,199,201,197,196,95,97,24,267,266,265",
+                        "endColumns": "41,45,41,43,45,41,37,41,43,92,56,41,43,47,45,43,41,41,39,45,45,39,47,49,43,43,43,45,39,47,43,43,80,41,47,39,37,41,49,50,43,49,43,45,41,43,43,39,41,37,47,61,52,36,72,56,57,56,51,71,72,62,80,78,47,42,100,62,77,70,64,70,13,13,69,47,47,47,47,50,49,49,55,48,51,51,47,52,55,48,47,48,57,56,57,52,59,76,52,36,42,45,51,77,77,59,71,64,79,46,90,100,61,52,50,71,88,44,70,91,76,62,51,57,71,112,77,129,70,167,70,106,62,154,74,77,187,69,230,83,193,72,268,66,170,66,197,62,63,315,66,149,63,129,73,321,80,391,75,339,77,185,78,190,60,143,73,291,77,147,58,108,69,82,66,178,73,152,82,286,56,128,67,289,64,182,79,324,96,70,190,64,163,70,283,51,71,52,97,62,47,58,64,52,71,63,50,87,61,82,98,80,147,107,86,114,79,53,54,62,78,61",
+                        "endOffsets": "7997,8043,8085,8129,8175,8217,8255,8341,8299,2411,2318,8383,8427,8475,8521,8565,8607,8649,8689,8735,8781,8821,8869,8919,8963,9007,9051,9097,9137,9185,9229,9273,2543,9315,9363,9403,9441,9483,9533,2462,9577,9627,9671,9717,9759,9803,9847,9887,9929,9967,10015,5057,21850,2261,7408,650,593,206,149,6566,795,7270,956,7064,1004,1105,6173,7750,6706,7551,7687,7622,4995,6072,535,20650,21106,21515,20948,21257,21206,21156,20706,20900,21358,21058,20754,21411,21467,20803,20851,21306,21006,6985,2679,2839,2786,21593,21903,1142,1613,7796,7848,2621,284,1359,722,7335,875,2726,7207,1762,6628,1248,1299,7480,6262,2224,22331,6354,6494,6417,7116,1062,16077,16190,15875,16005,12493,12661,20494,20601,13216,13371,10131,12739,12927,19822,20053,15417,15611,17842,18111,10265,10634,10198,10463,17403,17024,17340,16257,16407,16471,16601,18658,18980,18192,18584,19056,19396,13719,13905,13450,13641,13966,14110,17477,17769,13005,13153,11704,11813,11883,11966,14379,15333,12269,12422,20136,20423,15668,15797,10702,10992,11057,11240,11320,11645,16960,16672,16863,12031,12195,19467,19751,1570,22260,1412,22064,21966,1661,22123,22188,1195,5129,348,1463,6874,14960,14898,14626,14815,14527,14734,14312,14225,6786,6928,1518,21797,21734,21655"
                     },
                     "to": {
-                        "startLines": "301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,403,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7769,7811,7857,7899,7943,7989,8031,8069,8111,8155,8248,8305,8347,8391,8439,8485,8529,8571,8613,8653,8699,8745,8785,8833,8883,8927,8971,9015,9061,9101,9149,9193,9237,9287,9329,9377,9417,9455,9497,9547,9598,9642,9692,9736,9782,9824,9868,9912,9952,9994,10032,10080,10142,10195,10232,10305,10362,10420,10477,10529,10601,10674,10737,10818,10897,10945,10988,11089,11167,13323,14266,14336,14384,14432,14480,14528,14579,14629,14679,14735,14784,14836,14888,14936,14989,15045,15094,15142,15191,15249,15306,15364,15417,15477,15554,15607,15644,15687,15734,15812,15872,15944,16009,16089,16180,16281,16343,16396,16447,16519,16608,17070,17141,17233,17310,17373,17425,17483,17555,17668,17746,17876,17947,18115,18186,18293,18356,18511,18584,18662,18850,18920,19151,19235,19429,19502,19771,19838,20009,20076,20274,20337,20401,20717,20784,20934,20998,21128,21202,21524,21605,21997,22073,22413,22491,22677,22756,22947,23008,23152,23226,23518,23596,23744,23803,23912,23982,24065,24132,24499,24573,24726,24809,25096,25153,25282,25350,25640,25705,25888,25968,26293,26390,26461,26652,26717,26881,26952,27236,27288,27360,27413,27511,27669,27717,27776,27841,27894,27966,28030,28081,28169,28231,28314,28413,28494,28642,28750,28837,28952,29032,29086,29141,29204,29283",
-                        "endLines": "301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,402,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560",
-                        "endColumns": "41,45,41,43,45,41,37,41,43,92,56,41,43,47,45,43,41,41,39,45,45,39,47,49,43,43,43,45,39,47,43,43,49,41,47,39,37,41,49,50,43,49,43,45,41,43,43,39,41,37,47,61,52,36,72,56,57,56,51,71,72,62,80,78,47,42,100,77,13,13,69,47,47,47,47,50,49,49,55,48,51,51,47,52,55,48,47,48,57,56,57,52,59,76,52,36,42,46,77,59,71,64,79,90,100,61,52,50,71,88,44,70,91,76,62,51,57,71,112,77,129,70,167,70,106,62,154,72,77,187,69,230,83,193,72,268,66,170,66,197,62,63,315,66,149,63,129,73,321,80,391,75,339,77,185,78,190,60,143,73,291,77,147,58,108,69,82,66,172,73,152,82,286,56,128,67,289,64,182,79,324,96,70,190,64,163,70,283,51,71,52,97,56,47,58,64,52,71,63,50,87,61,82,98,80,147,107,86,114,79,53,54,62,78,61",
-                        "endOffsets": "7806,7852,7894,7938,7984,8026,8064,8106,8150,8243,8300,8342,8386,8434,8480,8524,8566,8608,8648,8694,8740,8780,8828,8878,8922,8966,9010,9056,9096,9144,9188,9232,9282,9324,9372,9412,9450,9492,9542,9593,9637,9687,9731,9777,9819,9863,9907,9947,9989,10027,10075,10137,10190,10227,10300,10357,10415,10472,10524,10596,10669,10732,10813,10892,10940,10983,11084,11162,13318,14261,14331,14379,14427,14475,14523,14574,14624,14674,14730,14779,14831,14883,14931,14984,15040,15089,15137,15186,15244,15301,15359,15412,15472,15549,15602,15639,15682,15729,15807,15867,15939,16004,16084,16175,16276,16338,16391,16442,16514,16603,17065,17136,17228,17305,17368,17420,17478,17550,17663,17741,17871,17942,18110,18181,18288,18351,18506,18579,18657,18845,18915,19146,19230,19424,19497,19766,19833,20004,20071,20269,20332,20396,20712,20779,20929,20993,21123,21197,21519,21600,21992,22068,22408,22486,22672,22751,22942,23003,23147,23221,23513,23591,23739,23798,23907,23977,24060,24127,24494,24568,24721,24804,25091,25148,25277,25345,25635,25700,25883,25963,26288,26385,26456,26647,26712,26876,26947,27231,27283,27355,27408,27506,27563,27712,27771,27836,27889,27961,28025,28076,28164,28226,28309,28408,28489,28637,28745,28832,28947,29027,29081,29136,29199,29278,29340"
+                        "startLines": "281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,387,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,499,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7058,7100,7146,7188,7232,7278,7320,7358,7400,7444,7537,7594,7636,7680,7728,7774,7818,7860,7902,7942,7988,8034,8074,8122,8172,8216,8260,8304,8350,8390,8438,8482,8526,8605,8647,8695,8735,8773,8815,8865,8916,8960,9010,9054,9100,9142,9186,9230,9270,9312,9350,9398,9460,9513,9550,9623,9680,9738,9795,9847,9919,9992,10055,10136,10215,10263,10306,10407,10470,10548,10619,10684,10755,12911,13854,13924,13972,14020,14068,14116,14167,14217,14267,14323,14372,14424,14476,14524,14577,14633,14682,14730,14779,14837,14894,14952,15005,15065,15142,15195,15232,15275,15321,15373,15449,15527,15587,15659,15724,15804,15851,15942,16043,16105,16158,16209,16281,16370,16832,16903,16995,17072,17135,17187,17245,17317,17430,17508,17638,17709,17877,17948,18055,18118,18273,18348,18426,18614,18684,18915,18999,19193,19266,19535,19602,19773,19840,20038,20101,20165,20481,20548,20698,20762,20892,20966,21288,21369,21761,21837,22177,22255,22441,22520,22711,22772,22916,22990,23282,23360,23508,23567,23676,23746,23829,23896,24263,24337,24490,24573,24860,24917,25046,25114,25404,25469,25652,25732,26057,26154,26225,26416,26481,26645,26716,27000,27052,27124,27177,27275,27433,27481,27540,27605,27658,27730,27794,27845,27933,27995,28078,28177,28258,28406,28514,28601,28716,28796,28850,28905,28968,29047",
+                        "endLines": "281,282,283,284,285,286,287,288,289,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,386,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,497,498,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547",
+                        "endColumns": "41,45,41,43,45,41,37,41,43,92,56,41,43,47,45,43,41,41,39,45,45,39,47,49,43,43,43,45,39,47,43,43,78,41,47,39,37,41,49,50,43,49,43,45,41,43,43,39,41,37,47,61,52,36,72,56,57,56,51,71,72,62,80,78,47,42,100,62,77,70,64,70,13,13,69,47,47,47,47,50,49,49,55,48,51,51,47,52,55,48,47,48,57,56,57,52,59,76,52,36,42,45,51,75,77,59,71,64,79,46,90,100,61,52,50,71,88,44,70,91,76,62,51,57,71,112,77,129,70,167,70,106,62,154,74,77,187,69,230,83,193,72,268,66,170,66,197,62,63,315,66,149,63,129,73,321,80,391,75,339,77,185,78,190,60,143,73,291,77,147,58,108,69,82,66,172,73,152,82,286,56,128,67,289,64,182,79,324,96,70,190,64,163,70,283,51,71,52,97,56,47,58,64,52,71,63,50,87,61,82,98,80,147,107,86,114,79,53,54,62,78,61",
+                        "endOffsets": "7095,7141,7183,7227,7273,7315,7353,7395,7439,7532,7589,7631,7675,7723,7769,7813,7855,7897,7937,7983,8029,8069,8117,8167,8211,8255,8299,8345,8385,8433,8477,8521,8600,8642,8690,8730,8768,8810,8860,8911,8955,9005,9049,9095,9137,9181,9225,9265,9307,9345,9393,9455,9508,9545,9618,9675,9733,9790,9842,9914,9987,10050,10131,10210,10258,10301,10402,10465,10543,10614,10679,10750,12906,13849,13919,13967,14015,14063,14111,14162,14212,14262,14318,14367,14419,14471,14519,14572,14628,14677,14725,14774,14832,14889,14947,15000,15060,15137,15190,15227,15270,15316,15368,15444,15522,15582,15654,15719,15799,15846,15937,16038,16100,16153,16204,16276,16365,16827,16898,16990,17067,17130,17182,17240,17312,17425,17503,17633,17704,17872,17943,18050,18113,18268,18343,18421,18609,18679,18910,18994,19188,19261,19530,19597,19768,19835,20033,20096,20160,20476,20543,20693,20757,20887,20961,21283,21364,21756,21832,22172,22250,22436,22515,22706,22767,22911,22985,23277,23355,23503,23562,23671,23741,23824,23891,24258,24332,24485,24568,24855,24912,25041,25109,25399,25464,25647,25727,26052,26149,26220,26411,26476,26640,26711,26995,27047,27119,27172,27270,27327,27476,27535,27600,27653,27725,27789,27840,27928,27990,28073,28172,28253,28401,28509,28596,28711,28791,28845,28900,28963,29042,29104"
                     }
                 },
                 {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values-hi/array.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "138,242,246,144,270,274,150,156,204,208,2,50,260,265,174,179,162,168,184,188,192,198,232,237,98,118,212,217,222,227,250,255",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1",
+                        "startOffsets": "3105,5840,5954,3238,6554,6681,3362,3527,4777,4889,52,1158,6277,6442,3967,4120,3650,3840,4230,4374,4464,4652,5582,5728,2242,2674,4987,5158,5264,5472,6045,6169",
+                        "endLines": "143,245,249,149,273,277,155,161,207,211,49,97,264,269,178,183,167,173,187,191,197,203,236,241,117,137,216,221,226,231,254,259",
+                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
+                        "endOffsets": "3236,5952,6043,3360,6679,6777,3525,3648,4887,4985,1156,2239,6440,6552,4118,4228,3838,3965,4372,4462,4650,4775,5726,5838,2672,3103,5156,5262,5470,5580,6167,6275"
                     },
                     "to": {
-                        "startLines": "2,8,12,16,22,26,30,36,42,46,50,98,146,152,158,163,168,173,178,184,190,194,198,204,210,215,220,240,260,265,270,275,280,285",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,191,308,402,529,659,760,928,1054,1169,1270,2379,3465,3652,3818,3986,4101,4257,4370,4563,4693,4840,4933,5124,5252,5401,5516,5951,6385,6559,6668,6879,6992,7119",
-                        "endLines": "7,11,15,21,25,29,35,41,45,49,97,145,151,157,162,167,172,177,183,189,193,197,203,209,214,219,239,259,264,269,274,279,284,289",
-                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
-                        "endOffsets": "186,303,397,524,654,755,923,1049,1164,1265,2374,3460,3647,3813,3981,4096,4252,4365,4558,4688,4835,4928,5119,5247,5396,5511,5946,6380,6554,6663,6874,6987,7114,7225"
+                        "startLines": "2,8,12,16,22,26,30,36,42,46,50,98,146,151,156,161,166,172,178,182,186,192,198,203,208,228,248,253,258,263,268,273",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,236,353,447,574,704,805,973,1099,1214,1315,2424,3510,3678,3793,3949,4062,4255,4385,4532,4625,4816,4944,5093,5208,5643,6077,6251,6360,6571,6684,6811",
+                        "endLines": "7,11,15,21,25,29,35,41,45,49,97,145,150,155,160,165,171,177,181,185,191,197,202,207,227,247,252,257,262,267,272,277",
+                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
+                        "endOffsets": "231,348,442,569,699,800,968,1094,1209,1310,2419,3505,3673,3788,3944,4057,4250,4380,4527,4620,4811,4939,5088,5203,5638,6072,6246,6355,6566,6679,6806,6917"
                     }
                 }
             ]
@@ -644,7 +660,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-vi_values-vi.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-vi/values-vi.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-vi/values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -659,114 +675,130 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
-                    },
-                    "to": {
-                        "startLines": "300,301,304,306,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,336,337,338,339,340,341,342,343,344,345,347,584,607,608,613,616,621,623,624",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7804,7873,8096,8227,8431,8501,8569,8641,8711,8772,8846,8919,8980,9041,9103,9167,9229,9290,9358,9458,9518,9584,9657,9726,9783,9835,10109,10181,10257,10292,10327,10377,10438,10495,10529,10564,10659,30616,32357,32474,32741,33034,33301,33497,33569",
-                        "endLines": "300,301,304,306,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,336,337,338,339,340,341,342,343,344,345,347,584,607,611,613,619,621,623,624",
-                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
-                        "endOffsets": "7868,7931,8149,8296,8496,8564,8636,8706,8767,8841,8914,8975,9036,9098,9162,9224,9285,9353,9453,9513,9579,9652,9721,9778,9830,9892,10176,10252,10287,10322,10372,10433,10490,10524,10559,10594,10724,30682,32469,32670,32846,33230,33425,33564,33631"
-                    }
-                },
-                {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values/array.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "138,242,246,144,270,274,150,156,204,208,2,50,260,265,174,179,162,168,184,188,192,198,232,237,98,118,212,217,222,227,250,255",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1",
+                        "startOffsets": "3131,5892,6006,3266,6606,6733,3390,3553,4811,4929,52,1158,6329,6494,3988,4158,3676,3861,4268,4418,4508,4686,5634,5780,2266,2698,5027,5210,5316,5524,6097,6221",
+                        "endLines": "143,245,249,149,273,277,155,161,207,211,49,97,264,269,178,183,167,173,187,191,197,203,236,241,117,137,216,221,226,231,254,259",
+                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
+                        "endOffsets": "3264,6004,6095,3388,6731,6829,3551,3674,4927,5025,1156,2263,6492,6604,4156,4266,3859,3986,4416,4506,4684,4809,5778,5890,2696,3129,5208,5314,5522,5632,6219,6327"
                     },
                     "to": {
-                        "startLines": "2,8,12,16,22,26,30,36,42,46,50,98,146,152,158,163,168,173,178,184,190,194,198,204,210,215,220,240,260,265,270,275,280,285",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,193,310,404,531,661,762,928,1054,1175,1276,2385,3495,3695,3861,4029,4144,4317,4430,4618,4748,4901,4994,5175,5303,5452,5567,6002,6438,6624,6733,6944,7057,7184",
-                        "endLines": "7,11,15,21,25,29,35,41,45,49,97,145,151,157,162,167,172,177,183,189,193,197,203,209,214,219,239,259,264,269,274,279,284,289",
-                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
-                        "endOffsets": "188,305,399,526,656,757,923,1049,1170,1271,2380,3490,3690,3856,4024,4139,4312,4425,4613,4743,4896,4989,5170,5298,5447,5562,5997,6433,6619,6728,6939,7052,7179,7290"
+                        "startLines": "2,8,12,16,22,26,30,36,42,46,50,98,146,151,156,161,166,172,178,182,186,192,198,203,208,228,248,253,258,263,268,273",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,238,355,449,576,706,807,973,1099,1220,1321,2430,3540,3708,3823,3996,4109,4297,4427,4580,4673,4854,4982,5131,5246,5681,6117,6303,6412,6623,6736,6863",
+                        "endLines": "7,11,15,21,25,29,35,41,45,49,97,145,150,155,160,165,171,177,181,185,191,197,202,207,227,247,252,257,262,267,272,277",
+                        "endColumns": "16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16",
+                        "endOffsets": "233,350,444,571,701,802,968,1094,1215,1316,2425,3535,3703,3818,3991,4104,4292,4422,4575,4668,4849,4977,5126,5241,5676,6112,6298,6407,6618,6731,6858,6969"
                     }
                 },
                 {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values/attr.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "2",
+                        "startColumns": "1",
+                        "startOffsets": "52",
+                        "endColumns": "35",
+                        "endOffsets": "86"
                     },
                     "to": {
-                        "startLines": "291",
+                        "startLines": "279",
                         "startColumns": "4",
-                        "startOffsets": "7356",
+                        "startOffsets": "7035",
                         "endColumns": "38",
-                        "endOffsets": "7390"
+                        "endOffsets": "7069"
                     }
                 },
                 {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,155,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9617,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,72,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9685,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "114,115,116,117,118,119,120,122,121,37,36,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,39,144,145,146,147,148,149,38,150,151,152,153,154,155,156,157,158,159,160,75,268,34,104,9,8,3,2,92,11,102,13,99,14,16,87,109,94,106,108,107,44,77,7,245,254,262,251,257,256,255,246,250,259,253,247,260,261,248,249,258,252,98,41,43,42,264,269,17,26,110,111,40,4,21,10,103,12,35,101,28,93,19,20,105,88,29,275,89,91,90,100,15,213,214,211,212,182,183,242,243,188,189,163,184,185,238,239,207,208,227,228,165,167,164,166,224,222,223,215,216,217,218,231,232,229,230,233,234,192,193,190,191,194,195,225,226,186,187,174,175,176,177,198,205,180,181,240,241,209,210,168,169,170,171,172,173,221,219,220,178,179,235,236,25,274,22,271,270,27,272,273,18,76,5,23,96,204,203,200,202,199,201,197,196,95,97,24,267,266,265",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7979,8021,8067,8109,8153,8199,8272,8354,8310,2347,2295,8396,8438,8482,8530,8576,8620,8662,8704,8744,8790,8836,8876,8924,8974,9018,9062,9106,9152,9192,9240,9284,2484,9328,9370,9418,9458,9496,9538,2434,9588,9632,9682,9726,9772,9814,9858,9902,9942,9984,10022,4635,21852,2211,7359,596,538,154,102,6518,727,7231,882,7009,963,1060,6096,7711,6652,7504,7646,7575,2748,4763,468,20657,21113,21522,20955,21261,21211,21161,20705,20906,21361,21061,20761,21413,21466,20809,20858,21312,21003,6952,2576,2694,2633,21571,21905,1098,1561,7774,7820,2532,211,1290,653,7294,800,2248,7140,1653,6590,1186,1239,7432,6197,1734,22346,6286,6441,6378,7088,1011,16060,16132,15852,15930,12477,12548,20478,20549,13208,13271,10111,12716,12794,19807,19877,15388,15472,17824,17897,10253,10518,10186,10320,17395,17015,17079,16245,16312,16462,16526,18639,18713,18166,18247,19035,19111,13696,13774,13426,13505,13960,14021,17458,17532,12982,13060,11700,11759,11868,11938,14367,15015,12250,12324,20108,20191,15666,15723,10689,10757,11047,11112,11295,11375,16918,16656,16727,12021,12086,19451,19522,1509,22274,1350,22052,21958,1605,22150,22209,1136,4694,289,1403,6810,14953,14870,14582,14789,14434,14681,14280,14165,6730,6898,1454,21789,21710,21648",
+                        "endLines": "114,115,116,117,118,119,120,122,121,37,36,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,39,144,145,146,147,148,149,38,150,151,152,153,154,155,156,157,158,159,160,75,268,34,104,9,8,3,2,92,11,102,13,99,14,16,87,109,94,106,108,107,74,85,7,245,254,262,251,257,256,255,246,250,259,253,247,260,261,248,249,258,252,98,41,43,42,264,269,17,26,110,111,40,4,21,10,103,12,35,101,28,93,19,20,105,88,33,275,89,91,90,100,15,213,214,211,212,182,183,242,243,188,189,163,184,185,238,239,207,208,227,228,165,167,164,166,224,222,223,215,216,217,218,231,232,229,230,233,234,192,193,190,191,194,195,225,226,186,187,174,175,176,177,198,206,180,181,240,241,209,210,168,169,170,171,172,173,221,219,220,178,179,235,236,25,274,22,271,270,27,272,273,18,76,5,23,96,204,203,200,202,199,201,197,196,95,97,24,267,266,265",
+                        "endColumns": "41,45,41,43,45,72,37,41,43,86,51,41,43,47,45,43,41,41,39,45,45,39,47,49,43,43,43,45,39,47,43,43,47,41,47,39,37,41,49,49,43,49,43,45,41,43,43,39,41,37,47,58,52,36,72,56,57,56,51,71,72,62,80,78,47,37,100,62,77,70,64,70,13,13,69,47,47,47,47,50,49,49,55,48,51,51,47,52,55,48,47,48,57,56,56,53,60,76,52,37,43,45,51,43,77,59,73,64,81,46,90,80,61,52,50,71,88,43,70,91,76,62,51,48,71,112,77,129,70,167,70,106,62,154,74,77,187,69,230,83,193,72,268,66,170,66,197,62,63,315,66,149,63,129,73,321,80,391,75,339,77,185,78,190,60,143,73,291,77,147,58,108,69,82,66,178,73,152,82,286,56,128,67,289,64,182,79,324,96,70,190,64,163,70,283,51,71,52,97,93,47,58,64,49,68,63,50,87,61,82,98,80,147,107,86,114,79,53,54,62,78,61",
+                        "endOffsets": "8016,8062,8104,8148,8194,8267,8305,8391,8349,2429,2342,8433,8477,8525,8571,8615,8657,8699,8739,8785,8831,8871,8919,8969,9013,9057,9101,9147,9187,9235,9279,9323,2527,9365,9413,9453,9491,9533,9583,2479,9627,9677,9721,9767,9809,9853,9897,9937,9979,10017,10065,4689,21900,2243,7427,648,591,206,149,6585,795,7289,958,7083,1006,1093,6192,7769,6725,7570,7706,7641,4630,6090,533,20700,21156,21565,20998,21307,21256,21206,20756,20950,21408,21108,20804,21461,21517,20853,20901,21356,21056,7004,2628,2743,2689,21643,21953,1131,1600,7815,7867,2571,284,1345,722,7354,877,2290,7226,1729,6647,1234,1285,7499,6281,2206,22412,6373,6513,6436,7135,1055,16127,16240,15925,16055,12543,12711,20544,20651,13266,13421,10181,12789,12977,19872,20103,15467,15661,17892,18161,10315,10684,10248,10513,17453,17074,17390,16307,16457,16521,16651,18708,19030,18242,18634,19106,19446,13769,13955,13500,13691,14016,14160,17527,17819,13055,13203,11754,11863,11933,12016,14429,15383,12319,12472,20186,20473,15718,15847,10752,11042,11107,11290,11370,11695,17010,16722,16913,12081,12245,19517,19801,1556,22341,1398,22145,22047,1648,22204,22269,1181,4758,348,1449,6893,15010,14948,14676,14865,14577,14784,14362,14275,6805,6947,1504,21847,21784,21705"
                     },
                     "to": {
-                        "startLines": "348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416,447,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,496,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,558,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "10729,10771,10817,10859,10903,10949,10991,11029,11071,11115,11202,11254,11296,11340,11388,11434,11478,11520,11562,11602,11648,11694,11734,11782,11832,11876,11920,11964,12010,12050,12098,12142,12186,12234,12276,12324,12364,12402,12444,12494,12544,12588,12638,12682,12728,12770,12814,12858,12898,12940,12978,13026,13085,13138,13175,13248,13305,13363,13420,13472,13544,13617,13680,13761,13840,13888,13926,14027,14105,15992,17324,17394,17442,17490,17538,17586,17637,17687,17737,17793,17842,17894,17946,17994,18047,18103,18152,18200,18249,18307,18364,18421,18475,18536,18613,18666,18704,18748,18792,18870,18930,19004,19069,19151,19242,19323,19385,19438,19489,19561,19650,20127,20198,20290,20367,20430,20482,20531,20603,20716,20794,20924,20995,21163,21234,21341,21404,21559,21632,21710,21898,21968,22199,22283,22477,22550,22819,22886,23057,23124,23322,23385,23449,23765,23832,23982,24046,24176,24250,24572,24653,25045,25121,25461,25539,25725,25804,25995,26056,26200,26274,26566,26644,26792,26851,26960,27030,27113,27180,27547,27621,27774,27857,28144,28201,28330,28398,28688,28753,28936,29016,29341,29438,29509,29700,29765,29929,30000,30284,30336,30408,30461,30559,30687,30735,30794,30859,30909,30978,31042,31093,31181,31243,31326,31425,31506,31654,31762,31849,31964,32044,32098,32153,32216,32295",
-                        "endLines": "348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,446,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,484,485,486,487,488,489,490,491,492,493,494,495,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,551,552,553,554,555,556,557,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,578,579,580,581,582,583,585,586,587,588,589,590,591,592,593,594,595,596,597,598,599,600,601,602,603,604,605,606",
-                        "endColumns": "41,45,41,43,45,41,37,41,43,86,51,41,43,47,45,43,41,41,39,45,45,39,47,49,43,43,43,45,39,47,43,43,47,41,47,39,37,41,49,49,43,49,43,45,41,43,43,39,41,37,47,58,52,36,72,56,57,56,51,71,72,62,80,78,47,37,100,77,13,13,69,47,47,47,47,50,49,49,55,48,51,51,47,52,55,48,47,48,57,56,56,53,60,76,52,37,43,43,77,59,73,64,81,90,80,61,52,50,71,88,43,70,91,76,62,51,48,71,112,77,129,70,167,70,106,62,154,72,77,187,69,230,83,193,72,268,66,170,66,197,62,63,315,66,149,63,129,73,321,80,391,75,339,77,185,78,190,60,143,73,291,77,147,58,108,69,82,66,172,73,152,82,286,56,128,67,289,64,182,79,324,96,70,190,64,163,70,283,51,71,52,97,56,47,58,64,49,68,63,50,87,61,82,98,80,147,107,86,114,79,53,54,62,78,61",
-                        "endOffsets": "10766,10812,10854,10898,10944,10986,11024,11066,11110,11197,11249,11291,11335,11383,11429,11473,11515,11557,11597,11643,11689,11729,11777,11827,11871,11915,11959,12005,12045,12093,12137,12181,12229,12271,12319,12359,12397,12439,12489,12539,12583,12633,12677,12723,12765,12809,12853,12893,12935,12973,13021,13080,13133,13170,13243,13300,13358,13415,13467,13539,13612,13675,13756,13835,13883,13921,14022,14100,15987,17319,17389,17437,17485,17533,17581,17632,17682,17732,17788,17837,17889,17941,17989,18042,18098,18147,18195,18244,18302,18359,18416,18470,18531,18608,18661,18699,18743,18787,18865,18925,18999,19064,19146,19237,19318,19380,19433,19484,19556,19645,20122,20193,20285,20362,20425,20477,20526,20598,20711,20789,20919,20990,21158,21229,21336,21399,21554,21627,21705,21893,21963,22194,22278,22472,22545,22814,22881,23052,23119,23317,23380,23444,23760,23827,23977,24041,24171,24245,24567,24648,25040,25116,25456,25534,25720,25799,25990,26051,26195,26269,26561,26639,26787,26846,26955,27025,27108,27175,27542,27616,27769,27852,28139,28196,28325,28393,28683,28748,28931,29011,29336,29433,29504,29695,29760,29924,29995,30279,30331,30403,30456,30554,30611,30730,30789,30854,30904,30973,31037,31088,31176,31238,31321,31420,31501,31649,31757,31844,31959,32039,32093,32148,32211,32290,32352"
+                        "startLines": "328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,431,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,483,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "10005,10047,10093,10135,10179,10225,10296,10334,10376,10420,10507,10559,10601,10645,10693,10739,10783,10825,10867,10907,10953,10999,11039,11087,11137,11181,11225,11269,11315,11355,11403,11447,11491,11539,11581,11629,11669,11707,11749,11799,11849,11893,11943,11987,12033,12075,12119,12163,12203,12245,12283,12331,12390,12443,12480,12553,12610,12668,12725,12777,12849,12922,12985,13066,13145,13193,13231,13332,13395,13473,13544,13609,13680,15567,16899,16969,17017,17065,17113,17161,17212,17262,17312,17368,17417,17469,17521,17569,17622,17678,17727,17775,17824,17882,17939,17996,18050,18111,18188,18241,18279,18323,18369,18421,18465,18543,18603,18677,18742,18824,18871,18962,19043,19105,19158,19209,19281,19370,19847,19918,20010,20087,20150,20202,20251,20323,20436,20514,20644,20715,20883,20954,21061,21124,21279,21354,21432,21620,21690,21921,22005,22199,22272,22541,22608,22779,22846,23044,23107,23171,23487,23554,23704,23768,23898,23972,24294,24375,24767,24843,25183,25261,25447,25526,25717,25778,25922,25996,26288,26366,26514,26573,26682,26752,26835,26902,27269,27343,27496,27579,27866,27923,28052,28120,28410,28475,28658,28738,29063,29160,29231,29422,29487,29651,29722,30006,30058,30130,30183,30281,30438,30486,30545,30610,30660,30729,30793,30844,30932,30994,31077,31176,31257,31405,31513,31600,31715,31795,31849,31904,31967,32046",
+                        "endLines": "328,329,330,331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359,360,361,362,363,364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,430,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472,473,474,475,476,477,478,479,480,481,482,487,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,546,547,548,549,550,551,552,553,554,555,556,557,558,559,560,561,562,563,564,565,566,567,568,569,570,572,573,574,575,576,577,578,579,580,581,582,583,584,585,586,587,588,589,590,591,592,593",
+                        "endColumns": "41,45,41,43,45,70,37,41,43,86,51,41,43,47,45,43,41,41,39,45,45,39,47,49,43,43,43,45,39,47,43,43,47,41,47,39,37,41,49,49,43,49,43,45,41,43,43,39,41,37,47,58,52,36,72,56,57,56,51,71,72,62,80,78,47,37,100,62,77,70,64,70,13,13,69,47,47,47,47,50,49,49,55,48,51,51,47,52,55,48,47,48,57,56,56,53,60,76,52,37,43,45,51,43,77,59,73,64,81,46,90,80,61,52,50,71,88,43,70,91,76,62,51,48,71,112,77,129,70,167,70,106,62,154,74,77,187,69,230,83,193,72,268,66,170,66,197,62,63,315,66,149,63,129,73,321,80,391,75,339,77,185,78,190,60,143,73,291,77,147,58,108,69,82,66,172,73,152,82,286,56,128,67,289,64,182,79,324,96,70,190,64,163,70,283,51,71,52,97,85,47,58,64,49,68,63,50,87,61,82,98,80,147,107,86,114,79,53,54,62,78,61",
+                        "endOffsets": "10042,10088,10130,10174,10220,10291,10329,10371,10415,10502,10554,10596,10640,10688,10734,10778,10820,10862,10902,10948,10994,11034,11082,11132,11176,11220,11264,11310,11350,11398,11442,11486,11534,11576,11624,11664,11702,11744,11794,11844,11888,11938,11982,12028,12070,12114,12158,12198,12240,12278,12326,12385,12438,12475,12548,12605,12663,12720,12772,12844,12917,12980,13061,13140,13188,13226,13327,13390,13468,13539,13604,13675,15562,16894,16964,17012,17060,17108,17156,17207,17257,17307,17363,17412,17464,17516,17564,17617,17673,17722,17770,17819,17877,17934,17991,18045,18106,18183,18236,18274,18318,18364,18416,18460,18538,18598,18672,18737,18819,18866,18957,19038,19100,19153,19204,19276,19365,19842,19913,20005,20082,20145,20197,20246,20318,20431,20509,20639,20710,20878,20949,21056,21119,21274,21349,21427,21615,21685,21916,22000,22194,22267,22536,22603,22774,22841,23039,23102,23166,23482,23549,23699,23763,23893,23967,24289,24370,24762,24838,25178,25256,25442,25521,25712,25773,25917,25991,26283,26361,26509,26568,26677,26747,26830,26897,27264,27338,27491,27574,27861,27918,28047,28115,28405,28470,28653,28733,29058,29155,29226,29417,29482,29646,29717,30001,30053,30125,30178,30276,30362,30481,30540,30605,30655,30724,30788,30839,30927,30989,31072,31171,31252,31400,31508,31595,31710,31790,31844,31899,31962,32041,32103"
+                    }
+                },
+                {
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/861fb4adafc9e8d5229a08e015a6c26b/support-media-compat-28.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
+                    },
+                    "to": {
+                        "startLines": "283,284,286,312,313,314,315,326,599,601,602,607,609",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7254,7343,7472,9173,9226,9279,9332,9875,32426,32602,32724,32986,33181",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "7338,7409,7540,9221,9274,9327,9380,9930,32487,32719,32780,33047,33243"
                     }
                 },
                 {
                     "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "143,55,103",
+                        "endColumns": "47,47,39",
+                        "endOffsets": "186,98,138"
                     },
                     "to": {
-                        "startLines": "292,293,294,295,296,297,298,299,307,308,309",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7395,7445,7497,7554,7607,7659,7717,7756,8301,8343,8391",
-                        "endColumns": "49,51,56,52,51,57,38,47,41,47,39",
-                        "endOffsets": "7440,7492,7549,7602,7654,7712,7751,7799,8338,8386,8426"
+                        "startLines": "280,288,289",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7074,7619,7667",
+                        "endColumns": "47,47,39",
+                        "endOffsets": "7117,7662,7702"
                     }
                 },
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0764f579f46daee945f58aeb5abd3d1a/coordinatorlayout-28.0.0/res/values/values.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values/values.xml",
                     "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
+                        "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652,319,617,3523,5588,7348",
+                        "endLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178,12,55,87,124,131",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
+                        "endOffsets": "119,182,240,314,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714,612,3518,5583,7343,7720"
                     },
                     "to": {
-                        "startLines": "290,625",
-                        "startColumns": "4,4",
-                        "startOffsets": "7295,33636",
-                        "endLines": "290,627",
-                        "endColumns": "60,12",
-                        "endOffsets": "7351,33776"
+                        "startLines": "281,282,285,287,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,316,317,318,319,320,321,322,323,324,325,327,571,594,595,600,603,608,610,611,615,721,764,796,833",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7122,7191,7414,7545,7707,7777,7845,7917,7987,8048,8122,8195,8256,8317,8379,8443,8505,8566,8634,8734,8794,8860,8933,9002,9059,9111,9385,9457,9533,9568,9603,9653,9714,9771,9805,9840,9935,30367,32108,32225,32492,32785,33052,33248,33320,33532,39649,42555,44620,46380",
+                        "endLines": "281,282,285,287,290,291,292,293,294,295,296,297,298,299,300,301,302,303,304,305,306,307,308,309,310,311,316,317,318,319,320,321,322,323,324,325,327,571,594,598,600,606,608,610,611,621,763,795,832,839",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
+                        "endOffsets": "7186,7249,7467,7614,7772,7840,7912,7982,8043,8117,8190,8251,8312,8374,8438,8500,8561,8629,8729,8789,8855,8928,8997,9054,9106,9168,9452,9528,9563,9598,9648,9709,9766,9800,9835,9870,10000,30433,32220,32421,32597,32981,33176,33315,33382,33825,42550,44615,46375,46752"
                     }
                 },
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/283d8a8c1b9f69920685c5e3d33d66d4/support-media-compat-28.0.0/res/values/values.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/7dfa698f353ea92afc22e0a6fa7a5a51/coordinatorlayout-28.0.0/res/values/values.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "2,102,3,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,5935,116,724",
+                        "endLines": "2,104,12,101",
+                        "endColumns": "60,12,24,24",
+                        "endOffsets": "111,6075,719,5930"
                     },
                     "to": {
-                        "startLines": "302,303,305,332,333,334,335,346,612,614,615,620,622",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7936,8025,8154,9897,9950,10003,10056,10599,32675,32851,32973,33235,33430",
-                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
-                        "endOffsets": "8020,8091,8222,9945,9998,10051,10104,10654,32736,32968,33029,33296,33492"
+                        "startLines": "278,612,622,632",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "6974,33387,33830,34438",
+                        "endLines": "278,614,631,720",
+                        "endColumns": "60,12,24,24",
+                        "endOffsets": "7030,33527,34433,39644"
                     }
                 }
             ]
@@ -775,7 +807,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-es-rUS_values-es-rUS.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -790,7 +822,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-en-rGB_values-en-rGB.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rGB/values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -805,7 +837,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-in_values-in.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-in/values-in.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-in/values-in.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -820,7 +852,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-sk_values-sk.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-sk/values-sk.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sk/values-sk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -835,7 +867,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ca_values-ca.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ca/values-ca.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ca/values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -850,7 +882,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-sw_values-sw.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-sw/values-sw.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -865,7 +897,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-pt-rPT_values-pt-rPT.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -880,7 +912,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-hu_values-hu.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-hu/values-hu.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-hu/values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -895,7 +927,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-en-rAU_values-en-rAU.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -910,7 +942,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-mk_values-mk.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-mk/values-mk.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-mk/values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -925,7 +957,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-is_values-is.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-is/values-is.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -940,7 +972,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-az_values-az.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-az/values-az.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-az/values-az.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -955,7 +987,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-th_values-th.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-th/values-th.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-th/values-th.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -970,7 +1002,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -985,7 +1017,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-lv_values-lv.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-lv/values-lv.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-lv/values-lv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1000,7 +1032,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-uz_values-uz.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-uz/values-uz.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-uz/values-uz.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1015,7 +1047,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-zh-rTW_values-zh-rTW.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1030,7 +1062,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-et_values-et.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-et/values-et.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-et/values-et.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1045,7 +1077,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-fr_values-fr.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-fr/values-fr.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1060,7 +1092,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-zu_values-zu.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-zu/values-zu.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-zu/values-zu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1075,7 +1107,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-gl_values-gl.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-gl/values-gl.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-gl/values-gl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1090,7 +1122,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-lo_values-lo.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-lo/values-lo.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1105,7 +1137,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-iw_values-iw.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-iw/values-iw.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-iw/values-iw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1120,7 +1152,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-zh-rCN_values-zh-rCN.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-zh-rCN/values-zh-rCN.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-zh-rCN/values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1135,7 +1167,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-or_values-or.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-or/values-or.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-or/values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1150,7 +1182,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-af_values-af.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-af/values-af.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-af/values-af.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1165,7 +1197,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-lt_values-lt.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-lt/values-lt.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-lt/values-lt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1180,7 +1212,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ru_values-ru.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ru/values-ru.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1195,7 +1227,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ko_values-ko.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ko/values-ko.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1210,7 +1242,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ta_values-ta.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ta/values-ta.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ta/values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1225,7 +1257,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-bs_values-bs.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-bs/values-bs.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-bs/values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1240,7 +1272,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-de_values-de.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-de/values-de.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-de/values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1255,7 +1287,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-tl_values-tl.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-tl/values-tl.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-tl/values-tl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1270,7 +1302,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ka_values-ka.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ka/values-ka.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ka/values-ka.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1285,7 +1317,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-v24_values-v24.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/283d8a8c1b9f69920685c5e3d33d66d4/support-media-compat-28.0.0/res/values-v24/values-v24.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/861fb4adafc9e8d5229a08e015a6c26b/support-media-compat-28.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -1300,7 +1332,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-kk_values-kk.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-kk/values-kk.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-kk/values-kk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1315,7 +1347,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-el_values-el.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-el/values-el.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1330,7 +1362,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-hy_values-hy.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-hy/values-hy.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-hy/values-hy.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1345,7 +1377,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-sv_values-sv.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-sv/values-sv.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sv/values-sv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1360,7 +1392,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-sl_values-sl.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-sl/values-sl.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sl/values-sl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1375,7 +1407,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1390,7 +1422,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-mr_values-mr.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-mr/values-mr.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-mr/values-mr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1405,7 +1437,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-as_values-as.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-as/values-as.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-as/values-as.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1420,26 +1452,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/283d8a8c1b9f69920685c5e3d33d66d4/support-media-compat-28.0.0/res/values-v21/values-v21.xml",
-                    "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,386,554",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "218,381,549,716"
-                    },
-                    "to": {
-                        "startLines": "8,11,15,19",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "596,764,1053,1349",
-                        "endLines": "10,13,17,21",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "759,922,1216,1511"
-                    }
-                },
-                {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-v21/values-v21.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -1456,6 +1469,25 @@
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
                     }
+                },
+                {
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/861fb4adafc9e8d5229a08e015a6c26b/support-media-compat-28.0.0/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
                 }
             ]
         },
@@ -1463,7 +1495,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-pl_values-pl.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-pl/values-pl.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1478,7 +1510,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-nb_values-nb.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-nb/values-nb.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-nb/values-nb.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1493,7 +1525,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-bg_values-bg.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-bg/values-bg.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-bg/values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1508,7 +1540,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-km_values-km.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-km/values-km.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-km/values-km.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1523,7 +1555,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-te_values-te.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-te/values-te.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-te/values-te.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1538,7 +1570,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-it_values-it.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-it/values-it.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-it/values-it.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1553,7 +1585,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-ja_values-ja.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-ja/values-ja.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ja/values-ja.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1568,7 +1600,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-sq_values-sq.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-sq/values-sq.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-sq/values-sq.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1583,7 +1615,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/values-cs_values-cs.arsc.flat",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/f13e80600485f087c51c6872f934df1c/support-compat-28.0.0/res/values-cs/values-cs.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-cs/values-cs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
