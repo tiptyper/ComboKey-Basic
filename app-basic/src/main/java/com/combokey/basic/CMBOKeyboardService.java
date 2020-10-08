@@ -434,33 +434,27 @@ public class CMBOKeyboardService extends InputMethodService implements
 			case 10: // smaller higher up
 				if (padType == 0) { // 5-row pad
 					Log.d("-PADTYPE", " Smaller pad higher up, 5-row Portrait pad.");
-					//layoutResource = showWords ? R.layout.input_words : R.layout.input_smaller_higher;
 					layoutResource = R.layout.input_smaller_higher;
 				} else { // 3-row pad (padType = 10)
 					Log.d("-PADTYPE", " Smaller pad higher up, 3-row Portrait pad.");
-					//layoutResource = showWords ? R.layout.input_words : R.layout.input_smaller_higher_3row;
 					layoutResource = R.layout.input_smaller_higher_3row;
 				}
 				break;
 			case 0: // normal height
 				if (padType == 0) { // 5-row pad
 					Log.d("-PADTYPE", " Full size pad, 5-row Portrait pad.");
-					//layoutResource = showWords ? R.layout.input_words : R.layout.input;
 					layoutResource = R.layout.input;
 				} else { // 3-row pad
 					Log.d("-PADTYPE", " Full size pad, 3-row Portrait pad.");
-					//layoutResource = showWords ? R.layout.input_words : R.layout.input_3row;
 					layoutResource = R.layout.input_3row;
 				}
 				break;
 			case 20: // smaller lower down
 				if (padType == 0) { // 5-row pad
 					Log.d("-PADTYPE", " Smaller pad lower down, 5-row Portrait pad.");
-					//layoutResource = showWords ? R.layout.input_words : R.layout.input_smaller_lower;
 					layoutResource = R.layout.input_smaller_lower;
 				} else { // 3-row pad
 					Log.d("-PADTYPE", " Smaller pad lower down, 3-row Portrait pad.");
-					//layoutResource = showWords ? R.layout.input_words : R.layout.input_smaller_lower_3row;
 					layoutResource = R.layout.input_smaller_lower_3row;
 				}
 				break;
@@ -2877,37 +2871,55 @@ public class CMBOKeyboardService extends InputMethodService implements
 			toast.show();
 		}
 
-
 	}
 
 	private void showCustomToast(String toastText, String iconType, boolean lengthLong) {
 		// iconName: clear, play, ....
 
 		LinearLayout layout = null;
-
 		int layoutResource = R.layout.input;
+		int padType = 0;
+
+		try { //  // 0 = 5-row, 10 = 3-row special
+			padType = CMBOKeyboardApplication.getApplication().getPreferences().getPadType();
+		} catch (Exception e) {
+			Log.d("-PADTYPE", "Could not get padType (showCustomToast).");
+			padType = 0; // normal
+		}
 
 		int padHeight = CMBOKeyboardApplication.getApplication().getPreferences().getPadHeight();
 
-		switch (padHeight) { // it is not enough to set the input xml file only here, must be finalized later, now always same xml
-			case 10:
-				layoutResource = isTopBar ? R.layout.input_words : R.layout.input_smaller_higher;
-				//layoutResource = R.layout.input_smaller_higher;
+		switch (padHeight) { // Get current layoutResource
+			case 10: // smaller higher up
+				if (padType == 0) { // 5-row pad
+					Log.d("-PADTYPE", " Smaller pad higher up, 5-row Portrait pad.");
+					layoutResource = R.layout.input_smaller_higher;
+				} else { // 3-row pad (padType = 10)
+					Log.d("-PADTYPE", " Smaller pad higher up, 3-row Portrait pad.");
+					layoutResource = R.layout.input_smaller_higher_3row;
+				}
 				break;
-			case 0:
-				layoutResource = isTopBar ? R.layout.input_words : R.layout.input;
-				//layoutResource = R.layout.input;
+			case 0: // normal height
+				if (padType == 0) { // 5-row pad
+					Log.d("-PADTYPE", " Full size pad, 5-row Portrait pad.");
+					layoutResource = R.layout.input;
+				} else { // 3-row pad
+					Log.d("-PADTYPE", " Full size pad, 3-row Portrait pad.");
+					layoutResource = R.layout.input_3row;
+				}
 				break;
-			case 20:
-				layoutResource = isTopBar ? R.layout.input_words : R.layout.input_smaller_lower;
-				//layoutResource = R.layout.input_smaller_lower;
+			case 20: // smaller lower down
+				if (padType == 0) { // 5-row pad
+					Log.d("-PADTYPE", " Smaller pad lower down, 5-row Portrait pad.");
+					layoutResource = R.layout.input_smaller_lower;
+				} else { // 3-row pad
+					Log.d("-PADTYPE", " Smaller pad lower down, 3-row Portrait pad.");
+					layoutResource = R.layout.input_smaller_lower_3row;
+				}
 				break;
 			default:
-				layoutResource = isTopBar ? R.layout.input_words : R.layout.input;
-				//layoutResource = R.layout.input;
 				break;
 		}
-
 
 		layout = (LinearLayout) getLayoutInflater().inflate(layoutResource,	null);
 		view = (CMBOKeyboardView) layout.findViewById(R.id.keyboard);
