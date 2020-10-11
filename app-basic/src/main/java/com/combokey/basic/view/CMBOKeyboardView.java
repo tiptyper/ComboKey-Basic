@@ -1866,9 +1866,8 @@ public class CMBOKeyboardView extends ImageView implements
 				helpText = this.helpTextWhite;
 				break;
 			case CMBOKey.BACKSPACE:
+				break;
 			case CMBOKey.SPACE:
-				tip10 = false; tip11 = true; tip12 = false;
-				tip20 = false; tip21 = false; tip22 = false;
 				break;
 
 		}
@@ -1938,6 +1937,7 @@ public class CMBOKeyboardView extends ImageView implements
 				break;
 
 			case CMBOKey.BACKSPACE:
+				break;
 			case CMBOKey.SPACE:
 				break;
 
@@ -3149,6 +3149,7 @@ public class CMBOKeyboardView extends ImageView implements
 		generateImage("_abc123", R.drawable.abcnums_edgesw);
 		generateImage("_End", R.drawable.ends_edges);
 		generateImage("_Enter", R.drawable.enter_edges_text);
+		generateImage("_⏎", R.drawable.enter_edges_text);
 		generateImage("_Home", R.drawable.homes_edges);
 		generateImage("_Tab", R.drawable.tabs_edges);
 		generateImage("_WLeft", R.drawable.wlefts_edges);

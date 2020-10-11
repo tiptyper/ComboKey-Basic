@@ -166,7 +166,8 @@ public class CMBOKeyboard {
 	static {
 
 		keyCodes.put("_BS", KeyEvent.KEYCODE_DEL);
-		keyCodes.put("_Enter", KeyEvent.KEYCODE_ENTER);
+		keyCodes.put("_Enter", KeyEvent.KEYCODE_ENTER); // Other enter signs ↵ ⏎
+		keyCodes.put("_⏎", KeyEvent.KEYCODE_ENTER);
 		keyCodes.put("_Up", KeyEvent.KEYCODE_DPAD_UP);
 		keyCodes.put("_Down", KeyEvent.KEYCODE_DPAD_DOWN);
 		keyCodes.put("_Left", KeyEvent.KEYCODE_DPAD_LEFT);
