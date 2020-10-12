@@ -1868,6 +1868,12 @@ public class CMBOKeyboardView extends ImageView implements
 			case CMBOKey.BACKSPACE:
 				break;
 			case CMBOKey.SPACE:
+				/*
+				includeTips1 = 1;
+				tip10 = false; tip11 = true; tip12 = false;
+				tip20 = false; tip21 = false; tip22 = false;
+				helpText = this.helpTextWhite;
+				*/
 				break;
 
 		}
@@ -1939,6 +1945,12 @@ public class CMBOKeyboardView extends ImageView implements
 			case CMBOKey.BACKSPACE:
 				break;
 			case CMBOKey.SPACE:
+				/*
+				rightEdge = true; leftEdge = false;
+				rightEdge2 = true; leftEdge2 = false;
+				shiftUp = true;
+				tipOffset = 1;
+				*/
 				break;
 
 		}

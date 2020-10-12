@@ -559,11 +559,14 @@ public class LayoutParser {
 				JSONArray map = new JSONArray("[{}]");
 
 				if (layoutFormatValue >= 10.0) { // Use map instaad of primary and punctuation
+
 					map = set.getJSONArray(KEY_MAP);
 					for (int index = 0; index < lastMapIndex; index++) {
-						mapNumbers[index] = map.getString(index);
+						// Default keymap is Layout Factory
+						if (!map.getString(index).equals("")) { // If JSON has a value
+							mapNumbers[index] = map.getString(index); // take it from JSON keymap
+						}
 					}
-
 
 
 				} else { // legacy:
@@ -573,9 +576,9 @@ public class LayoutParser {
 
 
 					if ((layoutFormatValue >= 3.0) && (layoutFormatValue < 10)) {
-					//if (layoutFormatValue >= 3.0) { // use native emojis for map also!
+						//if (layoutFormatValue >= 3.0) { // use native emojis for map also!
 						JSONArray extra = set.getJSONArray(KEY_EXTRA);
-						Log.d("CMBO", "**** - Parsing NUMBERS EXTRA."); // native JSON emojis
+						Log.d("GKOS", "**** - Parsing NUMBERS EXTRA."); // native JSON emojis
 					}
 
 
@@ -614,9 +617,13 @@ public class LayoutParser {
 				JSONArray map = new JSONArray("[{}]");
 
 				if (layoutFormatValue >= 10.0) { // Use code map instead of primary and punctuation
+
 					map = set.getJSONArray(KEY_MAP);
 					for (int index = 0; index < lastMapIndex; index++) {
-						mapSymbols[index] = map.getString(index);
+						// Default keymap is Layout Factory
+						if (!map.getString(index).equals("")) { // If JSON has a value...
+							mapSymbols[index] = map.getString(index); // take it from JSON keymap
+						}
 					}
 
 				} else { // legacy
@@ -628,7 +635,7 @@ public class LayoutParser {
 					if ((layoutFormatValue >= 3.0) && (layoutFormatValue < 10)) {
 						JSONArray extra = set.getJSONArray(KEY_EXTRA);
 
-						Log.d("CMBO", "**** - Parsing SYMBOLS EXTRA.");
+						Log.d("GKOS", "**** - Parsing SYMBOLS EXTRA.");
 
 
 					}
@@ -651,11 +658,11 @@ public class LayoutParser {
 						//if (layoutFormatValue >= 3.0) { // use native KeyM symbols for map also!
 						JSONObject symbolsLegacy = jsonLayout.getJSONObject("symbols");
 						JSONArray symbolsextra = symbolsLegacy.getJSONArray(KEY_EXTRA);
-						Log.d("CMBO", "**** - Parsing SYMBOLS EXTRA for map KeyM (Symbols/Extra)."); // native JSON emojis
+						Log.d("GKOS", "**** - Parsing SYMBOLS EXTRA for map KeyM (Symbols/Extra)."); // native JSON emojis
 
 						JSONObject numbersLegacy = jsonLayout.getJSONObject("numbers");
 						JSONArray numbersextra = numbersLegacy.getJSONArray(KEY_EXTRA);
-						Log.d("CMBO", "**** - Parsing NUMBERS EXTRA for map emojis (Numberss/Extra)."); // native JSON emojis
+						Log.d("GKOS", "**** - Parsing NUMBERS EXTRA for map emojis (Numberss/Extra)."); // native JSON emojis
 
 						JSONObject metadata = jsonLayout.getJSONObject("metadata");
 						JSONArray metadataextra = metadata.getJSONArray("extra");
