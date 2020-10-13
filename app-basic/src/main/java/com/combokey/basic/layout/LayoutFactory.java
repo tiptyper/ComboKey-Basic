@@ -171,19 +171,19 @@ public class LayoutFactory {
 	public static String[] getMapNumbers() { // One of 15 keys pressed down = X
 		return new String[] { "NULL", // indexed keys
 
-				"1", "", "4", "", "7",
-				"2", "_BS", "5", " ", "8",
-				"3", "0", "6", "", "9",
+				"1", "", "4", "", "7", // 1-5
+				"2", "_BS", "5", " ", "8", // 6-10
+				"3", "0", "6", "", "9", // 11-15
 
-				"[X]", "", "", "", "",
+				"[X]", "", "", "", "", // [x] at 16, press key 1 => swipe-to = 16 + key index
 				"", "_", "", "\u02c6", "¨",
 				"_Up", "©", "-", "&", "?",
 
-				"", "[X]", "", "", "", // plus pressed
+				"", "[X]", "", "", "", // [x] at 32, plus pressed
 				"±", "_SYMB", "", "", "",
 				"%", "_PgUp", "=", "\\", "^",
 
-				"", "", "[X]", "", "_Left",
+				"", "", "[X]", "", "_Left", // 47
 				"", "\"", "", ":", "",
 				"'", "®", "_Shift", "@", ".",
 
