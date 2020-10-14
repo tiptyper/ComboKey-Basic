@@ -402,12 +402,14 @@ public class CMBOKey {
 		if ((character.startsWith("_")) && character.length() != 1) {
 
 			if ((character.equals("_BS"))
+					|| (character.equals("_Erase")) // for selecting/painting text
 					|| (character.equals("_Left")) // for selecting/painting text
 					|| (character.equals("_Right")) // for selecting/painting text
 					|| (character.equals("_Up")) // for selecting/painting text
 					|| (character.equals("_Down")) // for selecting/painting text
 					|| (character.equals("_SP"))
-					|| (character.equals("_Del"))) {
+					|| (character.equals("_Del"))
+					|| (character.equals("_Delete"))) {
 				return true;
 			}
 			return false;

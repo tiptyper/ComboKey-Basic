@@ -3152,7 +3152,9 @@ public class CMBOKeyboardView extends ImageView implements
 		generateImage("_Clear", R.drawable.clear2ws);
 		//generateImage("_Ctrl", R.drawable.ctrl);
 		generateImage("_BS", R.drawable.backspaces_edges);
+		generateImage("_Erase", R.drawable.backspaces_edges);
 		generateImage("_Del", R.drawable.deletes_white);
+		generateImage("_Delete", R.drawable.deletes_white);
 		generateImage("_Up", R.drawable.ups_edges);
 		generateImage("_Down", R.drawable.downs_edges);
 

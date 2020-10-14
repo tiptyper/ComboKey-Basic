@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"5.1",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Telugu  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Telugu  (from format 10 and version 5.0 up)  -  Last modified 2020-10-14 at 16:24",
 "extra":[
 
 "-",
@@ -36,7 +36,7 @@
 
  "\u0c05", "\u0c1a", "\u0c09", "\u0c15",
 
- "\u0c12", "\u0c1f", "_BS", "\u0c2f", " ", 
+ "\u0c12", "\u0c1f", "_Erase", "\u0c2f", " ", 
 "...", "\u0c07", "\u0c24", "\u0c0e", "\u0c2a", 
 "\u0c0b", "[X]", "", "", "", 
 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0c10", "\u0c59", "\u0c0c", "\u0c61", "\u0c14", 
-"\u0c3d", "_BS", "", " ", "...", 
+"\u0c3d", "_Erase", "", " ", "...", 
 "\u0c48", "\u0c58", "\u0c62", "\u0c63", "\u0c4c", 
 
 "[X]", "", "", "", "", 
@@ -180,7 +180,7 @@
 
  "\u0c3e", "\u0c1a", "\u0c41", "\u0c15",
 
- "\u0c4a", "\u0c1f", "_BS", "\u0c2f", " ", 
+ "\u0c4a", "\u0c1f", "_Erase", "\u0c2f", " ", 
 "...", "\u0c3f", "\u0c24", "\u0c46", "\u0c2a", 
 "\u0c43", "[X]", "", "", "", 
 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0c67", "+", "\u0c6a", "*", "\u0c6d", 
-"\u0c68", "_BS", "\u0c6b", " ", "\u096e", 
+"\u0c68", "_Erase", "\u0c6b", " ", "\u096e", 
 "\u0c69", "\u0966", "\u0c6c", "#", "\u0c6f", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 

@@ -166,8 +166,9 @@ public class CMBOKeyboard {
 	static {
 
 		keyCodes.put("_BS", KeyEvent.KEYCODE_DEL);
+		keyCodes.put("_Erase", KeyEvent.KEYCODE_DEL); // Optional
 		keyCodes.put("_Enter", KeyEvent.KEYCODE_ENTER); // Other enter signs ↵ ⏎
-		keyCodes.put("_⏎", KeyEvent.KEYCODE_ENTER);
+		keyCodes.put("_⏎", KeyEvent.KEYCODE_ENTER); // Optional
 		keyCodes.put("_Up", KeyEvent.KEYCODE_DPAD_UP);
 		keyCodes.put("_Down", KeyEvent.KEYCODE_DPAD_DOWN);
 		keyCodes.put("_Left", KeyEvent.KEYCODE_DPAD_LEFT);
@@ -177,6 +178,7 @@ public class CMBOKeyboard {
 		keyCodes.put("_End", CUSTOM_KEYCODE_END);
 		keyCodes.put("_Home", CUSTOM_KEYCODE_HOME);
 		keyCodes.put("_Del", CUSTOM_KEYCODE_DEL);
+		keyCodes.put("_Delete", CUSTOM_KEYCODE_DEL); // Optional
 		keyCodes.put("_WRight", CUSTOM_KEYCODE_WRIGHT);
 		keyCodes.put("_WLeft", CUSTOM_KEYCODE_WLEFT);
 		keyCodes.put("_PgDn", CUSTOM_KEYCODE_PGDN);
@@ -625,8 +627,17 @@ public class CMBOKeyboard {
 			Log.d("-KEY", "*** Select all (Ctrl + BS =Backspace)");
 			output.onKey(CUSTOM_KEYCODE_SELECT_ALL, null);
 		} else
+		if (("_Erase".equalsIgnoreCase(keyString)) && (!this.output.isTerminalMode())) {
+			Log.d("-KEY", "*** Select all (Ctrl + Erase =Backspace)");
+			output.onKey(CUSTOM_KEYCODE_SELECT_ALL, null);
+		} else
 		if (("_BS".equalsIgnoreCase(keyString)) && (this.output.isTerminalMode())) {
 			Log.d("-KEY", "*** Clear screen (Ctrl + BS => Ctrl+L)");
+			keyString = "L"; // ctrl+L = clear screen
+			sendKeyWithCtrl(keyString);
+		} else
+		if (("_Erase".equalsIgnoreCase(keyString)) && (this.output.isTerminalMode())) {
+			Log.d("-KEY", "*** Clear screen (Ctrl + Erase => Ctrl+L)");
 			keyString = "L"; // ctrl+L = clear screen
 			sendKeyWithCtrl(keyString);
 		} else
@@ -821,7 +832,7 @@ public class CMBOKeyboard {
 
 				if (!CMBOCombiner.isAccent(combined)) {
 					this.output.keyUpDown(KeyEvent.KEYCODE_DEL); // replace the plain character with accented one
-					addToCandidateHint("_BS");
+					addToCandidateHint("_Erase");
 					addToCandidateHint(combined);
 				}
 

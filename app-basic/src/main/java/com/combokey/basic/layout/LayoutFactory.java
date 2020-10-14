@@ -42,7 +42,7 @@ public class LayoutFactory {
 				// [X = is functionally X but is not visible on button
 
 				// Left column				Center column					Right column
-				 "a", "o", "u", "s", "c", 	"d", "_BS", "l", " ", "m",		"i", "t", "e", "n", "r",
+				 "a", "o", "u", "s", "c", 	"d", "_Erase", "l", " ", "m",		"i", "t", "e", "n", "r",
 
 				"[X]", "", "", "", "", 		"[]", "_", "", "\u02c6", "¨",	"_Up", "h", "-", "ght", "?",
 				"", "[X]", "", "", "", 		"[]", "_SYMB", "", "", "",		"p", "_PgUp", "f", "\\", "q",
@@ -88,7 +88,7 @@ public class LayoutFactory {
 	public static String[] getMapUpperCase() { // One of 15 keys pressed down = X
 		return new String[] { "NULL", // indexed keys
 
-				"A", "O", "U", "S", "C", 	"D", "_BS", "L", " ", "M",		"I", "T", "E", "N", "R",
+				"A", "O", "U", "S", "C", 	"D", "_Erase", "L", " ", "M",		"I", "T", "E", "N", "R",
 
 				"[X]", "", "", "", "", 		"[]", "-", "", "\u02c6", "¨",	"_Up", "H", "_", "Ght", "?",
 				"", "[X]", "", "", "", 		"[]", "_SYMB", "", "", "",	 	"P", "_PgUp", "F", "\\", "Q",
@@ -129,7 +129,7 @@ public class LayoutFactory {
 	public static String[] getMapCapsLock() { // One of 15 keys pressed down = X
 		return new String[] { "NULL", // indexed keys
 
-				"A", "O", "U", "S", "C", 	"D", "_BS", "L", " ", "M",		"I", "T", "E", "N", "R",
+				"A", "O", "U", "S", "C", 	"D", "_Erase", "L", " ", "M",		"I", "T", "E", "N", "R",
 
 				"[X]", "", "", "", "", 		"[]", "_", "", "\u02c6", "¨",	"_Up", "H", "-", "GHT", "?",
 				"", "[X]", "", "", "", 		"[]", "_SYMB", "", "", "",	 	"P", "_PgUp", "F", "\\", "Q",
@@ -172,7 +172,7 @@ public class LayoutFactory {
 		return new String[] { "NULL", // indexed keys
 
 				"1", "", "4", "", "7", // 1-5
-				"2", "_BS", "5", " ", "8", // 6-10
+				"2", "_Erase", "5", " ", "8", // 6-10 // ⌫
 				"3", "0", "6", "", "9", // 11-15
 
 				"[X]", "", "", "", "", // [x] at 16, press key 1 => swipe-to = 16 + key index
@@ -248,7 +248,7 @@ public class LayoutFactory {
 	public static String[] getMapSymbols() { // One of 15 keys pressed down = X
 		return new String[] { "NULL", // indexed keys
 
-				"1", "", "4", "", "7", 	"2", "_BS", "5", " ", "8",		"3", "0", "6", "", "9",
+				"1", "", "4", "", "7", 	"2", "_Erase", "5", " ", "8",		"3", "0", "6", "", "9",
 										// \u2013
 				"[X]", "", "", "", "",	 	"", "-", "", "\u02c6", "¨",	"_Up", "", "_", "", "",
 				"", "[X]", "", "", "", 		"", "_abc123", "", "", "",	"", "_PgUp", "", "\\", "",
@@ -360,7 +360,7 @@ public class LayoutFactory {
 		return new String[]{"NULL", // indexed keys, Terminal mode function keys F1...F12
 
 				"\u2012", "", "", "_Fn", "", // figure/digit dash, , , Fn,
-				"", "_BS", "_Keyboard", " ", "_Notes",
+				"", "_Erase", "_Keyboard", " ", "_Notes",
 				"", "", "", "_abc", "",
 
 				"[X]", "", "", "\u02DC", "\u301C", // [figure/digit dash pressed], , small tilde, wave dash,
