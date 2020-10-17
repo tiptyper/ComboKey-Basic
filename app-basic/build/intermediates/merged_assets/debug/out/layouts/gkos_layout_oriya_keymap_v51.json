@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"3.3",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Oriya  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Oriya  (from format 10 and version 5.0 up)  -  Last modified 2020-10-16 at 10:12",
 "extra":[
 
 "-",
@@ -36,7 +36,7 @@
 
  "\u0b05", "\u0b1f", "\u0b09", "\u0b15",
 
- "\u0b13", "\u0b1f", "_BS", "\u0b2f", " ", 
+ "\u0b13", "\u0b1f", "_Erase", "\u0b2f", " ", 
 "...", "\u0b07", "\u0b1f", "\u0b0f", "\u0b2a", 
 "\u0b0b", "[X]", "", "", "", 
 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0b01", "\u0b1c\u0b4d\u0b1e", "", "\u0b15\u0b4d\u0b37", "", 
-"", "_BS", "\u0950", " ", "...", 
+"", "_Erase", "\u0950", " ", "...", 
 "\u0902", "\u0b24\u0b4d\u0b30", "", "\u0b36\u0b4d\u0b30", "", 
 
 "[X]", "", "", "", "", 
@@ -180,7 +180,7 @@
 
  "\u0b3e", "\u0b1f", "\u0b42", "\u0b15",
 
- "\u0b4c", "\u0b1f", "_BS", "\u0b2f", " ", 
+ "\u0b4c", "\u0b1f", "_Erase", "\u0b2f", " ", 
 "...", "\u0b40", "\u0b1f", "\u0b48", "\u0b2a", 
 "\u0b43", "[X]", "", "", "", 
 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0b67", "+", "\u0b6a", "*", "\u0b6d", 
-"\u0b68", "_BS", "\u0b6b", " ", "\u096e", 
+"\u0b68", "_Erase", "\u0b6b", " ", "\u096e", 
 "\u0b69", "\u0b66", "\u0b6c", "#", "\u0b6f", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 

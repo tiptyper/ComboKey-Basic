@@ -17,7 +17,7 @@
     <string name="copy">कॉपी करें</string>
     <string name="help">मदद</string>
     <string name="test_field">परीक्षण स्थान</string>
-    <string name="padheight_defaultvalue">0</string>
+    <string name="padheight_defaultvalue">10</string>
     <string name="padtype_defaultvalue">0</string>
     <string name="landscapecolumns_defaultvalue">3</string>
     <string name="speaktype_defaultvalue">2</string>

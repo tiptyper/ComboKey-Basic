@@ -34,6 +34,7 @@ import android.content.res.Resources;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.os.Handler;
 import android.provider.Settings;
 import android.text.InputType;
@@ -48,6 +49,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.view.inputmethod.InputMethodInfo;
 import android.view.inputmethod.InputMethodManager;
+import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -83,6 +85,20 @@ public class CMBOKeyboardActivity extends Activity {
 	private int tabletDevice = -1; // will be either 0 (phone) or 1 (tablet)
 	private boolean debugInUse = false; // just to debug with toasts
 
+	final CountDownTimer selectInputTimer = new CountDownTimer(2500, 500) { // 1000, 500
+		// (time in ms to onFinish(), Tick interval while counting)
+		@Override
+		public void onTick(long l) {
+			Log.d("-TIMER", "- (init) selectInputtimer onTick");
+		}
+		@Override
+		public void onFinish() {
+			Log.d("-TIMER", "- (init) selectInput timer done.");
+			selectInputMethod();
+			selectInputTimer.cancel();
+		}
+	};
+
 	/** Called when the activity is **first** created. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
@@ -95,7 +111,7 @@ public class CMBOKeyboardActivity extends Activity {
 				WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_VISIBLE);
 
 		this.getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN); // (clearFlags/setFlags/addFlags)
-				//	requestWindowFeature(Window.FEATURE_NO_TITLE);
+		//	requestWindowFeature(Window.FEATURE_NO_TITLE);
 
 		//setContentView(selectLayoutResource()); // set view before accessing entry resource
 		setContentView(R.layout.activity);
@@ -142,6 +158,7 @@ public class CMBOKeyboardActivity extends Activity {
 		Log.d("-KBD", "onCreate()");
 		// moved here 2019-01-31:
 		showKeyboard();
+		checkInputMethod();
 
 	}
 
@@ -181,7 +198,7 @@ public class CMBOKeyboardActivity extends Activity {
 		// ----------------------------------
 	}
 
-	private boolean isComboKeyEnabled() {
+	private boolean isComboKeyOnList() {
 		String packageComboKey = getPackageName();
 		InputMethodManager inputMethodManager = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
 		try {
@@ -216,13 +233,13 @@ public class CMBOKeyboardActivity extends Activity {
 
 		Log.d("-SCREEN", "(ACTIVITY) Display size xdpi/ydpi: " + xdpi + "/" + ydpi);
 		Log.d("-SCREEN", "(ACTIVITY) Display size heightPixels/widthPixels: " + heightPixels + "/" + widthPixels);
-			//return (int) heightPixels;
-			return (int) convertPxToDp((float) heightPixels, context);
+		//return (int) heightPixels;
+		return (int) convertPxToDp((float) heightPixels, context);
 	}
 
 
 	public static void setMarginsInDp (View v, Context context,
-				   int leftInDp, int topInDp, int rightInDp, int bottomInDp)
+									   int leftInDp, int topInDp, int rightInDp, int bottomInDp)
 	{
 		// Sets the margins, in pixels (conversion dp to pixels needed)
 		int l = (int) convertDpToPixel((float) leftInDp, context);
@@ -375,8 +392,9 @@ public class CMBOKeyboardActivity extends Activity {
 
 
 	private Dialog d = null;
-	private boolean kbdAdded = false;
+	//private boolean kbdAdded = false; // Default before first start, then saved as true.
 
+	/*
 	private void showDialogOnFirstStart(boolean force) {
 		Log.d("-ACTIVITY", "showDialogOnFirstStart()");
 		Log.d("-FIRST_START", "Show dialog on first start? Just asking...");
@@ -386,6 +404,7 @@ public class CMBOKeyboardActivity extends Activity {
 
 		if ((CMBOKeyboardApplication.getApplication().getPreferences().isThisFirstStart()) || (force) ) {
 
+			// Preferences: 'firstStartDone' has been saved. isThisFirstStart() checks it.
 			if (kbdAdded) return;
 
 			Log.d("-FIRST_START", "YES! Show dialog on first start.");
@@ -401,6 +420,7 @@ public class CMBOKeyboardActivity extends Activity {
 					DialogInterface.OnClickListener() {
 						public void onClick(DialogInterface dialog, int which) {
 							addInputMethod();
+							//addInputTimer.start();
 						}
 					});
 			builder.show();
@@ -408,6 +428,7 @@ public class CMBOKeyboardActivity extends Activity {
 		}
 
 	}
+	*/
 
 	private void showInfoDialog() {
 		Log.d("-ACTIVITY", "showInfoDialog()");
@@ -415,8 +436,8 @@ public class CMBOKeyboardActivity extends Activity {
 		if (d != null)
 			d.dismiss();
 
-			d = new Dialog(this);
-			Window window = d.getWindow();
+		d = new Dialog(this);
+		Window window = d.getWindow();
 		try {
 			//assert window != null;
 			window.setFlags(WindowManager.LayoutParams.FLAG_BLUR_BEHIND, 0);
@@ -426,9 +447,9 @@ public class CMBOKeyboardActivity extends Activity {
 					Toast.LENGTH_SHORT);
 			toast.show();
 		}
-			d.setTitle(R.string.header_info);// + android.os.Build.MODEL);
-			d.setContentView(R.layout.tips_dialog);
-			d.show();
+		d.setTitle(R.string.header_info);// + android.os.Build.MODEL);
+		d.setContentView(R.layout.tips_dialog);
+		d.show();
 	}
 
 	private void showHelpDialog() {
@@ -457,7 +478,6 @@ public class CMBOKeyboardActivity extends Activity {
 
 	private void restoreUiState() {
 		Log.d("-ACTIVITY", "restoreUiState()");
-
 		SharedPreferences settings = getPreferences(MODE_PRIVATE);
 		editableText = settings.getString(EDITABLE_TEXT_KEY, "");
 		Log.d("-KBD", "restoreUiState()");
@@ -581,7 +601,7 @@ public class CMBOKeyboardActivity extends Activity {
 		setFontSize();
 
 		Log.d("-SCREEN", "Setting text background...");
-		
+
 		if (CMBOKeyboardApplication.getApplication().getPreferences().isTransparentBackground()) {
 			//textView.setBackgroundResource(R.xml.transp_rect); // must be drawable:
 			//textView.setBackgroundResource(R.drawable.screen_transp_dark);
@@ -609,6 +629,7 @@ public class CMBOKeyboardActivity extends Activity {
 			showToast("Failed to fully resume text area content.", true);
 		}
 
+		checkInputMethod();
 	}
 
 	private int selectLayoutResource() {
@@ -675,7 +696,6 @@ public class CMBOKeyboardActivity extends Activity {
 		// ----Animation ---
 		Button button = (Button)findViewById(R.id.infoButton);
 		final Animation buttonAnim = AnimationUtils.loadAnimation(this, R.anim.bounce);
-
 		// Simple XML animation
 		button.startAnimation(buttonAnim);
 
@@ -688,10 +708,8 @@ public class CMBOKeyboardActivity extends Activity {
 		Log.d("-ACTIVITY", "onButtonClickHelp()");
 
 		// ----Animation ---
-
 		Button button = (Button)findViewById(R.id.helpButton);
 		final Animation buttonAnim = AnimationUtils.loadAnimation(this, R.anim.bounce);
-
 		// Simple XML animation
 		button.startAnimation(buttonAnim);
 
@@ -699,31 +717,37 @@ public class CMBOKeyboardActivity extends Activity {
 		showHelpDialog();
 	}
 
+	private boolean inputMethodSelected = true;
 
 	public void onButtonClickSwitchKbd(View view) {
 		Log.d("-ACTIVITY", "onButtonClickKeyboard()");
-
 		Log.d("-FIRST_START", "Keyboard button pressed (Activity).");
 
 		// ----Animation ---
-
 		Button button = (Button)findViewById(R.id.switchKbdButton);
 		final Animation buttonAnim = AnimationUtils.loadAnimation(this, R.anim.bounce);
-
 		// Simple XML animation
 		button.startAnimation(buttonAnim);
 
 		Log.d("-KBD", "onButtonClickSwitchKbd()");
 		showKeyboard();
+		selectInputMethod();
+	}
 
-		if (isComboKeyEnabled()) {
-			selectInputMethod();
-		} else {
-			AlertDialog.Builder builder=new AlertDialog.Builder(this);
+	private boolean comboKeyAddedOnListDone = false;
+	// preferences: isThisFirstStart(), this changes its
+	// value to false when first checked after install:
+	private boolean firstStart = CMBOKeyboardApplication.getApplication()
+			.getPreferences().isThisFirstStart(); // true only after install
+
+	private void checkInputMethod() {
+		if (!firstStart ) return;
+		if (!isComboKeyOnList() && !comboKeyAddedOnListDone) { // add combokey to list
+			Log.d("-FIRST_START", "checkInputMethod() (Activity) - Kbd NOT on list. Add it.");
+			AlertDialog.Builder builder = new AlertDialog.Builder(this);
 			builder.setCancelable(true);
-			// Please add keyboard::
+			// First ask to add keyboard on the list of optional keyboards (by turning the switch):
 			builder.setTitle(R.string.header_add_kbd);
-			// Please turn on ComboKey on the list of optional keyboards:
 			builder.setMessage(R.string.pleaseaddcombokeyboard);
 			builder.setPositiveButton("OK", new
 					DialogInterface.OnClickListener() {
@@ -732,19 +756,26 @@ public class CMBOKeyboardActivity extends Activity {
 						}
 					});
 			builder.show();
+			comboKeyAddedOnListDone = true;
+			return;
 		}
-
+		if (isComboKeyOnList() && comboKeyAddedOnListDone){ // select combokey as kbd
+			Log.d("-FIRST_START", "checkInputMethod() (Activity) - Kbd IS on list. Select it.");
+			//selectInputMethod(false) is started with delay:
+			selectInputTimer.start();
+			firstStart = false;
+		}
 	}
 
 	private void addInputMethod() {
 		hideKeyboard(); // 2019-11-18
-		Log.d("-ACTIVITY", "addInputMethod()");
+		Log.d("-FIRST_START", "addInputMethod()");
 		startActivityForResult(new Intent(Settings.ACTION_INPUT_METHOD_SETTINGS), 0);
 	}
 
 	private void selectInputMethod() {
 		Log.d("-ACTIVITY", "selectInputMethod()");
-
+		Log.d("-FIRST_START", "selectInputMethod()");
 		InputMethodManager imm = (InputMethodManager) getApplicationContext().getSystemService(INPUT_METHOD_SERVICE);
 		if (imm != null) {
 			imm.showInputMethodPicker();

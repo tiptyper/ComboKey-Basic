@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"5.1",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Russian  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Russian  (from format 10 and version 5.0 up)  -  Last modified 2020-10-14 at 16:24",
 "extra":[
 
 "-",
@@ -35,7 +35,7 @@
 "Pressed key = [X]. Clear from template = []. Three keypad colums: Left Center Right x 15",
 
  "\u0430", "\u043e", "\u0432", "\u0441", "\u043a", 
-"\u0434", "_BS", "\u043b", " ", "\u0443", 
+"\u0434", "_Erase", "\u043b", " ", "\u0443", 
 "\u0438", "\u0442", "\u0435", "\u043d", "\u0440", 
 
 "[X]", "", "", "", "", 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0410", "\u041e", "\u0412", "\u0421", "\u041a", 
-"\u0414", "_BS", "\u041b", " ", "\u0423", 
+"\u0414", "_Erase", "\u041b", " ", "\u0423", 
 "\u0418", "\u0422", "\u0415",
 
  "\u041d", "\u0420", "[X]", "", "", 
@@ -179,7 +179,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0410", "\u041e", "\u0412", "\u0421", "\u041a", 
-"\u0414", "_BS", "\u041b", " ", "\u0423", 
+"\u0414", "_Erase", "\u041b", " ", "\u0423", 
 "\u0418", "\u0422", "\u0415",
 
  "\u041d", "\u0420", "[X]", "", "", 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 

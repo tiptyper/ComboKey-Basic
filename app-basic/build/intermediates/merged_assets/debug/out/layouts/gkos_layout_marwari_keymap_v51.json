@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"5.1",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Marwari  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Marwari  (from format 10 and version 5.0 up)  -  Last modified 2020-10-16 at 10:12",
 "extra":[
 
 "-",
@@ -36,7 +36,7 @@
 
  "\u0905", "\u091a", "\u0909", "\u0915",
 
- "\u0913", "\u091f", "_BS", "\u092f", " ", 
+ "\u0913", "\u091f", "_Erase", "\u092f", " ", 
 "...", "\u0907", "\u0924", "\u090f", "\u092a", 
 "\u090b", "[X]", "", "", "", 
 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0901", "\u0915\u094d\u0937", "\u0953", "\u091c\u094d\u091e", "\u0962", 
-"\u090c", "_BS", "\u0950", " ", "...", 
+"\u090c", "_Erase", "\u0950", " ", "...", 
 "\u0902", "\u0924\u094d\u0930", "\u0946", "\u0936\u094d\u0930", "\u094a", 
 
 "[X]", "", "", "", "", 
@@ -180,7 +180,7 @@
 
  "\u093e", "\u091a", "\u0941", "\u0915",
 
- "\u094b", "\u091f", "_BS", "\u092f", " ", 
+ "\u094b", "\u091f", "_Erase", "\u092f", " ", 
 "...", "\u093f", "\u0924", "\u0947", "\u092a", 
 "\u0943", "[X]", "", "", "", 
 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0967", "+", "\u096a", "*", "\u096d", 
-"\u0968", "_BS", "\u096b", " ", "\u096e", 
+"\u0968", "_Erase", "\u096b", " ", "\u096e", 
 "\u0969", "\u0966", "\u096c", "#", "\u096f", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 

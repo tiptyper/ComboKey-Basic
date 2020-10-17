@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"5.1",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Angika  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Angika  (from format 10 and version 5.0 up)  -  Last modified 2020-10-14 at 16:24",
 "extra":[
 
 "-",
@@ -36,7 +36,7 @@
 
  "\u0905", "\u0915",
 
- "\u0909", "\u0938", "\u0913", "\u0930", "_BS", 
+ "\u0909", "\u0938", "\u0913", "\u0930", "_Erase", 
 "\u092a", " ", "...", "\u0907", "\u0924", 
 "\u090f", "\u0928", "\u090b", "[X]", "", 
 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0901", "\u091b", "\u0953", "\u091a", "\u0962", 
-"\u090c", "_BS", "\u0961", " ", "...", 
+"\u090c", "_Erase", "\u0961", " ", "...", 
 "\u0902", "\u091f", "\u0946", "\u0921\u093c", "\u094a", 
 
 "[X]", "", "", "", "", 
@@ -180,7 +180,7 @@
 
  "\u093e", "\u0915",
 
- "\u0941", "\u0938", "\u094b", "\u0930", "_BS", 
+ "\u0941", "\u0938", "\u094b", "\u0930", "_Erase", 
 "\u092a", " ", "...", "\u093f", "\u0924", 
 "\u0947", "\u0928", "\u0943", "[X]", "", 
 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "2", "*", "3", 
-"(", "_BS", ")", " ", "...", 
+"(", "_Erase", ")", " ", "...", 
 "4", "0", "5", "#", "6", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0967", "+", "\u0968", "*", "\u0969", 
-"(", "_BS", ")", " ", "...", 
+"(", "_Erase", ")", " ", "...", 
 "\u096a", "\u0966", "\u096b", "#", "\u096c", 
 
 "[X]", "", "", "", "", 

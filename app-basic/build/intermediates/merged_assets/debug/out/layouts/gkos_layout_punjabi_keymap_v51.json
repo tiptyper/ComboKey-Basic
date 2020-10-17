@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"1.4",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Punjabi  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Punjabi  (from format 10 and version 5.0 up)  -  Last modified 2020-10-16 at 10:12",
 "extra":[
 
 "-",
@@ -36,7 +36,7 @@
 
  "\u0a05", "\u0a1a", "\u0a09", "\u0a15",
 
- "\u0a13", "\u0a1f", "_BS", "\u0a2f", " ", 
+ "\u0a13", "\u0a1f", "_Erase", "\u0a2f", " ", 
 "...", "\u0a07", "\u0a24", "\u0a0f", "\u0a2a", 
 "\u0a70", "[X]", "", "", "", 
 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0a73", "\u0a38\u0a3c", "\u0a4d", "\u0a16\u0a3c", "\u0a02", 
-"\u0a17\u0a3c", "_BS", "\u0a32\u0a3c", " ", "...", 
+"\u0a17\u0a3c", "_Erase", "\u0a32\u0a3c", " ", "...", 
 "\u0a72", "\u0a03", "\u0a71", "\u0a2b\u0a3c", "\u0a70", 
 
 "[X]", "", "", "", "", 
@@ -180,7 +180,7 @@
 
  "\u0a3e", "\u0a1a", "\u0a41", "\u0a15",
 
- "\u0a4b", "\u0a1f", "_BS", "\u0a2f", " ", 
+ "\u0a4b", "\u0a1f", "_Erase", "\u0a2f", " ", 
 "...", "\u0a3f", "\u0a24", "\u0a47", "\u0a2a", 
 "\u0a70", "[X]", "", "", "", 
 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0a67", "+", "\u0a6a", "*", "\u0a6d", 
-"\u0a68", "_BS", "\u0a6b", " ", "\u0a6e", 
+"\u0a68", "_Erase", "\u0a6b", " ", "\u0a6e", 
 "\u0a69", "\u0a66", "\u0a6c", "#", "\u0a6f", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 

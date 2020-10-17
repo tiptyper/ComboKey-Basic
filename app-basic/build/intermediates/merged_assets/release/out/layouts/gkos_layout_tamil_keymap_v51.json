@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"3.2",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Tamil  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Tamil  (from format 10 and version 5.0 up)  -  Last modified 2020-10-14 at 16:24",
 "extra":[
 
 "-",
@@ -35,7 +35,7 @@
 "Pressed key = [X]. Clear from template = []. Three keypad colums: Left Center Right x 15",
 
  "\u0b85", "\u0b9a", "\u0b89", "\u0b95", "\u0b93", 
-"\u0b9f", "_BS", "\u0baf", " ", "...", 
+"\u0b9f", "_Erase", "\u0baf", " ", "...", 
 "\u0b87", "\u0ba4", "\u0b8f", "\u0baa", "\u090b", 
 
 "[X]", "", "", "", "", 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0901", "", "", "\u0b95\u0bcd\u0bb7", "", 
-"", "_BS", "\u0950", " ", "...", 
+"", "_Erase", "\u0950", " ", "...", 
 "\u0902", "\u0ba4\u0bcd\u0bb0", "", "\u0bb7\u0bcd\u0bb0", "", 
 
 "[X]", "", "", "", "", 
@@ -179,7 +179,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0bcd", "\u0b9a", "\u0bc1", "\u0b95", "\u0bcb", 
-"\u0b9f", "_BS", "\u0baf", " ", "...", 
+"\u0b9f", "_Erase", "\u0baf", " ", "...", 
 "\u0bbf", "\u0ba4", "\u0bc7", "\u0baa", "", 
 
 "[X]", "", "", "", "", 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0be7", "+", "\u0bea", "*", "\u0bed", 
-"\u0be8", "_BS", "\u0beb", " ", "\u0bee", 
+"\u0be8", "_Erase", "\u0beb", " ", "\u0bee", 
 "\u0be9", "\u0bf0", "\u0bec", "#", "\u0bef", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 

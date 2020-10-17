@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"5.1",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Tulu  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Tulu  (from format 10 and version 5.0 up)  -  Last modified 2020-10-16 at 10:12",
 "extra":[
 
 "-",
@@ -35,7 +35,7 @@
 "Pressed key = [X]. Clear from template = []. Three keypad colums: Left Center Right x 15",
 
  "\u0c85", "\u0c9a", "\u0c89", "\u0c95", "\u0c92", 
-"\u0c9f", "_BS", "\u0caf", " ", "...", 
+"\u0c9f", "_Erase", "\u0caf", " ", "...", 
 "\u0c87", "\u0ca4", "\u0c8e", "\u0caa", "\u0c8b", 
 
 "[X]", "", "", "", "", 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0c90", "\u0c95\u0ccd\u0cb7", "\u0c8c", "\u0ce1", "\u0c94", 
-"\u0ce0", "_BS", "\u0cc4", " ", "...", 
+"\u0ce0", "_Erase", "\u0cc4", " ", "...", 
 "\u0cc8", "\u0c9c\u0ccd\u0c9e", "\u0ce2", "\u0ce3", "\u0ccc", 
 
 "[X]", "", "", "", "", 
@@ -179,7 +179,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0cbe", "\u0c9a", "\u0cc1", "\u0c95", "\u0ccb", 
-"\u0c9f", "_BS", "\u0caf", " ", "...", 
+"\u0c9f", "_Erase", "\u0caf", " ", "...", 
 "\u0cbf", "\u0ca4", "\u0cc6", "\u0caa", "\u0cc3", 
 
 "[X]", "", "", "", "", 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0ce7", "+", "\u0cea", "*", "\u0ced", 
-"\u0ce8", "_BS", "\u0ceb", " ", "\u0cee", 
+"\u0ce8", "_Erase", "\u0ceb", " ", "\u0cee", 
 "\u0ce9", "\u0ce6", "\u0cec", "#", "\u0cef", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 

@@ -134,7 +134,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	public int getPadHeight() {
 		try {
 			// 10 = Higher small, 0 = Normal, 20 = Lower small, [30 = 3-row special (portrait for now)]
-			return Integer.parseInt(get().getString(PREFERENCES_PADHEIGHT, "0")); // 310dp = Higher, 280dp = Normal, 250 = Lower
+			return Integer.parseInt(get().getString(PREFERENCES_PADHEIGHT, "10")); // 310dp = Higher, 280dp = Normal, 250 = Lower
 		} catch (Exception e) { // saved values may be old ones with "dp", cannot parseInt
 			Log.d("-PADTYPE", "Could not read padHeight in Preferences.java (at getPadHeight())");
 			return 0; // in case no value stored in previous app version

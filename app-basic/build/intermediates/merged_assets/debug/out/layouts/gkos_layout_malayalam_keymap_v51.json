@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"3.2",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Malayalam  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Malayalam  (from format 10 and version 5.0 up)  -  Last modified 2020-10-16 at 10:12",
 "extra":[
 
 "-",
@@ -36,7 +36,7 @@
 
  "\u0d05", "\u0d1a", "\u0d09", "\u0d15",
 
- "\u0d13", "\u0d1f", "_BS", "\u0d2f", " ", 
+ "\u0d13", "\u0d1f", "_Erase", "\u0d2f", " ", 
 "...", "\u0d07", "\u0d24", "\u0d13", "\u0d2a", 
 "\u0d0b", "[X]", "", "", "", 
 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "", "\u091c\u094d\u091e", "", "\u0915\u094d\u0937", "", 
-"", "_BS", "\u0950", " ", "...", 
+"", "_Erase", "\u0950", " ", "...", 
 "", "\u0924\u094d\u0930", "", "\u0936\u094d\u0930", "", 
 
 "[X]", "", "", "", "", 
@@ -180,7 +180,7 @@
 
  "\u0d06", "\u0d1a", "\u0d41", "\u0d15",
 
- "\u0d4b", "\u0d1f", "_BS", "\u0d2f", " ", 
+ "\u0d4b", "\u0d1f", "_Erase", "\u0d2f", " ", 
 "...", "\u0d3f", "\u0d24", "\u0d47", "\u0d2a", 
 "\u0d43", "[X]", "", "", "", 
 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u0d67", "+", "\u0d6a", "*", "\u0d6d", 
-"\u0d68", "_BS", "\u0d6b\u096b", " ", "\u0d6e", 
+"\u0d68", "_Erase", "\u0d6b\u096b", " ", "\u0d6e", 
 "\u0d69", "\u0d66", "\u0d6c", "#", "\u0d6f", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 

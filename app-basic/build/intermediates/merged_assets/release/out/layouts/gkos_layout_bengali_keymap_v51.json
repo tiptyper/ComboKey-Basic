@@ -7,7 +7,7 @@
 "group":"Optimized",
 "version":"3.4",
 "author":"Seppo Tiainen",
-"info":"  -  The ComboKey keymap for Bengali  (from format 10 and version 5.0 up)  -  Last modified 2020-10-13 at 19:28",
+"info":"  -  The ComboKey keymap for Bengali  (from format 10 and version 5.0 up)  -  Last modified 2020-10-14 at 16:24",
 "extra":[
 
 "-",
@@ -35,7 +35,7 @@
 "Pressed key = [X]. Clear from template = []. Three keypad colums: Left Center Right x 15",
 
  "\u0985", "\u099a", "\u0989", "\u0995", "\u0993", 
-"\u099f", "_BS", "\u09af", " ", "...", 
+"\u099f", "_Erase", "\u09af", " ", "...", 
 "\u0987", "\u09a4", "\u098f", "\u09aa", "\u098b", 
 
 "[X]", "", "", "", "", 
@@ -107,7 +107,7 @@
 "Pressed key = [X]. ree keypad colums: Left Center Ri x 15",
 
  "\u0965", "\u0995\u09cd\u09b7", "\u0982", "\u09a4\u09cd\u09b0", "\u09e2", 
-"\u098c", "_BS", "\u0993\u0981", " ", "...", 
+"\u098c", "_Erase", "\u0993\u0981", " ", "...", 
 "\u0902", "\u099c\u09cd\u099e", "", "\u09b6\u09cd\u09b0", "", 
 
 "[X]", "", "", "", "", 
@@ -179,7 +179,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u09be", "\u099a", "\u09c1", "\u0995", "\u09cb", 
-"\u099f", "_BS", "\u09df", " ", "...", 
+"\u099f", "_Erase", "\u09df", " ", "...", 
 "\u09bf", "\u09a4", "\u09c7", "\u09aa", "\u09c3", 
 
 "[X]", "", "", "", "", 
@@ -251,7 +251,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "\u09e7", "+", "\u09ea", "*", "\u09ed", 
-"\u09e8", "_BS", "\u09eb", " ", "\u09ee", 
+"\u09e8", "_Erase", "\u09eb", " ", "\u09ee", 
 "\u09e9", "\u09e6", "\u09ec", "#", "\u09ef", 
 
 "[X]", "", "", "", "", 
@@ -323,7 +323,7 @@
 "Pressed key = [X]. Three keypad colums: Left Center Right x 15",
 
  "1", "+", "4", "*", "7", 
-"2", "_BS", "5", " ", "8", 
+"2", "_Erase", "5", " ", "8", 
 "3", "0", "6", "#", "9", 
 
 "[X]", "", "", "", "", 
