@@ -259,9 +259,9 @@
 		<item>60</item>
 	</string-array>
 	<string-array name="onehand_combo_names">
-		<item>Ei päällä</item>
+		<item>Ei päällä (oletus)</item>
 		<item>Paina ja pidä hetki</item>
-		<item>Pidä pidempään (oletus)</item>
+		<item>Pidä hieman pidempään</item>
 	</string-array>
 	<string-array name="onehand_combo_values">
 		<item>0</item>

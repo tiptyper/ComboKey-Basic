@@ -145,9 +145,9 @@
 		<item>यूक्रेनी</item>
 	</string-array>
     <string-array name="onehand_combo_names">
-		<item>OFF</item>
+		<item>OFF (Default)</item>
 		<item>Hold key a short extra time</item>
-		<item>Hold a bit longer (Default)</item>
+		<item>Hold a bit longer</item>
 	</string-array>
     <string-array name="onehand_combo_values">
 		<item>0</item>
@@ -431,7 +431,7 @@
     <string name="no_sms_capability">No SMS/Phone capability found on this device</string>
     <string name="not_possible_im_picker">लिखना दिखानै के तरीके निर्धारित नहीं किये जा सकते</string>
     <string name="notes_text_header">"Notes      \n"</string>
-    <string name="padheight_defaultvalue">0</string>
+    <string name="padheight_defaultvalue">10</string>
     <string name="padtype_defaultvalue">0</string>
     <string name="pasted_from_clipboard">Pasted from clipboard</string>
     <string name="play_text_confirm">Play text?\n\nPress Play again for speech!</string>
@@ -456,7 +456,7 @@
     <string name="settings_font_type_text">The optional font on the buttons can be selected here.</string>
     <string name="settings_fontsize_header">Font Size</string>
     <string name="settings_fontsize_text">Font size in the standalone ComboKey application (not when using this app as a system/default keyboard)</string>
-    <string name="settings_header">Settings  ComboKeyBasic v5.6b1</string>
+    <string name="settings_header">Settings  ComboKeyBasic v5.6b2</string>
     <string name="settings_highlight_option_header">Button Highlight</string>
     <string name="settings_highlight_option_text">When a key is tapped or swiped to, it will be highlighted as a visual response. You can select the visual response options here.</string>
     <string name="settings_hystamount_header">Sticky buttons</string>

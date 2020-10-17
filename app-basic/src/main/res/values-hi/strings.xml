@@ -161,7 +161,7 @@
     <string name="Ukrainian">Ukrainian</string>
 
     <!-- Text on the Settings menu: -->
-    <string name="settings_header">Settings  ComboKeyBasic v5.6b1</string>
+    <string name="settings_header">Settings  ComboKeyBasic v5.6b2</string>
     <string name="settings_language_header">Main Language</string>
     <string name="settings_language2_header">Aux Language</string>
     <string name="settings_language_text">Set the main language for the keyboard. Based on selected language, the most common letters are directly visible and native letters are available.</string>

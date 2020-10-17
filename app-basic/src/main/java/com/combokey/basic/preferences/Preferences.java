@@ -304,7 +304,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 			return Integer.parseInt(get().getString(PREFERENCES_ONEHAND_COMBO, "0"));
 		} catch (Exception e) {
 			Log.d("-TIMER", "*** Could not read onehandCombo in Preferences.java (at onehandCombo())");
-			return 2; // in case boolean or no value stored in previous app version
+			return 0; // in case boolean or no value stored in previous app version
 		}
 	}
 

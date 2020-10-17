@@ -143,6 +143,7 @@
   <com.google.android.gms/>
   <com.google.android.instantapps/>
   <com.google.android.instantapps.thirdpartycompat/>
+  <com.google.android.libraries.car/>
   <com.google.android.libraries.maps/>
   <com.google.android.libraries.places/>
   <com.google.android.material/>

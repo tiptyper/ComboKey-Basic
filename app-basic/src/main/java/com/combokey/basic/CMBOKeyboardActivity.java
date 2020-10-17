@@ -731,7 +731,11 @@ public class CMBOKeyboardActivity extends Activity {
 
 		Log.d("-KBD", "onButtonClickSwitchKbd()");
 		showKeyboard();
-		selectInputMethod();
+		if (!isComboKeyOnList()) {
+			addComboKeyToList();
+		} else {
+			selectInputMethod();
+		}
 	}
 
 	private boolean comboKeyAddedOnListDone = false;
@@ -743,20 +747,7 @@ public class CMBOKeyboardActivity extends Activity {
 	private void checkInputMethod() {
 		if (!firstStart ) return;
 		if (!isComboKeyOnList() && !comboKeyAddedOnListDone) { // add combokey to list
-			Log.d("-FIRST_START", "checkInputMethod() (Activity) - Kbd NOT on list. Add it.");
-			AlertDialog.Builder builder = new AlertDialog.Builder(this);
-			builder.setCancelable(true);
-			// First ask to add keyboard on the list of optional keyboards (by turning the switch):
-			builder.setTitle(R.string.header_add_kbd);
-			builder.setMessage(R.string.pleaseaddcombokeyboard);
-			builder.setPositiveButton("OK", new
-					DialogInterface.OnClickListener() {
-						public void onClick(DialogInterface dialog, int which) {
-							addInputMethod();
-						}
-					});
-			builder.show();
-			comboKeyAddedOnListDone = true;
+			addComboKeyToList();
 			return;
 		}
 		if (isComboKeyOnList() && comboKeyAddedOnListDone){ // select combokey as kbd
@@ -767,10 +758,28 @@ public class CMBOKeyboardActivity extends Activity {
 		}
 	}
 
+	private void addComboKeyToList() {
+		Log.d("-FIRST_START", "checkInputMethod() (Activity) - Kbd NOT on list. Add it.");
+		AlertDialog.Builder builder = new AlertDialog.Builder(this);
+		builder.setCancelable(true);
+		// First ask to add keyboard on the list of optional keyboards (by turning the switch):
+		builder.setTitle(R.string.header_add_kbd);
+		builder.setMessage(R.string.pleaseaddcombokeyboard);
+		builder.setPositiveButton("OK", new
+				DialogInterface.OnClickListener() {
+					public void onClick(DialogInterface dialog, int which) {
+						addInputMethod();
+					}
+				});
+		builder.show();
+		comboKeyAddedOnListDone = true;
+	}
+
 	private void addInputMethod() {
 		hideKeyboard(); // 2019-11-18
 		Log.d("-FIRST_START", "addInputMethod()");
 		startActivityForResult(new Intent(Settings.ACTION_INPUT_METHOD_SETTINGS), 0);
+		showKeyboard();
 	}
 
 	private void selectInputMethod() {
@@ -782,6 +791,7 @@ public class CMBOKeyboardActivity extends Activity {
 		} else {
 			Toast.makeText(this, R.string.not_possible_im_picker, Toast.LENGTH_LONG).show();
 		}
+		showKeyboard();
 	}
 
 

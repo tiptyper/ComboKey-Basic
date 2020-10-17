@@ -145,9 +145,9 @@
 		<item>ukraina</item>
 	</string-array>
     <string-array name="onehand_combo_names">
-		<item>Ei päällä</item>
+		<item>Ei päällä (oletus)</item>
 		<item>Paina ja pidä hetki</item>
-		<item>Pidä pidempään (oletus)</item>
+		<item>Pidä hieman pidempään</item>
 	</string-array>
     <string-array name="onehand_combo_values">
 		<item>0</item>
@@ -428,7 +428,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="no_sms_capability">Tässä laitteessa ei ole Puhelin/SMS-ominaisuutta</string>
     <string name="not_possible_im_picker">Syöttömenetelmien näyttäminen ei onnistu</string>
     <string name="notes_text_header">"Muistiinpanot     \n"</string>
-    <string name="padheight_defaultvalue">0</string>
+    <string name="padheight_defaultvalue">10</string>
     <string name="padtype_defaultvalue">0</string>
     <string name="pasted_from_clipboard">Liitetty leikepöydältä</string>
     <string name="play_text_confirm">Teksti ääneen?\n\nPaina Play uudelleen.</string>
@@ -453,7 +453,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="settings_font_type_text">Näppäimissä olevien kirjainten ja tekstien kirjasintyylin voi vaihtaa tässä.</string>
     <string name="settings_fontsize_header">Tekstin koko</string>
     <string name="settings_fontsize_text">Tekstin koko tässä sovelluksen omassa näytössä on mahdollista asettaa (ei siis silloin kun ComboKey-näppäimistöä käytetään muissa sovelluksissa)</string>
-    <string name="settings_header">Asetukset  ComboKeyBasic v5.6b1</string>
+    <string name="settings_header">Asetukset  ComboKeyBasic v5.6b2</string>
     <string name="settings_highlight_option_header">Näppäilyn korostus</string>
     <string name="settings_highlight_option_text">Kun näppäin on valittu joko painamalla tai pyyhkäisyllä, se näkyy korostettuna. Tässä voi valita miltä korostus näyttää.</string>
     <string name="settings_hystamount_header">Tarttuvuus</string>
