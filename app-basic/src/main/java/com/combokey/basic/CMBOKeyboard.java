@@ -1220,10 +1220,7 @@ public class CMBOKeyboard {
 	// if (!isOtherControl(state, key))
 	private boolean isOtherControl(int state, int key) { // no change of offset if arrow, lang etc.
 
-		if (((state == 7) || (state == 56)) && (key != 0)) return true; // swipe from backspace or space
-
-
-		return false;
+		return ((state == 7) || (state == 56)) && (key != 0); // swipe from backspace or space
 	}
 
 	private boolean isMiddleButton(int key) {
@@ -1263,10 +1260,10 @@ public class CMBOKeyboard {
 		}
 
 		Log.d("-DEV", "*** Devanagari/Korean on. Dev. shift logic in use.");
-		if (isMiddleButton(state) || isMiddleButton(key)){ // Middlebutton is a *dark* key! (not Center!)
-			middleButtonIncluded = true;
-			//if ((state == 7) || (state == 56) || (state == 64)) middleButtonIncluded = false; // Swipe from Del/Space/M
-		} else middleButtonIncluded = false; // ((gStateN === 8) && (gKeyN !== 8));  // false; // count in special symbols (keyM held down)
+		// Middlebutton is a *dark* key! (not Center!)
+		//if ((state == 7) || (state == 56) || (state == 64)) middleButtonIncluded = false; // Swipe from Del/Space/M
+		// ((gStateN === 8) && (gKeyN !== 8));  // false; // count in special symbols (keyM held down)
+		middleButtonIncluded = isMiddleButton(state) || isMiddleButton(key);
 
 		if(middleButtonIncluded){ // Sanskrit/Hindi
 			switch (offset) {  // Use caps set after consonant

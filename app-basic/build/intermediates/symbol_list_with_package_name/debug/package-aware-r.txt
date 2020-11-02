@@ -382,6 +382,7 @@ string app_default_locale_main
 string app_icon_name
 string app_name
 string append_text_done
+string audio_recording_error
 string aux_language_defaultvalue_in_english
 string aux_language_selected
 string aux_layout_defaultvalue_in_english
@@ -426,26 +427,38 @@ string helpbutton
 string hint_enter_text
 string hint_voice_input_text
 string infobutton
+string insufficient_permissions
 string kbd_service_name_in_device_settings
 string landscapecolumns_defaultvalue
 string main_language_defaultvalue_in_english
 string main_language_selected
 string main_layout_defaultvalue_in_english
+string network_operation_timed_out
 string new_paragraph
+string no_audio_recording_permission
+string no_internet_permission
+string no_recognition_result_matched
 string no_sms_capability
+string no_speech_input
 string not_possible_im_picker
 string notes_text_header
+string ok
+string other_client_side_errors
+string other_error
+string other_network_related_errors
 string padheight_defaultvalue
 string padtype_defaultvalue
 string pasted_from_clipboard
 string play_text_confirm
 string pleaseaddcombokeyboard
 string press_longer
+string recognitionservice_busy
 string save_text_confirm
 string save_text_done
 string save_text_empty
 string send_as_sms
 string send_sms
+string server_error_or_no_internet
 string settings_autocaps_header
 string settings_autocaps_text
 string settings_background_header
@@ -565,6 +578,7 @@ styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchSt
 styleable FontFamilyFont android_font android_fontWeight android_fontStyle android_ttcIndex android_fontVariationSettings font fontStyle fontVariationSettings fontWeight ttcIndex
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
+xml backup_descriptor
 xml edit_text_shape
 xml method
 xml preferences

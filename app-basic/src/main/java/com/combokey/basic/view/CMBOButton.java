@@ -24,12 +24,9 @@ package com.combokey.basic.view;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
 
 import android.graphics.Rect;
-
-import com.combokey.basic.CMBOKeyboardController;
 
 public class CMBOButton {
 
@@ -37,8 +34,6 @@ public class CMBOButton {
 	private Rect hitBox;
 	//private Rect hitBoxPlus; // scaled hitbox for hysteresis
 	private int id;
-
-	private final boolean highliteAdjacentButtons = false; // 2017-09
 
 
 	private final List<CMBOButton> adjacentButtons = new ArrayList<CMBOButton>();
@@ -50,17 +45,6 @@ public class CMBOButton {
 
 	public Rect getHitBox() {
 		return this.hitBox;
-	}
-
-	public Rect getHitBoxPlus(double scale) {
-		// get enlarged hitBox for hysteresis management (e.g. 1.2 = lager)
-		int boxHeight = (this.hitBox).bottom - (this.hitBox).top;
-		int boxHeightDelta = (int) ((scale - 1) * boxHeight);
-
-		return new Rect((int) (this.hitBox).left - boxHeightDelta,
-						(int) (this.hitBox).top - boxHeightDelta,
-						(int) (this.hitBox).right + boxHeightDelta,
-						(int) (this.hitBox).bottom + boxHeightDelta);
 	}
 
 
@@ -128,12 +112,12 @@ public class CMBOButton {
 		return adjacentButtons;
 	}
 
-	private CMBOKeyboardController controller;
-
 
 	public CMBOButton addAdjacent(CMBOButton... buttons) {
 
 		//if (!( (state == 7) || (state == 56) )) { // for slides not from space and backspace
+		// 2017-09
+		boolean highliteAdjacentButtons = false;
 		if (highliteAdjacentButtons) { // for slides not from space and backspace
 			//for (CMBOButton b : buttons) {
 			//	this.adjacentButtons.add(b);

@@ -25,20 +25,20 @@ package com.combokey.basic;
 public interface KeyboardOutput {
 
 	// In KeyEvent only since API Level 11
-	public static final int KEYCODE_ESCAPE = 0x6F; // still used this way even if min API of the app is 11
-	public static final int KEYCODE_INSERT = 0x7C;	
+	int KEYCODE_ESCAPE = 0x6F; // still used this way even if min API of the app is 11
+	int KEYCODE_INSERT = 0x7C;
 	
-	public void keyUpDown(int keyEventCode);
-	public void onKey(int primaryCode, int[] keyCodes);
-	public void onText(CharSequence text);
+	void keyUpDown(int keyEventCode);
+	void onKey(int primaryCode, int[] keyCodes);
+	void onText(CharSequence text);
 
-	public void keyDown(int keyEventCode); // 2019-03-07
-	public void keyUp(int keyEventCode);
+	void keyDown(int keyEventCode); // 2019-03-07
+	void keyUp(int keyEventCode);
 
-	public void sendKeyChar(char a);
-	public void sendKeyString(String keyString);
-	public boolean isTerminalMode();
-	public String getCtrlKey();
-	public void updateWordAtCursor();
+	void sendKeyChar(char a);
+	void sendKeyString(String keyString);
+	boolean isTerminalMode();
+	String getCtrlKey();
+	void updateWordAtCursor();
 
 }

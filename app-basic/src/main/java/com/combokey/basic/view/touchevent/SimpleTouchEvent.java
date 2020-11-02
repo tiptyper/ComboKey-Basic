@@ -35,7 +35,7 @@ public class SimpleTouchEvent {
 
 	public enum Type {
 		POINTER_DOWN, POINTER_UP, POINTER_MOVE
-	};
+	}
 
 	public SimpleTouchEvent(int pointerIndex, Type type, float x, float y, int deltaX, int deltaY) {
 		this.time = System.nanoTime();

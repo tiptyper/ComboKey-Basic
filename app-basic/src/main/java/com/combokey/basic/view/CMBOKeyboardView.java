@@ -103,7 +103,6 @@ public class CMBOKeyboardView extends ImageView implements
 
 
 	private static int tabletDevice = -1;
-	private static int frSz = 0; // px // convertDpToPixel(float dp, Context context) => 10px for normal screen
 
 	public static String TAG = "CMBOKeyboard";
 
@@ -131,15 +130,14 @@ public class CMBOKeyboardView extends ImageView implements
 
 
 	public CMBOKeyboardButtonLayout buttonLayout;
-	private SimpleTouchEventProcessor simpleTouchEventProcessor;
 
 	private Drawable statusButton; // really used for Abc button
 	private Drawable languagesButton; //
 	private Rect statusArea, flashArea, languageArea;
-	private Rect backgroundArea = new Rect(0, 0, 0, 0);;
-	private Rect topBarArea = new Rect(0, 0, 0, 0);;
-	private Rect topBarAreaAdd = new Rect(0, 0, 0, 0);;
-	private Rect topBarAreaMinus = new Rect(0, 0, 0, 0);;
+	private Rect backgroundArea = new Rect(0, 0, 0, 0);
+	private Rect topBarArea = new Rect(0, 0, 0, 0);
+	private Rect topBarAreaAdd = new Rect(0, 0, 0, 0);
+	private Rect topBarAreaMinus = new Rect(0, 0, 0, 0);
 	private boolean isTopBar = false; //
 	//private boolean isSidePanel = true;
 	boolean noPanel = getApplication().getPreferences().isSidePanelHidden();
@@ -591,7 +589,7 @@ public class CMBOKeyboardView extends ImageView implements
 		modeTextSmall.setTextSize(modeText.getTextSize() * 0.8f);
 
 		modeTextSmallGray = new Paint(modeTextSmall);
-		modeTextSmallGray.setColor(Color.DKGRAY);;
+		modeTextSmallGray.setColor(Color.DKGRAY);
 
 		helpText = new Paint(modeText);
 		helpText.setTextSize((int) (helpBasicSize * scale)); // added, modeText was too big ( / 1.5)
@@ -654,10 +652,9 @@ public class CMBOKeyboardView extends ImageView implements
 	}
 
 	public void setTouchEventProcessor(SimpleTouchEventProcessor processor) {
-		this.simpleTouchEventProcessor = processor;
-		this.setOnTouchListener(this.simpleTouchEventProcessor);
+		this.setOnTouchListener(processor);
 		this.setOnLongClickListener(this);
-		this.simpleTouchEventProcessor.addSimpleTouchEventListener(this);
+		processor.addSimpleTouchEventListener(this);
 	}
 
 	@Override
@@ -757,7 +754,8 @@ public class CMBOKeyboardView extends ImageView implements
 		threeRowPad = rows3; // for button layout button colors
 
 		// Frame size
-		frSz = (int) convertDpToPixel(3, this.getContext()); // Small disp 240 x 432: 3dp
+		// px // convertDpToPixel(float dp, Context context) => 10px for normal screen
+		int frSz = (int) convertDpToPixel(3, this.getContext()); // Small disp 240 x 432: 3dp
 
 		int btnWidth = a.getHitBox().width();
 		int btnHeight = a.getHitBox().height();
@@ -1569,9 +1567,9 @@ public class CMBOKeyboardView extends ImageView implements
 		int yO = o.getVisibleRect().top + dY;
 		int xS = s.getVisibleRect().left + dX;
 		int yS = s.getVisibleRect().top + dY;
-		int xG = g.getVisibleRect().left + dX;;
+		int xG = g.getVisibleRect().left + dX;
 		int yG = g.getVisibleRect().top + dY;
-		int xK = k.getVisibleRect().left + dX;;
+		int xK = k.getVisibleRect().left + dX;
 		int yK = k.getVisibleRect().top + dY;
 
 

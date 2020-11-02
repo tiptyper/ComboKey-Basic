@@ -53,11 +53,7 @@ public class LayoutManager implements OnSharedPreferenceChangeListener {
 	private String previousLayout2Name;
 
 	public void setMainLanguageActive(boolean on) { // keep in sync with the view
-		if (on) {
-			mainLangActive = true;
-		} else {
-			mainLangActive = false;
-		}
+		mainLangActive = on;
 	}
 
 	public boolean getMainLanguageActive(){
@@ -72,13 +68,7 @@ public class LayoutManager implements OnSharedPreferenceChangeListener {
 
 
 	public void switchLanguage() {
-		if (mainLangActive) {
-			mainLangActive = false;
-
-		} else {
-			mainLangActive = true;
-
-		}
+		mainLangActive = !mainLangActive;
 	}
 
 	//private CMBOKeyboardView view; // only needed for one thing
@@ -129,7 +119,7 @@ public class LayoutManager implements OnSharedPreferenceChangeListener {
 				break;
 			case CMBOKey.FN_MODIFIER:
 				//result = current.getMapEmojis()[mapIndex];
-				abcIndicator = current.getMapMore()[241];;
+				abcIndicator = current.getMapMore()[241];
 				//if (result.equals("_abc123")) result = "_abc";
 				break;
 			default:

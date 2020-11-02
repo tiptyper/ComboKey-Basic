@@ -35,8 +35,6 @@ import android.view.View.OnTouchListener;
 
 import com.combokey.basic.view.touchevent.SimpleTouchEvent.Type;
 
-import static java.lang.Math.abs;
-
 
 public class SimpleTouchEventProcessor implements OnTouchListener {
 

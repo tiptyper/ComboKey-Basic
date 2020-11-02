@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/drawable-hdpi_pad_ll.png.flat",
-        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_ll.png"
-    },
-    {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/drawable-hdpi_speak_rec_red.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/speak_rec_red.png"
+    },
+    {
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/drawable-hdpi_pad_ll.png.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-hdpi/pad_ll.png"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/drawable-hdpi_homes_edges.png.flat",
@@ -514,6 +514,10 @@
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/drawable-ldpi_icon_new.png.flat",
         "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/drawable-ldpi/icon_new.png"
+    },
+    {
+        "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/xml_backup_descriptor.xml.flat",
+        "source": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/res/xml/backup_descriptor.xml"
     },
     {
         "merged": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/res/merged/release/drawable-hdpi_shifts_edges.png.flat",

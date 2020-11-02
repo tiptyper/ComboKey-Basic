@@ -52,7 +52,6 @@ public class CMBOKeyboardController {
 	private CMBOKeyboardMode mode = CMBOKeyboardMode.UNDEFINED;
 
 	public boolean peekPress = false; // a press just to peek characters
-	private int onehandCombo = 2; // Settings: two taps instead of a (long) swipe is allowed, 0 = off, 1 = hold shorter, 2 = hold longer
 	private boolean holdFirstKey = false; // (two taps) holding first key a while after release
 
 	private boolean skipRelease = false;
@@ -490,7 +489,8 @@ public class CMBOKeyboardController {
 
 	private void releaseNew(int pointerIndex) {
 
-		onehandCombo = CMBOKeyboardApplication.getApplication().getPreferences().onehandCombo();
+		// Settings: two taps instead of a (long) swipe is allowed, 0 = off, 1 = hold shorter, 2 = hold longer
+		int onehandCombo = CMBOKeyboardApplication.getApplication().getPreferences().onehandCombo();
 
 		if (pointerIndex > 1) {
 			Log.d("-TOUCH-OV", "===  pointerIndex > 1  !!! (third finger) ===");

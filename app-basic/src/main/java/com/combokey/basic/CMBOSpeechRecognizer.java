@@ -27,6 +27,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
 import android.view.Gravity;
 import android.view.View;
@@ -183,13 +184,13 @@ public class CMBOSpeechRecognizer extends Activity implements OnClickListener
             isRunning = false;
             //Log.d("-SPEECH", "onResults");
 
-            ArrayList data = results.getStringArrayList(SpeechRecognizer.RESULTS_RECOGNITION);
+            ArrayList<String> data = results.getStringArrayList(SpeechRecognizer.RESULTS_RECOGNITION);
             for (int i = 0; i < data.size(); i++)
             {
                 Log.d("-SPEECH", "result " + data.get(i));
                 str += "\n" + data.get(i);
             }
-            String nText = String.valueOf(data.size() + " results: " + str);
+            String nText = data.size() + " results: " + str;
             String resultText = data.get(0).toString(); // first option of results only
 
             String fullText = (editText.getText().toString().equals("")
@@ -360,7 +361,7 @@ public class CMBOSpeechRecognizer extends Activity implements OnClickListener
 
     @Override
     public void onRequestPermissionsResult(int requestCode,
-                                           String[] permissions, int[] grantResults) {
+                                           @NonNull String[] permissions, @NonNull int[] grantResults) {
         switch (requestCode) {
             case USER_PERMISSON_REQUEST_RECORD_AUDIO:
                 // If request is cancelled, the result arrays are empty.
@@ -369,7 +370,7 @@ public class CMBOSpeechRecognizer extends Activity implements OnClickListener
                     // Permission granted, so do the
                     // contacts-related task.
                 } else {
-                    langInfoText.setText("No audio recording permission.");
+                    langInfoText.setText(getString(R.string.no_audio_recording_permission));
                     // Permission denied, so disable the
                     // functionality that depends on this permission.
                 }
@@ -383,7 +384,7 @@ public class CMBOSpeechRecognizer extends Activity implements OnClickListener
                     // permission was granted, so do the
                     // contacts-related task.
                 } else {
-                    langInfoText.setText("No internet permission.");
+                    langInfoText.setText(getString(R.string.no_internet_permission));
                     // Permission was denied. Disable the
                     // functionality that depends on this permission.
                 }
@@ -406,37 +407,38 @@ public class CMBOSpeechRecognizer extends Activity implements OnClickListener
         String msg = "";
         switch (errorCode) {
             case 1:
-                msg = "Network operation timed out.";
+                msg = getString(R.string.network_operation_timed_out);
                 break;
             case 2:
-                msg = "Other network related errors.";
+                msg = getString(R.string.other_network_related_errors);
                 break;
             case 3:
-                msg = "Audio recording error.";
+                msg = getString(R.string.audio_recording_error);
                 break;
             case 4:
-                msg = "Server error or no internet.";
+                msg = getString(R.string.server_error_or_no_internet);
                 break;
             case 5:
-                msg = "Other client side errors.";
+                msg = getString(R.string.other_client_side_errors);
                 break;
             case 6:
-                msg = "No speech input.";
+                msg = getString(R.string.no_speech_input);
                 break;
             case 7:
-                msg = "No recognition result matched.";
+                msg = getString(R.string.no_recognition_result_matched);
                 break;
             case 8:
-                msg = "RecognitionService busy.";
+                msg = getString(R.string.recognitionservice_busy);
                 break;
             case 9:
-                msg = "Insufficient permissions.";
+                msg = getString(R.string.insufficient_permissions);
                 break;
             default:
-                msg = "Other error.";
+                msg = getString(R.string.other_error);
                 break;
         }
         Log.d("-SPEECH", "   - error message is: " + msg);
+        showToast(msg);
         return msg;
 
     }

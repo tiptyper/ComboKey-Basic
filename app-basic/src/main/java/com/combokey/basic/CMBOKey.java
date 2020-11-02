@@ -25,7 +25,7 @@ package com.combokey.basic;
 import android.util.Log;
 
 public class CMBOKey {
-	private static final int chordToIndex[] = { 0, // index/chord of single buttons
+	private static final int[] chordToIndex = { 0, // index/chord of single buttons
 			1, 3, 2, 5, 6,  4, 7, 11, 0, 0, // 10
 			0, 0, 0, 0, 0,  13, 0, 0, 0, 0, // 20
 			0, 0, 0, 12, 0, 0, 0, 0, 0, 0,  // 30
@@ -38,13 +38,13 @@ public class CMBOKey {
 			0, 0, 0, 0, 0,  0, 0, 0, 0, 0,  // 100
 			0, 0, 0, 0, 0,  0, 0, 0, 0, 0   // 110
 	};
-	private static final int indexToChord[] = { 0, // index/chord of single buttons
+	private static final int[] indexToChord = { 0, // index/chord of single buttons
 			1,  3,  2,  6,  4,   // Left column   (a  o  u  s  c)
 			5,  7, 40, 56, 64,   // Center column (d  BS l  SP m)
 			8, 24, 16, 48, 32    // Right column  (i  t  e  n  r)
 	};
 	// 128: two more aux sets added (123 and SYMB) later
-	private static final int chordToRef[] = {
+	private static final int[] chordToRef = {
 			0, 1, 2, 15, 3, 27, 19, 46, 4, 42, 36, //10
 			16, 33, 28, 20,	46, 5, 35, 59, 17, 32, // 20
 			29, 21, 46, 7, 8, 9, 44, 10, 41, 38,   // 30
@@ -61,7 +61,7 @@ public class CMBOKey {
 			8, 9, 10, 1, 2, 3, 4, 535+128 // 128
 			};
 	// 128: two more aux sets added (123 and SYMB) later
-	private static final int chordToRefKeyBackspace[] = { 0, // Key Backspace as a modifier (chord = state + key, except for key 64: chord = key)
+	private static final int[] chordToRefKeyBackspace = { 0, // Key Backspace as a modifier (chord = state + key, except for key 64: chord = key)
 			1, 2, 3, 4, 5, 6, 7, 543+128, 546+128, 552+128, //
 			549+128, 544+128, 555+128, 46, 545+128, 6, 7, 8, 9, 10, // ref 46 = Backspace
 			1, 2, 548+128, 4, 5, 6, 7, 8, 9, 10,
@@ -76,7 +76,7 @@ public class CMBOKey {
 			1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 	};
 	// 128: two more aux sets added (123 and SYMB) later
-	private static final int chordToRefKeySpace[] = { 0, // Key Space as a modifier (chord = state + key, except for key 64: chord = key)
+	private static final int[] chordToRefKeySpace = { 0, // Key Space as a modifier (chord = state + key, except for key 64: chord = key)
 			1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
 			1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
 			1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
@@ -92,7 +92,7 @@ public class CMBOKey {
 
 	};
 			// Swipe from Key TH (D)
-	private static final int chordToRefKey6[] = { 0, // Key TH ('D') as a modifier (chord = state + key, except for key 64: chord = key)
+	private static final int[] chordToRefKey6 = { 0, // Key TH ('D') as a modifier (chord = state + key, except for key 64: chord = key)
 			1, 2, 3, 4, 5, 28, 29, 41, 30, 10, // 10 // these first values are due to Magic Other Hand Off use to give the letter from the other side
 			39, 59, 28, 4, 5, 6, 7, 8, 9, 10, // 20 // 61 = 123abc, 59 = Shift (shift+shift here to have Abc > abc directly)
 			29, 2, 3, 4, 5, 6, 7, 8, 41, 10, // 30
@@ -108,7 +108,7 @@ public class CMBOKey {
 
 	};
 			// Swipe from key W (L)
-	private static final int chordToRefKey8[] = { 0, // Key W ('L') as a modifier (chord = state + key, except for key 64: chord = key)
+	private static final int[] chordToRefKey8 = { 0, // Key W ('L') as a modifier (chord = state + key, except for key 64: chord = key)
 			1, 2, 3, 4, 5, 6, 7, 8, 9, 10, // 10 // TBD
 			1, 2, 3, 4, 5, 6, 7, 8, 9, 10, // 20
 			1, 2, 3, 4, 5, 6, 7, 8, 9, 10, // 30
@@ -282,25 +282,21 @@ public class CMBOKey {
 	// ----- 2018: ----
 	public static boolean isOnLeftColumn(int index) {
 		if (index == 0) return false;
-		if (index <= 5) return true;
-		return false;
+		return index <= 5;
 	}
 	public static boolean isOnRightColumn(int index) {
 		if (index == 0) return false;
-		if (index >= 11) return true;
-		return false;
+		return index >= 11;
 	}
 	public static boolean isOnCenterColumn(int index) {
 		if (index == 0) return false;
-		if ((index >= 6) && (index <= 10)) return true;
-		return false;
+		return (index >= 6) && (index <= 10);
 	}
 	public static boolean areOnSameColumn(int index1, int index2) {
 		if ((index1 == 0) || (index2 == 0)) return false;
 		if ((index1 <= 5) && (index2 <= 5)) return true; // both Left
 		if ((index1 >= 11) && (index2 >= 11)) return true; // both Right
-		if ((index1 >= 6) && (index2 >= 6) && (index1 <= 10) && (index2 <= 10)) return true; // both Center
-		return false;
+		return (index1 >= 6) && (index2 >= 6) && (index1 <= 10) && (index2 <= 10); // both Center
 	}
 	// -----------------
 
@@ -401,7 +397,7 @@ public class CMBOKey {
 
 		if ((character.startsWith("_")) && character.length() != 1) {
 
-			if ((character.equals("_BS"))
+			return (character.equals("_BS"))
 					|| (character.equals("_Erase")) // for selecting/painting text
 					|| (character.equals("_Left")) // for selecting/painting text
 					|| (character.equals("_Right")) // for selecting/painting text
@@ -409,18 +405,11 @@ public class CMBOKey {
 					|| (character.equals("_Down")) // for selecting/painting text
 					|| (character.equals("_SP"))
 					|| (character.equals("_Del"))
-					|| (character.equals("_Delete"))) {
-				return true;
-			}
-			return false;
+					|| (character.equals("_Delete"));
 
 		} else {
 
-			if (character.length() > 5) {
-			    return false;
-            } else {
-                return true;
-            }
+			return character.length() <= 5;
 		}
 
 	}
@@ -578,15 +567,11 @@ public class CMBOKey {
 
 		int chord = state + key;
 
-		if ((modifier < 859) && (chord <= 120)){  // not a proper check now, too loose
-			// AUXSET_SYMBOL_MODIFIER = 576
-			//return ((chord & ALL_BUTTONS) == chord && (modifier & MODIFIER_MASK) == modifier);
-			// FN_MODIFIER = 858
-			return true;
-
-		} else {
-			 return false;
-		}
+		// not a proper check now, too loose
+		// AUXSET_SYMBOL_MODIFIER = 576
+		//return ((chord & ALL_BUTTONS) == chord && (modifier & MODIFIER_MASK) == modifier);
+		// FN_MODIFIER = 858
+		return (modifier < 859) && (chord <= 120);
 
 		/*
 		else {  // key M added, valid if as state => state + key = 0...120

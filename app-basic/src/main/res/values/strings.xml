@@ -16,6 +16,19 @@
     <string name="send_sms">Send as SMS</string>
     <string name="copy">Copy</string>
     <string name="help">Help</string>
+    <string name="ok">"OK"</string>
+    <string name="no_audio_recording_permission">"No audio recording permission."</string>
+    <string name="no_internet_permission">"No internet permission."</string>
+    <string name="network_operation_timed_out">"Network operation timed out."</string>
+    <string name="other_network_related_errors">"Network related errors."</string>
+    <string name="audio_recording_error">"Audio recording error."</string>
+    <string name="server_error_or_no_internet">"Server error or no internet."</string>
+    <string name="other_client_side_errors">"Other client side errors."</string>
+    <string name="no_speech_input">"No speech input."</string>
+    <string name="no_recognition_result_matched">"No recognition result matched."</string>
+    <string name="recognitionservice_busy">"RecognitionService busy."</string>
+    <string name="insufficient_permissions">"Insufficient permissions."</string>
+    <string name="other_error">"Other error."</string>
     <string name="test_field">Test field</string>
     <string name="padheight_defaultvalue">10</string>
     <string name="padtype_defaultvalue">0</string>
@@ -161,7 +174,7 @@ It is, of course, also possible to change the keyboard (input method) using the 
     <string name="Ukrainian">Ukrainian</string>
 
     <!-- Text on the Settings menu: -->
-    <string name="settings_header">Settings  ComboKeyBasic v5.6b2</string>
+    <string name="settings_header">Settings  ComboKeyBasic v5.6b3</string>
     <string name="settings_language_header">Main Language</string>
     <string name="settings_language2_header">Aux Language</string>
     <string name="settings_language_text">Set the main language for the keyboard. Based on selected language, the most common letters are directly visible and native letters are available.</string>

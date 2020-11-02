@@ -45,7 +45,6 @@ import java.util.Locale;
 public class CMBOWordCandidates implements CMBOWordCandidatesOverride {
 
     private String wordHint = "";
-    private String previousWordShown = "";
     private String[] wordCandidates = {"", "", "", "", "", "", "", "", "", ""};
     private int[] wordFrequencies = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
     private final String[] wordIdStrings = {"", "", "", "", "", "", "", "", "", ""};
@@ -360,7 +359,7 @@ public class CMBOWordCandidates implements CMBOWordCandidatesOverride {
 
         boolean debugWordlist = false; // for testing
         int minNumberOfLetters = 2; // letters required for starting word prediction
-        previousWordShown = wordCandidates[this.itemSelected];
+        String previousWordShown = wordCandidates[this.itemSelected];
 
         String[] wordsFound = {hintString, "", "", "", "", "", "", "", "", ""}; // maxN: 2...10 allowed
         int[] frequencies = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};

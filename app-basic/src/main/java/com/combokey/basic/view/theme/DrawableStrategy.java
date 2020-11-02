@@ -26,6 +26,6 @@ import android.graphics.drawable.Drawable;
 
 public interface DrawableStrategy {
 
-	public Drawable getDrawable(String themeName, DrawableType type);
+	Drawable getDrawable(String themeName, DrawableType type);
 	
 }

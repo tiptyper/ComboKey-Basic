@@ -43,22 +43,6 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	private Context context;
 
 	private final String PREFERENCES_STT_DIRECT = "PREFERENCES_STT_DIRECT";
-	private final String PREFERENCES_FONT_SIZE = "PREFERENCES_FONT_SIZE";
-	private final String PREFERENCES_FONT_TYPE = "PREFERENCES_FONT_TYPE";
-	private final String PREFERENCES_SOUND_VOLUME = "PREFERENCES_SOUND_VOLUME";
-	private final String PREFERENCES_HYST_AMOUNT = "PREFERENCES_HYST_AMOUNT";
-	private final String PREFERENCES_TERMINAL_MODE = "PREFERENCES_TERMINAL_MODE";
-	private final String PREFERENCES_PADPOSITION = "PREFERENCES_PADPOSITION";
-	private final String PREFERENCES_PADHEIGHT = "PREFERENCES_PADHEIGHT";
-	private final String PREFERENCES_PADTYPE = "PREFERENCES_PADTYPE";
-	private final String PREFERENCES_SPEAK = "PREFERENCES_SPEAK";
-	private final String PREFERENCES_TIPTYPE = "PREFERENCES_TIPTYPE";
-	private final String PREFERENCES_TYPE_METHOD = "PREFERENCES_TYPE_METHOD";
-	private final String PREFERENCES_ONEHAND_COMBO = "PREFERENCES_ONEHAND_COMBO";
-	private final String PREFERENCES_LANDSCAPECOLUMNS = "PREFERENCES_LANDSCAPECOLUMNS";
-	private final String PREFERENCES_NOTES = "PREFERENCES_NOTES";
-	private final String PREFERENCES_TEMP_STRING = "PREFERENCES_TEMP_STRING";
-	private final String PREFERENCES_HIGHLIGHT_OPTION = "PREFERENCES_HIGHLIGHT_OPTION";
 
 	public SharedPreferences get() {
 		return PreferenceManager.getDefaultSharedPreferences(context);
@@ -71,32 +55,40 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	}
 
 	public int getHighlightOption() {
+		String PREFERENCES_HIGHLIGHT_OPTION = "PREFERENCES_HIGHLIGHT_OPTION";
 		return Integer.parseInt(get().getString(PREFERENCES_HIGHLIGHT_OPTION, "1")); // 0 = legacy, 1 = strong highlight
 	}
 
 	public int getFontSize() {
+		String PREFERENCES_FONT_SIZE = "PREFERENCES_FONT_SIZE";
 		return Integer.parseInt(get().getString(PREFERENCES_FONT_SIZE, "28")); // 12 20 28 36 = Small Medium Large Huge
 	}
 
 	public int getFontType() {
+		String PREFERENCES_FONT_TYPE = "PREFERENCES_FONT_TYPE";
 		return Integer.parseInt(get().getString(PREFERENCES_FONT_TYPE, "0")); // 0 = default, 1 = OpenDyslexic
 	}
 
 	public int getSoundVolume() {
+		String PREFERENCES_SOUND_VOLUME = "PREFERENCES_SOUND_VOLUME";
 		return Integer.parseInt(get().getString(PREFERENCES_SOUND_VOLUME, "15")); // 0 to 100
 	}
 
 	public int getHystAmount() {
+		String PREFERENCES_HYST_AMOUNT = "PREFERENCES_HYST_AMOUNT";
 		return Integer.parseInt(get().getString(PREFERENCES_HYST_AMOUNT, "15")); // 0, 15, 20, 30 = hysteresis percent
 	}
 	public int getTerminalModeSetting() {
+		String PREFERENCES_TERMINAL_MODE = "PREFERENCES_TERMINAL_MODE";
 		return Integer.parseInt(get().getString(PREFERENCES_TERMINAL_MODE, "0")); // 0, 1, 2 = auto, ON, OFF
 	}
 	public int getLandscapeColumns() { // padType in landscape orientation: 5 = 3-row, 3 = 5-row, 6 = double 5-row
 		// Changed to: 3 = Normal single pad,  6 = double (=split) pad
+		String PREFERENCES_LANDSCAPECOLUMNS = "PREFERENCES_LANDSCAPECOLUMNS";
 		return Integer.parseInt(get().getString(PREFERENCES_LANDSCAPECOLUMNS, "3"));
 	}
 	public int getPadPosition() {
+		String PREFERENCES_PADPOSITION = "PREFERENCES_PADPOSITION";
 		return Integer.parseInt(get().getString(PREFERENCES_PADPOSITION, "2")); // 0 = left, 1/3 = middle (wide/narrow), 2 = right
 	}
 	public void setPadPosition(String position) {
@@ -134,6 +126,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	public int getPadHeight() {
 		try {
 			// 10 = Higher small, 0 = Normal, 20 = Lower small, [30 = 3-row special (portrait for now)]
+			String PREFERENCES_PADHEIGHT = "PREFERENCES_PADHEIGHT";
 			return Integer.parseInt(get().getString(PREFERENCES_PADHEIGHT, "10")); // 310dp = Higher, 280dp = Normal, 250 = Lower
 		} catch (Exception e) { // saved values may be old ones with "dp", cannot parseInt
 			Log.d("-PADTYPE", "Could not read padHeight in Preferences.java (at getPadHeight())");
@@ -145,6 +138,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	public int getPadType() {
 		try {
 			// 10 = Higher small, 0 = Normal, 20 = Lower small, 30 = 3-row special (portrait for now)
+			String PREFERENCES_PADTYPE = "PREFERENCES_PADTYPE";
 			return Integer.parseInt(get().getString(PREFERENCES_PADTYPE, "0")); // 0 = 5-row, 10 = 3-row
 		} catch (Exception e) { // saved values may be old ones with "dp", cannot parseInt
 			Log.d("-PADTYPE", "Could not read padType in Preferences.java (at getPadType())");
@@ -155,6 +149,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	public int getSpeakType() {
 		try {
 			// 0 = No speaking, 1 = speak each letter, 2 = speak each word, 3 = both
+			String PREFERENCES_SPEAK = "PREFERENCES_SPEAK";
 			return Integer.parseInt(get().getString(PREFERENCES_SPEAK, "2")); //
 		} catch (Exception e) { // saved values may be old ones with "dp", cannot parseInt
 			Log.d("-SPEAK", "Could not read speakType in Preferences.java (at getSpeakType())");
@@ -236,6 +231,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	public int getTipType() {
 		try {
 			// 0 = no Tips, 1 = Tips on Middle buttons, 2 = Tips on Main buttons, 3 = various locations
+			String PREFERENCES_TIPTYPE = "PREFERENCES_TIPTYPE";
 			return Integer.parseInt(get().getString(PREFERENCES_TIPTYPE, "2")); // Tiptype = type of showing help characters
 		} catch (Exception e) {
 			return 2; // in case no value stored in previous app version
@@ -254,6 +250,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	public int getTypeMethod() {
 		try {
 			// 1 = Swipes and Combos, 2 = Swipes only, 3 = Combos only
+			String PREFERENCES_TYPE_METHOD = "PREFERENCES_TYPE_METHOD";
 			return Integer.parseInt(get().getString(PREFERENCES_TYPE_METHOD, "1")); // Type methos = Swipes+Combos/Swipes/Combos
 		} catch (Exception e) {
 			return 1; // in case no value stored in previous app version
@@ -268,6 +265,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	}
 	public String getNotes() {
 		try {
+			String PREFERENCES_NOTES = "PREFERENCES_NOTES";
 			return (get().getString(PREFERENCES_NOTES, ""));
 		} catch (Exception e) { // saved values may be old ones with "dp", cannot parseInt
 			Log.d("-NOTES", "Could not read Notes in Preferences.java (at getNotes())");
@@ -283,6 +281,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 	}
 	public String getTempString() {
 		try {
+			String PREFERENCES_TEMP_STRING = "PREFERENCES_TEMP_STRING";
 			return (get().getString(PREFERENCES_TEMP_STRING, ""));
 		} catch (Exception e) { // saved values may be old ones with "dp", cannot parseInt
 			Log.d("-NOTES", "Could not read Temp String in Preferences.java (at getNotes())");
@@ -301,6 +300,7 @@ public class Preferences implements OnSharedPreferenceChangeListener {
 
 	public int onehandCombo() {
 		try { // 0 = not in use, 1 = hold shorter, 2 = hold longer
+			String PREFERENCES_ONEHAND_COMBO = "PREFERENCES_ONEHAND_COMBO";
 			return Integer.parseInt(get().getString(PREFERENCES_ONEHAND_COMBO, "0"));
 		} catch (Exception e) {
 			Log.d("-TIMER", "*** Could not read onehandCombo in Preferences.java (at onehandCombo())");

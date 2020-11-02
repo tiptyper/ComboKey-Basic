@@ -92,6 +92,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /home/seppo/.gradle
 		ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:30:9-36
 	android:label
 		ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:29:9-41
+	android:fullBackupContent
+		ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:31:9-59
 	android:installLocation
 		ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:28:9-39
 	android:icon

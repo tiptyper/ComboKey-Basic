@@ -386,6 +386,7 @@
     <string name="app_icon_name">ComboKey Basic</string>
     <string name="app_name">ComboKey Basic</string>
     <string name="append_text_done">"Text added to old Notes."</string>
+    <string name="audio_recording_error">"Audio recording error."</string>
     <string name="aux_language_defaultvalue_in_english">Spanish</string>
     <string name="aux_language_selected">Aux language</string>
     <string name="aux_layout_defaultvalue_in_english">Spanish_Optimized</string>
@@ -468,15 +469,25 @@ It is, of course, also possible to change the keyboard (input method) using the 
     <string name="hint_enter_text">…</string>
     <string name="hint_voice_input_text">…</string>
     <string name="infobutton">Info</string>
+    <string name="insufficient_permissions">"Insufficient permissions."</string>
     <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
     <string name="landscapecolumns_defaultvalue">3</string>
     <string name="main_language_defaultvalue_in_english">English</string>
     <string name="main_language_selected">Main language</string>
     <string name="main_layout_defaultvalue_in_english">English_Optimized</string>
+    <string name="network_operation_timed_out">"Network operation timed out."</string>
     <string name="new_paragraph">\n\n</string>
+    <string name="no_audio_recording_permission">"No audio recording permission."</string>
+    <string name="no_internet_permission">"No internet permission."</string>
+    <string name="no_recognition_result_matched">"No recognition result matched."</string>
     <string name="no_sms_capability">No SMS/Phone capability found on this device</string>
+    <string name="no_speech_input">"No speech input."</string>
     <string name="not_possible_im_picker">Cannot set show input methods</string>
     <string name="notes_text_header">"Notes      \n"</string>
+    <string name="ok">"OK"</string>
+    <string name="other_client_side_errors">"Other client side errors."</string>
+    <string name="other_error">"Other error."</string>
+    <string name="other_network_related_errors">"Network related errors."</string>
     <string name="padheight_defaultvalue">10</string>
     <string name="padtype_defaultvalue">0</string>
     <string name="pasted_from_clipboard">Pasted from clipboard</string>
@@ -487,11 +498,13 @@ It is, of course, also possible to change the keyboard (input method) using the 
     As the author of this app, I assure ComboKey does not collect any personal or other information.\n\n
     - tiptyper, author of ComboKey</string>
     <string name="press_longer">Up/PgUp - Press a bit longer.</string>
+    <string name="recognitionservice_busy">"RecognitionService busy."</string>
     <string name="save_text_confirm">Replace old notes?\n\nYes = Press Save again!</string>
     <string name="save_text_done">"Text saved. Old Notes replaced."</string>
     <string name="save_text_empty">"No text to save!"</string>
     <string name="send_as_sms">Send as SMS</string>
     <string name="send_sms">Send as SMS</string>
+    <string name="server_error_or_no_internet">"Server error or no internet."</string>
     <string name="settings_autocaps_header">Automatic capitals</string>
     <string name="settings_autocaps_text">At the beginning of a sentence, use upper case automatically.</string>
     <string name="settings_background_header">Transparent Background</string>
@@ -502,7 +515,7 @@ It is, of course, also possible to change the keyboard (input method) using the 
     <string name="settings_font_type_text">The optional font on the buttons can be selected here.</string>
     <string name="settings_fontsize_header">Font Size</string>
     <string name="settings_fontsize_text">Font size in the standalone ComboKey application (not when using this app as a system/default keyboard)</string>
-    <string name="settings_header">Settings  ComboKeyBasic v5.6b2</string>
+    <string name="settings_header">Settings  ComboKeyBasic v5.6b3</string>
     <string name="settings_highlight_option_header">Button Highlight</string>
     <string name="settings_highlight_option_text">When a key is tapped or swiped to, it will be highlighted as a visual response. You can select the visual response options here.</string>
     <string name="settings_hystamount_header">Sticky buttons</string>

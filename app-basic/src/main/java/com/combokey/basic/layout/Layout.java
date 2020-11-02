@@ -22,6 +22,8 @@
 
 package com.combokey.basic.layout;
 
+import android.support.annotation.NonNull;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -101,6 +103,7 @@ public class Layout {
 	// extra = ["-","-","en","US","-","-","-","-","-","-","-","-","-","-","-","-","-"]
 
 
+	@NonNull
 	public String toString() { return this.getValue(Metadata.NAME)+"_"+this.getValue(Metadata.GROUP); }
 	public String toString2() { return this.getValue2(Metadata2.NAME)+"_"+this.getValue2(Metadata2.GROUP); }
 

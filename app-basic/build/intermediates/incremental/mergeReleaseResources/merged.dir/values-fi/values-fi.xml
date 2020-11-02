@@ -339,6 +339,7 @@
     <string name="app_icon_name">ComboKey Basic</string>
     <string name="app_name">ComboKey Basic</string>
     <string name="append_text_done">"Teksti lisätty muistilapun loppuun."</string>
+    <string name="audio_recording_error">"Audiotallennus epäonnistui."</string>
     <string name="aux_language_defaultvalue_in_english">English</string>
     <string name="aux_language_selected">Kakkoskieli</string>
     <string name="aux_layout_defaultvalue_in_english">English_Optimized</string>
@@ -419,15 +420,25 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="hint_enter_text">…</string>
     <string name="hint_voice_input_text">…</string>
     <string name="infobutton">Tietoa</string>
+    <string name="insufficient_permissions">"Myönnetyt luvat eivät riitä."</string>
     <string name="kbd_service_name_in_device_settings">ComboKeyBasic</string>
     <string name="landscapecolumns_defaultvalue">3</string>
     <string name="main_language_defaultvalue_in_english">Finnish</string>
     <string name="main_language_selected">Ykköskieli</string>
     <string name="main_layout_defaultvalue_in_english">Finnish_Optimized</string>
+    <string name="network_operation_timed_out">"Yhteydellä liikaa viivettä."</string>
     <string name="new_paragraph">\n\n</string>
+    <string name="no_audio_recording_permission">"Audiotallennuslupaa ei ole annettu."</string>
+    <string name="no_internet_permission">"Internetyhteyslupaa ei ole annettu."</string>
+    <string name="no_recognition_result_matched">"No recognition result matched."</string>
     <string name="no_sms_capability">Tässä laitteessa ei ole Puhelin/SMS-ominaisuutta</string>
+    <string name="no_speech_input">"Ei vastaanotettu puhetta."</string>
     <string name="not_possible_im_picker">Syöttömenetelmien näyttäminen ei onnistu</string>
     <string name="notes_text_header">"Muistiinpanot     \n"</string>
+    <string name="ok">"OK"</string>
+    <string name="other_client_side_errors">"Muu client-puolen virhe."</string>
+    <string name="other_error">"Muu virhe."</string>
+    <string name="other_network_related_errors">"Virhe verkkoyhteydessä."</string>
     <string name="padheight_defaultvalue">10</string>
     <string name="padtype_defaultvalue">0</string>
     <string name="pasted_from_clipboard">Liitetty leikepöydältä</string>
@@ -438,11 +449,13 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     Tämän sovelluksen suunnittelijana vakuutan, että ComboKey ei kerää mitään henkilökohtaisia tai muitakaan tietoja.\n\n
     - tiptyper, ComboKeyn tekijä</string>
     <string name="press_longer">Up/PgUp - Paina hieman pidempään.</string>
+    <string name="recognitionservice_busy">"RecognitionService busy."</string>
     <string name="save_text_confirm">Korvaa entinen muistilappu?\n\nPaina Save uudelleen!</string>
     <string name="save_text_done">"Muistilapun teksti korvattu uudella."</string>
     <string name="save_text_empty">"Ei tekstiä tallennettavaksi!"</string>
     <string name="send_as_sms">Lähetetään SMS-viestinä</string>
     <string name="send_sms">Lähetä SMS</string>
+    <string name="server_error_or_no_internet">"Palvelinvirhe tai puuttuva internet."</string>
     <string name="settings_autocaps_header">Iso alkukirjain</string>
     <string name="settings_autocaps_text">Asetus saa aikaan sen, että lauseen alkuun tulee automattisesti iso alkukirjain.</string>
     <string name="settings_background_header">Läpikuultava tausta</string>
@@ -453,7 +466,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="settings_font_type_text">Näppäimissä olevien kirjainten ja tekstien kirjasintyylin voi vaihtaa tässä.</string>
     <string name="settings_fontsize_header">Tekstin koko</string>
     <string name="settings_fontsize_text">Tekstin koko tässä sovelluksen omassa näytössä on mahdollista asettaa (ei siis silloin kun ComboKey-näppäimistöä käytetään muissa sovelluksissa)</string>
-    <string name="settings_header">Asetukset  ComboKeyBasic v5.6b2</string>
+    <string name="settings_header">Asetukset  ComboKeyBasic v5.6b3</string>
     <string name="settings_highlight_option_header">Näppäilyn korostus</string>
     <string name="settings_highlight_option_text">Kun näppäin on valittu joko painamalla tai pyyhkäisyllä, se näkyy korostettuna. Tässä voi valita miltä korostus näyttää.</string>
     <string name="settings_hystamount_header">Tarttuvuus</string>

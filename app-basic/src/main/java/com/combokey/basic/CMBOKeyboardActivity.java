@@ -49,7 +49,6 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.view.inputmethod.InputMethodInfo;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -77,11 +76,7 @@ public class CMBOKeyboardActivity extends Activity {
 	private String editableText = "";
 	private int position = 0; // ( = text edit position!)
 	private String currentLanguage = "en"; // default lang for editText
-	private String jsonLanguage = "--";
 
-	private int layoutResource = R.layout.activity;
-
-	private boolean xLarge = false;
 	private int tabletDevice = -1; // will be either 0 (phone) or 1 (tablet)
 	private boolean debugInUse = false; // just to debug with toasts
 
@@ -133,7 +128,7 @@ public class CMBOKeyboardActivity extends Activity {
 		restoreUiState();
 
 		// The method above does not detect e.g. Huawei tablet, so we use this:
-		xLarge = isXLarge();
+		boolean xLarge = isXLarge();
 
 		Log.d("-SCREEN", "(ACTIVITY) xLarge screen: " + xLarge);
 		//Toast.makeText(this, "Large screen is " + xLarge, Toast.LENGTH_SHORT).show();
@@ -176,7 +171,7 @@ public class CMBOKeyboardActivity extends Activity {
 	}
 
 	private void checkActivityLanguage(){ // Momentarily not used. No spellchecking in operation.
-		jsonLanguage = getCurrentLanguageISO();
+		String jsonLanguage = getCurrentLanguageISO();
 		Log.i("-LOCALE", "(Activity) checkActivityLanguage() json: " + jsonLanguage + ", current: " + currentLanguage);
 		if (!jsonLanguage.equals(currentLanguage)) {
 			setActivityLocaleDynamically(jsonLanguage);
@@ -659,7 +654,7 @@ public class CMBOKeyboardActivity extends Activity {
 				break;
 		}
 		*/
-		layoutResource =  R.layout.activity;
+		int layoutResource = R.layout.activity;
 		//Toast toast = Toast.makeText(this, "layoutResource case " + padHeight,	Toast.LENGTH_SHORT);
 		//toast.show();
 

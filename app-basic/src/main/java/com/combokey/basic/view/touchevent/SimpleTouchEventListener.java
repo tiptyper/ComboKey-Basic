@@ -26,6 +26,6 @@ package com.combokey.basic.view.touchevent;
 
 public interface SimpleTouchEventListener {
 
-	public void touchEvent(SimpleTouchEvent event);
+	void touchEvent(SimpleTouchEvent event);
 
 }

@@ -30,10 +30,10 @@ import com.combokey.basic.view.touchevent.SimpleTouchEvent;
 
 public interface SimpleTouchEventFilter {
 
-	public SimpleTouchEvent filter(SimpleTouchEvent event,
-			List<SimpleTouchEvent> otherEvents,
-			Map<Integer, LinkedList<SimpleTouchEvent>> history,
-			Map<Integer, LinkedList<SimpleTouchEvent>> unfilteredHistory);
+	SimpleTouchEvent filter(SimpleTouchEvent event,
+							List<SimpleTouchEvent> otherEvents,
+							Map<Integer, LinkedList<SimpleTouchEvent>> history,
+							Map<Integer, LinkedList<SimpleTouchEvent>> unfilteredHistory);
 
 }
  
