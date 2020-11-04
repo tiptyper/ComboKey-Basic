@@ -466,7 +466,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="settings_font_type_text">Näppäimissä olevien kirjainten ja tekstien kirjasintyylin voi vaihtaa tässä.</string>
     <string name="settings_fontsize_header">Tekstin koko</string>
     <string name="settings_fontsize_text">Tekstin koko tässä sovelluksen omassa näytössä on mahdollista asettaa (ei siis silloin kun ComboKey-näppäimistöä käytetään muissa sovelluksissa)</string>
-    <string name="settings_header">Asetukset  ComboKeyBasic v5.6b3</string>
+    <string name="settings_header">Asetukset  ComboKeyBasic v5.6bX1</string>
     <string name="settings_highlight_option_header">Näppäilyn korostus</string>
     <string name="settings_highlight_option_text">Kun näppäin on valittu joko painamalla tai pyyhkäisyllä, se näkyy korostettuna. Tässä voi valita miltä korostus näyttää.</string>
     <string name="settings_hystamount_header">Tarttuvuus</string>

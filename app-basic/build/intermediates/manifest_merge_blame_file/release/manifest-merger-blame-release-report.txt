@@ -8,7 +8,7 @@
 8    <uses-sdk
 9        android:minSdkVersion="14"
 9-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml
-10        android:targetSdkVersion="28" />
+10        android:targetSdkVersion="29" />
 10-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml
 11    <!--
 12         Do not move app to SD Card (internalOnly)
@@ -55,8 +55,8 @@
 35-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:25:9-66
 36        android:allowBackup="true"
 36-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:26:9-35
-37        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-37-->[com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d0c1e3bd897d22bb13cb0897563d9c0/core-1.0.0/AndroidManifest.xml:22:18-86
 38        android:fullBackupContent="@xml/backup_descriptor"
 38-->/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:31:9-59
 39        android:icon="@drawable/icon_basic_512"

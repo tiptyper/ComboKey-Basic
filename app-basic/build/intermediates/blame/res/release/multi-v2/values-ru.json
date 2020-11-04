@@ -4,7 +4,7 @@
             "outputFile": "/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ru/values-ru.xml",
             "map": [
                 {
-                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/res/values-ru/values-ru.xml",
+                    "source": "/home/seppo/.gradle/caches/transforms-2/files-2.1/5d0c1e3bd897d22bb13cb0897563d9c0/core-1.0.0/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

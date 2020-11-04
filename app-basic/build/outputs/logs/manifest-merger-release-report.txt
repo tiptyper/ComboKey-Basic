@@ -4,31 +4,31 @@ ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/An
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:2:1-102:12
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:2:1-102:12
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:2:1-102:12
-MERGED from [com.android.support:support-v4:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/39d32ed3c5b2614c8b2516bcce734346/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/861fb4adafc9e8d5229a08e015a6c26b/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0f566feefad3abd24c71fefb76ef4910/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e1de021ab163aa5f9870b47239f7056e/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/45d9eaecaa82472425d8699a0cb112bb/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8a950aebf9d3e72529c2d99b7f86a8e2/loader-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4ff8ee041a47f6c0edb0c7da5c0fc990/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/7dfa698f353ea92afc22e0a6fa7a5a51/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d8340b7281c92e4061554fec0f9e986/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/7cebb4bdfcaf1e51560d95745f4da672/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e1d6e9b8578be37b36877329f87d595a/customview-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/cbd604738889b4affd8362f865e9560d/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f0d5a1fd167346d256c566883bd67116/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/ecf2f44f9e9e4737b611930c52e03e77/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/17eec8b38264dddf663e1505f86fed45/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1733931111b2fe011867cf4d624abbf4/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/2546ba93c512bf21e5ef3610eb8c70d1/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/b7b6c90f9a55f1f49a5be78021b4ab98/print-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1739fe9d8356205a397d0a1ce0114e59/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/04c0628a2ed170df060b6df4bf1d27c4/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/9660cc93346cadf933b0963a2cdad09b/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/107a7d3b403fc30fca1c4800a659b3b1/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/83a685c91f6c092d5300c972ce427383/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/8faddf8fec2fcf4eba11297fbe977fa5/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f2bebeca849b3c1fc0bf348a9d3c5482/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1352209ffe6d7d5b9f9bddb35648d9f5/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/11a9ac5d34e390e77252db7a13e14273/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/96f63f4306f0fc56c140d73176dc3310/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/2833ccf74467ed201bb9e8973fbcecdb/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/a22b9bda8912dc5b60b669716d09acf1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/54972eed75d5a0ae7261aba7ffc821e2/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/93091c25d5713cca58ce2e2ecdac42b4/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d0c1e3bd897d22bb13cb0897563d9c0/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8d8e497d6d7231803e0ee9d69552d2d9/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4c11b64b17393503fdf5a05731e7c833/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5966935f01ab116b0a601f53a896c6bf/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/abfb1986835d7863ad588927944dd5ef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/88958e78a03a39da36d379d2c8b6a4b0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:2:1-102:12
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:2:1-102:12
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:2:1-102:12
@@ -82,12 +82,12 @@ ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/An
 		ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:18:22-64
 application
 ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:23:5-99:19
-MERGED from [com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/ecf2f44f9e9e4737b611930c52e03e77/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/ecf2f44f9e9e4737b611930c52e03e77/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d0c1e3bd897d22bb13cb0897563d9c0/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d0c1e3bd897d22bb13cb0897563d9c0/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8d8e497d6d7231803e0ee9d69552d2d9/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8d8e497d6d7231803e0ee9d69552d2d9/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+		ADDED from [androidx.core:core:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d0c1e3bd897d22bb13cb0897563d9c0/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml:30:9-36
 	android:label
@@ -202,56 +202,56 @@ uses-sdk
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v4:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/39d32ed3c5b2614c8b2516bcce734346/support-v4-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/39d32ed3c5b2614c8b2516bcce734346/support-v4-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/861fb4adafc9e8d5229a08e015a6c26b/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/861fb4adafc9e8d5229a08e015a6c26b/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0f566feefad3abd24c71fefb76ef4910/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0f566feefad3abd24c71fefb76ef4910/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e1de021ab163aa5f9870b47239f7056e/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e1de021ab163aa5f9870b47239f7056e/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/45d9eaecaa82472425d8699a0cb112bb/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/45d9eaecaa82472425d8699a0cb112bb/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8a950aebf9d3e72529c2d99b7f86a8e2/loader-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8a950aebf9d3e72529c2d99b7f86a8e2/loader-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4ff8ee041a47f6c0edb0c7da5c0fc990/viewpager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4ff8ee041a47f6c0edb0c7da5c0fc990/viewpager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/7dfa698f353ea92afc22e0a6fa7a5a51/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/7dfa698f353ea92afc22e0a6fa7a5a51/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d8340b7281c92e4061554fec0f9e986/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d8340b7281c92e4061554fec0f9e986/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/7cebb4bdfcaf1e51560d95745f4da672/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/7cebb4bdfcaf1e51560d95745f4da672/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e1d6e9b8578be37b36877329f87d595a/customview-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e1d6e9b8578be37b36877329f87d595a/customview-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/cbd604738889b4affd8362f865e9560d/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/cbd604738889b4affd8362f865e9560d/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f0d5a1fd167346d256c566883bd67116/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f0d5a1fd167346d256c566883bd67116/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/0b9593fbb2dcde7397582f8d667e1ce4/support-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/ecf2f44f9e9e4737b611930c52e03e77/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/ecf2f44f9e9e4737b611930c52e03e77/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/17eec8b38264dddf663e1505f86fed45/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/17eec8b38264dddf663e1505f86fed45/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1733931111b2fe011867cf4d624abbf4/documentfile-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1733931111b2fe011867cf4d624abbf4/documentfile-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/2546ba93c512bf21e5ef3610eb8c70d1/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/2546ba93c512bf21e5ef3610eb8c70d1/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/b7b6c90f9a55f1f49a5be78021b4ab98/print-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/b7b6c90f9a55f1f49a5be78021b4ab98/print-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1739fe9d8356205a397d0a1ce0114e59/interpolator-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1739fe9d8356205a397d0a1ce0114e59/interpolator-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/04c0628a2ed170df060b6df4bf1d27c4/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/04c0628a2ed170df060b6df4bf1d27c4/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/9660cc93346cadf933b0963a2cdad09b/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/9660cc93346cadf933b0963a2cdad09b/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/107a7d3b403fc30fca1c4800a659b3b1/livedata-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/107a7d3b403fc30fca1c4800a659b3b1/livedata-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/83a685c91f6c092d5300c972ce427383/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/83a685c91f6c092d5300c972ce427383/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/8faddf8fec2fcf4eba11297fbe977fa5/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/seppo/.gradle/caches/transforms-2/files-2.1/8faddf8fec2fcf4eba11297fbe977fa5/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f2bebeca849b3c1fc0bf348a9d3c5482/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f2bebeca849b3c1fc0bf348a9d3c5482/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1352209ffe6d7d5b9f9bddb35648d9f5/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1352209ffe6d7d5b9f9bddb35648d9f5/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/11a9ac5d34e390e77252db7a13e14273/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/11a9ac5d34e390e77252db7a13e14273/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/96f63f4306f0fc56c140d73176dc3310/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/96f63f4306f0fc56c140d73176dc3310/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/bbe13d8129bba81257bd6436c2b34ccd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e62f873cf4263d40c7b89017e7a83d01/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/e492391935922ce61c196b0901270ddd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/2833ccf74467ed201bb9e8973fbcecdb/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/2833ccf74467ed201bb9e8973fbcecdb/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/f082c57b244577a22e1236d38388ce52/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/a22b9bda8912dc5b60b669716d09acf1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/a22b9bda8912dc5b60b669716d09acf1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/a3ff52c02bd8c6ecf6b5c868009ecb0c/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/54972eed75d5a0ae7261aba7ffc821e2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/54972eed75d5a0ae7261aba7ffc821e2/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/93091c25d5713cca58ce2e2ecdac42b4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/93091c25d5713cca58ce2e2ecdac42b4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d0c1e3bd897d22bb13cb0897563d9c0/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5d0c1e3bd897d22bb13cb0897563d9c0/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8d8e497d6d7231803e0ee9d69552d2d9/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8d8e497d6d7231803e0ee9d69552d2d9/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4c11b64b17393503fdf5a05731e7c833/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4c11b64b17393503fdf5a05731e7c833/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/98b1926715faee64bbfa9c00b2dc79e4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/150913b578eabd8badf12d4daa286895/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/4e4ddc58b098620f1f74a1665263ff73/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/65c3d4650b10035e3c16dbbe7955e172/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/1e931abee3afbede18629b7ccd33d0ef/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5966935f01ab116b0a601f53a896c6bf/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/5966935f01ab116b0a601f53a896c6bf/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/8a5e36edf0bf6877cab03a462d62c58d/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/abfb1986835d7863ad588927944dd5ef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/abfb1986835d7863ad588927944dd5ef/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/88958e78a03a39da36d379d2c8b6a4b0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/seppo/.gradle/caches/transforms-2/files-2.1/88958e78a03a39da36d379d2c8b6a4b0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml
 INJECTED from /home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/src/main/AndroidManifest.xml
 	android:targetSdkVersion

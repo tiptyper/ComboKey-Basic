@@ -27,8 +27,8 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.v4.app.ActivityCompat;
+import androidx.annotation.NonNull;
+import androidx.core.app.ActivityCompat;
 import android.view.Gravity;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -44,7 +44,7 @@ import java.util.Locale;
 import android.util.Log;
 import android.widget.TextView;
 
-import android.support.v4.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 import android.widget.Toast;
 
 import com.combokey.basic.layout.Layout;

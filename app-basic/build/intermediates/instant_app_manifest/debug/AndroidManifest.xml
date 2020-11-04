@@ -35,7 +35,7 @@
     <application
         android:name="com.combokey.basic.CMBOKeyboardApplication"
         android:allowBackup="true"
-        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:fullBackupContent="@xml/backup_descriptor"
         android:icon="@drawable/icon_basic_512"

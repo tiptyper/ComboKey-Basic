@@ -1,4 +1,4 @@
-#Mon Nov 02 19:29:23 EET 2020
+#Wed Nov 04 22:58:56 EET 2020
 base.0=/home/seppo/AndroidStudioProjects/ComboKeyBasic/app-basic/build/intermediates/dex/release/mergeDexRelease/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

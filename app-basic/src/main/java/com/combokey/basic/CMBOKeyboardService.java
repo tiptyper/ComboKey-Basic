@@ -39,7 +39,6 @@ import android.os.CountDownTimer;
 import android.os.Handler;
 import android.os.IBinder;
 import android.speech.tts.TextToSpeech;
-import android.support.v4.content.LocalBroadcastManager;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.Gravity;
@@ -56,6 +55,8 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 import com.combokey.basic.layout.Layout;
 import com.combokey.basic.view.CMBOKeyboardButtonLayout;
@@ -2878,8 +2879,8 @@ public class CMBOKeyboardService extends InputMethodService implements
 
 		LinearLayout layout = null;
 		int layoutResource = R.layout.input;
+		
 		int padType = 0;
-
 		try { //  // 0 = 5-row, 10 = 3-row special
 			padType = CMBOKeyboardApplication.getApplication().getPreferences().getPadType();
 		} catch (Exception e) {

@@ -469,7 +469,7 @@
     <string name="settings_font_type_text">The optional font on the buttons can be selected here.</string>
     <string name="settings_fontsize_header">Font Size</string>
     <string name="settings_fontsize_text">Font size in the standalone ComboKey application (not when using this app as a system/default keyboard)</string>
-    <string name="settings_header">Settings  ComboKeyBasic v5.6b3</string>
+    <string name="settings_header">Settings  ComboKeyBasic v5.6bX1</string>
     <string name="settings_highlight_option_header">Button Highlight</string>
     <string name="settings_highlight_option_text">When a key is tapped or swiped to, it will be highlighted as a visual response. You can select the visual response options here.</string>
     <string name="settings_hystamount_header">Sticky buttons</string>

@@ -173,7 +173,7 @@ ComboKey voi toimia myös muiden sovellusten näppäimistönä. Se pyytää asen
     <string name="Ukrainian">ukraina</string>
 
     <!-- Text on the Settings menu: -->
-    <string name="settings_header">Asetukset  ComboKeyBasic v5.6b3</string>
+    <string name="settings_header">Asetukset  ComboKeyBasic v5.6bX1</string>
     <string name="settings_language_header">Kieli</string>
     <string name="settings_language2_header">Lisäkieli</string>
     <string name="settings_language_text">Aseta näppäimistön kieli. Kielen perusteella tavallisimmat kirjaimet ovat suoraan näkyvillä ja kielen erikoismerkit saatavilla.</string>
