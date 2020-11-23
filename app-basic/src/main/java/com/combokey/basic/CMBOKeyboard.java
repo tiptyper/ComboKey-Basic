@@ -882,13 +882,13 @@ public class CMBOKeyboard {
 		Log.d("-Fn", "**** Keyboard/checkModifierPressed() starting. chord = " + chord + ", pressed = " + keyString);
 
 		if (keyString.equals("")) {
-			anyOtherKeyPressed();
+			anyOtherKeyPressed(state, key);
 			return;
 		}
 
 		if (keyString.charAt(0) != "_".charAt(0)) {
 			if (!keyString.equals("...")) {
-				anyOtherKeyPressed();
+				anyOtherKeyPressed(state, key);
 				return;
 			}
 		}
@@ -977,7 +977,7 @@ public class CMBOKeyboard {
 						//abc123Pressed(); //
 						morePressed();
 						} else {
-						anyOtherKeyPressed();
+						anyOtherKeyPressed(state, key);
 					}
 					break;
 					*/
@@ -1009,7 +1009,7 @@ public class CMBOKeyboard {
 				case 10: // Clear all text (swipe left); (swipe right = Symb: chord forced to 59 above)
 					// 10 is a bit ambiguous:
 					if ((state == 2) || (state == 8)) { // leave out apostrophe (chord = 10 too, 2 + 8)
-						anyOtherKeyPressed(); // 2017-12-03
+						anyOtherKeyPressed(state, key); // 2017-12-03
 						break; // 2017-12-17 (break missing was a bug!)
 					}
 
@@ -1040,7 +1040,7 @@ public class CMBOKeyboard {
 					Log.d("-DEV", "*** Devanagari on?");
 					if (!statusDevanagariOn()){
 						Log.d("-DEV", "*** Devanagari not on (Key 'M' pressed.");
-						anyOtherKeyPressed();
+						anyOtherKeyPressed(state, key);
 						break;
 					}
 					if (offset == CMBOKey.AUXSET_NUMBER_MODIFIER || offset == CMBOKey.NUMBER_MODIFIER ) break;
@@ -1065,7 +1065,7 @@ public class CMBOKeyboard {
 
 				default: // any other key pressed (not a modifier)
 					if (isOtherControl(state, key)) break; // no action here on offset if arrow, lang etc.
-					anyOtherKeyPressed();
+					anyOtherKeyPressed(state, key);
 
 			} // switch block
 		Log.d("CMBO", "***** After checkModifiers: offset = " + offset + ", auxMode = " + auxMode + ", devanagariOn = " + devanagariOn);
@@ -1108,8 +1108,14 @@ public class CMBOKeyboard {
 		emojiMode = false; fnMode = false;
 	}
 
-	private void anyOtherKeyPressed() {
+	private void anyOtherKeyPressed(int state, int key) {
 		if (CMBOKeyboardView.autoRepeat){
+			return;
+		}
+		if (statusDevanagariOn() && state + key == 56) {
+			offset = auxMode ? GKOSKey.AUXSET_MODIFIER : GKOSKey.NONE;
+			// Go to lowercase whenever space is pressed
+			Log.d("-DEV", "*** Devanagari on. Space pressed.");
 			return;
 		}
 
